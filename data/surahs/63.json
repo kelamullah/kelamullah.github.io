@@ -1,0 +1,101 @@
+﻿{
+    "surah":  {
+                  "surahId":  63,
+                  "name":  "Münâfikûn",
+                  "nameArabic":  "سُورَةُ الْمُنَافِقُونَ",
+                  "verseCount":  11,
+                  "page":  553,
+                  "juz":  28,
+                  "nameEn":  "Al-Munafiqun"
+              },
+    "verses":  [
+                   {
+                       "id":  5253,
+                       "verseNumber":  1,
+                       "arabic":  "اِذَا جَٓاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ اِنَّكَ لَرَسُولُ اللّٰهِۘ وَاللّٰهُ يَعْلَمُ اِنَّكَ لَرَسُولُهُۜ وَاللّٰهُ يَشْهَدُ اِنَّ الْمُنَافِقٖينَ لَكَاذِبُونَۚ",
+                       "meal":  "Münafıklar sana geldiklerinde: Şahitlik ederiz ki sen Allah\u0027ın Peygamberisin, derler. Allah da bilir ki sen elbette, O\u0027nun Peygamberisin. Allah, münafıkların kesinlikle yalancı olduklarını bilmektedir.",
+                       "page":  553,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5254,
+                       "verseNumber":  2,
+                       "arabic":  "اِتَّخَذُٓوا اَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبٖيلِ اللّٰهِۜ اِنَّهُمْ سَٓاءَ مَا كَانُوا يَعْمَلُونَ",
+                       "meal":  "Yeminlerini kalkan yapıp Allah yolundan yan çizdiler. Gerçekten onların yaptıkları ne kötüdür!",
+                       "page":  553,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5255,
+                       "verseNumber":  3,
+                       "arabic":  "ذٰلِكَ بِاَنَّهُمْ اٰمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلٰى قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+                       "meal":  "Bunun sebebi, onların önce iman edip sonra inkâr etmeleridir. Bu yüzden kalpleri mühürlenmiştir. Artık onlar hiç anlamazlar.",
+                       "page":  553,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5256,
+                       "verseNumber":  4,
+                       "arabic":  "وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْۜ وَاِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْۜ كَاَنَّهُمْ خُشُبٌ مُسَنَّدَةٌۜ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْۜ هُمُ الْعَدُوُّ فَاحْذَرْهُمْۜ قَاتَلَهُمُ اللّٰهُؗ اَنّٰى يُؤْفَكُونَ",
+                       "meal":  "Onları gördüğün zaman kalıpları hoşuna gider, konuşurlarsa sözlerini dinlersin. Onlar sanki duvara dayanmış kütükler gibidir. Her gürültüyü kendi aleyhlerine sanırlar. Düşman onlardır. Onlardan sakın. Allah onların canlarını alsın. Nasıl bu hale geliyorlar?",
+                       "page":  553,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5257,
+                       "verseNumber":  5,
+                       "arabic":  "وَاِذَا قٖيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللّٰهِ لَوَّوْا رُؤُ۫سَهُمْ وَرَاَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ",
+                       "meal":  "Onlara: Gelin, Allah\u0027ın Peygamberi sizin için mağfiret dilesin, denildiği zaman başlarını çevirirler ve sen onların, büyüklük taslayarak uzaklaştıklarını görürsün.",
+                       "page":  554,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5258,
+                       "verseNumber":  6,
+                       "arabic":  "سَوَٓاءٌ عَلَيْهِمْ اَسْتَغْفَرْتَ لَهُمْ اَمْ لَمْ تَسْتَغْفِرْ لَهُمْۜ لَنْ يَغْفِرَ اللّٰهُ لَهُمْۜ اِنَّ اللّٰهَ لَا يَهْدِى الْقَوْمَ الْفَاسِقٖينَ",
+                       "meal":  "Onlara mağfiret dilesen de, dilemesen de birdir. Allah onları kesinlikle bağışlamayacaktır. Çünkü Allah, yoldan çıkmış topluluğu doğru yola iletmez.",
+                       "page":  554,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5259,
+                       "verseNumber":  7,
+                       "arabic":  "هُمُ الَّذٖينَ يَقُولُونَ لَا تُنْفِقُوا عَلٰى مَنْ عِنْدَ رَسُولِ اللّٰهِ حَتّٰى يَنْفَضُّواۜ وَلِلّٰهِ خَزَٓائِنُ السَّمٰوَاتِ وَالْاَرْضِ وَلٰكِنَّ الْمُنَافِقٖينَ لَا يَفْقَهُونَ",
+                       "meal":  "Onlar: Allah\u0027ın elçisinin yanında bulunanlar için hiçbir şey harcamayın ki dağılıp gitsinler, diyenlerdir. Oysa göklerin ve yerin hazineleri Allah\u0027ındır. Fakat münafıklar bunu anlamazlar.",
+                       "page":  554,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5260,
+                       "verseNumber":  8,
+                       "arabic":  "يَقُولُونَ لَئِنْ رَجَعْنَٓا اِلَى الْمَدٖينَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّۜ وَلِلّٰهِ الْعِزَّةُ وَلِرَسُولِهٖ وَلِلْمُؤْمِنٖينَ وَلٰكِنَّ الْمُنَافِقٖينَ لَا يَعْلَمُونَ۟",
+                       "meal":  "Onlar: Andolsun, eğer Medine\u0027ye dönersek, üstün olan, zayıf olanı oradan mutlaka çıkaracaktır, diyorlardı. Halbuki asıl üstünlük, ancak Allah\u0027ın, Peygamberinin ve müminlerindir. Fakat münafıklar bunu bilmezler.",
+                       "page":  554,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5261,
+                       "verseNumber":  9,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا لَا تُلْهِكُمْ اَمْوَالُكُمْ وَلَٓا اَوْلَادُكُمْ عَنْ ذِكْرِ اللّٰهِۚ وَمَنْ يَفْعَلْ ذٰلِكَ فَاُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+                       "meal":  "Ey iman edenler! Mallarınız ve çocuklarınız sizi Allah\u0027ı anmaktan alıkoymasın. Kim bunu yaparsa işte onlar ziyana uğrayanlardır.",
+                       "page":  554,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5262,
+                       "verseNumber":  10,
+                       "arabic":  "وَاَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ اَنْ يَاْتِىَ اَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَٓا اَخَّرْتَنٖٓى اِلٰٓى اَجَلٍ قَرٖيبٍۙ فَاَصَّدَّقَ وَاَكُنْ مِنَ الصَّالِحٖينَ",
+                       "meal":  "Herhangi birinize ölüm gelip de: Rabbim! Beni yakın bir süreye kadar geciktirsen de sadaka verip iyilerden olsam! demesinden önce, size verdiğimiz rızıktan harcayın.",
+                       "page":  554,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5263,
+                       "verseNumber":  11,
+                       "arabic":  "وَلَنْ يُؤَخِّرَ اللّٰهُ نَفْسًا اِذَا جَٓاءَ اَجَلُهَاۜ وَاللّٰهُ خَبٖيرٌ بِمَا تَعْمَلُونَ",
+                       "meal":  "Allah, eceli geldiğinde hiç kimseyi (ölümünü) ertelemez. Allah, yaptıklarınızdan haberdardır.",
+                       "page":  554,
+                       "juz":  28
+                   }
+               ]
+}

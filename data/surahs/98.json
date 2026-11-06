@@ -1,0 +1,77 @@
+﻿{
+    "surah":  {
+                  "surahId":  98,
+                  "name":  "Beyyine",
+                  "nameArabic":  "سُورَةُ الْبَيِّنَةِ",
+                  "verseCount":  8,
+                  "page":  598,
+                  "juz":  30,
+                  "nameEn":  "Al-Bayyinah"
+              },
+    "verses":  [
+                   {
+                       "id":  6230,
+                       "verseNumber":  1,
+                       "arabic":  "لَمْ يَكُنِ الَّذٖينَ كَفَرُوا مِنْ اَهْلِ الْكِتَابِ وَالْمُشْرِكٖينَ مُنْفَكّٖينَ حَتّٰى تَاْتِيَهُمُ الْبَيِّنَةُۙ",
+                       "meal":  "Apaçık delil kendilerine gelinceye kadar ehl-i kitaptan ve müşriklerden inkârcılar (küfürden) ayrılacak değillerdi.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6231,
+                       "verseNumber":  2,
+                       "arabic":  "رَسُولٌ مِنَ اللّٰهِ يَتْلُوا صُحُفًا مُطَهَّرَةًۙ",
+                       "meal":  "(İşte o apaçık delil,) Allah tarafından gönderilen ve en doğru hükümleri havi tertemiz sahifeleri okuyan bir elçidir.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6232,
+                       "verseNumber":  3,
+                       "arabic":  "فٖيهَا كُتُبٌ قَيِّمَةٌۜ",
+                       "meal":  "(İşte o apaçık delil,) Allah tarafından gönderilen ve en doğru hükümleri havi tertemiz sahifeleri okuyan bir elçidir.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6233,
+                       "verseNumber":  4,
+                       "arabic":  "وَمَا تَفَرَّقَ الَّذٖينَ اُو۫تُوا الْكِتَابَ اِلَّا مِنْ بَعْدِ مَا جَٓاءَتْهُمُ الْبَيِّنَةُۜ",
+                       "meal":  "Kendilerine kitap verilenler ancak o açık delil (Peygamber) kendilerine geldikten sonra ayrılığa düştüler.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6234,
+                       "verseNumber":  5,
+                       "arabic":  "وَمَٓا اُمِرُٓوا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصٖينَ لَهُ الدّٖينَ حُنَفَٓاءَ وَيُقٖيمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ دٖينُ الْقَيِّمَةِۜ",
+                       "meal":  "Halbuki onlara ancak, dini yalnız O\u0027na has kılarak ve hanifler olarak Allah\u0027a kulluk etmeleri, namaz kılmaları ve zekât vermeleri emrolunmuştu. Sağlam din de budur.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6235,
+                       "verseNumber":  6,
+                       "arabic":  "اِنَّ الَّذٖينَ كَفَرُوا مِنْ اَهْلِ الْكِتَابِ وَالْمُشْرِكٖينَ فٖى نَارِ جَهَنَّمَ خَالِدٖينَ فٖيهَاۜ اُو۬لٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِۜ",
+                       "meal":  "Ehl-i kitap ve müşriklerden olan inkârcılar, içinde ebedî olarak kalacakları cehennem ateşindedirler. İşte halkın en şerlileri onlardır.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6236,
+                       "verseNumber":  7,
+                       "arabic":  "اِنَّ الَّذٖينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِۙ اُو۬لٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِۜ",
+                       "meal":  "İman edip sâlih ameller işleyenlere gelince, halkın en hayırlısı da onlardır.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6237,
+                       "verseNumber":  8,
+                       "arabic":  "جَزَٓاؤُ۬هُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرٖى مِنْ تَحْتِهَا الْاَنْهَارُ خَالِدٖينَ فٖيهَٓا اَبَدًاۜ رَضِىَ اللّٰهُ عَنْهُمْ وَرَضُوا عَنْهُۜ ذٰلِكَ لِمَنْ خَشِىَ رَبَّهُ",
+                       "meal":  "Onların Rableri katındaki mükâfatları, zemininden ırmaklar akan, içinde devamlı olarak kalacakları Adn cennetleridir. Allah kendilerinden hoşnut olmuş, onlar da Allah\u0027tan hoşnut olmuşlardır. Bu söylenenler hep Rabbinden korkan (O\u0027na saygı gösterenler) içindir.",
+                       "page":  598,
+                       "juz":  30
+                   }
+               ]
+}

@@ -1,0 +1,101 @@
+﻿{
+    "surah":  {
+                  "surahId":  101,
+                  "name":  "Kâria",
+                  "nameArabic":  "سُورَةُ الْقَارِعَةِ",
+                  "verseCount":  11,
+                  "page":  600,
+                  "juz":  30,
+                  "nameEn":  "Al-Qari\u0027ah"
+              },
+    "verses":  [
+                   {
+                       "id":  6260,
+                       "verseNumber":  1,
+                       "arabic":  "اَلْقَارِعَةُۙ",
+                       "meal":  "Kapı çalan! Nedir o kapı çalan? O kapı çalanın ne olduğunu bilir misin?",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6261,
+                       "verseNumber":  2,
+                       "arabic":  "مَا الْقَارِعَةُۚ",
+                       "meal":  "Kapı çalan! Nedir o kapı çalan? O kapı çalanın ne olduğunu bilir misin?",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6262,
+                       "verseNumber":  3,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا الْقَارِعَةُۜ",
+                       "meal":  "Kapı çalan! Nedir o kapı çalan? O kapı çalanın ne olduğunu bilir misin?",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6263,
+                       "verseNumber":  4,
+                       "arabic":  "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِۙ",
+                       "meal":  "İnsanların, ateşin etrafını sarmış pervaneler gibi olduğu, dağların da atılmış renkli yüne dönüştüğü gündür (o Kâria!)",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6264,
+                       "verseNumber":  5,
+                       "arabic":  "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِۜ",
+                       "meal":  "İnsanların, ateşin etrafını sarmış pervaneler gibi olduğu, dağların da atılmış renkli yüne dönüştüğü gündür (o Kâria!)",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6265,
+                       "verseNumber":  6,
+                       "arabic":  "فَاَمَّا مَنْ ثَقُلَتْ مَوَازٖينُهُۙ",
+                       "meal":  "O gün kimin tartılan ameli ağır gelirse işte o, hoşnut edici bir yaşayış içinde olur.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6266,
+                       "verseNumber":  7,
+                       "arabic":  "فَهُوَ فٖى عٖيشَةٍ رَاضِيَةٍۜ",
+                       "meal":  "O gün kimin tartılan ameli ağır gelirse işte o, hoşnut edici bir yaşayış içinde olur.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6267,
+                       "verseNumber":  8,
+                       "arabic":  "وَاَمَّا مَنْ خَفَّتْ مَوَازٖينُهُۙ",
+                       "meal":  "Ameli yeğni olana gelince, işte onun anası (yeri, yurdu) Hâviye\u0027 dir.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6268,
+                       "verseNumber":  9,
+                       "arabic":  "فَاُمُّهُ هَاوِيَةٌۜ",
+                       "meal":  "Ameli yeğni olana gelince, işte onun anası (yeri, yurdu) Hâviye\u0027 dir.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6269,
+                       "verseNumber":  10,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا هِيَهْۜ",
+                       "meal":  "Nedir o (Hâviye) bilir misin? Kızgın ateş!",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6270,
+                       "verseNumber":  11,
+                       "arabic":  "نَارٌ حَامِيَةٌ",
+                       "meal":  "Nedir o (Hâviye) bilir misin? Kızgın ateş!",
+                       "page":  600,
+                       "juz":  30
+                   }
+               ]
+}

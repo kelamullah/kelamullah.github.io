@@ -1,0 +1,45 @@
+﻿{
+    "surah":  {
+                  "surahId":  106,
+                  "name":  "Kureyş",
+                  "nameArabic":  "سُورَةُ قُرَيْشٍ",
+                  "verseCount":  4,
+                  "page":  602,
+                  "juz":  30,
+                  "nameEn":  "Quraysh"
+              },
+    "verses":  [
+                   {
+                       "id":  6301,
+                       "verseNumber":  1,
+                       "arabic":  "لِاٖيلَافِ قُرَيْشٍۙ",
+                       "meal":  "Kureyş\u0027e kolaylaştırıldığı, evet, kış ve yaz seyahatleri onlara kolaylaştırıldığı için onlar, kendilerini açlıktan doyuran ve her çeşit korkudan emin kılan şu evin Rabbine kulluk etsinler.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6302,
+                       "verseNumber":  2,
+                       "arabic":  "اٖيلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
+                       "meal":  "Kureyş\u0027e kolaylaştırıldığı, evet, kış ve yaz seyahatleri onlara kolaylaştırıldığı için onlar, kendilerini açlıktan doyuran ve her çeşit korkudan emin kılan şu evin Rabbine kulluk etsinler.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6303,
+                       "verseNumber":  3,
+                       "arabic":  "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
+                       "meal":  "Kureyş\u0027e kolaylaştırıldığı, evet, kış ve yaz seyahatleri onlara kolaylaştırıldığı için onlar, kendilerini açlıktan doyuran ve her çeşit korkudan emin kılan şu evin Rabbine kulluk etsinler.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6304,
+                       "verseNumber":  4,
+                       "arabic":  "اَلَّذٖٓى اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
+                       "meal":  "Kureyş\u0027e kolaylaştırıldığı, evet, kış ve yaz seyahatleri onlara kolaylaştırıldığı için onlar, kendilerini açlıktan doyuran ve her çeşit korkudan emin kılan şu evin Rabbine kulluk etsinler.",
+                       "page":  602,
+                       "juz":  30
+                   }
+               ]
+}

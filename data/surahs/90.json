@@ -1,0 +1,173 @@
+﻿{
+    "surah":  {
+                  "surahId":  90,
+                  "name":  "Beled",
+                  "nameArabic":  "سُورَةُ الْبَلَدِ",
+                  "verseCount":  20,
+                  "page":  593,
+                  "juz":  30,
+                  "nameEn":  "Al-Balad"
+              },
+    "verses":  [
+                   {
+                       "id":  6115,
+                       "verseNumber":  1,
+                       "arabic":  "لَٓا اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
+                       "meal":  "Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık.",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6116,
+                       "verseNumber":  2,
+                       "arabic":  "وَاَنْتَ حِلٌّ بِهٰذَا الْبَلَدِۙ",
+                       "meal":  "Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık.",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6117,
+                       "verseNumber":  3,
+                       "arabic":  "وَوَالِدٍ وَمَا وَلَدَۙ",
+                       "meal":  "Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık.",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6118,
+                       "verseNumber":  4,
+                       "arabic":  "لَقَدْ خَلَقْنَا الْاِنْسَانَ فٖى كَبَدٍۜ",
+                       "meal":  "Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık.",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6119,
+                       "verseNumber":  5,
+                       "arabic":  "اَيَحْسَبُ اَنْ لَنْ يَقْدِرَ عَلَيْهِ اَحَدٌۘ",
+                       "meal":  "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6120,
+                       "verseNumber":  6,
+                       "arabic":  "يَقُولُ اَهْلَكْتُ مَالًا لُبَدًاۜ",
+                       "meal":  "«Pek çok mal harcadım» diyor.",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6121,
+                       "verseNumber":  7,
+                       "arabic":  "اَيَحْسَبُ اَنْ لَمْ يَرَهُٓ اَحَدٌۜ",
+                       "meal":  "Kimse onu görmedi mi sanıyor?",
+                       "page":  593,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6122,
+                       "verseNumber":  8,
+                       "arabic":  "اَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِۙ",
+                       "meal":  "Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona iki yolu (doğru ve eğriyi) göstermedik mi?",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6123,
+                       "verseNumber":  9,
+                       "arabic":  "وَلِسَانًا وَشَفَتَيْنِۙ",
+                       "meal":  "Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona iki yolu (doğru ve eğriyi) göstermedik mi?",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6124,
+                       "verseNumber":  10,
+                       "arabic":  "وَهَدَيْنَاهُ النَّجْدَيْنِۚ",
+                       "meal":  "Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona iki yolu (doğru ve eğriyi) göstermedik mi?",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6125,
+                       "verseNumber":  11,
+                       "arabic":  "فَلَا اقْتَحَمَ الْعَقَبَةَؗ",
+                       "meal":  "Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç-açık bir yoksulu doyurmaktır.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6126,
+                       "verseNumber":  12,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا الْعَقَبَةُۜ",
+                       "meal":  "Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç-açık bir yoksulu doyurmaktır.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6127,
+                       "verseNumber":  13,
+                       "arabic":  "فَكُّ رَقَبَةٍۙ",
+                       "meal":  "Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç-açık bir yoksulu doyurmaktır.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6128,
+                       "verseNumber":  14,
+                       "arabic":  "اَوْ اِطْعَامٌ فٖى يَوْمٍ ذٖى مَسْغَبَةٍۙ",
+                       "meal":  "Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç-açık bir yoksulu doyurmaktır.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6129,
+                       "verseNumber":  15,
+                       "arabic":  "يَت۪يمًا ذَا مَقْرَبَةٍۙ",
+                       "meal":  "Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç-açık bir yoksulu doyurmaktır.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6130,
+                       "verseNumber":  16,
+                       "arabic":  "اَوْ مِسْكٖينًا ذَا مَتْرَبَةٍۜ",
+                       "meal":  "Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç-açık bir yoksulu doyurmaktır.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6131,
+                       "verseNumber":  17,
+                       "arabic":  "ثُمَّ كَانَ مِنَ الَّذٖينَ اٰمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۜ",
+                       "meal":  "Sonra iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine acımayı öğütleyenlerden olmaktır. İşte bunlar sağdakilerdir.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6132,
+                       "verseNumber":  18,
+                       "arabic":  "اُو۬لٰٓئِكَ اَصْحَابُ الْمَيْمَنَةِۜ",
+                       "meal":  "Sonra iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine acımayı öğütleyenlerden olmaktır. İşte bunlar sağdakilerdir.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6133,
+                       "verseNumber":  19,
+                       "arabic":  "وَ‏الَّذٖينَ كَفَرُوا بِاٰيَاتِنَا هُمْ اَصْحَابُ الْمَشْـَٔمَةِۜ",
+                       "meal":  "Âyetlerimizi inkâr edenler ise işte onlar soldakilerdir. Cezaları, kapıları üzerlerine sımsıkı kapatılmış bir ateştir.",
+                       "page":  594,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6134,
+                       "verseNumber":  20,
+                       "arabic":  "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+                       "meal":  "Âyetlerimizi inkâr edenler ise işte onlar soldakilerdir. Cezaları, kapıları üzerlerine sımsıkı kapatılmış bir ateştir.",
+                       "page":  594,
+                       "juz":  30
+                   }
+               ]
+}

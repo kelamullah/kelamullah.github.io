@@ -1,0 +1,301 @@
+﻿{
+    "surah":  {
+                  "surahId":  83,
+                  "name":  "Mutaffifîn",
+                  "nameArabic":  "سُورَةُ الْمُطَفِّفٖينَ",
+                  "verseCount":  36,
+                  "page":  587,
+                  "juz":  30,
+                  "nameEn":  "Al-Mutaffifin"
+              },
+    "verses":  [
+                   {
+                       "id":  5933,
+                       "verseNumber":  1,
+                       "arabic":  "وَيْلٌ لِلْمُطَفِّفٖينَۙ",
+                       "meal":  "İnsanlardan alırken ölçüp tarttıklarında tam, onlara vermek için ölçüp tarttıklarında ise noksan yapan hilekârlara yazıklar olsun!",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5934,
+                       "verseNumber":  2,
+                       "arabic":  "‏اَلَّذٖينَ اِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَؗ",
+                       "meal":  "İnsanlardan alırken ölçüp tarttıklarında tam, onlara vermek için ölçüp tarttıklarında ise noksan yapan hilekârlara yazıklar olsun!",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5935,
+                       "verseNumber":  3,
+                       "arabic":  "وَاِذَا كَالُوهُمْ اَوْ وَزَنُوهُمْ يُخْسِرُونَۜ",
+                       "meal":  "İnsanlardan alırken ölçüp tarttıklarında tam, onlara vermek için ölçüp tarttıklarında ise noksan yapan hilekârlara yazıklar olsun!",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5936,
+                       "verseNumber":  4,
+                       "arabic":  "اَلَا يَظُنُّ اُو۬لٰٓئِكَ اَنَّهُمْ مَبْعُوثُونَۙ",
+                       "meal":  "Onlar düşünmezler mi ki, büyük bir günde (hesap vermek için) diriltilecekler! Öyle bir gün ki, insanlar o günde âlemlerin Rabbinin huzurunda divan duracaklardır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5937,
+                       "verseNumber":  5,
+                       "arabic":  "لِيَوْمٍ عَظٖيمٍۙ",
+                       "meal":  "Onlar düşünmezler mi ki, büyük bir günde (hesap vermek için) diriltilecekler! Öyle bir gün ki, insanlar o günde âlemlerin Rabbinin huzurunda divan duracaklardır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5938,
+                       "verseNumber":  6,
+                       "arabic":  "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمٖينَۚ",
+                       "meal":  "Onlar düşünmezler mi ki, büyük bir günde (hesap vermek için) diriltilecekler! Öyle bir gün ki, insanlar o günde âlemlerin Rabbinin huzurunda divan duracaklardır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5939,
+                       "verseNumber":  7,
+                       "arabic":  "كَلَّٓا اِنَّ كِتَابَ الْفُجَّارِ لَفٖى سِجّٖينٍۜ",
+                       "meal":  "Doğrusu günahkârların yazısı, muhakkak Siccîn\u0027de olmaktır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5940,
+                       "verseNumber":  8,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا سِجّٖينٌۜ",
+                       "meal":  "Siccîn nedir, bilir misin?",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5941,
+                       "verseNumber":  9,
+                       "arabic":  "كِتَابٌ مَرْقُومٌۜ",
+                       "meal":  "(O günahkârların yazısı) Amellerin sayılıp yazıldığı bir kitaptır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5942,
+                       "verseNumber":  10,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَۙ",
+                       "meal":  "O gün vay haline yalancıların!",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5943,
+                       "verseNumber":  11,
+                       "arabic":  "اَلَّذٖينَ يُكَذِّبُونَ بِيَوْمِ الدّٖينِۜ",
+                       "meal":  "Ki onlar, ceza gününü yalan sayarlar.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5944,
+                       "verseNumber":  12,
+                       "arabic":  "وَمَا يُكَذِّبُ بِهٖٓ اِلَّا كُلُّ مُعْتَدٍ اَثٖيمٍۙ",
+                       "meal":  "Onu ancak hükümleri çiğneyen ve günaha dalan kimseler yalanlar.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5945,
+                       "verseNumber":  13,
+                       "arabic":  "اِذَا تُتْلٰى عَلَيْهِ اٰيَاتُنَا قَالَ اَسَاطٖيرُ الْاَوَّلٖينَۜ",
+                       "meal":  "Böyle birine âyetlerimiz okununca «Eskilerin masalları» derdi.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5946,
+                       "verseNumber":  14,
+                       "arabic":  "كَلَّا بَلْ۔ رَانَ عَلٰى قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+                       "meal":  "Hayır! Bilakis onların işlemekte oldukları (kötülükler) kalplerini kirletmiştir.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5947,
+                       "verseNumber":  15,
+                       "arabic":  "كَلَّٓا اِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَۜ",
+                       "meal":  "Hayır! Onlar şüphesiz o gün Rablerinden (O\u0027nu görmekten) mahrum kalmışlardır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5948,
+                       "verseNumber":  16,
+                       "arabic":  "ثُمَّ اِنَّهُمْ لَصَالُوا الْجَحٖيمِۜ",
+                       "meal":  "Sonra onlar cehenneme girerler.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5949,
+                       "verseNumber":  17,
+                       "arabic":  "ثُمَّ يُقَالُ هٰذَا الَّذٖى كُنْتُمْ بِهٖ تُكَذِّبُونَۜ",
+                       "meal":  "Sonra onlara: «İşte yalanlamış olduğunuz (cehennem) budur» denilir.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5950,
+                       "verseNumber":  18,
+                       "arabic":  "كَلَّٓا اِنَّ كِتَابَ الْاَبْرَارِ لَفٖى عِلِّيّٖينَۜ",
+                       "meal":  "Hayır! Andolsun iyilerin kitabı İlliyyûn\u0027dadır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5951,
+                       "verseNumber":  19,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا عِلِّيُّونَۜ",
+                       "meal":  "İlliyyûn nedir, bilir misin?",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5952,
+                       "verseNumber":  20,
+                       "arabic":  "كِتَابٌ مَرْقُومٌۙ",
+                       "meal":  "(O İlliyyûn\u0027daki kitap) İçinde ameller kaydedilmiş bir kitaptır.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5953,
+                       "verseNumber":  21,
+                       "arabic":  "يَشْهَدُهُ الْمُقَرَّبُونَۜ",
+                       "meal":  "O kitabı, Allah\u0027a yakın olanlar görür.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5954,
+                       "verseNumber":  22,
+                       "arabic":  "اِنَّ الْاَبْرَارَ لَفٖى نَعٖيمٍۙ",
+                       "meal":  "İyiler kesinkes cennettedir.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5955,
+                       "verseNumber":  23,
+                       "arabic":  "عَلَى الْاَرَٓائِكِ يَنْظُرُونَۙ",
+                       "meal":  "Onlar orada koltuklar üzerinde etrafa bakarlar.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5956,
+                       "verseNumber":  24,
+                       "arabic":  "تَعْرِفُ فٖى وُجُوهِهِمْ نَضْرَةَ النَّعٖيمِۚ",
+                       "meal":  "Onların yüzünde nimetlerin sevincini görürsün.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5957,
+                       "verseNumber":  25,
+                       "arabic":  "يُسْقَوْنَ مِنْ رَحٖيقٍ مَخْتُومٍۙ",
+                       "meal":  "Kendilerine mühürlü hâlis bir içki sunulur.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5958,
+                       "verseNumber":  26,
+                       "arabic":  "خِتَامُهُ مِسْكٌۜ وَف۪ي ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَۜ",
+                       "meal":  "Onun içiminin sonunda misk kokusu vardır. İşte yarışanlar ancak onda yarışsınlar.",
+                       "page":  587,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5959,
+                       "verseNumber":  27,
+                       "arabic":  "وَمِزَاجُهُ مِنْ تَسْنٖيمٍۙ",
+                       "meal":  "Karışımı Tesnîm\u0027dendir.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5960,
+                       "verseNumber":  28,
+                       "arabic":  "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَۜ",
+                       "meal":  "(O Tesnîm Allah\u0027a) Yakın olanların içecekleri bir kaynaktır.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5961,
+                       "verseNumber":  29,
+                       "arabic":  "اِنَّ الَّذٖينَ اَجْرَمُوا كَانُوا مِنَ الَّذٖينَ اٰمَنُوا يَضْحَكُونَؗ",
+                       "meal":  "Şüphesiz günahkârlar, (dünyada) iman edenlere gülerlerdi.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5962,
+                       "verseNumber":  30,
+                       "arabic":  "وَاِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَؗ",
+                       "meal":  "Onlarla karşılaştıklarında kaş göz hareketiyle alay ederlerdi.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5963,
+                       "verseNumber":  31,
+                       "arabic":  "وَاِذَا انْقَلَبُٓوا اِلٰٓى اَهْلِهِمُ انْقَلَبُوا فَكِهٖينَؗ",
+                       "meal":  "Ailelerine döndüklerinde, (alaylarından dolayı) keyiflenerek dönerlerdi.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5964,
+                       "verseNumber":  32,
+                       "arabic":  "وَاِذَا رَاَوْهُمْ قَالُٓوا اِنَّ هٰٓؤُ۬لَٓاءِ لَضَٓالُّونَۙ",
+                       "meal":  "Müminleri gördüklerinde: «Şüphesiz bunlar sapıtmış» derlerdi.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5965,
+                       "verseNumber":  33,
+                       "arabic":  "وَمَٓا اُرْسِلُوا عَلَيْهِمْ حَافِظٖينَۜ",
+                       "meal":  "Halbuki onlar, müminleri denetleyici olarak gönderilmediler.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5966,
+                       "verseNumber":  34,
+                       "arabic":  "فَالْيَوْمَ الَّذٖينَ اٰمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَۙ",
+                       "meal":  "İşte o gün (ahirette) de iman edenler kâfirlere gülerler.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5967,
+                       "verseNumber":  35,
+                       "arabic":  "عَلَى الْاَرَٓائِكِۙ يَنْظُرُونَۜ",
+                       "meal":  "Koltuklar üzerinde etrafa bakarlar.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5968,
+                       "verseNumber":  36,
+                       "arabic":  "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+                       "meal":  "Kâfirler yaptıklarının cezasını buldular mı! (Elbette buldular.)",
+                       "page":  588,
+                       "juz":  30
+                   }
+               ]
+}

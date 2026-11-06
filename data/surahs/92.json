@@ -1,0 +1,181 @@
+﻿{
+    "surah":  {
+                  "surahId":  92,
+                  "name":  "Leyl",
+                  "nameArabic":  "سُورَةُ الَّيْلِ",
+                  "verseCount":  21,
+                  "page":  595,
+                  "juz":  30,
+                  "nameEn":  "Al-Layl"
+              },
+    "verses":  [
+                   {
+                       "id":  6152,
+                       "verseNumber":  1,
+                       "arabic":  "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+                       "meal":  "(Karanlığı ile etrafı) bürüyüp örttüğü zaman geceye, açılıp ağardığı vakit gündüze, erkeği ve dişiyi yaratana yemin ederim ki işleriniz başka başkadır.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6153,
+                       "verseNumber":  2,
+                       "arabic":  "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+                       "meal":  "(Karanlığı ile etrafı) bürüyüp örttüğü zaman geceye, açılıp ağardığı vakit gündüze, erkeği ve dişiyi yaratana yemin ederim ki işleriniz başka başkadır.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6154,
+                       "verseNumber":  3,
+                       "arabic":  "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىۙ",
+                       "meal":  "(Karanlığı ile etrafı) bürüyüp örttüğü zaman geceye, açılıp ağardığı vakit gündüze, erkeği ve dişiyi yaratana yemin ederim ki işleriniz başka başkadır.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6155,
+                       "verseNumber":  4,
+                       "arabic":  "اِنَّ سَعْيَكُمْ لَشَتّٰىۜ",
+                       "meal":  "(Karanlığı ile etrafı) bürüyüp örttüğü zaman geceye, açılıp ağardığı vakit gündüze, erkeği ve dişiyi yaratana yemin ederim ki işleriniz başka başkadır.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6156,
+                       "verseNumber":  5,
+                       "arabic":  "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+                       "meal":  "Artık kim verir ve sakınırsa, en güzeli de tasdik ederse, biz de onu en kolaya hazırlarız (onda başarılı kılarız).",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6157,
+                       "verseNumber":  6,
+                       "arabic":  "وَصَدَّقَ بِالْحُسْنٰىۙ",
+                       "meal":  "Artık kim verir ve sakınırsa, en güzeli de tasdik ederse, biz de onu en kolaya hazırlarız (onda başarılı kılarız).",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6158,
+                       "verseNumber":  7,
+                       "arabic":  "فَسَنُيَسِّرُهُ لِلْيُسْرٰىۜ",
+                       "meal":  "Artık kim verir ve sakınırsa, en güzeli de tasdik ederse, biz de onu en kolaya hazırlarız (onda başarılı kılarız).",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6159,
+                       "verseNumber":  8,
+                       "arabic":  "وَاَمَّا مَنْ بَخِلَ وَاسْتَغْنٰىۙ",
+                       "meal":  "Kim cimrilik eder, kendini müstağni sayar, en güzeli de yalanlarsa, biz de onu en zora hazırlarız. Düştüğü zaman da malı kendisine hiç fayda vermez.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6160,
+                       "verseNumber":  9,
+                       "arabic":  "وَكَذَّبَ بِالْحُسْنٰىۙ",
+                       "meal":  "Kim cimrilik eder, kendini müstağni sayar, en güzeli de yalanlarsa, biz de onu en zora hazırlarız. Düştüğü zaman da malı kendisine hiç fayda vermez.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6161,
+                       "verseNumber":  10,
+                       "arabic":  "فَسَنُيَسِّرُهُ لِلْعُسْرٰىۜ",
+                       "meal":  "Kim cimrilik eder, kendini müstağni sayar, en güzeli de yalanlarsa, biz de onu en zora hazırlarız. Düştüğü zaman da malı kendisine hiç fayda vermez.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6162,
+                       "verseNumber":  11,
+                       "arabic":  "وَمَا يُغْنٖى عَنْهُ مَالُهُٓ اِذَا تَرَدّٰىۜ",
+                       "meal":  "Kim cimrilik eder, kendini müstağni sayar, en güzeli de yalanlarsa, biz de onu en zora hazırlarız. Düştüğü zaman da malı kendisine hiç fayda vermez.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6163,
+                       "verseNumber":  12,
+                       "arabic":  "اِنَّ عَلَيْنَا لَلْهُدٰىؗ",
+                       "meal":  "Doğru yolu göstermek bize aittir. Şüphesiz ahiret de dünya da bizimdir.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6164,
+                       "verseNumber":  13,
+                       "arabic":  "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُو۫لٰى",
+                       "meal":  "Doğru yolu göstermek bize aittir. Şüphesiz ahiret de dünya da bizimdir.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6165,
+                       "verseNumber":  14,
+                       "arabic":  "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+                       "meal":  "(Ey insanlar!) Alev alev yanan bir ateşle sizi uyardım.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6166,
+                       "verseNumber":  15,
+                       "arabic":  "لَا يَصْلٰيهَٓا اِلَّا الْاَشْقٰىۙ",
+                       "meal":  "O ateşe, ancak yalanlayıp yüz çeviren kötüler girer.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6167,
+                       "verseNumber":  16,
+                       "arabic":  "اَلَّذٖى كَذَّبَ وَتَوَلّٰىۜ",
+                       "meal":  "O ateşe, ancak yalanlayıp yüz çeviren kötüler girer.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6168,
+                       "verseNumber":  17,
+                       "arabic":  "وَسَيُجَنَّبُهَا الْاَتْقٰىۙ",
+                       "meal":  "Temizlenmek üzere malını hayra veren iyiler ondan (ateşten) uzak tutulur.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6169,
+                       "verseNumber":  18,
+                       "arabic":  "اَلَّذٖى يُؤْتٖى مَالَهُ يَتَزَكّٰىۚ",
+                       "meal":  "Temizlenmek üzere malını hayra veren iyiler ondan (ateşten) uzak tutulur.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6170,
+                       "verseNumber":  19,
+                       "arabic":  "وَمَا لِاَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزٰىۙ",
+                       "meal":  "Yüce Rabbinin rızasını istemekten başka onun nezdinde hiçbir kimseye ait şükranla karşılanacak bir nimet yoktur. Ve o (buna kavuşarak) hoşnut olacaktır.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6171,
+                       "verseNumber":  20,
+                       "arabic":  "اِلَّا ابْتِغَٓاءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+                       "meal":  "Yüce Rabbinin rızasını istemekten başka onun nezdinde hiçbir kimseye ait şükranla karşılanacak bir nimet yoktur. Ve o (buna kavuşarak) hoşnut olacaktır.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6172,
+                       "verseNumber":  21,
+                       "arabic":  "وَلَسَوْفَ يَرْضٰى",
+                       "meal":  "Yüce Rabbinin rızasını istemekten başka onun nezdinde hiçbir kimseye ait şükranla karşılanacak bir nimet yoktur. Ve o (buna kavuşarak) hoşnut olacaktır.",
+                       "page":  595,
+                       "juz":  30
+                   }
+               ]
+}

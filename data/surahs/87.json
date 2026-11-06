@@ -1,0 +1,165 @@
+﻿{
+    "surah":  {
+                  "surahId":  87,
+                  "name":  "A\u0027lâ",
+                  "nameArabic":  "سُورَةُ الْاَعْلٰى",
+                  "verseCount":  19,
+                  "page":  591,
+                  "juz":  30,
+                  "nameEn":  "Al-A\u0027la"
+              },
+    "verses":  [
+                   {
+                       "id":  6037,
+                       "verseNumber":  1,
+                       "arabic":  "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلٰىۙ",
+                       "meal":  "Yaratıp düzene koyan, takdir edip yol gösteren, (topraktan) yeşil otu çıkarıp sonra da onu kapkara bir sel artığına çeviren yüce Rabbinin adını tesbih (ve takdis) et.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6038,
+                       "verseNumber":  2,
+                       "arabic":  "اَلَّذٖى خَلَقَ فَسَوّٰىۙۖ",
+                       "meal":  "Yaratıp düzene koyan, takdir edip yol gösteren, (topraktan) yeşil otu çıkarıp sonra da onu kapkara bir sel artığına çeviren yüce Rabbinin adını tesbih (ve takdis) et.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6039,
+                       "verseNumber":  3,
+                       "arabic":  "وَالَّذٖى قَدَّرَ فَهَدٰىۙۖ",
+                       "meal":  "Yaratıp düzene koyan, takdir edip yol gösteren, (topraktan) yeşil otu çıkarıp sonra da onu kapkara bir sel artığına çeviren yüce Rabbinin adını tesbih (ve takdis) et.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6040,
+                       "verseNumber":  4,
+                       "arabic":  "وَالَّذٖٓى اَخْرَجَ الْمَرْعٰىۙۖ",
+                       "meal":  "Yaratıp düzene koyan, takdir edip yol gösteren, (topraktan) yeşil otu çıkarıp sonra da onu kapkara bir sel artığına çeviren yüce Rabbinin adını tesbih (ve takdis) et.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6041,
+                       "verseNumber":  5,
+                       "arabic":  "فَجَعَلَهُ غُثَٓاءً اَحْوٰىۜ",
+                       "meal":  "Yaratıp düzene koyan, takdir edip yol gösteren, (topraktan) yeşil otu çıkarıp sonra da onu kapkara bir sel artığına çeviren yüce Rabbinin adını tesbih (ve takdis) et.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6042,
+                       "verseNumber":  6,
+                       "arabic":  "سَنُقْرِئُكَ فَلَا تَنْسٰىۙ",
+                       "meal":  "Sana (Kur\u0027an\u0027ı) okutacağız# artık Allah\u0027ın dilediği hariç, sen hiç unutmayacaksın. Şüphesiz Allah, açığı ve gizleneni bilir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6043,
+                       "verseNumber":  7,
+                       "arabic":  "اِلَّا مَا شَٓاءَ اللّٰهُۜ اِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۜ",
+                       "meal":  "Sana (Kur\u0027an\u0027ı) okutacağız# artık Allah\u0027ın dilediği hariç, sen hiç unutmayacaksın. Şüphesiz Allah, açığı ve gizleneni bilir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6044,
+                       "verseNumber":  8,
+                       "arabic":  "وَنُيَسِّرُكَ لِلْيُسْرٰىۚ",
+                       "meal":  "Seni en kolaya muvaffak kılacağız. O halde eğer öğüt fayda verirse öğüt ver.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6045,
+                       "verseNumber":  9,
+                       "arabic":  "فَذَكِّرْ اِنْ نَفَعَتِ الذِّكْرٰىۜ",
+                       "meal":  "Seni en kolaya muvaffak kılacağız. O halde eğer öğüt fayda verirse öğüt ver.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6046,
+                       "verseNumber":  10,
+                       "arabic":  "سَيَذَّكَّرُ مَنْ يَخْشٰىۙ",
+                       "meal":  "(Allah\u0027tan) korkan öğütten yararlanacak. En büyük ateşe girecek olan kötü kimse ise öğütten kaçınır. Sonra o, ateşte ne ölür ne de yaşar.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6047,
+                       "verseNumber":  11,
+                       "arabic":  "وَيَتَجَنَّبُهَا الْاَشْقٰىۙ",
+                       "meal":  "(Allah\u0027tan) korkan öğütten yararlanacak. En büyük ateşe girecek olan kötü kimse ise öğütten kaçınır. Sonra o, ateşte ne ölür ne de yaşar.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6048,
+                       "verseNumber":  12,
+                       "arabic":  "اَلَّذٖى يَصْلَى النَّارَ الْكُبْرٰىۚ",
+                       "meal":  "(Allah\u0027tan) korkan öğütten yararlanacak. En büyük ateşe girecek olan kötü kimse ise öğütten kaçınır. Sonra o, ateşte ne ölür ne de yaşar.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6049,
+                       "verseNumber":  13,
+                       "arabic":  "ثُمَّ لَا يَمُوتُ فٖيهَا وَلَا يَحْيٰىۜ",
+                       "meal":  "(Allah\u0027tan) korkan öğütten yararlanacak. En büyük ateşe girecek olan kötü kimse ise öğütten kaçınır. Sonra o, ateşte ne ölür ne de yaşar.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6050,
+                       "verseNumber":  14,
+                       "arabic":  "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ",
+                       "meal":  "Temizlenen, Rabbinin adını anıp O\u0027na kulluk eden kimse kuşkusuz kurtuluşa ermiştir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6051,
+                       "verseNumber":  15,
+                       "arabic":  "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۜ",
+                       "meal":  "Temizlenen, Rabbinin adını anıp O\u0027na kulluk eden kimse kuşkusuz kurtuluşa ermiştir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6052,
+                       "verseNumber":  16,
+                       "arabic":  "بَلْ تُؤْثِرُونَ الْحَيٰوةَ الدُّنْيَاؗ",
+                       "meal":  "Fakat siz (ey insanlar!) ahiret daha hayırlı ve daha devamlı olduğu halde dünya hayatını tercih ediyorsunuz.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6053,
+                       "verseNumber":  17,
+                       "arabic":  "وَالْاٰخِرَةُ خَيْرٌ وَاَبْقٰىۜ",
+                       "meal":  "Fakat siz (ey insanlar!) ahiret daha hayırlı ve daha devamlı olduğu halde dünya hayatını tercih ediyorsunuz.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6054,
+                       "verseNumber":  18,
+                       "arabic":  "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُو۫لٰىۙ",
+                       "meal":  "Şüphesiz bu (anlatılanlar), önceki kitaplarda, İbrahim ve Musa\u0027nın kitaplarında da vardır.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6055,
+                       "verseNumber":  19,
+                       "arabic":  "صُحُفِ اِبْرٰه۪يمَ وَمُوسٰى",
+                       "meal":  "Şüphesiz bu (anlatılanlar), önceki kitaplarda, İbrahim ve Musa\u0027nın kitaplarında da vardır.",
+                       "page":  591,
+                       "juz":  30
+                   }
+               ]
+}

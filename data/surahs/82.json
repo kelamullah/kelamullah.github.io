@@ -1,0 +1,165 @@
+﻿{
+    "surah":  {
+                  "surahId":  82,
+                  "name":  "İnfitâr",
+                  "nameArabic":  "سُورَةُ الْاِنْفِطَارِ",
+                  "verseCount":  19,
+                  "page":  586,
+                  "juz":  30,
+                  "nameEn":  "Al-Infitar"
+              },
+    "verses":  [
+                   {
+                       "id":  5913,
+                       "verseNumber":  1,
+                       "arabic":  "اِذَا السَّمَٓاءُ انْفَطَرَتْۙ",
+                       "meal":  "Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5914,
+                       "verseNumber":  2,
+                       "arabic":  "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ",
+                       "meal":  "Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5915,
+                       "verseNumber":  3,
+                       "arabic":  "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
+                       "meal":  "Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5916,
+                       "verseNumber":  4,
+                       "arabic":  "وَاِذَا الْقُبُورُ بُعْثِرَتْۙ",
+                       "meal":  "Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5917,
+                       "verseNumber":  5,
+                       "arabic":  "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَاَخَّرَتْۜ",
+                       "meal":  "Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5918,
+                       "verseNumber":  6,
+                       "arabic":  "يَٓا اَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرٖيمِۙ",
+                       "meal":  "Ey insan! Seni yaratıp seni düzgün ve dengeli kılan, seni istediği bir şekilde birleştiren, ihsanı bol Rabbine karşı seni aldatan nedir?",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5919,
+                       "verseNumber":  7,
+                       "arabic":  "اَلَّذٖى خَلَقَكَ فَسَوّٰيكَ فَعَدَلَكَۙ",
+                       "meal":  "Ey insan! Seni yaratıp seni düzgün ve dengeli kılan, seni istediği bir şekilde birleştiren, ihsanı bol Rabbine karşı seni aldatan nedir?",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5920,
+                       "verseNumber":  8,
+                       "arabic":  "فٖٓى اَىِّ صُورَةٍ مَا شَٓاءَ رَكَّبَكَۜ",
+                       "meal":  "Ey insan! Seni yaratıp seni düzgün ve dengeli kılan, seni istediği bir şekilde birleştiren, ihsanı bol Rabbine karşı seni aldatan nedir?",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5921,
+                       "verseNumber":  9,
+                       "arabic":  "كَلَّا بَلْ تُكَذِّبُونَ بِالدّٖينِۙ",
+                       "meal":  "Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır# onlar, yapmakta olduklarınızı bilir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5922,
+                       "verseNumber":  10,
+                       "arabic":  "وَاِنَّ عَلَيْكُمْ لَحَافِظٖينَۙ",
+                       "meal":  "Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır# onlar, yapmakta olduklarınızı bilir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5923,
+                       "verseNumber":  11,
+                       "arabic":  "كِرَامًا كَاتِبٖينَۙ",
+                       "meal":  "Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır# onlar, yapmakta olduklarınızı bilir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5924,
+                       "verseNumber":  12,
+                       "arabic":  "يَعْلَمُونَ مَا تَفْعَلُونَ",
+                       "meal":  "Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır# onlar, yapmakta olduklarınızı bilir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5925,
+                       "verseNumber":  13,
+                       "arabic":  "اِنَّ الْاَبْرَارَ لَفٖى نَعٖيمٍۚ",
+                       "meal":  "İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5926,
+                       "verseNumber":  14,
+                       "arabic":  "وَاِنَّ الْفُجَّارَ لَفٖى جَحٖيمٍۚ",
+                       "meal":  "İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5927,
+                       "verseNumber":  15,
+                       "arabic":  "يَصْلَوْنَهَا يَوْمَ الدّٖينِ",
+                       "meal":  "İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5928,
+                       "verseNumber":  16,
+                       "arabic":  "وَمَا هُمْ عَنْهَا بِغَٓائِبٖينَۜ",
+                       "meal":  "İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5929,
+                       "verseNumber":  17,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الدّٖينِۙ",
+                       "meal":  "Ceza günü nedir bilir misin? Nedir acaba o ceza günü? O gün hiçbir kimse başkası için bir şey yapamaz. O gün iş Allah\u0027a kalmıştır.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5930,
+                       "verseNumber":  18,
+                       "arabic":  "ثُمَّ مَٓا اَدْرٰيكَ مَا يَوْمُ الدّٖينِۜ",
+                       "meal":  "Ceza günü nedir bilir misin? Nedir acaba o ceza günü? O gün hiçbir kimse başkası için bir şey yapamaz. O gün iş Allah\u0027a kalmıştır.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5931,
+                       "verseNumber":  19,
+                       "arabic":  "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْـًٔاۜ وَالْاَمْرُ يَوْمَئِذٍ لِلّٰهِ",
+                       "meal":  "Ceza günü nedir bilir misin? Nedir acaba o ceza günü? O gün hiçbir kimse başkası için bir şey yapamaz. O gün iş Allah\u0027a kalmıştır.",
+                       "page":  586,
+                       "juz":  30
+                   }
+               ]
+}

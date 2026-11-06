@@ -1,0 +1,637 @@
+﻿{
+    "surah":  {
+                  "surahId":  55,
+                  "name":  "Rahmân",
+                  "nameArabic":  "سُورَةُ الرَّحْمٰنِ",
+                  "verseCount":  78,
+                  "page":  530,
+                  "juz":  27,
+                  "nameEn":  "Ar-Rahman"
+              },
+    "verses":  [
+                   {
+                       "id":  4958,
+                       "verseNumber":  1,
+                       "arabic":  "اَلرَّحْمٰنُۙ",
+                       "meal":  "Rahmân Kur\u0027an\u0027ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4959,
+                       "verseNumber":  2,
+                       "arabic":  "عَلَّمَ الْقُرْاٰنَۜ",
+                       "meal":  "Rahmân Kur\u0027an\u0027ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4960,
+                       "verseNumber":  3,
+                       "arabic":  "خَلَقَ الْاِنْسَانَۙ",
+                       "meal":  "Rahmân Kur\u0027an\u0027ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4961,
+                       "verseNumber":  4,
+                       "arabic":  "عَلَّمَهُ الْبَيَانَ",
+                       "meal":  "Rahmân Kur\u0027an\u0027ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4962,
+                       "verseNumber":  5,
+                       "arabic":  "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۖ",
+                       "meal":  "Güneş ve ay bir hesaba göre (hareket etmekte) dir.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4963,
+                       "verseNumber":  6,
+                       "arabic":  "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+                       "meal":  "Bitkiler ve ağaçlar secde ederler.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4964,
+                       "verseNumber":  7,
+                       "arabic":  "وَالسَّمَٓاءَ رَفَعَهَا وَوَضَعَ الْمٖيزَانَۙ",
+                       "meal":  "Göğü Allah yükseltti ve mîzanı (dengeyi) O koydu.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4965,
+                       "verseNumber":  8,
+                       "arabic":  "اَلَّا تَطْغَوْا فِى الْمٖيزَانِ",
+                       "meal":  "Sakın dengeyi bozmayın.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4966,
+                       "verseNumber":  9,
+                       "arabic":  "وَاَقٖيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمٖيزَانَ",
+                       "meal":  "Ölçüyü adaletle tutun ve eksik tartmayın.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4967,
+                       "verseNumber":  10,
+                       "arabic":  "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ",
+                       "meal":  "Allah, yeri canlılar için yaratmıştır.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4968,
+                       "verseNumber":  11,
+                       "arabic":  "فٖيهَا فَاكِهَةٌۖ وَالنَّخْلُ ذَاتُ الْاَكْمَامِ",
+                       "meal":  "Orada meyveler ve salkımlı hurma ağaçları vardır.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4969,
+                       "verseNumber":  12,
+                       "arabic":  "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُۚ",
+                       "meal":  "Yapraklı daneler ve hoş kokulu bitkiler vardır.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4970,
+                       "verseNumber":  13,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4971,
+                       "verseNumber":  14,
+                       "arabic":  "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِۙ",
+                       "meal":  "Allah insanı, pişmiş çamura benzeyen bir balçıktan yarattı.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4972,
+                       "verseNumber":  15,
+                       "arabic":  "وَخَلَقَ الْجَٓانَّ مِنْ مَارِجٍ مِنْ نَارٍۚ",
+                       "meal":  "Cinleri öz ateşten yarattı.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4973,
+                       "verseNumber":  16,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "O halde, Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4974,
+                       "verseNumber":  17,
+                       "arabic":  "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ",
+                       "meal":  "(O,) iki doğunun ve iki batının Rabbidir.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4975,
+                       "verseNumber":  18,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4976,
+                       "verseNumber":  19,
+                       "arabic":  "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِۙ",
+                       "meal":  "İki denizi birbirine kavuşmak üzere salıvermiştir.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4977,
+                       "verseNumber":  20,
+                       "arabic":  "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِۚ",
+                       "meal":  "Aralarında bir engel vardır, birbirine geçip karışmazlar.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4978,
+                       "verseNumber":  21,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4979,
+                       "verseNumber":  22,
+                       "arabic":  "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ۬ وَالْمَرْجَانُۚ",
+                       "meal":  "İkisinden de inci ve mercan çıkar.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4980,
+                       "verseNumber":  23,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4981,
+                       "verseNumber":  24,
+                       "arabic":  "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِى الْبَحْرِ كَالْاَعْلَامِۚ",
+                       "meal":  "Denizde yüce dağlar gibi yükselen gemiler de O\u0027nundur.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4982,
+                       "verseNumber":  25,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ۟",
+                       "meal":  "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4983,
+                       "verseNumber":  26,
+                       "arabic":  "كُلُّ مَنْ عَلَيْهَا فَانٍۚ",
+                       "meal":  "Yer yüzünde bulunan her canlı yok olacak.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4984,
+                       "verseNumber":  27,
+                       "arabic":  "وَيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْاِكْرَامِۚ",
+                       "meal":  "Ancak azamet ve ikram sahibi Rabbinin zâtı bâki kalacak.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4985,
+                       "verseNumber":  28,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4986,
+                       "verseNumber":  29,
+                       "arabic":  "يَسْـَٔلُهُ مَنْ فِى السَّمٰوَاتِ وَالْاَرْضِۜ كُلَّ يَوْمٍ هُوَ فٖى شَاْنٍۚ",
+                       "meal":  "Göklerde ve yerde bulunan herkes, O\u0027ndan ister. O, her an yaratma halindedir.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4987,
+                       "verseNumber":  30,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "O halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4988,
+                       "verseNumber":  31,
+                       "arabic":  "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلَانِۚ",
+                       "meal":  "Ey insan ve cin! Sizin de hesabınızı ele alacağız.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4989,
+                       "verseNumber":  32,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Hal bu iken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4990,
+                       "verseNumber":  33,
+                       "arabic":  "يَا مَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوا مِنْ اَقْطَارِ السَّمٰوَاتِ وَالْاَرْضِ فَانْفُذُواۜ لَا تَنْفُذُونَ اِلَّا بِسُلْطَانٍۚ",
+                       "meal":  "Ey cin ve insan toplulukları! Göklerin ve yerin çerçevesinden çıkıp gitmeye gücünüz yetiyorsa geçin. Ancak büyük bir güçle çıkıp gidebilirsiniz.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4991,
+                       "verseNumber":  34,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4992,
+                       "verseNumber":  35,
+                       "arabic":  "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِۚ",
+                       "meal":  "Üzerinize ateşten alev ve duman gönderilir de birbirinizi kurtaramaz ve yardımlaşamazsınız.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4993,
+                       "verseNumber":  36,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4994,
+                       "verseNumber":  37,
+                       "arabic":  "فَاِذَا انْشَقَّتِ السَّمَٓاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ",
+                       "meal":  "Gök yarılıp da kızarmış yağ renginde gül gibi olduğu zaman,",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4995,
+                       "verseNumber":  38,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4996,
+                       "verseNumber":  39,
+                       "arabic":  "فَيَوْمَئِذٍ لَا يُسْـَٔلُ عَنْ ذَنْبِهٖٓ اِنْسٌ وَلَا جَٓانٌّۚ",
+                       "meal":  "İşte o gün insana da cine de günahı sorulmaz.",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4997,
+                       "verseNumber":  40,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  531,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4998,
+                       "verseNumber":  41,
+                       "arabic":  "يُعْرَفُ الْمُجْرِمُونَ بِسٖيمٰيهُمْ فَيُؤْخَذُ بِالنَّوَاصٖى وَالْاَقْدَامِۚ",
+                       "meal":  "Suçlular, simalarından tanınır, perçemlerinden ve ayaklarından yakalanırlar.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4999,
+                       "verseNumber":  42,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5000,
+                       "verseNumber":  43,
+                       "arabic":  "هٰذِهٖ جَهَنَّمُ الَّتٖى يُكَذِّبُ بِهَا الْمُجْرِمُونَۘ",
+                       "meal":  "İşte bu, suçluların yalanladıkları cehennemdir.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5001,
+                       "verseNumber":  44,
+                       "arabic":  "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمٖيمٍ اٰنٍۚ",
+                       "meal":  "Onlar, cehennemle kaynar su arasında dolaşır dururlar.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5002,
+                       "verseNumber":  45,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ۟",
+                       "meal":  "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5003,
+                       "verseNumber":  46,
+                       "arabic":  "وَلِمَنْ خَافَ مَقَامَ رَبِّهٖ جَنَّتَانِۚ",
+                       "meal":  "Rabbinin huzurunda durmaktan korkan kimselere iki cennet vardır.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5004,
+                       "verseNumber":  47,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۙ",
+                       "meal":  "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5005,
+                       "verseNumber":  48,
+                       "arabic":  "ذَوَاتَٓا اَفْنَانٍۚ",
+                       "meal":  "İki cennet de çeşit çeşit ağaçlarla doludur.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5006,
+                       "verseNumber":  49,
+                       "arabic":  "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5007,
+                       "verseNumber":  50,
+                       "arabic":  "فٖيهِمَا عَيْنَانِ تَجْرِيَانِۚ",
+                       "meal":  "İkisinde de akıp giden iki kaynak vardır.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5008,
+                       "verseNumber":  51,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5009,
+                       "verseNumber":  52,
+                       "arabic":  "فٖيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِۚ",
+                       "meal":  "İkisinde de her türlü meyveden çift çift vardır.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5010,
+                       "verseNumber":  53,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5011,
+                       "verseNumber":  54,
+                       "arabic":  "مُتَّكِـٖٔينَ عَلٰى فُرُشٍ بَطَٓائِنُهَا مِنْ اِسْتَبْرَقٍۜ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ",
+                       "meal":  "Hepsi de örtüleri atlastan minderlere yaslanırlar. İki cennetin de meyvesinin devşirilmesi yakındır.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5012,
+                       "verseNumber":  55,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5013,
+                       "verseNumber":  56,
+                       "arabic":  "فٖيهِنَّ قَاصِرَاتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَٓانٌّۚ",
+                       "meal":  "Oralarda gözlerini yalnız eşlerine çevirmiş güzeller var ki, bunlardan önce onlara ne insan ne de cin dokunmuştur.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5014,
+                       "verseNumber":  57,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5015,
+                       "verseNumber":  58,
+                       "arabic":  "كَاَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُۚ",
+                       "meal":  "Sanki onlar yakut ve mercandırlar.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5016,
+                       "verseNumber":  59,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5017,
+                       "verseNumber":  60,
+                       "arabic":  "هَلْ جَزَٓاءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ",
+                       "meal":  "İyiliğin karşılığı iyilikten başka bir şey midir?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5018,
+                       "verseNumber":  61,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5019,
+                       "verseNumber":  62,
+                       "arabic":  "وَمِنْ دُونِهِمَا جَنَّتَانِۚ",
+                       "meal":  "Bu ikisinden başka iki cennet daha vardır.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5020,
+                       "verseNumber":  63,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۙ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5021,
+                       "verseNumber":  64,
+                       "arabic":  "مُدْهَٓامَّتَانِۚ",
+                       "meal":  "Bu cennetler koyu yeşildirler.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5022,
+                       "verseNumber":  65,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5023,
+                       "verseNumber":  66,
+                       "arabic":  "فٖيهِمَا عَيْنَانِ نَضَّاخَتَانِۚ",
+                       "meal":  "İkisinde de durmadan fışkıran iki kaynak vardır.",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5024,
+                       "verseNumber":  67,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  532,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5025,
+                       "verseNumber":  68,
+                       "arabic":  "فٖيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌۚ",
+                       "meal":  "İkisinde de her türlü meyveler, hurma ve nar vardır.",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5026,
+                       "verseNumber":  69,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5027,
+                       "verseNumber":  70,
+                       "arabic":  "فٖيهِنَّ خَيْرَاتٌ حِسَانٌۚ",
+                       "meal":  "İçlerinde huyu güzel yüzü güzel kadınlar vardır.",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5028,
+                       "verseNumber":  71,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5029,
+                       "verseNumber":  72,
+                       "arabic":  "حُورٌ مَقْصُورَاتٌ فِى الْخِيَامِۚ",
+                       "meal":  "Otağlar içinde sahiplerine tahsis edilmiş hûriler vardır.",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5030,
+                       "verseNumber":  73,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5031,
+                       "verseNumber":  74,
+                       "arabic":  "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَٓانٌّۚ",
+                       "meal":  "Bunlara onlardan önce ne bir insan ne bir cin dokunmuştur.",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5032,
+                       "verseNumber":  75,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5033,
+                       "verseNumber":  76,
+                       "arabic":  "مُتَّكِـٖٔينَ عَلٰى رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍۚ",
+                       "meal":  "Yeşil yastıklara ve hârikulâde güzel döşemelere yaslanırlar.",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5034,
+                       "verseNumber":  77,
+                       "arabic":  "فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                       "meal":  "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?",
+                       "page":  533,
+                       "juz":  27
+                   },
+                   {
+                       "id":  5035,
+                       "verseNumber":  78,
+                       "arabic":  "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْاِكْرَامِ",
+                       "meal":  "Büyüklük ve ikram sahibi Rabbinin adı yücelerden yücedir.",
+                       "page":  533,
+                       "juz":  27
+                   }
+               ]
+}

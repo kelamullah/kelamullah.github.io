@@ -1,0 +1,101 @@
+﻿{
+    "surah":  {
+                  "surahId":  93,
+                  "name":  "Duhâ",
+                  "nameArabic":  "سُورَةُ الضُّحٰى",
+                  "verseCount":  11,
+                  "page":  595,
+                  "juz":  30,
+                  "nameEn":  "Ad-Duhaa"
+              },
+    "verses":  [
+                   {
+                       "id":  6174,
+                       "verseNumber":  1,
+                       "arabic":  "وَالضُّحٰىۙ",
+                       "meal":  "Kuşluk vaktine ve sükûna erdiğinde geceye yemin ederim ki Rabbin seni bırakmadı ve sana darılmadı.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6175,
+                       "verseNumber":  2,
+                       "arabic":  "وَالَّيْلِ اِذَا سَجٰىۙ",
+                       "meal":  "Kuşluk vaktine ve sükûna erdiğinde geceye yemin ederim ki Rabbin seni bırakmadı ve sana darılmadı.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6176,
+                       "verseNumber":  3,
+                       "arabic":  "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۜ",
+                       "meal":  "Kuşluk vaktine ve sükûna erdiğinde geceye yemin ederim ki Rabbin seni bırakmadı ve sana darılmadı.",
+                       "page":  595,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6177,
+                       "verseNumber":  4,
+                       "arabic":  "وَلَلْاٰخِرَةُ خَيْرٌ لَكَ مِنَ الْاُو۫لٰىۜ",
+                       "meal":  "Gerçekten senin için ahiret dünyadan daha hayırlıdır.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6178,
+                       "verseNumber":  5,
+                       "arabic":  "وَلَسَوْفَ يُعْطٖيكَ رَبُّكَ فَتَرْضٰىۜ",
+                       "meal":  "Pek yakında Rabbin sana verecek de hoşnut olacaksın.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6179,
+                       "verseNumber":  6,
+                       "arabic":  "اَلَمْ يَجِدْكَ يَتٖيمًا فَاٰوٰىۖ",
+                       "meal":  "O, seni yetim bulup barındırmadı mı?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6180,
+                       "verseNumber":  7,
+                       "arabic":  "وَوَجَدَكَ ضَٓالًّا فَهَدٰىۖ",
+                       "meal":  "Şaşırmış bulup da yol göstermedi mi?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6181,
+                       "verseNumber":  8,
+                       "arabic":  "وَوَجَدَكَ عَٓائِلًا فَاَغْنٰىۜ",
+                       "meal":  "Seni fakir bulup zengin etmedi mi?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6182,
+                       "verseNumber":  9,
+                       "arabic":  "فَاَمَّا الْيَتٖيمَ فَلَا تَقْهَرْۜ",
+                       "meal":  "Öyleyse yetimi sakın ezme.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6183,
+                       "verseNumber":  10,
+                       "arabic":  "وَاَمَّا السَّٓائِلَ فَلَا تَنْهَرْۜ",
+                       "meal":  "El açıp isteyeni de sakın azarlama.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6184,
+                       "verseNumber":  11,
+                       "arabic":  "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+                       "meal":  "Ve Rabbinin nimetini minnet ve şükranla an.",
+                       "page":  596,
+                       "juz":  30
+                   }
+               ]
+}

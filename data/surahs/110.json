@@ -1,0 +1,37 @@
+﻿{
+    "surah":  {
+                  "surahId":  110,
+                  "name":  "Nasr",
+                  "nameArabic":  "سُورَةُ النَّصْرِ",
+                  "verseCount":  3,
+                  "page":  603,
+                  "juz":  30,
+                  "nameEn":  "An-Nasr"
+              },
+    "verses":  [
+                   {
+                       "id":  6325,
+                       "verseNumber":  1,
+                       "arabic":  "اِذَا جَٓاءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+                       "meal":  "Allah\u0027ın yardımı ve zaferi gelip de insanların bölük bölük Allah\u0027ın dinine girmekte olduklarını gördüğün vakit Rabbine hamdederek O\u0027nu tesbih et ve O\u0027ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6326,
+                       "verseNumber":  2,
+                       "arabic":  "وَرَاَيْتَ النَّاسَ يَدْخُلُونَ فٖى دٖينِ اللّٰهِ اَفْوَاجًاۙ",
+                       "meal":  "Allah\u0027ın yardımı ve zaferi gelip de insanların bölük bölük Allah\u0027ın dinine girmekte olduklarını gördüğün vakit Rabbine hamdederek O\u0027nu tesbih et ve O\u0027ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6327,
+                       "verseNumber":  3,
+                       "arabic":  "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۜ اِنَّهُ كَانَ تَوَّابًا",
+                       "meal":  "Allah\u0027ın yardımı ve zaferi gelip de insanların bölük bölük Allah\u0027ın dinine girmekte olduklarını gördüğün vakit Rabbine hamdederek O\u0027nu tesbih et ve O\u0027ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir.",
+                       "page":  603,
+                       "juz":  30
+                   }
+               ]
+}

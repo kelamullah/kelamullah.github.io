@@ -1,0 +1,357 @@
+﻿{
+    "surah":  {
+                  "surahId":  13,
+                  "name":  "Ra\u0027d",
+                  "nameArabic":  "سُورَةُ الرَّعْدِ",
+                  "verseCount":  43,
+                  "page":  248,
+                  "juz":  13,
+                  "nameEn":  "Ar-Ra\u0027d"
+              },
+    "verses":  [
+                   {
+                       "id":  1722,
+                       "verseNumber":  1,
+                       "arabic":  "الٓمٓرٰ۠ تِلْكَ اٰيَاتُ الْكِتَابِۜ وَالَّذٖٓى اُنْزِلَ اِلَيْكَ مِنْ رَبِّكَ الْحَقُّ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ",
+                       "meal":  "Elif. Lâm. Mîm. Râ. Bunlar, Kitab\u0027ın âyetleridir. Sana Rabbinden indirilen haktır, fakat insanların çoğu inanmazlar.",
+                       "page":  248,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1723,
+                       "verseNumber":  2,
+                       "arabic":  "اَللّٰهُ الَّذٖى رَفَعَ السَّمٰوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ اسْتَوٰى عَلَى الْعَرْشِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَۜ كُلٌّ يَجْرٖى لِاَجَلٍ مُسَمًّىۜ يُدَبِّرُ الْاَمْرَ يُفَصِّلُ الْاٰيَاتِ لَعَلَّكُمْ بِلِقَٓاءِ رَبِّكُمْ تُوقِنُونَ",
+                       "meal":  "Görmekte olduğunuz gökleri direksiz olarak yükselten, sonra Arş\u0027a istivâ eden, güneşi ve ayı emrine boyun eğdiren Allah\u0027tır. (Bunların) her biri muayyen bir vakte kadar akıp gitmektedir. O, Rabbinize kavuşacağınıza kesin olarak inanmanız için her işi düzenleyip âyetleri açıklamaktadır.",
+                       "page":  248,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1724,
+                       "verseNumber":  3,
+                       "arabic":  "وَهُوَ الَّذٖى مَدَّ الْاَرْضَ وَجَعَلَ فٖيهَا رَوَاسِىَ وَاَنْهَارًاۜ وَمِنْ كُلِّ الثَّمَرَاتِ جَعَلَ فٖيهَا زَوْجَيْنِ اثْنَيْنِ يُغْشِى الَّيْلَ النَّهَارَۜ اِنَّ فٖى ذٰلِكَ لَاٰيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+                       "meal":  "Yeri döşeyen, onda oturaklı dağlar ve ırmaklar yaratan ve orada bütün meyvelerden çifter çifter yaratan O\u0027dur. Geceyi de gündüzün üzerine O örtüyor. Şüphesiz bütün bunlarda düşünen bir toplum için ibretler vardır.",
+                       "page":  248,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1725,
+                       "verseNumber":  4,
+                       "arabic":  "وَفِى الْاَرْضِ قِطَعٌ مُتَجَاوِرَاتٌ وَجَنَّاتٌ مِنْ اَعْنَابٍ وَزَرْعٌ وَنَخٖيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقٰى بِمَٓاءٍ وَاحِدٍ۠ وَنُفَضِّلُ بَعْضَهَا عَلٰى بَعْضٍ فِى الْاُكُلِۜ اِنَّ فٖى ذٰلِكَ لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+                       "meal":  "Yeryüzünde birbirine komşu kıtalar, üzüm bağları, ekinler, bir kökten ve çeşitli köklerden dallanmış hurma ağaçları vardır. Bunların hepsi bir su ile sulanır. (Böyle iken) yemişlerinde onların bir kısmını bir kısmına üstün kılarız. İşte bunlarda akıllarını kullanan bir toplum için ibretler vardır.",
+                       "page":  248,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1726,
+                       "verseNumber":  5,
+                       "arabic":  "وَاِنْ تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ ءَاِذَا كُنَّا تُرَابًا ءَاِنَّا لَفٖى خَلْقٍ جَدٖيدٍۜ اُو۬لٰٓئِكَ الَّذٖينَ كَفَرُوا بِرَبِّهِمْۚ وَاُو۬لٰٓئِكَ الْاَغْلَالُ فٖٓى اَعْنَاقِهِمْۚ وَاُو۬لٰٓئِكَ اَصْحَابُ النَّارِۚ هُمْ فٖيهَا خَالِدُونَ",
+                       "meal":  "(Resûlüm! Kâfirlerin seni yalanlamalarına) şaşıyorsan, asıl şaşılacak şey onların: «Biz toprak olduğumuz zaman yeniden mi yaratılacağız?» demeleridir. İşte onlar, Rablerini inkâr edenlerdir# işte onlar (kıyamet gününde) boyunlarında tasmalar bulunanlardır. Ve onlar ateş ehlidir. Onlar, orada ebedî kalacaklardır!",
+                       "page":  248,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1727,
+                       "verseNumber":  6,
+                       "arabic":  "وَيَسْتَعْجِلُونَكَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ وَقَدْ خَلَتْ مِنْ قَبْلِهِمُ الْمَثُلَاتُۜ وَاِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ لِلنَّاسِ عَلٰى ظُلْمِهِمْۚ وَاِنَّ رَبَّكَ لَشَدٖيدُ الْعِقَابِ",
+                       "meal":  "(Müşrikler) senden iyilikten önce kötülüğü çabucak istiyorlar. Halbuki onlardan önce ibret alınacak nice azap örnekleri gelip geçmiştir. Doğrusu insanlar kötülük ettikleri halde Rabbin onlar için mağfiret sahibidir. (Bununla beraber) Rabbinin azabı da çok şiddetlidir.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1728,
+                       "verseNumber":  7,
+                       "arabic":  "وَيَقُولُ الَّذ۪ينَ كَفَرُوا لَوْلَٓا اُنْزِلَ عَلَيْهِ اٰيَةٌ مِنْ رَبِّه۪ۜ اِنَّمَٓا اَنْتَ مُنْذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ۟",
+                       "meal":  "Kâfirler diyorlar ki: Ona Rabbinden bir mucize indirilseydi ya! (Halbuki) sen ancak bir uyarıcısın ve her toplumun bir rehberi vardır.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1729,
+                       "verseNumber":  8,
+                       "arabic":  "اَللّٰهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ اُنْثٰى وَمَا تَغٖيضُ الْاَرْحَامُ وَمَا تَزْدَادُۜ وَكُلُّ شَىْءٍ عِنْدَهُ بِمِقْدَارٍ",
+                       "meal":  "Her dişinin neye gebe kalacağını, rahimlerin neyi eksik, neyi ziyade edeceğini Allah bilir. Onun katında her şey ölçü iledir.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1730,
+                       "verseNumber":  9,
+                       "arabic":  "عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْكَبٖيرُ الْمُتَعَالِ",
+                       "meal":  "O, görüleni de görülmeyeni de bilir# çok büyüktür, yücedir.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1731,
+                       "verseNumber":  10,
+                       "arabic":  "سَوَٓاءٌ مِنْكُمْ مَنْ اَسَرَّ الْقَوْلَ وَمَنْ جَهَرَ بِهٖ وَمَنْ هُوَ مُسْتَخْفٍ بِالَّيْلِ وَسَارِبٌ بِالنَّهَارِ",
+                       "meal":  "Sizden, sözü gizleyenle onu açığa vuran, geceleyin gizlenenle gündüzün yürüyen (onun ilminde) eşittir.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1732,
+                       "verseNumber":  11,
+                       "arabic":  "لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِه۪ يَحْفَظُونَهُ مِنْ اَمْرِ اللّٰهِۜ اِنَّ اللّٰهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّٰى يُغَيِّرُوا مَا بِاَنْفُسِهِمْۜ وَاِذَٓا اَرَادَ اللّٰهُ بِقَوْمٍ سُٓوءًا فَلَا مَرَدَّ لَهُۚ وَمَا لَهُمْ مِنْ دُونِه۪ مِنْ وَالٍ",
+                       "meal":  "Onun önünde ve arkasında Allah\u0027ın emriyle onu koruyan takipçiler (melekler) vardır. Bir toplum kendilerindeki özellikleri değiştirinceye kadar Allah, onlarda bulunanı değiştirmez. Allah bir topluma kötülük diledi mi, artık onun için geri çevrilme diye bir şey yoktur. Onların Allah\u0027tan başka yardımcıları da yoktur.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1733,
+                       "verseNumber":  12,
+                       "arabic":  "هُوَ الَّذٖى يُرٖيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنْشِئُ السَّحَابَ الثِّقَالَۚ",
+                       "meal":  "O, size korku ve ümit içinde şimşeği gösteren ve (yağmur dolu) ağır bulutları meydana getirendir.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1734,
+                       "verseNumber":  13,
+                       "arabic":  "وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهٖ وَالْمَلٰٓئِكَةُ مِنْ خٖيفَتِهٖۚ وَيُرْسِلُ الصَّوَاعِقَ فَيُصٖيبُ بِهَا مَنْ يَشَٓاءُ وَهُمْ يُجَادِلُونَ فِى اللّٰهِۚ وَهُوَ شَدٖيدُ الْمِحَالِۜ",
+                       "meal":  "Gök gürültüsü Allah\u0027ı hamd ile tesbih eder. Melekler de O\u0027nun heybetinden dolayı tesbih ederler. Onlar, Allah hakkında mücâdele edip dururken O, yıldırımlar gönderip onlarla dilediğini çarpar. Ve O, azabı pek şiddetli olandır.",
+                       "page":  249,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1735,
+                       "verseNumber":  14,
+                       "arabic":  "لَهُ دَعْوَةُ الْحَقِّۜ وَالَّذٖينَ يَدْعُونَ مِنْ دُونِهٖ لَا يَسْتَجٖيبُونَ لَهُمْ بِشَىْءٍ اِلَّا كَبَاسِطِ كَفَّيْهِ اِلَى الْمَٓاءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَالِغِهٖۜ وَمَا دُعَٓاءُ الْكَافِرٖينَ اِلَّا فٖى ضَلَالٍ",
+                       "meal":  "El açıp yalvarmaya lâyık olan ancak O\u0027dur. O\u0027nun dışında el açıp dua ettikleri onların isteklerini hiçbir şeyle karşılamazlar. Onlar ancak ağzına gelsin diye suya doğru iki avucunu açan kimse gibidir. Halbuki (suyu ağzına götürmedikçe) su onun ağzına girecek değildir. Kâfirlerin duası kuşkusuz hedefini şaşırmıştır.",
+                       "page":  250,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1736,
+                       "verseNumber":  15,
+                       "arabic":  "وَلِلّٰهِ يَسْجُدُ مَنْ فِى السَّمٰوَاتِ وَالْاَرْضِ طَوْعًا وَكَرْهًا وَظِلَالُهُمْ بِالْغُدُوِّ وَالْاٰصَالِ",
+                       "meal":  "Göklerde ve yerde bulunanlar da onların gölgeleri de sabah akşam ister istemez sadece Allah\u0027a secde ederler.",
+                       "page":  250,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1737,
+                       "verseNumber":  16,
+                       "arabic":  "قُلْ مَنْ رَبُّ السَّمٰوَاتِ وَالْاَرْضِۜ قُلِ اللّٰهُۜ قُلْ اَفَاتَّخَذْتُمْ مِنْ دُونِهٖٓ اَوْلِيَٓاءَ لَا يَمْلِكُونَ لِاَنْفُسِهِمْ نَفْعًا وَلَا ضَرًّاۜ قُلْ هَلْ يَسْتَوِى الْاَعْمٰى وَالْبَصٖيرُۙ اَمْ هَلْ تَسْتَوِى الظُّلُمَاتُ وَالنُّورُۚ اَمْ جَعَلُوا لِلّٰهِ شُرَكَٓاءَ خَلَقُوا كَخَلْقِهٖ فَتَشَابَهَ الْخَلْقُ عَلَيْهِمْۜ قُلِ اللّٰهُ خَالِقُ كُلِّ شَىْءٍ وَهُوَ الْوَاحِدُ الْقَهَّارُ",
+                       "meal":  "(Resûlüm!) De ki: «Göklerin ve yerin Rabbi kimdir?» De ki: «Allah\u0027tır.» O halde de ki: «O\u0027nu bırakıp da kendilerine fayda ya da zarar verme gücüne sahip olmayan dostlar mı edindiniz?» De ki: «Körle gören bir olur mu hiç? Ya da karanlıklarla aydınlık eşit olur mu?» Yoksa O\u0027nun yarattığı gibi yaratan ortaklar buldular da bu yaratma onlarca birbirine benzer mi göründü? De ki: Allah her şeyi yaratandır. Ve O, birdir, karşı durulamaz güç sahibidir.",
+                       "page":  250,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1738,
+                       "verseNumber":  17,
+                       "arabic":  "اَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً فَسَالَتْ اَوْدِيَةٌ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًاۜ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى النَّارِ ابْتِغَٓاءَ حِلْيَةٍ اَوْ مَتَاعٍ زَبَدٌ مِثْلُهُۜ كَذٰلِكَ يَضْرِبُ اللّٰهُ الْحَقَّ وَالْبَاطِلَۜ فَاَمَّا الزَّبَدُ فَيَذْهَبُ جُفَٓاءًۚ وَاَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِى الْاَرْضِۜ كَذٰلِكَ يَضْرِبُ اللّٰهُ الْاَمْثَالَۜ",
+                       "meal":  "O, gökten su indirdi de vâdiler kendi hacimlerince sel olup aktı. Bu sel, üste çıkan bir köpüğü yüklenip götürdü. Süs veya (diğer) eşya yapmak isteyerek ateşte erittikleri şeylerden de buna benzer köpük olur. İşte Allah hak ile bâtıla böyle misal verir. Köpük atılıp gider. İnsanlara fayda veren şeye gelince, o yeryüzünde kalır. İşte Allah böyle misaller getirir.",
+                       "page":  250,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1739,
+                       "verseNumber":  18,
+                       "arabic":  "لِلَّذٖينَ اسْتَجَابُوا لِرَبِّهِمُ الْحُسْنٰىۜ وَالَّذٖينَ لَمْ يَسْتَجٖيبُوا لَهُ لَوْ اَنَّ لَهُمْ مَا فِى الْاَرْضِ جَمٖيعًا وَمِثْلَهُ مَعَهُ لَافْتَدَوْا بِهٖۜ اُو۬لٰٓئِكَ لَهُمْ سُٓوءُ الْحِسَابِۙ وَمَاْوٰيهُمْ جَهَنَّمُۜ وَبِئْسَ الْمِهَادُ۟",
+                       "meal":  "İşte Rablerinin emrine uyanlar için en güzel (mükâfat) vardır. Ona uymayanlara gelince, eğer yeryüzünde olanların tümü ile bunun yanında bir misli daha kendilerinin olsa, (kurtulmak için) onu mutlaka feda ederler. İşte onlar var ya, hesabın en kötüsü onlaradır. Varacakları yer de cehennemdir. O ne kötü yataktır!",
+                       "page":  250,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1740,
+                       "verseNumber":  19,
+                       "arabic":  "اَفَمَنْ يَعْلَمُ اَنَّمَٓا اُنْزِلَ اِلَيْكَ مِنْ رَبِّكَ الْحَقُّ كَمَنْ هُوَ اَعْمٰىۜ اِنَّمَا يَتَذَكَّرُ اُو۬لُوا الْاَلْبَابِۙ",
+                       "meal":  "Rabbinden sana indirilenin hak olduğunu bilen kimse, (inkâr eden) kör kimse gibi olur mu? (Fakat bunu) ancak akıl sahipleri anlar.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1741,
+                       "verseNumber":  20,
+                       "arabic":  "اَلَّذٖينَ يُوفُونَ بِعَهْدِ اللّٰهِ وَلَا يَنْقُضُونَ الْمٖيثَاقَۙ",
+                       "meal":  "Onlar, Allah\u0027ın ahdini yerine getirenler ve verdikleri sözü bozmayanlardır.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1742,
+                       "verseNumber":  21,
+                       "arabic":  "وَالَّذٖينَ يَصِلُونَ مَٓا اَمَرَ اللّٰهُ بِهٖٓ اَنْ يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُٓوءَ الْحِسَابِۜ",
+                       "meal":  "Onlar Allah\u0027ın gözetilmesini emrettiği şeyleri gözeten, Rablerinden sakınan ve kötü hesaptan korkan kimselerdir.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1743,
+                       "verseNumber":  22,
+                       "arabic":  "وَالَّذٖينَ صَبَرُوا ابْتِغَٓاءَ وَجْهِ رَبِّهِمْ وَاَقَامُوا الصَّلٰوةَ وَاَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَؤُ۫نَ بِالْحَسَنَةِ السَّيِّئَةَ اُو۬لٰٓئِكَ لَهُمْ عُقْبَى الدَّارِۙ",
+                       "meal":  "Yine onlar, Rablerinin rızasını isteyerek sabreden, namazı dosdoğru kılan, kendilerine verdiğimiz rızıklardan gizli ve açık olarak (Allah yolunda) harcayan ve kötülüğü iyilikle savan kimselerdir. İşte onlar var ya, dünya yurdunun (güzel) sonu sadece onlarındır.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1744,
+                       "verseNumber":  23,
+                       "arabic":  "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ اٰبَٓائِهِمْ وَاَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ وَالْمَلٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِمْ مِنْ كُلِّ بَابٍۚ",
+                       "meal":  "(O yurt) Adn cennetleridir# oraya babalarından, eşlerinden ve çocuklarından sâlih olanlarla beraber girecekler, melekler de her kapıdan onların yanına varacaklardır.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1745,
+                       "verseNumber":  24,
+                       "arabic":  "سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِۜ",
+                       "meal":  "(Melekler:) Sabrettiğinize karşılık size selam olsun! Dünya yurdunun sonu (cennet) ne güzeldir! (derler).",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1746,
+                       "verseNumber":  25,
+                       "arabic":  "وَالَّذٖينَ يَنْقُضُونَ عَهْدَ اللّٰهِ مِنْ بَعْدِ مٖيثَاقِهٖ وَيَقْطَعُونَ مَٓا اَمَرَ اللّٰهُ بِهٖٓ اَنْ يُوصَلَ وَيُفْسِدُونَ فِى الْاَرْضِۙ اُو۬لٰٓئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُٓوءُ الدَّارِ",
+                       "meal":  "Allah\u0027a verdikleri sözü kuvvetle pekiştirdikten sonra bozanlar, Allah\u0027ın riayet edilmesini emrettiği şeyleri (akrabalık bağlarını) terk edenler ve yeryüzünde fesat çıkaranlar# işte lânet onlar içindir. Ve kötü yurt (cehennem) onlarındır.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1747,
+                       "verseNumber":  26,
+                       "arabic":  "اَللّٰهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَٓاءُ وَيَقْدِرُۜ وَفَرِحُوا بِالْحَيٰوةِ الدُّنْيَاۜ وَمَا الْحَيٰوةُ الدُّنْيَا فِى الْاٰخِرَةِ اِلَّا مَتَاعٌ۟",
+                       "meal":  "Allah dilediğine rızkını bollaştırır da daraltır da. Onlar dünya hayatıyla şımardılar. Oysa ahiretin yanında dünya hayatı, geçici bir faydadan başka bir şey değildir.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1748,
+                       "verseNumber":  27,
+                       "arabic":  "وَيَقُولُ الَّذٖينَ كَفَرُوا لَوْلَٓا اُنْزِلَ عَلَيْهِ اٰيَةٌ مِنْ رَبِّهٖۜ قُلْ اِنَّ اللّٰهَ يُضِلُّ مَنْ يَشَٓاءُ وَيَهْدٖٓى اِلَيْهِ مَنْ اَنَابَۚ",
+                       "meal":  "Kâfir olanlar diyorlar ki: Ona Rabbinden bir mucize indirilmeli değil miydi? De ki: Kuşkusuz Allah dilediğini saptırır, kendisine yöneleni de hidayete erdirir.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1749,
+                       "verseNumber":  28,
+                       "arabic":  "اَلَّذٖينَ اٰمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللّٰهِۜ اَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ الْقُلُوبُۜ",
+                       "meal":  "Bunlar, iman edenler ve gönülleri Allah\u0027ın zikriyle sükûnete erenlerdir. Bilesiniz ki, kalpler ancak Allah\u0027ı anmakla huzur bulur.",
+                       "page":  251,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1750,
+                       "verseNumber":  29,
+                       "arabic":  "اَلَّذٖينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبٰى لَهُمْ وَحُسْنُ مَاٰبٍ",
+                       "meal":  "İman edip iyi işler yapanlara ne mutlu! Varılacak güzel yurt da onlar içindir.",
+                       "page":  252,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1751,
+                       "verseNumber":  30,
+                       "arabic":  "كَذٰلِكَ اَرْسَلْنَاكَ فٖٓى اُمَّةٍ قَدْ خَلَتْ مِنْ قَبْلِهَٓا اُمَمٌ لِتَتْلُوَ۬ا عَلَيْهِمُ الَّذٖٓى اَوْحَيْنَٓا اِلَيْكَ وَهُمْ يَكْفُرُونَ بِالرَّحْمٰنِۜ قُلْ هُوَ رَبّٖى لَٓا اِلٰهَ اِلَّا هُوَۚ عَلَيْهِ تَوَكَّلْتُ وَاِلَيْهِ مَتَابِ",
+                       "meal":  "(Ey Muhammed!) Böylece seni, kendilerinden önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik ki, sana vahyettiğimizi onlara okuyasın. Onlar Rahman\u0027ı inkâr ediyorlar. De ki: O benim Rabbimdir. O\u0027ndan başka tanrı yoktur. Sadece O\u0027na tevekkül ettim ve dönüş sadece O\u0027nadır.",
+                       "page":  252,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1752,
+                       "verseNumber":  31,
+                       "arabic":  "وَلَوْ اَنَّ قُرْاٰنًا سُيِّرَتْ بِهِ الْجِبَالُ اَوْ قُطِّعَتْ بِهِ الْاَرْضُ اَوْ كُلِّمَ بِهِ الْمَوْتٰىۜ بَلْ لِلّٰهِ الْاَمْرُ جَمٖيعًاۜ اَفَلَمْ يَايْـَٔسِ الَّذٖينَ اٰمَنُٓوا اَنْ لَوْ يَشَٓاءُ اللّٰهُ لَهَدَى النَّاسَ جَمٖيعًاۜ وَلَا يَزَالُ الَّذٖينَ كَفَرُوا تُصٖيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ اَوْ تَحُلُّ قَرٖيبًا مِنْ دَارِهِمْ حَتّٰى يَاْتِىَ وَعْدُ اللّٰهِۜ اِنَّ اللّٰهَ لَا يُخْلِفُ الْمٖيعَادَ۟",
+                       "meal":  "Eğer okunan bir Kitapla dağlar yürütülseydi veya onunla yer parçalansaydı, yahut onunla ölüler konuşturulsaydı (o Kitap yine bu Kur\u0027an olacaktı). Fakat bütün işler Allah\u0027a aittir. İman edenler hâla bilmediler mi ki, Allah dileseydi bütün insanları hidayete erdirirdi? Allah\u0027ın vâdi gelinceye kadar inkâr edenlere, yaptıklarından dolayı ya ansızın büyük bir belâ gelmeye devam edecek veya o belâ evlerinin yakınına inecek. Allah, vâdinden asla dönmez.",
+                       "page":  252,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1753,
+                       "verseNumber":  32,
+                       "arabic":  "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِنْ قَبْلِكَ فَاَمْلَيْتُ لِلَّذٖينَ كَفَرُوا ثُمَّ اَخَذْتُهُمْ۠ فَكَيْفَ كَانَ عِقَابِ",
+                       "meal":  "Andolsun, senden önceki peygamberlerle de alay edildi de ben inkâr edenlere mühlet verdim, sonra da onları yakaladım. (Görseydin ki) azabım nasılmış!",
+                       "page":  252,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1754,
+                       "verseNumber":  33,
+                       "arabic":  "اَفَمَنْ هُوَ قَٓائِمٌ عَلٰى كُلِّ نَفْسٍ بِمَا كَسَبَتْۚ وَجَعَلُوا لِلّٰهِ شُرَكَٓاءَۜ قُلْ سَمُّوهُمْۜ اَمْ تُنَبِّؤُ۫نَهُ بِمَا لَا يَعْلَمُ فِى الْاَرْضِ اَمْ بِظَاهِرٍ مِنَ الْقَوْلِۜ بَلْ زُيِّنَ لِلَّذٖينَ كَفَرُوا مَكْرُهُمْ وَصُدُّوا عَنِ السَّبٖيلِۜ وَمَنْ يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍ",
+                       "meal":  "Herkesin kazandığını gözetleyip muhafaza eden, (hiç böyle yapamayan gibi olur mu?). Onlar Allah\u0027a ortaklar koştular. De ki: «Onlara ad verin (onlar necidir?). Yoksa siz Allah\u0027a yeryüzünde bilemeyeceği bir şeyi mi haber veriyorsunuz? Yahut boş laf mı ediyorsunuz?» Doğrusu inkâr edenlere hileleri süslü gösterildi ve onlar doğru yoldan alıkonuldular. Allah kimi saptırırsa artık onu doğru yola iletecek yoktur.",
+                       "page":  252,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1755,
+                       "verseNumber":  34,
+                       "arabic":  "لَهُمْ عَذَابٌ فِى الْحَيٰوةِ الدُّنْيَا وَلَعَذَابُ الْاٰخِرَةِ اَشَقُّۚ وَمَا لَهُمْ مِنَ اللّٰهِ مِنْ وَاقٍ",
+                       "meal":  "Dünya hayatında onlara sadece bir azap vardır. Ahiret azabı ise daha şiddetlidir. Onları Allah\u0027tan (onun azabından) koruyacak kimse de yoktur.",
+                       "page":  252,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1756,
+                       "verseNumber":  35,
+                       "arabic":  "مَثَلُ الْجَنَّةِ الَّتٖى وُعِدَ الْمُتَّقُونَۜ تَجْرٖى مِنْ تَحْتِهَا الْاَنْهَارُۜ اُكُلُهَا دَٓائِمٌ وَظِلُّهَاۜ تِلْكَ عُقْبَى الَّذٖينَ اتَّقَوْاۗ وَعُقْبَى الْكَافِرٖينَ النَّارُ",
+                       "meal":  "Takvâ sahiplerine vâdolunan cennetin özelliği (şudur): Onun zemininden ırmaklar akar. Yemişleri ve gölgesi süreklidir. İşte bu, (kötülüklerden) sakınanların (mutlu) sonudur. Kâfirlerin sonu ise ateştir.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1757,
+                       "verseNumber":  36,
+                       "arabic":  "وَالَّذٖينَ اٰتَيْنَاهُمُ الْكِتَابَ يَفْرَحُونَ بِمَٓا اُنْزِلَ اِلَيْكَ وَمِنَ الْاَحْزَابِ مَنْ يُنْكِرُ بَعْضَهُۜ قُلْ اِنَّمَٓا اُمِرْتُ اَنْ اَعْبُدَ اللّٰهَ وَلَٓا اُشْرِكَ بِهٖۜ اِلَيْهِ اَدْعُوا وَاِلَيْهِ مَاٰبِ",
+                       "meal":  "Kendilerine kitap verdiğimiz kimseler, sana indirilene (Kur\u0027an\u0027a) sevinirler. Fakat (senin aleyhinde birleşen) guruplardan onun bir kısmını inkâr eden de vardır. De ki: «Bana, sadece Allah\u0027a kulluk etmem ve O\u0027na ortak koşmamam emrolundu. Ben yalnız O\u0027na çağırıyorum ve dönüş de yalnız O\u0027nadır.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1758,
+                       "verseNumber":  37,
+                       "arabic":  "وَكَذٰلِكَ اَنْزَلْنَاهُ حُكْمًا عَرَبِيًّاۜ وَلَئِنِ اتَّبَعْتَ اَهْوَٓاءَهُمْ بَعْدَ مَا جَٓاءَكَ مِنَ الْعِلْمِۙ مَا لَكَ مِنَ اللّٰهِ مِنْ وَلِىٍّ وَلَا وَاقٍ۟",
+                       "meal":  "Ve böylece biz onu Arapça bir hüküm (hikmetli bir söz) olarak indirdik. Eğer sana gelen bu ilimden sonra, onların arzularına uyarsan, (işte o zaman) Allah tarafından senin ne bir dostun ne de koruyucun vardır.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1759,
+                       "verseNumber":  38,
+                       "arabic":  "وَلَقَدْ اَرْسَلْنَا رُسُلًا مِنْ قَبْلِكَ وَجَعَلْنَا لَهُمْ اَزْوَاجًا وَذُرِّيَّةًۜ وَمَا كَانَ لِرَسُولٍ اَنْ يَاْتِىَ بِاٰيَةٍ اِلَّا بِاِذْنِ اللّٰهِۜ لِكُلِّ اَجَلٍ كِتَابٌ",
+                       "meal":  "Andolsun senden önce de peygamberler gönderdik ve onlara da eşler ve çocuklar verdik. Allah\u0027ın izni olmadan hiçbir peygamber için mucize getirme imkânı yoktur. Her müddetin (yazıldığı) bir kitap vardır.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1760,
+                       "verseNumber":  39,
+                       "arabic":  "يَمْحُوا اللّٰهُ مَا يَشَٓاءُ وَيُثْبِتُۚ وَعِنْدَهُٓ اُمُّ الْكِتَابِ",
+                       "meal":  "Allah dilediğini siler, (dilediğini de) sabit bırakır. Bütün kitapların aslı onun yanındadır.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1761,
+                       "verseNumber":  40,
+                       "arabic":  "وَاِنْ مَا نُرِيَنَّكَ بَعْضَ الَّذٖى نَعِدُهُمْ اَوْ نَتَوَفَّيَنَّكَ فَاِنَّمَا عَلَيْكَ الْبَلَاغُ وَعَلَيْنَا الْحِسَابُ",
+                       "meal":  "Biz, onlara vâdettiğimizin (azabın) bir kısmını sana göstersek de veya (ondan önce) seni öldürürsek de sana ancak (Allah\u0027ın emirlerini) tebliğ etmek düşer. Hesap yalnız bize aittir.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1762,
+                       "verseNumber":  41,
+                       "arabic":  "اَوَلَمْ يَرَوْا اَنَّا نَاْتِى الْاَرْضَ نَنْقُصُهَا مِنْ اَطْرَافِهَاۜ وَاللّٰهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهٖۜ وَهُوَ سَرٖيعُ الْحِسَابِ",
+                       "meal":  "Bizim, yeryüzüne gelip, onu uçlarından eksilttiğimizi görmediler mi? Allah (dilediği gibi) hükmeder, O\u0027nun hükmünü bozacak kimse yoktur. Ve O hesabı çabuk görendir.",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1763,
+                       "verseNumber":  42,
+                       "arabic":  "وَقَدْ مَكَرَ الَّذٖينَ مِنْ قَبْلِهِمْ فَلِلّٰهِ الْمَكْرُ جَمٖيعًاۜ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍۜ وَسَيَعْلَمُ الْكُفَّارُ لِمَنْ عُقْبَى الدَّارِ",
+                       "meal":  "Onlardan öncekiler de (peygamberlerine) tuzak kurmuşlardı# halbuki bütün tuzaklar Allah\u0027a aittir. Çünkü O, herkesin ne kazanacağını bilir. Bu yurdun (dünyanın) sonunun kimin olduğunu yakında kâfirler bileceklerdir!",
+                       "page":  253,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1764,
+                       "verseNumber":  43,
+                       "arabic":  "وَيَقُولُ الَّذٖينَ كَفَرُوا لَسْتَ مُرْسَلًاۜ قُلْ كَفٰى بِاللّٰهِ شَهٖيدًا بَيْنٖى وَبَيْنَكُمْۙ وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ",
+                       "meal":  "Kâfir olanlar: Sen resûl olarak gönderilmiş bir kimse değilsin, derler. De ki: Benimle sizin aranızda şahit olarak Allah ve yanında Kitab\u0027ın bilgisi olan (Peygamber) yeter.",
+                       "page":  254,
+                       "juz":  13
+                   }
+               ]
+}

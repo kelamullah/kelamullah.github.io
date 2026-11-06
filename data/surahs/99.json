@@ -1,0 +1,77 @@
+﻿{
+    "surah":  {
+                  "surahId":  99,
+                  "name":  "Zilzâl",
+                  "nameArabic":  "سُورَةُ الزِّلْزَالِ",
+                  "verseCount":  8,
+                  "page":  599,
+                  "juz":  30,
+                  "nameEn":  "Az-Zalzalah"
+              },
+    "verses":  [
+                   {
+                       "id":  6239,
+                       "verseNumber":  1,
+                       "arabic":  "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+                       "meal":  "Yerküre kendine has sarsıntısıyla sallandığı, toprak ağırlıklarını dışarı çıkardığı ve insan «Ne oluyor buna!» dediği vakit, işte o gün (yer) Rabbinin ona bildirmesiyle bütün haberlerini anlatır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6240,
+                       "verseNumber":  2,
+                       "arabic":  "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+                       "meal":  "Yerküre kendine has sarsıntısıyla sallandığı, toprak ağırlıklarını dışarı çıkardığı ve insan «Ne oluyor buna!» dediği vakit, işte o gün (yer) Rabbinin ona bildirmesiyle bütün haberlerini anlatır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6241,
+                       "verseNumber":  3,
+                       "arabic":  "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+                       "meal":  "Yerküre kendine has sarsıntısıyla sallandığı, toprak ağırlıklarını dışarı çıkardığı ve insan «Ne oluyor buna!» dediği vakit, işte o gün (yer) Rabbinin ona bildirmesiyle bütün haberlerini anlatır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6242,
+                       "verseNumber":  4,
+                       "arabic":  "يَوْمَئِذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+                       "meal":  "Yerküre kendine has sarsıntısıyla sallandığı, toprak ağırlıklarını dışarı çıkardığı ve insan «Ne oluyor buna!» dediği vakit, işte o gün (yer) Rabbinin ona bildirmesiyle bütün haberlerini anlatır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6243,
+                       "verseNumber":  5,
+                       "arabic":  "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۜ",
+                       "meal":  "Yerküre kendine has sarsıntısıyla sallandığı, toprak ağırlıklarını dışarı çıkardığı ve insan «Ne oluyor buna!» dediği vakit, işte o gün (yer) Rabbinin ona bildirmesiyle bütün haberlerini anlatır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6244,
+                       "verseNumber":  6,
+                       "arabic":  "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتًا لِيُرَوْا اَعْمَالَهُمْۜ",
+                       "meal":  "O gün insanlar amellerini görmeleri (karşılığını almaları) için darmadağınık geri dönüp gelirler.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6245,
+                       "verseNumber":  7,
+                       "arabic":  "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۜ",
+                       "meal":  "Kim zerre miktarı hayır yapmışsa onu görür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6246,
+                       "verseNumber":  8,
+                       "arabic":  "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+                       "meal":  "Kim de zerre miktarı şer işlemişse onu görür.",
+                       "page":  599,
+                       "juz":  30
+                   }
+               ]
+}

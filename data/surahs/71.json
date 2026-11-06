@@ -1,0 +1,237 @@
+﻿{
+    "surah":  {
+                  "surahId":  71,
+                  "name":  "Nûh",
+                  "nameArabic":  "سُورَةُ نُوحٍ",
+                  "verseCount":  28,
+                  "page":  569,
+                  "juz":  29,
+                  "nameEn":  "Nuh"
+              },
+    "verses":  [
+                   {
+                       "id":  5492,
+                       "verseNumber":  1,
+                       "arabic":  "اِنَّٓا اَرْسَلْنَا نُوحًا اِلٰى قَوْمِهٖٓ اَنْ اَنْذِرْ قَوْمَكَ مِنْ قَبْلِ اَنْ يَاْتِيَهُمْ عَذَابٌ اَلٖيمٌ",
+                       "meal":  "Kendilerine yakıcı bir azap gelmeden önce kavmini uyar, diye Nuh\u0027u kendi kavmine gönderdik.",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5493,
+                       "verseNumber":  2,
+                       "arabic":  "قَالَ يَا قَوْمِ اِنّٖى لَكُمْ نَذٖيرٌ مُبٖينٌۙ",
+                       "meal":  "Nuh şöyle dedi: Ey kavmim! Şüpheniz olmasın ki, ben sizi, «Allah\u0027a kulluk edin# O\u0027na karşı gelmekten sakının ve bana itaat edin ki, Allah bir kısım günahlarınızı bağışlasın ve sizi belli bir vâdeye kadar tehir etsin (muahaze etmeden yaşatsın)» diyerek apaçık uyaran bir kimseyim. Bilinmeli ki Allah\u0027ın tayin ettiği vâde gelince, artık o ertelenmez. Keşke bilseydiniz!",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5494,
+                       "verseNumber":  3,
+                       "arabic":  "اَنِ اعْبُدُوا اللّٰهَ وَاتَّقُوهُ وَاَطٖيعُونِۙ",
+                       "meal":  "Nuh şöyle dedi: Ey kavmim! Şüpheniz olmasın ki, ben sizi, «Allah\u0027a kulluk edin# O\u0027na karşı gelmekten sakının ve bana itaat edin ki, Allah bir kısım günahlarınızı bağışlasın ve sizi belli bir vâdeye kadar tehir etsin (muahaze etmeden yaşatsın)» diyerek apaçık uyaran bir kimseyim. Bilinmeli ki Allah\u0027ın tayin ettiği vâde gelince, artık o ertelenmez. Keşke bilseydiniz!",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5495,
+                       "verseNumber":  4,
+                       "arabic":  "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ اِلٰٓى اَجَلٍ مُسَمًّىۜ اِنَّ اَجَلَ اللّٰهِ اِذَا جَٓاءَ لَا يُؤَخَّرُۘ لَوْ كُنْتُمْ تَعْلَمُونَ",
+                       "meal":  "Nuh şöyle dedi: Ey kavmim! Şüpheniz olmasın ki, ben sizi, «Allah\u0027a kulluk edin# O\u0027na karşı gelmekten sakının ve bana itaat edin ki, Allah bir kısım günahlarınızı bağışlasın ve sizi belli bir vâdeye kadar tehir etsin (muahaze etmeden yaşatsın)» diyerek apaçık uyaran bir kimseyim. Bilinmeli ki Allah\u0027ın tayin ettiği vâde gelince, artık o ertelenmez. Keşke bilseydiniz!",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5496,
+                       "verseNumber":  5,
+                       "arabic":  "قَالَ رَبِّ اِنّٖى دَعَوْتُ قَوْمٖى لَيْلًا وَنَهَارًاۙ",
+                       "meal":  "(Sonra Nuh:) Rabbim! dedi, doğrusu ben kavmimi gece gündüz (imana) davet ettim#",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5497,
+                       "verseNumber":  6,
+                       "arabic":  "فَلَمْ يَزِدْهُمْ دُعَٓائٖٓ اِلَّا فِرَارًا",
+                       "meal":  "Fakat benim davetim, ancak kaçmalarını arttırdı.",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5498,
+                       "verseNumber":  7,
+                       "arabic":  "وَاِنّٖى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُٓوا اَصَابِعَهُمْ فٖٓى اٰذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَاَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًاۚ",
+                       "meal":  "Gerçekten de, (imana gelmeleri ve böylece) günahlarını bağışlaman için onları ne zaman davet ettiysem, parmaklarını kulaklarına tıkadılar, (beni görmemek için) elbiselerine büründüler, ayak dirediler, kibirlendikçe kibirlendiler.",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5499,
+                       "verseNumber":  8,
+                       "arabic":  "ثُمَّ اِنّٖى دَعَوْتُهُمْ جِهَارًاۙ",
+                       "meal":  "Sonra, ben kendilerine haykırarak davette bulundum.",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5500,
+                       "verseNumber":  9,
+                       "arabic":  "ثُمَّ اِنّٖٓى اَعْلَنْتُ لَهُمْ وَاَسْرَرْتُ لَهُمْ اِسْرَارًاۙ",
+                       "meal":  "Sonra, onlarla hem açıktan açığa hem de gizli gizli konuştum.",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5501,
+                       "verseNumber":  10,
+                       "arabic":  "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ اِنَّهُ كَانَ غَفَّارًاۙ",
+                       "meal":  "Dedim ki: Rabbinizden mağfiret dileyin# çünkü O çok bağışlayıcıdır.",
+                       "page":  569,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5502,
+                       "verseNumber":  11,
+                       "arabic":  "يُرْسِلِ السَّمَٓاءَ عَلَيْكُمْ مِدْرَارًاۙ",
+                       "meal":  "(Mağfiret dileyin ki,) üzerinize gökten bol bol yağmur indirsin,",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5503,
+                       "verseNumber":  12,
+                       "arabic":  "وَيُمْدِدْكُمْ بِاَمْوَالٍ وَبَنٖينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ اَنْهَارًاۜ",
+                       "meal":  "Mallarınızı ve oğullarınızı çoğaltsın, size bahçeler ihsan etsin, sizin için ırmaklar akıtsın.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5504,
+                       "verseNumber":  13,
+                       "arabic":  "مَا لَكُمْ لَا تَرْجُونَ لِلّٰهِ وَقَارًاۚ",
+                       "meal":  "Size ne oluyor ki, Allah\u0027a büyüklüğü yakıştıramıyorsunuz?",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5505,
+                       "verseNumber":  14,
+                       "arabic":  "وَقَدْ خَلَقَكُمْ اَطْوَارًا",
+                       "meal":  "Oysa, sizi türlü merhalelerden geçirerek O yaratmıştır.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5506,
+                       "verseNumber":  15,
+                       "arabic":  "اَلَمْ تَرَوْا كَيْفَ خَلَقَ اللّٰهُ سَبْعَ سَمٰوَاتٍ طِبَاقًاۙ",
+                       "meal":  "Görmediniz mi, Allah yedi göğü birbiriyle ahenktar olarak nasıl yaratmış!",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5507,
+                       "verseNumber":  16,
+                       "arabic":  "وَجَعَلَ الْقَمَرَ فٖيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+                       "meal":  "Onların içinde ayı bir nûr kılmış, güneşi de bir çerağ yapmıştır.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5508,
+                       "verseNumber":  17,
+                       "arabic":  "وَاللّٰهُ اَنْبَتَكُمْ مِنَ الْاَرْضِ نَبَاتًاۙ",
+                       "meal":  "Allah, sizi de yerden ot (bitirir) gibi bitirmiştir.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5509,
+                       "verseNumber":  18,
+                       "arabic":  "ثُمَّ يُعٖيدُكُمْ فٖيهَا وَيُخْرِجُكُمْ اِخْرَاجًا",
+                       "meal":  "Sonra sizi yine oraya döndürecek ve sizi yeniden çıkaracaktır.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5510,
+                       "verseNumber":  19,
+                       "arabic":  "وَاللّٰهُ جَعَلَ لَكُمُ الْاَرْضَ بِسَاطًاۙ",
+                       "meal":  "Allah, onda geniş yollar edinip dolaşabilesiniz diye, yeryüzünü sizin için bir sergi yapmıştır.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5511,
+                       "verseNumber":  20,
+                       "arabic":  "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا۟",
+                       "meal":  "Allah, onda geniş yollar edinip dolaşabilesiniz diye, yeryüzünü sizin için bir sergi yapmıştır.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5512,
+                       "verseNumber":  21,
+                       "arabic":  "قَالَ نُوحٌ رَبِّ اِنَّهُمْ عَصَوْنٖى وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُٓ اِلَّا خَسَارًاۚ",
+                       "meal":  "(Öğütlerinin fayda vermemesi üzerine) Nuh: Rabbim! dedi, doğrusu bunlar bana karşı geldiler de, malı ve çocuğu kendi ziyanını arttırmaktan başka işe yaramayan kimseye uydular.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5513,
+                       "verseNumber":  22,
+                       "arabic":  "وَمَكَرُوا مَكْرًا كُبَّارًاۚ",
+                       "meal":  "Bunlar da, büyük hileler, büyük desiseler kurdular!",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5514,
+                       "verseNumber":  23,
+                       "arabic":  "وَقَالُوا لَا تَذَرُنَّ اٰلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًاۙ وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًاۚ",
+                       "meal":  "Ve dediler ki: Sakın ilâhlarınızı bırakmayın# hele Ved\u0027den, Suvâ\u0027dan, Yeğûs\u0027tan, Ye\u0027ûk\u0027tan ve Nesr\u0027den asla vazgeçmeyin!",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5515,
+                       "verseNumber":  24,
+                       "arabic":  "وَقَدْ اَضَلُّوا كَثٖيرًاۚ وَلَا تَزِدِ الظَّالِمٖينَ اِلَّا ضَلَالًا",
+                       "meal":  "(Böylece) onlar gerçekten birçoklarını saptırdılar. (Rabbim!) Sen de bu zalimlerin ancak şaşkınlıklarını arttır!",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5516,
+                       "verseNumber":  25,
+                       "arabic":  "مِمَّا خَطٖٓيـَٔاتِهِمْ اُغْرِقُوا فَاُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللّٰهِ اَنْصَارًا",
+                       "meal":  "Bunlar, günahları yüzünden suda boğuldular, ardından da ateşe sokuldular ve o zaman Allah\u0027a karşı yardımcılar da bulamadılar.",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5517,
+                       "verseNumber":  26,
+                       "arabic":  "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْاَرْضِ مِنَ الْكَافِرٖينَ دَيَّارًا",
+                       "meal":  "Nuh: «Rabbim! dedi, yeryüzünde kâfirlerden hiç kimseyi bırakma!»",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5518,
+                       "verseNumber":  27,
+                       "arabic":  "اِنَّكَ اِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُٓوا اِلَّا فَاجِرًا كَفَّارًا",
+                       "meal":  "«Çünkü sen onları bırakırsan kullarını saptırırlar# yalnız ahlâksız, nankör (insanlar) doğururlar (yetiştirirler).»",
+                       "page":  570,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5519,
+                       "verseNumber":  28,
+                       "arabic":  "رَبِّ اغْفِرْ لٖى وَلِوَالِدَىَّ وَلِمَنْ دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِۜ وَلَا تَزِدِ الظَّالِمٖينَ اِلَّا تَبَارًا",
+                       "meal":  "«Rabbim! Beni, ana-babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla, zalimlerin de ancak helâkini arttır.»",
+                       "page":  570,
+                       "juz":  29
+                   }
+               ]
+}

@@ -1,0 +1,381 @@
+﻿{
+    "surah":  {
+                  "surahId":  79,
+                  "name":  "Naziât",
+                  "nameArabic":  "سُورَةُ النَّازِعَاتِ",
+                  "verseCount":  46,
+                  "page":  582,
+                  "juz":  30,
+                  "nameEn":  "An-Nazi\u0027at"
+              },
+    "verses":  [
+                   {
+                       "id":  5793,
+                       "verseNumber":  1,
+                       "arabic":  "وَالنَّازِعَاتِ غَرْقًاۙ",
+                       "meal":  "Söküp çıkaranlara, yavaşça çekenlere, yüzdükçe yüzenlere, yarıştıkça yarışanlara, iş düzenleyenlere andolsun#",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5794,
+                       "verseNumber":  2,
+                       "arabic":  "وَالنَّاشِطَاتِ نَشْطًاۙ",
+                       "meal":  "Söküp çıkaranlara, yavaşça çekenlere, yüzdükçe yüzenlere, yarıştıkça yarışanlara, iş düzenleyenlere andolsun#",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5795,
+                       "verseNumber":  3,
+                       "arabic":  "وَالسَّابِحَاتِ سَبْحًاۙ",
+                       "meal":  "Söküp çıkaranlara, yavaşça çekenlere, yüzdükçe yüzenlere, yarıştıkça yarışanlara, iş düzenleyenlere andolsun#",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5796,
+                       "verseNumber":  4,
+                       "arabic":  "فَالسَّابِقَاتِ سَبْقًاۙ",
+                       "meal":  "Söküp çıkaranlara, yavaşça çekenlere, yüzdükçe yüzenlere, yarıştıkça yarışanlara, iş düzenleyenlere andolsun#",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5797,
+                       "verseNumber":  5,
+                       "arabic":  "فَالْمُدَبِّرَاتِ اَمْرًاۘ",
+                       "meal":  "Söküp çıkaranlara, yavaşça çekenlere, yüzdükçe yüzenlere, yarıştıkça yarışanlara, iş düzenleyenlere andolsun#",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5798,
+                       "verseNumber":  6,
+                       "arabic":  "يَوْمَ تَرْجُفُ الرَّاجِفَةُۙ",
+                       "meal":  "Birinci üflemenin (kâinatı) sarstığı, onu ikinci üflemenin takip ettiği gün, işte o gün yürekler kaygıdan oynar, gözlerini korku bürür.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5799,
+                       "verseNumber":  7,
+                       "arabic":  "تَتْبَعُهَا الرَّادِفَةُۜ",
+                       "meal":  "Birinci üflemenin (kâinatı) sarstığı, onu ikinci üflemenin takip ettiği gün, işte o gün yürekler kaygıdan oynar, gözlerini korku bürür.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5800,
+                       "verseNumber":  8,
+                       "arabic":  "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌۙ",
+                       "meal":  "Birinci üflemenin (kâinatı) sarstığı, onu ikinci üflemenin takip ettiği gün, işte o gün yürekler kaygıdan oynar, gözlerini korku bürür.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5801,
+                       "verseNumber":  9,
+                       "arabic":  "اَبْصَارُهَا خَاشِعَةٌۘ",
+                       "meal":  "Birinci üflemenin (kâinatı) sarstığı, onu ikinci üflemenin takip ettiği gün, işte o gün yürekler kaygıdan oynar, gözlerini korku bürür.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5802,
+                       "verseNumber":  10,
+                       "arabic":  "يَقُولُونَ ءَاِنَّا لَمَرْدُودُونَ فِى الْحَافِرَةِۜ",
+                       "meal":  "«Öldükten sonra biz, (dünyadaki) ilk halimize mi döndürüleceğiz, (hem de) çürümüş kemikler olduktan sonra mı?» derler.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5803,
+                       "verseNumber":  11,
+                       "arabic":  "ءَاِذَا كُنَّا عِظَامًا نَخِرَةًۜ",
+                       "meal":  "«Öldükten sonra biz, (dünyadaki) ilk halimize mi döndürüleceğiz, (hem de) çürümüş kemikler olduktan sonra mı?» derler.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5804,
+                       "verseNumber":  12,
+                       "arabic":  "قَالُوا تِلْكَ اِذًا كَرَّةٌ خَاسِرَةٌۘ",
+                       "meal":  "«O zaman bu, ziyanlı bir dönüş olur» dediler.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5805,
+                       "verseNumber":  13,
+                       "arabic":  "فَاِنَّمَا هِىَ زَجْرَةٌ وَاحِدَةٌۙ",
+                       "meal":  "Bu dönüş, sadece bir seslenmeye bakar.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5806,
+                       "verseNumber":  14,
+                       "arabic":  "فَاِذَا هُمْ بِالسَّاهِرَةِۜ",
+                       "meal":  "Birdenbire kendilerini mahşerde buluverirler.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5807,
+                       "verseNumber":  15,
+                       "arabic":  "هَلْ اَتٰيكَ حَدٖيثُ مُوسٰىۘ",
+                       "meal":  "(Habibim!) Sana Musa\u0027nın haberi geldi mi?",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5808,
+                       "verseNumber":  16,
+                       "arabic":  "اِذْ نَادٰيهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًىۚ",
+                       "meal":  "Kutsal vâdi Tuvâ\u0027da Rabbi ona şöyle seslenmişti:",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5809,
+                       "verseNumber":  17,
+                       "arabic":  "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهُ طَغٰىؗ",
+                       "meal":  "Firavun\u0027a git! Çünkü o çok azdı.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5810,
+                       "verseNumber":  18,
+                       "arabic":  "فَقُلْ هَلْ لَكَ اِلٰٓى اَنْ تَزَكّٰىۙ",
+                       "meal":  "De ki: Arınmayı ve seni Rabbimin yoluna iletmemi ister misin? Böylece ondan korkarsın.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5811,
+                       "verseNumber":  19,
+                       "arabic":  "وَاَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰىۚ",
+                       "meal":  "De ki: Arınmayı ve seni Rabbimin yoluna iletmemi ister misin? Böylece ondan korkarsın.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5812,
+                       "verseNumber":  20,
+                       "arabic":  "فَاَرٰيهُ الْاٰيَةَ الْكُبْرٰىؗ",
+                       "meal":  "Ve ona en büyük mucizeyi gösterdi.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5813,
+                       "verseNumber":  21,
+                       "arabic":  "فَكَذَّبَ وَعَصٰىؗ",
+                       "meal":  "(O ise) hemen yalanladı ve isyan etti.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5814,
+                       "verseNumber":  22,
+                       "arabic":  "ثُمَّ اَدْبَرَ يَسْعٰىؗ",
+                       "meal":  "Sonra (inkâr için) olanca çabasını göstermek üzere sırtını döndü.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5815,
+                       "verseNumber":  23,
+                       "arabic":  "فَحَشَرَ فَنَادٰىؗ",
+                       "meal":  "Derhal (adamlarını) topladı ve (onlara) bağırdı:",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5816,
+                       "verseNumber":  24,
+                       "arabic":  "فَقَالَ اَنَا۬ رَبُّكُمُ الْاَعْلٰىؗ",
+                       "meal":  "Ben, sizin en yüce Rabbinizim! dedi.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5817,
+                       "verseNumber":  25,
+                       "arabic":  "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَالْاُو۫لٰىۜ",
+                       "meal":  "Allah onu, (herkese ibret olarak) dünya ve ahiret azabıyla cezalandırdı.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5818,
+                       "verseNumber":  26,
+                       "arabic":  "اِنَّ فٖى ذٰلِكَ لَعِبْرَةً لِمَنْ يَخْشٰىۜ۟",
+                       "meal":  "Elbette bunda, korkan kimseler için büyük bir ibret vardır.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5819,
+                       "verseNumber":  27,
+                       "arabic":  "ءَ‏اَنْتُمْ اَشَدُّ خَلْقًا اَمِ السَّمَٓاءُۜ بَنٰيهَا۠",
+                       "meal":  "Sizi yaratmak mı daha güç, yoksa gökyüzünü yaratmak mı, ki onu Allah bina etti, onu yükseltip düzene koydu. Gecesini kararttı, gündüzünü ağarttı.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5820,
+                       "verseNumber":  28,
+                       "arabic":  "رَفَعَ سَمْكَهَا فَسَوّٰيهَاۙ",
+                       "meal":  "Sizi yaratmak mı daha güç, yoksa gökyüzünü yaratmak mı, ki onu Allah bina etti, onu yükseltip düzene koydu. Gecesini kararttı, gündüzünü ağarttı.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5821,
+                       "verseNumber":  29,
+                       "arabic":  "وَاَغْطَشَ لَيْلَهَا وَاَخْرَجَ ضُحٰيهَاۖ",
+                       "meal":  "Sizi yaratmak mı daha güç, yoksa gökyüzünü yaratmak mı, ki onu Allah bina etti, onu yükseltip düzene koydu. Gecesini kararttı, gündüzünü ağarttı.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5822,
+                       "verseNumber":  30,
+                       "arabic":  "وَالْاَرْضَ بَعْدَ ذٰلِكَ دَحٰيهَاۜ",
+                       "meal":  "Ondan sonra da yerküreyi döşedi. Kendiniz ve hayvanlarınız için bir faydalanma olmak üzere, yerden suyunu ve otlağını çıkardı ve dağları sağlam bir şekilde yerleştirdi.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5823,
+                       "verseNumber":  31,
+                       "arabic":  "اَخْرَجَ مِنْهَا مَٓاءَهَا وَمَرْعٰيهَاۖ",
+                       "meal":  "Ondan sonra da yerküreyi döşedi. Kendiniz ve hayvanlarınız için bir faydalanma olmak üzere, yerden suyunu ve otlağını çıkardı ve dağları sağlam bir şekilde yerleştirdi.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5824,
+                       "verseNumber":  32,
+                       "arabic":  "وَالْجِبَالَ اَرْسٰيهَاۙ",
+                       "meal":  "Ondan sonra da yerküreyi döşedi. Kendiniz ve hayvanlarınız için bir faydalanma olmak üzere, yerden suyunu ve otlağını çıkardı ve dağları sağlam bir şekilde yerleştirdi.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5825,
+                       "verseNumber":  33,
+                       "arabic":  "مَتَاعًا لَكُمْ وَلِاَنْعَامِكُمْۜ",
+                       "meal":  "Ondan sonra da yerküreyi döşedi. Kendiniz ve hayvanlarınız için bir faydalanma olmak üzere, yerden suyunu ve otlağını çıkardı ve dağları sağlam bir şekilde yerleştirdi.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5826,
+                       "verseNumber":  34,
+                       "arabic":  "فَاِذَا جَٓاءَتِ الطَّٓامَّةُ الْكُبْرٰىؗ",
+                       "meal":  "Her şeyi alt üst eden o büyük felâket geldiği vakit, insan dünyada iken ne için çalıştığını hatırlar. Cehennem de gören her kişiye açıklığı ile gösterilir.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5827,
+                       "verseNumber":  35,
+                       "arabic":  "يَوْمَ يَتَذَكَّرُ الْاِنْسَانُ مَا سَعٰىۙ",
+                       "meal":  "Her şeyi alt üst eden o büyük felâket geldiği vakit, insan dünyada iken ne için çalıştığını hatırlar. Cehennem de gören her kişiye açıklığı ile gösterilir.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5828,
+                       "verseNumber":  36,
+                       "arabic":  "وَبُرِّزَتِ الْجَحٖيمُ لِمَنْ يَرٰى",
+                       "meal":  "Her şeyi alt üst eden o büyük felâket geldiği vakit, insan dünyada iken ne için çalıştığını hatırlar. Cehennem de gören her kişiye açıklığı ile gösterilir.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5829,
+                       "verseNumber":  37,
+                       "arabic":  "فَاَمَّا مَنْ طَغٰىۙ",
+                       "meal":  "Azana ve dünya hayatını ahirete tercih edene, şüphesiz cehennem tek barınaktır.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5830,
+                       "verseNumber":  38,
+                       "arabic":  "وَاٰثَرَ الْحَيٰوةَ الدُّنْيَاۙ",
+                       "meal":  "Azana ve dünya hayatını ahirete tercih edene, şüphesiz cehennem tek barınaktır.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5831,
+                       "verseNumber":  39,
+                       "arabic":  "فَاِنَّ الْجَحٖيمَ هِىَ الْمَاْوٰىۜ",
+                       "meal":  "Azana ve dünya hayatını ahirete tercih edene, şüphesiz cehennem tek barınaktır.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5832,
+                       "verseNumber":  40,
+                       "arabic":  "وَاَمَّا مَنْ خَافَ مَقَامَ رَبِّهٖ وَنَهَى النَّفْسَ عَنِ الْهَوٰىۙ",
+                       "meal":  "Rabbinin makamından korkan ve nefsini kötü arzulardan uzaklaştıran için ise şüphesiz cennet yegâne barınaktır.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5833,
+                       "verseNumber":  41,
+                       "arabic":  "فَاِنَّ الْجَنَّةَ هِىَ الْمَاْوٰىۜ",
+                       "meal":  "Rabbinin makamından korkan ve nefsini kötü arzulardan uzaklaştıran için ise şüphesiz cennet yegâne barınaktır.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5834,
+                       "verseNumber":  42,
+                       "arabic":  "يَسْـَٔلُونَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسٰيهَاۜ",
+                       "meal":  "Sana kıyameti sorarlar: Gelip çatması ne zamandır? (derler.)",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5835,
+                       "verseNumber":  43,
+                       "arabic":  "فٖيمَ اَنْتَ مِنْ ذِكْرٰيهَاۜ",
+                       "meal":  "Sen onu nereden bilip bildireceksin!",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5836,
+                       "verseNumber":  44,
+                       "arabic":  "اِلٰى رَبِّكَ مُنْتَهٰيهَاۜ",
+                       "meal":  "Onun nihaî ilmi yalnız Rabbine aittir.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5837,
+                       "verseNumber":  45,
+                       "arabic":  "اِنَّمَٓا اَنْتَ مُنْذِرُ مَنْ يَخْشٰيهَاۜ",
+                       "meal":  "Sen ancak ondan korkanları uyarırsın.",
+                       "page":  583,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5838,
+                       "verseNumber":  46,
+                       "arabic":  "كَاَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُٓوا اِلَّا عَشِيَّةً اَوْ ضُحٰيهَا",
+                       "meal":  "Kıyamet gününü gördüklerinde (dünyada) sadece bir akşam vakti ya da kuşluk zamanı kadar kaldıklarını sanırlar.",
+                       "page":  583,
+                       "juz":  30
+                   }
+               ]
+}

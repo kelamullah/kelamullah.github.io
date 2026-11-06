@@ -1,0 +1,253 @@
+﻿{
+    "surah":  {
+                  "surahId":  67,
+                  "name":  "Mülk",
+                  "nameArabic":  "سُورَةُ الْمُلْكِ",
+                  "verseCount":  30,
+                  "page":  561,
+                  "juz":  29,
+                  "nameEn":  "Al-Mulk"
+              },
+    "verses":  [
+                   {
+                       "id":  5310,
+                       "verseNumber":  1,
+                       "arabic":  "تَبَارَكَ الَّذٖى بِيَدِهِ الْمُلْكُؗ وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدٖيرٌۙ",
+                       "meal":  "Mutlak hükümranlık elinde olan Allah, yüceler yücesidir ve O\u0027nun her şeye gücü yeter.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5311,
+                       "verseNumber":  2,
+                       "arabic":  "اَلَّذٖى خَلَقَ الْمَوْتَ وَالْحَيٰوةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًاۜ وَهُوَ الْعَزٖيزُ الْغَفُورُۙ",
+                       "meal":  "O ki, hanginizin daha güzel davranacağını sınamak için ölümü ve hayatı yaratmıştır. O, mutlak galiptir, çok bağışlayıcıdır.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5312,
+                       "verseNumber":  3,
+                       "arabic":  "اَلَّذٖى خَلَقَ سَبْعَ سَمٰوَاتٍ طِبَاقًاۜ مَا تَرٰى فٖى خَلْقِ الرَّحْمٰنِ مِنْ تَفَاوُتٍۜ فَارْجِعِ الْبَصَرَۙ هَلْ تَرٰى مِنْ فُطُورٍ",
+                       "meal":  "O ki, birbiri ile âhenktar yedi göğü yaratmıştır. Rahmân olan Allah\u0027ın yaratışında hiçbir uygunsuzluk göremezsin. Gözünü çevir de bir bak, bir bozukluk görebiliyor musun?",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5313,
+                       "verseNumber":  4,
+                       "arabic":  "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ اِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسٖيرٌ",
+                       "meal":  "Sonra gözünü, tekrar tekrar çevir bak# göz (aradığı bozukluğu bulmaktan) âciz ve bitkin halde sana dönecektir.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5314,
+                       "verseNumber":  5,
+                       "arabic":  "وَلَقَدْ زَيَّنَّا السَّمَٓاءَ الدُّنْيَا بِمَصَابٖيحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاطٖينِ وَاَعْتَدْنَا لَهُمْ عَذَابَ السَّعٖيرِ",
+                       "meal":  "Andolsun ki biz, (dünyaya) en yakın olan göğü kandillerle donattık. Bunları şeytanlara atış taneleri yaptık ve onlara alevli ateş azabını hazırladık.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5315,
+                       "verseNumber":  6,
+                       "arabic":  "وَلِلَّذٖينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَۜ وَبِئْسَ الْمَصٖيرُ",
+                       "meal":  "Rablerini inkâr edenler için cehennem azabı vardır. O, ne kötü dönüştür!",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5316,
+                       "verseNumber":  7,
+                       "arabic":  "اِذَٓا اُلْقُوا فٖيهَا سَمِعُوا لَهَا شَهٖيقًا وَهِىَ تَفُورُۙ",
+                       "meal":  "Oraya atıldıklarında, onun kaynarken çıkardığı uğultuyu işitirler.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5317,
+                       "verseNumber":  8,
+                       "arabic":  "تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِۜ كُلَّمَٓا اُلْقِىَ فٖيهَا فَوْجٌ سَاَلَهُمْ خَزَنَتُهَٓا اَلَمْ يَاْتِكُمْ نَذٖيرٌ",
+                       "meal":  "Neredeyse cehennem öfkesinden çatlayacak! Her ne zaman oraya bir topluluk atılsa, onun bekçileri onlara: Size, (bu azap ile) korkutucu bir peygamber gelmemiş miydi? diye sorarlar.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5318,
+                       "verseNumber":  9,
+                       "arabic":  "قَالُوا بَلٰى قَدْ جَٓاءَنَا نَذٖيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللّٰهُ مِنْ شَىْءٍۚ اِنْ اَنْتُمْ اِلَّا فٖى ضَلَالٍ كَبٖيرٍ",
+                       "meal":  "Onlar şöyle cevap verirler: Evet, doğrusu bize, (bu azap ile) korkutan bir peygamber gelmişti# fakat biz (onu) yalan saymış ve: Allah\u0027ın bir şey gönderdiği yok# siz olsa olsa büyük bir sapıklık içindesiniz! demiştik.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5319,
+                       "verseNumber":  10,
+                       "arabic":  "وَقَالُوا لَوْ كُنَّا نَسْمَعُ اَوْ نَعْقِلُ مَا كُنَّا فٖٓى اَصْحَابِ السَّعٖيرِ",
+                       "meal":  "Ve: Şayet kulak vermiş veya aklımızı kullanmış olsaydık, (şimdi) şu alevli cehennemin mahkûmları arasında olmazdık! diye ilâve ederler.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5320,
+                       "verseNumber":  11,
+                       "arabic":  "فَاعْتَرَفُوا بِذَنْبِهِمْۚ فَسُحْقًا لِاَصْحَابِ السَّعٖيرِ",
+                       "meal":  "Böylece günahlarını itiraf ederler. Artık (Allah\u0027ın rahmetinden) uzak olsun, o alevli cehennemin mahkûmları!",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5321,
+                       "verseNumber":  12,
+                       "arabic":  "اِنَّ الَّذٖينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَاَجْرٌ كَبٖيرٌ",
+                       "meal":  "Fakat daha görmeden Rablerinden (azabından) korkanlara gelince, onlar için gerçekten hem bağışlanma hem de büyük mükâfat vardır.",
+                       "page":  561,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5322,
+                       "verseNumber":  13,
+                       "arabic":  "وَاَسِرُّوا قَوْلَكُمْ اَوِ اجْهَرُوا بِهٖۜ اِنَّهُ عَلٖيمٌ بِذَاتِ الصُّدُورِ",
+                       "meal":  "Sözünüzü ister gizleyin, ister açığa vurun# bilin ki O, kalplerin içindekini bilmektedir.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5323,
+                       "verseNumber":  14,
+                       "arabic":  "اَلَا يَعْلَمُ مَنْ خَلَقَۜ وَهُوَ اللَّطٖيفُ الْخَبٖيرُ۟",
+                       "meal":  "Hiç yaratan bilmez mi? O, en ince işleri görüp bilmektedir ve her şeyden haberdardır.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5324,
+                       "verseNumber":  15,
+                       "arabic":  "هُوَ الَّذٖى جَعَلَ لَكُمُ الْاَرْضَ ذَلُولًا فَامْشُوا فٖى مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِهٖۜ وَاِلَيْهِ النُّشُورُ",
+                       "meal":  "Yeryüzünü size boyun eğdiren O\u0027dur. Şu halde yerin omuzlarında (üzerinde) dolaşın ve Allah\u0027ın rızkından yeyin. Dönüş ancak O\u0027nadır.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5325,
+                       "verseNumber":  16,
+                       "arabic":  "ءَاَمِنْتُمْ مَنْ فِى السَّمَٓاءِ اَنْ يَخْسِفَ بِكُمُ الْاَرْضَ فَاِذَا هِىَ تَمُورُۙ",
+                       "meal":  "Gökte olanın, sizi yere batırıvermeyeceğinden emin misiniz? O zaman yer sarsıldıkça sarsılır.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5326,
+                       "verseNumber":  17,
+                       "arabic":  "اَمْ اَمِنْتُمْ مَنْ فِى السَّمَٓاءِ اَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًاۜ فَسَتَعْلَمُونَ كَيْفَ نَذٖيرِ",
+                       "meal":  "Yahut gökte olanın üzerinize taş yağdıran (bir fırtına) göndermeyeceğinden emin misiniz? İşte (bu) tehdidimin ne demek olduğunu yakında bileceksiniz!",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5327,
+                       "verseNumber":  18,
+                       "arabic":  "وَلَقَدْ كَذَّبَ الَّذٖينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكٖيرِ",
+                       "meal":  "Andolsun ki, onlardan öncekiler de (bunu) yalan saymışlardı# ama benim karşılık olarak verdiğim azap nasıl olmuştu!",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5328,
+                       "verseNumber":  19,
+                       "arabic":  "اَوَلَمْ يَرَوْا اِلَى الطَّيْرِ فَوْقَهُمْ صَٓافَّاتٍ وَيَقْبِضْنَۜ مَا يُمْسِكُهُنَّ اِلَّا الرَّحْمٰنُۜ اِنَّهُ بِكُلِّ شَىْءٍ بَصٖيرٌ",
+                       "meal":  "Üstlerinde kanatlarını aça-kapata uçan kuşları (hiç) görmediler mi? Onları (havada) rahmân olan Allah\u0027tan başkası tutmuyor. Şüphesiz O her şeyi görmektedir.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5329,
+                       "verseNumber":  20,
+                       "arabic":  "اَمَّنْ هٰذَا الَّذٖى هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمٰنِۜ اِنِ الْكَافِرُونَ اِلَّا فٖى غُرُورٍۚ",
+                       "meal":  "Rahmân olan Allah\u0027a karşı şu size yardım edecek askerleriniz hani kimlerdir? İnkârcılar ancak derin bir gaflet içinde bulunmaktadırlar.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5330,
+                       "verseNumber":  21,
+                       "arabic":  "اَمَّنْ هٰذَا الَّذٖى يَرْزُقُكُمْ اِنْ اَمْسَكَ رِزْقَهُۚ بَلْ لَجُّوا فٖى عُتُوٍّ وَنُفُورٍ",
+                       "meal":  "Allah size verdiği rızkı kesiverse, size rızık verebilecek olan kimdir? Hayır, onlar azgınlık ve nefrette direnip durmaktadırlar.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5331,
+                       "verseNumber":  22,
+                       "arabic":  "اَفَمَنْ يَمْشٖى مُكِبًّا عَلٰى وَجْهِهٖٓ اَهْدٰٓى اَمَّنْ يَمْشٖى سَوِيًّا عَلٰى صِرَاطٍ مُسْتَقٖيمٍ",
+                       "meal":  "Şimdi (düşünün bakalım), yüz üstü kapanarak yürüyen mi (varılacak) yere daha iyi erişir, yoksa doğru yolda düzgün yürüyen mi?",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5332,
+                       "verseNumber":  23,
+                       "arabic":  "قُلْ هُوَ الَّذٖٓى اَنْشَاَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَارَ وَالْاَفْـِٔدَةَۜ قَلٖيلًا مَا تَشْكُرُونَ",
+                       "meal":  "(Resûlüm!) De ki: Sizi yaratan, size işitme duyusu, gözler ve kalpler veren O\u0027dur. Ne az şükrediyorsunuz!",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5333,
+                       "verseNumber":  24,
+                       "arabic":  "قُلْ هُوَ الَّذٖى ذَرَاَكُمْ فِى الْاَرْضِ وَاِلَيْهِ تُحْشَرُونَ",
+                       "meal":  "De ki: Sizi yeryüzünde çoğaltıp yayan O\u0027dur# ancak O\u0027nun huzuruna gelip toplanacaksınız.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5334,
+                       "verseNumber":  25,
+                       "arabic":  "وَيَقُولُونَ مَتٰى هٰذَا الْوَعْدُ اِنْ كُنْتُمْ صَادِقٖينَ",
+                       "meal":  "«Doğru sözlü iseniz (söyleyin), bu tehdit hani ne zaman (gerçekleşecek)?» derler.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5335,
+                       "verseNumber":  26,
+                       "arabic":  "قُلْ اِنَّمَا الْعِلْمُ عِنْدَ اللّٰهِۖ وَاِنَّمَٓا اَنَا۬ نَذٖيرٌ مُبٖينٌ",
+                       "meal":  "De ki: O bilgi, ancak Allah\u0027a mahsustur. Ben ise sadece apaçık bir uyarıcıyım.",
+                       "page":  562,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5336,
+                       "verseNumber":  27,
+                       "arabic":  "فَلَمَّا رَاَوْهُ زُلْفَةً سٖٓيـَٔتْ وُجُوهُ الَّذٖينَ كَفَرُوا وَقٖيلَ هٰذَا الَّذٖى كُنْتُمْ بِهٖ تَدَّعُونَ",
+                       "meal":  "Ama onu (azabı) yakından gördükleri zaman, inkâr edenlerin yüzleri kararacak ve (kendilerine): İşte sizin isteyip durduğunuz budur! denecektir.",
+                       "page":  563,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5337,
+                       "verseNumber":  28,
+                       "arabic":  "قُلْ اَرَاَيْتُمْ اِنْ اَهْلَكَنِىَ اللّٰهُ وَمَنْ مَعِىَ اَوْ رَحِمَنَاۙ فَمَنْ يُجٖيرُ الْكَافِرٖينَ مِنْ عَذَابٍ اَلٖيمٍ",
+                       "meal":  "De ki: Allah beni ve beraberimdekileri (sizin istediğiniz üzere) yok etse veya (öyle olmayıp da) bizi esirgese, (söyleyin bakalım) inkârcıları yakıcı azaptan kurtaracak kimdir?",
+                       "page":  563,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5338,
+                       "verseNumber":  29,
+                       "arabic":  "قُلْ هُوَ الرَّحْمٰنُ اٰمَنَّا بِهٖ وَعَلَيْهِ تَوَكَّلْنَاۚ فَسَتَعْلَمُونَ مَنْ هُوَ فٖى ضَلَالٍ مُبٖينٍ",
+                       "meal":  "De ki: (Sizi imana davet ettiğimiz) O (Allah) çok esirgeyicidir# biz O\u0027na iman etmiş ve sırf O\u0027na güvenip dayanmışızdır. Siz kimin apaçık bir sapıklık içinde olduğunu yakında öğreneceksiniz!",
+                       "page":  563,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5339,
+                       "verseNumber":  30,
+                       "arabic":  "قُلْ اَرَاَيْتُمْ اِنْ اَصْبَحَ مَٓاؤُ۬كُمْ غَوْرًا فَمَنْ يَاْتٖيكُمْ بِمَٓاءٍ مَعٖينٍ",
+                       "meal":  "De ki: Suyunuz çekiliverse, söyleyin bakalım, size kim bir akar su getirebilir?",
+                       "page":  563,
+                       "juz":  29
+                   }
+               ]
+}

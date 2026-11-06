@@ -1,0 +1,61 @@
+﻿{
+    "surah":  {
+                  "surahId":  114,
+                  "name":  "Nâs",
+                  "nameArabic":  "سُورَةُ النَّاسِ",
+                  "verseCount":  6,
+                  "page":  604,
+                  "juz":  30,
+                  "nameEn":  "An-Nas"
+              },
+    "verses":  [
+                   {
+                       "id":  6346,
+                       "verseNumber":  1,
+                       "arabic":  "‏قُلْ اَعُوذُ بِرَبِّ النَّاسِۙ",
+                       "meal":  "De ki: İnsanların kalplerine vesvese sokan, (insan Allah\u0027ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6347,
+                       "verseNumber":  2,
+                       "arabic":  "مَلِكِ النَّاسِۙ",
+                       "meal":  "De ki: İnsanların kalplerine vesvese sokan, (insan Allah\u0027ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6348,
+                       "verseNumber":  3,
+                       "arabic":  "اِلٰهِ النَّاسِۙ",
+                       "meal":  "De ki: İnsanların kalplerine vesvese sokan, (insan Allah\u0027ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6349,
+                       "verseNumber":  4,
+                       "arabic":  "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِۙ",
+                       "meal":  "De ki: İnsanların kalplerine vesvese sokan, (insan Allah\u0027ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6350,
+                       "verseNumber":  5,
+                       "arabic":  "اَلَّذٖى يُوَسْوِسُ فٖى صُدُورِ النَّاسِۙ",
+                       "meal":  "De ki: İnsanların kalplerine vesvese sokan, (insan Allah\u0027ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6351,
+                       "verseNumber":  6,
+                       "arabic":  "مِنَ الْجِنَّةِ وَالنَّاسِ",
+                       "meal":  "De ki: İnsanların kalplerine vesvese sokan, (insan Allah\u0027ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   }
+               ]
+}

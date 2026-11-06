@@ -1,0 +1,237 @@
+﻿{
+    "surah":  {
+                  "surahId":  72,
+                  "name":  "Cin",
+                  "nameArabic":  "سُورَةُ الْجِنِّ",
+                  "verseCount":  28,
+                  "page":  571,
+                  "juz":  29,
+                  "nameEn":  "Al-Jinn"
+              },
+    "verses":  [
+                   {
+                       "id":  5521,
+                       "verseNumber":  1,
+                       "arabic":  "قُلْ اُو۫حِىَ اِلَىَّ اَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُٓوا اِنَّا سَمِعْنَا قُرْاٰنًا عَجَبًاۙ",
+                       "meal":  "(Resûlüm!) De ki: Cinlerden bir topluluğun (benim okuduğum Kur\u0027an\u0027ı) dinleyip de şöyle söyledikleri bana vahyolunmuştur: Gerçekten biz, doğru yola ileten hârikulâde güzel bir Kur\u0027an dinledik de ona iman ettik. (Artık) kimseyi Rabbimize asla ortak koşmayacağız.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5522,
+                       "verseNumber":  2,
+                       "arabic":  "يَهْدٖٓى اِلَى الرُّشْدِ فَاٰمَنَّا بِهٖۜ وَلَنْ نُشْرِكَ بِرَبِّنَٓا اَحَدًاۙ",
+                       "meal":  "(Resûlüm!) De ki: Cinlerden bir topluluğun (benim okuduğum Kur\u0027an\u0027ı) dinleyip de şöyle söyledikleri bana vahyolunmuştur: Gerçekten biz, doğru yola ileten hârikulâde güzel bir Kur\u0027an dinledik de ona iman ettik. (Artık) kimseyi Rabbimize asla ortak koşmayacağız.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5523,
+                       "verseNumber":  3,
+                       "arabic":  "وَاَنَّهُ تَعَالٰى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًاۙ",
+                       "meal":  "Hakikat şu ki, Rabbimizin şânı çok yücedir. O, ne eş ne de çocuk edinmiştir.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5524,
+                       "verseNumber":  4,
+                       "arabic":  "وَاَنَّهُ كَانَ يَقُولُ سَفٖيهُنَا عَلَى اللّٰهِ شَطَطًاۙ",
+                       "meal":  "Doğrusu bizim beyinsiz olanımız (iblis veya azgın cinler), Allah hakkında pek aşırı yalanlar uyduruyormuş.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5525,
+                       "verseNumber":  5,
+                       "arabic":  "وَاَنَّا ظَنَنَّٓا اَنْ لَنْ تَقُولَ الْاِنْسُ وَالْجِنُّ عَلَى اللّٰهِ كَذِبًاۙ",
+                       "meal":  "Halbuki biz, gerek insanlar gerekse cinler Allah hakkında asla yalan söylemezler, sanmıştık.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5526,
+                       "verseNumber":  6,
+                       "arabic":  "وَاَنَّهُ كَانَ رِجَالٌ مِنَ الْاِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًاۙ",
+                       "meal":  "Şu da gerçek ki, insanlardan bazı kimseler, cinlerden bazı kimselere sığınırlardı da, onların taşkınlıklarını arttırırlardı.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5527,
+                       "verseNumber":  7,
+                       "arabic":  "وَاَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ اَنْ لَنْ يَبْعَثَ اللّٰهُ اَحَدًاۙ",
+                       "meal":  "Onlar da sizin sandığınız gibi, Allah\u0027ın hiç kimseyi tekrar diriltmeyeceğini sanmışlardı.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5528,
+                       "verseNumber":  8,
+                       "arabic":  "وَاَنَّا لَمَسْنَا السَّمَٓاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدٖيدًا وَشُهُبًاۙ",
+                       "meal":  "Doğrusu biz (cinler), göğü yokladık, fakat onu sert bekçilerle, alev huzmeleriyle doldurulmuş bulduk.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5529,
+                       "verseNumber":  9,
+                       "arabic":  "وَاَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِۜ فَمَنْ يَسْتَمِعِ الْاٰنَ يَجِدْ لَهُ شِهَابًا رَصَدًاۙ",
+                       "meal":  "Halbuki, (daha önce) biz onun bazı kısımlarında (haber) dinlemek için oturacak yerler (bulup) oturuyorduk# fakat şimdi kim dinlemek isterse, kendisini gözetleyen bir alev huzmesi buluyor.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5530,
+                       "verseNumber":  10,
+                       "arabic":  "وَاَنَّا لَا نَدْرٖٓى اَشَرٌّ اُرٖيدَ بِمَنْ فِى الْاَرْضِ اَمْ اَرَادَ بِهِمْ رَبُّهُمْ رَشَدًاۙ",
+                       "meal":  "Bilmiyoruz, yeryüzündekilere kötülük mü murat edildi, yoksa Rableri onlara bir hayır mı diledi?",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5531,
+                       "verseNumber":  11,
+                       "arabic":  "وَاَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذٰلِكَۜ كُنَّا طَرَٓائِقَ قِدَدًاۙ",
+                       "meal":  "Gerçekten biz, -kimimiz sâlih kişiler, kimimiz ise bunlardan aşağıda olmak üzere- türlü türlü yollar tutmuştuk.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5532,
+                       "verseNumber":  12,
+                       "arabic":  "وَاَنَّا ظَنَنَّٓا اَنْ لَنْ نُعْجِزَ اللّٰهَ فِى الْاَرْضِ وَلَنْ نُعْجِزَهُ هَرَبًاۙ",
+                       "meal":  "(Artık) şu gerçeği şüphesiz anladık ki, biz yeryüzünde bulunsak da Allah\u0027ı âciz bırakamayacağız, başka yere kaçmakla da elinden kurtulamayacağız.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5533,
+                       "verseNumber":  13,
+                       "arabic":  "وَاَنَّا لَمَّا سَمِعْنَا الْهُدٰٓى اٰمَنَّا بِهٖۜ فَمَنْ يُؤْمِنْ بِرَبِّهٖ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًاۙ",
+                       "meal":  "Doğrusu biz, o hidayeti (Kur\u0027an\u0027ı) işitince ona iman ettik. Kim Rabbine iman ederse, artık ne bir (ecrinin) eksikliğe uğratılmasından ne de haksızlık edilmesinden korkar.",
+                       "page":  571,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5534,
+                       "verseNumber":  14,
+                       "arabic":  "وَاَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَۜ فَمَنْ اَسْلَمَ فَاُو۬لٰٓئِكَ تَحَرَّوْا رَشَدًا",
+                       "meal":  "İçimizde, (Allah\u0027a) teslimiyet gösterenler de var, hak yoldan sapanlar da var. Teslimiyet gösteren kimseler, doğru yolu arayanlardır.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5535,
+                       "verseNumber":  15,
+                       "arabic":  "وَاَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًاۙ",
+                       "meal":  "Hak yoldan sapanlara gelince, onlar cehenneme odun olmuşlardır.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5536,
+                       "verseNumber":  16,
+                       "arabic":  "وَاَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرٖيقَةِ لَاَسْقَيْنَاهُمْ مَٓاءً غَدَقًاۙ",
+                       "meal":  "Şayet doğru yolda gitselerdi, bu hususta kendilerini denememiz için onlara bol su verirdik. Kim Rabbinin zikrinden yüz çevirirse, (Rabbin) onu gitgide artan çetin bir azaba uğratır.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5537,
+                       "verseNumber":  17,
+                       "arabic":  "لِنَفْتِنَهُمْ فٖيهِۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهٖ يَسْلُكْهُ عَذَابًا صَعَدًاۙ",
+                       "meal":  "Şayet doğru yolda gitselerdi, bu hususta kendilerini denememiz için onlara bol su verirdik. Kim Rabbinin zikrinden yüz çevirirse, (Rabbin) onu gitgide artan çetin bir azaba uğratır.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5538,
+                       "verseNumber":  18,
+                       "arabic":  "وَاَنَّ الْمَسَاجِدَ لِلّٰهِ فَلَا تَدْعُوا مَعَ اللّٰهِ اَحَدًاۙ",
+                       "meal":  "Mescidler şüphesiz Allah\u0027ındır. O halde, Allah ile birlikte kimseye yalvarmayın (ve kulluk etmeyin).",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5539,
+                       "verseNumber":  19,
+                       "arabic":  "وَاَنَّهُ لَمَّا قَامَ عَبْدُ اللّٰهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًاۜ۟",
+                       "meal":  "Allah\u0027ın kulu, O\u0027na yalvarmaya (namaza) kalkınca, neredeyse onun etrafında keçe gibi birbirlerine geçeceklerdi.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5540,
+                       "verseNumber":  20,
+                       "arabic":  "قُلْ اِنَّمَٓا اَدْعُوا رَبّٖى وَلَٓا اُشْرِكُ بِهٖٓ اَحَدًا",
+                       "meal":  "(Resûlüm!) De ki: Ben ancak Rabbime yalvarırım ve O\u0027na kimseyi ortak koşmam.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5541,
+                       "verseNumber":  21,
+                       "arabic":  "قُلْ اِنّٖى لَٓا اَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+                       "meal":  "De ki: Doğrusu ben (kendi başıma) size ne zarar verme ne de fayda sağlama gücüne sahibim.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5542,
+                       "verseNumber":  22,
+                       "arabic":  "قُلْ اِنّٖى لَنْ يُجٖيرَنٖى مِنَ اللّٰهِ اَحَدٌ وَلَنْ اَجِدَ مِنْ دُونِهٖ مُلْتَحَدًاۙ",
+                       "meal":  "De ki: Gerçekten (bana bir kötülük dilerse) Allah\u0027a karşı beni kimse himaye edemez, O\u0027ndan başka sığınacak kimse de bulamam.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5543,
+                       "verseNumber":  23,
+                       "arabic":  "اِلَّا بَلَاغًا مِنَ اللّٰهِ وَرِسَالَاتِهٖۜ وَمَنْ يَعْصِ اللّٰهَ وَرَسُولَهُ فَاِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدٖينَ فٖيهَٓا اَبَدًاۜ",
+                       "meal":  "(Benim yaptığım) ancak Allah katından olanı, O\u0027nun gönderdiklerini tebliğdir. Artık kim Allah ve Resûlüne karşı gelirse, bilsin ki ona, (kendi gibilerle birlikte) içinde ebedî kalacakları cehennem ateşi vardır.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5544,
+                       "verseNumber":  24,
+                       "arabic":  "حَتّٰٓى اِذَا رَاَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ اَضْعَفُ نَاصِرًا وَاَقَلُّ عَدَدًا",
+                       "meal":  "Sonunda, tehdit edilip durduklarını (azabı, kıyameti) gördükleri zaman, kim yardımcı olma bakımından daha güçsüz ve sayıca daha az imiş, bileceklerdir.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5545,
+                       "verseNumber":  25,
+                       "arabic":  "قُلْ اِنْ اَدْرٖٓى اَقَرٖيبٌ مَا تُوعَدُونَ اَمْ يَجْعَلُ لَهُ رَبّٖٓى اَمَدًا",
+                       "meal":  "De ki: Tehdit edilegeldiğiniz (azap), yakın mıdır, yoksa Rabbim onun için uzun bir süre mi koyar, ben bilmem.",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5546,
+                       "verseNumber":  26,
+                       "arabic":  "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلٰى غَيْبِهٖٓ اَحَدًاۙ",
+                       "meal":  "O bütün görülmeyenleri bilir. Sırlarına kimseyi muttali kılmaz#",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5547,
+                       "verseNumber":  27,
+                       "arabic":  "اِلَّا مَنِ ارْتَضٰى مِنْ رَسُولٍ فَاِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهٖ رَصَدًاۙ",
+                       "meal":  "Ancak, (bildirmeyi) dilediği peygamber bunun dışındadır. Çünkü O, bunun önünden ve ardından gözcüler salar,",
+                       "page":  572,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5548,
+                       "verseNumber":  28,
+                       "arabic":  "لِيَعْلَمَ اَنْ قَدْ اَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَاَحَاطَ بِمَا لَدَيْهِمْ وَاَحْصٰى كُلَّ شَيْءٍ عَدَدًا",
+                       "meal":  "Ki böylece onların (peygamberlerin), Rablerinin gönderdiklerini hakkıyla tebliğ ettiklerini bilsin. (Allah) onların nezdinde olup bitenleri çepeçevre kuşatmış ve her şeyi bir bir saymıştır (kaydetmiştir).",
+                       "page":  572,
+                       "juz":  29
+                   }
+               ]
+}

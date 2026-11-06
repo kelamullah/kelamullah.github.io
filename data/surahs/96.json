@@ -1,0 +1,165 @@
+﻿{
+    "surah":  {
+                  "surahId":  96,
+                  "name":  "Alak",
+                  "nameArabic":  "سُورَةُ الْعَلَقِ",
+                  "verseCount":  19,
+                  "page":  597,
+                  "juz":  30,
+                  "nameEn":  "Al-\u0027Alaq"
+              },
+    "verses":  [
+                   {
+                       "id":  6204,
+                       "verseNumber":  1,
+                       "arabic":  "اِقْرَاْ بِاسْمِ رَبِّكَ الَّذٖى خَلَقَۚ",
+                       "meal":  "Yaratan Rabbinin adıyla oku! O, insanı bir aşılanmış yumurtadan yarattı.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6205,
+                       "verseNumber":  2,
+                       "arabic":  "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+                       "meal":  "Yaratan Rabbinin adıyla oku! O, insanı bir aşılanmış yumurtadan yarattı.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6206,
+                       "verseNumber":  3,
+                       "arabic":  "اِقْرَاْ وَرَبُّكَ الْاَكْرَمُۙ",
+                       "meal":  "Oku! İnsana bilmediklerini belleten, kalemle (yazmayı) öğreten Rabbin, en büyük kerem sahibidir.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6207,
+                       "verseNumber":  4,
+                       "arabic":  "اَلَّذٖى عَلَّمَ بِالْقَلَمِۙ",
+                       "meal":  "Oku! İnsana bilmediklerini belleten, kalemle (yazmayı) öğreten Rabbin, en büyük kerem sahibidir.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6208,
+                       "verseNumber":  5,
+                       "arabic":  "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۜ",
+                       "meal":  "Oku! İnsana bilmediklerini belleten, kalemle (yazmayı) öğreten Rabbin, en büyük kerem sahibidir.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6209,
+                       "verseNumber":  6,
+                       "arabic":  "كَلَّٓا اِنَّ الْاِنْسَانَ لَيَطْغٰىۙ",
+                       "meal":  "Gerçek şu ki, insan kendini kendine yeterli görerek azar. Kuşkusuz dönüş Rabbinedir.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6210,
+                       "verseNumber":  7,
+                       "arabic":  "اَنْ رَاٰهُ اسْتَغْنٰىۜ",
+                       "meal":  "Gerçek şu ki, insan kendini kendine yeterli görerek azar. Kuşkusuz dönüş Rabbinedir.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6211,
+                       "verseNumber":  8,
+                       "arabic":  "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۜ",
+                       "meal":  "Gerçek şu ki, insan kendini kendine yeterli görerek azar. Kuşkusuz dönüş Rabbinedir.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6212,
+                       "verseNumber":  9,
+                       "arabic":  "اَرَاَيْتَ الَّذٖى يَنْهٰىۙ",
+                       "meal":  "Namaz kılarken bir kulu (Peygamber\u0027i namazdan) menedeni gördün mü?",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6213,
+                       "verseNumber":  10,
+                       "arabic":  "عَبْدًا اِذَا صَلّٰىۜ",
+                       "meal":  "Namaz kılarken bir kulu (Peygamber\u0027i namazdan) menedeni gördün mü?",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6214,
+                       "verseNumber":  11,
+                       "arabic":  "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىۙ",
+                       "meal":  "Ne dersin, o (Peygamber) doğru yolda ise yahut takvâyı emrediyorsa!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6215,
+                       "verseNumber":  12,
+                       "arabic":  "اَوْ اَمَرَ بِالتَّقْوٰىۜ",
+                       "meal":  "Ne dersin, o (Peygamber) doğru yolda ise yahut takvâyı emrediyorsa!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6216,
+                       "verseNumber":  13,
+                       "arabic":  "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۜ",
+                       "meal":  "Ne dersin o (meneden, Peygamber\u0027i) yalanlıyor ve doğru yoldan yüz çeviriyorsa!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6217,
+                       "verseNumber":  14,
+                       "arabic":  "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۜ",
+                       "meal":  "(Bu adam) Allah\u0027ın, (yaptıklarını) gördüğünü bilmez mi!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6218,
+                       "verseNumber":  15,
+                       "arabic":  "كَلَّا لَئِنْ لَمْ يَنْتَهِ۬ لَنَسْفَعًا بِالنَّاصِيَةِۙ",
+                       "meal":  "Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah\u0027a secde et ve (yalnızca O\u0027na) yaklaş!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6219,
+                       "verseNumber":  16,
+                       "arabic":  "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+                       "meal":  "Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah\u0027a secde et ve (yalnızca O\u0027na) yaklaş!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6220,
+                       "verseNumber":  17,
+                       "arabic":  "فَلْيَدْعُ نَادِيَهُۙ",
+                       "meal":  "Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah\u0027a secde et ve (yalnızca O\u0027na) yaklaş!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6221,
+                       "verseNumber":  18,
+                       "arabic":  "سَنَدْعُ الزَّبَانِيَةَۙ",
+                       "meal":  "Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah\u0027a secde et ve (yalnızca O\u0027na) yaklaş!",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6222,
+                       "verseNumber":  19,
+                       "arabic":  "كَلَّاۜ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ",
+                       "meal":  "Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah\u0027a secde et ve (yalnızca O\u0027na) yaklaş!",
+                       "page":  597,
+                       "juz":  30
+                   }
+               ]
+}

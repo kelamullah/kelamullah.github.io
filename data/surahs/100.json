@@ -1,0 +1,101 @@
+﻿{
+    "surah":  {
+                  "surahId":  100,
+                  "name":  "Âdiyât",
+                  "nameArabic":  "سُورَةُ الْعَادِيَاتِ",
+                  "verseCount":  11,
+                  "page":  599,
+                  "juz":  30,
+                  "nameEn":  "Al-\u0027Adiyat"
+              },
+    "verses":  [
+                   {
+                       "id":  6248,
+                       "verseNumber":  1,
+                       "arabic":  "وَالْعَادِيَاتِ ضَبْحًاۙ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6249,
+                       "verseNumber":  2,
+                       "arabic":  "فَالْمُورِيَاتِ قَدْحًاۙ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6250,
+                       "verseNumber":  3,
+                       "arabic":  "فَالْمُغٖيرَاتِ صُبْحًاۙ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6251,
+                       "verseNumber":  4,
+                       "arabic":  "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6252,
+                       "verseNumber":  5,
+                       "arabic":  "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6253,
+                       "verseNumber":  6,
+                       "arabic":  "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُودٌۚ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6254,
+                       "verseNumber":  7,
+                       "arabic":  "وَاِنَّهُ عَلٰى ذٰلِكَ لَشَهٖيدٌۚ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6255,
+                       "verseNumber":  8,
+                       "arabic":  "وَاِنَّهُ لِحُبِّ الْخَيْرِ لَشَدٖيدٌۜ",
+                       "meal":  "Harıl harıl koşanlara, (nallarıyla) çakarak kıvılcım saçanlara, (ansızın) sabah baskını yapanlara, orada tozu dumana katanlara, derken orada bir topluluğun ta ortasına girenlere yemin ederim ki insan, Rabbine karşı pek nankördür. Şüphesiz buna kendisi de şahittir ve o, mal sevgisine de aşırı derecede düşkündür.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6256,
+                       "verseNumber":  9,
+                       "arabic":  "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُورِۙ",
+                       "meal":  "Kabirlerde bulunanlar diriltilip dışarı atıldığı ve kalplerde gizlenenler ortaya konduğu zaman insan (halinin ne olacağını) düşünmez mi? Şüphesiz Rableri o gün onlardan tamamıyle haberdardır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6257,
+                       "verseNumber":  10,
+                       "arabic":  "وَحُصِّلَ مَا فِى الصُّدُورِۙ",
+                       "meal":  "Kabirlerde bulunanlar diriltilip dışarı atıldığı ve kalplerde gizlenenler ortaya konduğu zaman insan (halinin ne olacağını) düşünmez mi? Şüphesiz Rableri o gün onlardan tamamıyle haberdardır.",
+                       "page":  599,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6258,
+                       "verseNumber":  11,
+                       "arabic":  "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَب۪يرٌ",
+                       "meal":  "Kabirlerde bulunanlar diriltilip dışarı atıldığı ve kalplerde gizlenenler ortaya konduğu zaman insan (halinin ne olacağını) düşünmez mi? Şüphesiz Rableri o gün onlardan tamamıyle haberdardır.",
+                       "page":  599,
+                       "juz":  30
+                   }
+               ]
+}

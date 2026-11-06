@@ -1,0 +1,69 @@
+﻿{
+    "surah":  {
+                  "surahId":  107,
+                  "name":  "Maûn",
+                  "nameArabic":  "سُورَةُ الْمَاعُونِ",
+                  "verseCount":  7,
+                  "page":  602,
+                  "juz":  30,
+                  "nameEn":  "Al-Ma\u0027un"
+              },
+    "verses":  [
+                   {
+                       "id":  6306,
+                       "verseNumber":  1,
+                       "arabic":  "اَرَاَيْتَ الَّذٖى يُكَذِّبُ بِالدّٖينِۜ",
+                       "meal":  "Dini yalanlayanı gördün mü?",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6307,
+                       "verseNumber":  2,
+                       "arabic":  "فَذٰلِكَ الَّذٖى يَدُعُّ الْيَتٖيمَۙ",
+                       "meal":  "İşte o, yetimi itip kakar#",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6308,
+                       "verseNumber":  3,
+                       "arabic":  "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكٖينِۜ",
+                       "meal":  "Yoksulu doyurmaya teşvik etmez#",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6309,
+                       "verseNumber":  4,
+                       "arabic":  "فَوَيْلٌ لِلْمُصَلّٖينَۙ",
+                       "meal":  "Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6310,
+                       "verseNumber":  5,
+                       "arabic":  "اَلَّذٖينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَۙ",
+                       "meal":  "Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6311,
+                       "verseNumber":  6,
+                       "arabic":  "‏اَلَّذٖينَ هُمْ يُرَٓاؤُ۫نَۙ",
+                       "meal":  "Onlar gösteriş yapanlardır# hayra da mâni olurlar.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6312,
+                       "verseNumber":  7,
+                       "arabic":  "وَيَمْنَعُونَ الْمَاعُونَ",
+                       "meal":  "Onlar gösteriş yapanlardır# hayra da mâni olurlar.",
+                       "page":  602,
+                       "juz":  30
+                   }
+               ]
+}

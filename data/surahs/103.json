@@ -1,0 +1,37 @@
+﻿{
+    "surah":  {
+                  "surahId":  103,
+                  "name":  "Asr",
+                  "nameArabic":  "سُورَةُ الْعَصْرِ",
+                  "verseCount":  3,
+                  "page":  601,
+                  "juz":  30,
+                  "nameEn":  "Al-\u0027Asr"
+              },
+    "verses":  [
+                   {
+                       "id":  6281,
+                       "verseNumber":  1,
+                       "arabic":  "وَالْعَصْرِۙ",
+                       "meal":  "Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6282,
+                       "verseNumber":  2,
+                       "arabic":  "اِنَّ الْاِنْسَانَ لَفٖى خُسْرٍۙ",
+                       "meal":  "Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6283,
+                       "verseNumber":  3,
+                       "arabic":  "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+                       "meal":  "Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır.",
+                       "page":  601,
+                       "juz":  30
+                   }
+               ]
+}

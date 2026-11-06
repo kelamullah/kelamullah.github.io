@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kelamullah | Kur'an-ı Kerim ve Meali</title>
+  <link rel="canonical" href="https://kelamullah.github.io/">
+  
+  <meta name="description" content="Açık kaynak Kur'an-ı Kerim metni, Türkçe meali, sesli tilavet, cüz dizini ve gelişmiş arama platformu.">
+  <meta name="keywords" content="Kuran, Kur'an-ı Kerim, Meal, Kuran Dinle, Sureler, Cüzler, Fatiha, Bakara, Yasin, Kelamullah">
+  <meta name="author" content="Kelâmullah">
+  <meta name="theme-color" content="#064e3b">
+
+  <!-- Crawler & AI Directives -->
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <meta name="google-extended" content="index, follow">
+  <meta name="bingbot" content="index, follow, max-snippet:-1">
+
+  <!-- Scholarly & Citation Metadata for AI Retrieval -->
+  <meta name="citation_title" content="Kur'an-ı Kerim ve Türkçe Meali">
+  <meta name="citation_author" content="Kelâmullah">
+  <meta name="citation_language" content="tr">
+  <meta name="citation_abstract_html_url" content="https://kelamullah.github.io/">
+  <meta name="dc.title" content="Kelâmullah - Kur'an-ı Kerim ve Meali">
+  <meta name="dc.language" content="tr">
+  <meta name="dc.rights" content="Public Domain / Open Access">
+  <meta name="dc.format" content="text/html">
+
+  <!-- Machine-Readable LLM & Dataset Manifests -->
+  <link rel="alternate" type="text/plain" href="https://kelamullah.github.io/llms.txt" title="LLM Context Manifest">
+  <link rel="alternate" type="text/plain" href="https://kelamullah.github.io/llms-full.txt" title="Full LLM Context Manifest">
+  <link rel="alternate" type="application/json" href="https://kelamullah.github.io/data/kuran_sureler.json" title="Kur'an Sureleri JSON">
+  <link rel="alternate" type="application/json" href="https://kelamullah.github.io/data/kuran_meal.json" title="Kur'an Türkçe Meali JSON">
+  <link rel="alternate" type="application/json" href="https://kelamullah.github.io/data/kuran_arapca.json" title="Kur'an-ı Kerim Orijinal Arapça Metin JSON">
+
+  <!-- OpenGraph / Social -->
+  <meta property="og:title" content="Kelamullah | Kur'an-ı Kerim ve Meali">
+  <meta property="og:description" content="Açık kaynak Kur'an-ı Kerim metni, Türkçe meali, sesli tilavet ve sure dizini.">
+  <meta property="og:url" content="https://kelamullah.github.io/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://kelamullah.github.io/assets/logo.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://kelamullah.github.io/assets/logo.jpg">
+
+  <!-- Favicon & PWA -->
+  <link rel="icon" type="image/jpeg" href="assets/logo.jpg">
+  <link rel="apple-touch-icon" href="assets/logo.jpg">
+  <link rel="manifest" href="assets/manifest.json">
+
+  <!-- Yapay Zeka ve Botlar İçin Yapılandırılmış Veri (JSON-LD Schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://kelamullah.github.io/#website",
+        "url": "https://kelamullah.github.io/",
+        "name": "Kelamullah",
+        "alternateName": ["Kelâmullah", "Kuran-ı Kerim ve Meali", "Kelamullah Quran Platform"],
+        "description": "Açık kaynak, reklamsız, doğrulanmış Kur'an-ı Kerim metni, Türkçe meali, orijinal mushaf görünümü ve sesli tilavet platformu.",
+        "inLanguage": ["tr", "ar", "en"],
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://kelamullah.github.io/#/arama?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://kelamullah.github.io/#dataset",
+        "name": "Kur'an-ı Kerim Arapça Metin ve Türkçe Meali Açık Veri Seti",
+        "description": "114 sure ve 6236 ayetin tamamını içeren harekeli Orijinal Osmani hat Arapça metin ve Türkçe meal açık veritabanı.",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "isAccessibleForFree": true,
+        "inLanguage": ["ar", "tr"],
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://kelamullah.github.io/data/kuran_sureler.json"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://kelamullah.github.io/data/kuran_meal.json"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://kelamullah.github.io/data/kuran_arapca.json"
+          }
+        ]
+      },
+      {
+        "@type": "Book",
+        "@id": "https://kelamullah.github.io/#book",
+        "name": "Kur'an-ı Kerim",
+        "alternateName": "القرآن الكريم",
+        "genre": "Sacred Scripture",
+        "inLanguage": ["ar", "tr"],
+        "numberOfPages": 604,
+        "url": "https://kelamullah.github.io/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/quran-font.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <!-- Brand -->
+      <a href="#/" class="brand" title="Kelâmullah Ana Sayfa">
+        <div class="brand-icon">
+          <img src="assets/logo.jpg" alt="Kelâmullah Logo" class="brand-logo-img">
+        </div>
+        <div class="brand-text">
+          <span class="brand-name">Kelâmullah</span>
+          <span class="brand-arabic">كَلَامُ اللهِ</span>
+        </div>
+      </a>
+
+      <!-- Navigation Tabs -->
+      <nav class="nav-tabs" aria-label="Ana Gezinti">
+        <a href="#/" class="nav-tab active" data-route="#/">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/></svg>
+          <span>Sureler</span>
+        </a>
+        <a href="#/mushaf" class="nav-tab" data-route="#/mushaf">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+          <span>Mushaf</span>
+        </a>
+        <a href="#/cuzler" class="nav-tab" data-route="#/cuzler">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18"/><path d="M9 21V9"/></svg>
+          <span>Cüzler</span>
+        </a>
+        <a href="#/arama" class="nav-tab" data-route="#/arama">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <span>Arama</span>
+        </a>
+        <a href="#/kaydedilenler" class="nav-tab" data-route="#/kaydedilenler">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+          <span>Kaydedilenler</span>
+        </a>
+      </nav>
+
+      <!-- Nav Actions -->
+      <div class="nav-actions">
+        <!-- Quick search button -->
+        <a href="#/arama" class="search-trigger-btn" title="Kur'an'da Ara (Kısayol: /)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <span>Arama</span>
+          <kbd class="kbd-shortcut">/</kbd>
+        </a>
+
+        <!-- Theme Toggle -->
+        <button class="icon-btn" onclick="window.app.toggleTheme()" title="Temayı Değiştir (Gece / Gündüz / Mushaf)">
+          <svg id="themeToggleIcon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+          </svg>
+        </button>
+
+        <!-- Settings Button -->
+        <button class="icon-btn" onclick="window.app.openSettings()" title="Okuma Ayarları">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/>
+            <circle cx="12" cy="12" r="3"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main View Container (Swapped dynamically by router) -->
+  <main id="mainViewContainer">
+    <!-- Populated by App / Router -->
+  </main>
+
+  <!-- Sticky Bottom Audio Player Bar -->
+  <div class="audio-bar" id="audioBar">
+    <div class="container audio-bar-inner">
+      <div class="audio-info">
+        <div class="audio-cover">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/>
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"/>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"/>
+          </svg>
+        </div>
+        <div class="audio-text">
+          <span class="audio-surah-title" id="audioSurahTitle">Sure Seçilmedi</span>
+          <span class="audio-reciter-name" id="audioReciterName">Mişâri Raşid el-Afâsi</span>
+        </div>
+      </div>
+
+      <div class="audio-controls">
+        <button class="audio-secondary-btn" id="audioPrevBtn" title="Önceki Âyet">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+
+        <button class="play-pause-btn" id="audioPlayPauseBtn" title="Oynat / Duraklat (Boşluk Tuşu)">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+        </button>
+
+        <button class="audio-secondary-btn" id="audioNextBtn" title="Sonraki Âyet">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+      </div>
+
+      <div class="audio-options">
+        <button class="audio-speed-btn" id="audioSpeedBtn" title="Oynatma Hızı">1x</button>
+        <button class="audio-secondary-btn" onclick="window.audioController.stop()" title="Kapat">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Settings Modal -->
+  <div class="modal-backdrop" id="settingsModal" onclick="if(event.target===this) window.app.closeSettings()">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
+          <span>Okuma Ayarları</span>
+        </h3>
+        <button class="icon-btn" onclick="window.app.closeSettings()" title="Kapat">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <!-- Theme Selection -->
+      <div class="setting-group">
+        <label class="setting-label">Görünüm Teması</label>
+        <div class="theme-options">
+          <button class="theme-btn active" data-theme="dark" onclick="window.app.applyTheme('dark')">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+            <span>Koyu</span>
+          </button>
+          <button class="theme-btn" data-theme="light" onclick="window.app.applyTheme('light')">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+            <span>Açık</span>
+          </button>
+          <button class="theme-btn" data-theme="sepia" onclick="window.app.applyTheme('sepia')">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/></svg>
+            <span>Mushaf</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Reciter Selection -->
+      <div class="setting-group">
+        <label class="setting-label" for="reciterSelect">Kıraat / Karî (Okuyan)</label>
+        <select class="select-dropdown" id="reciterSelect" style="width: 100%; height: 42px;">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+
+      <!-- Arabic Font Selection -->
+      <div class="setting-group">
+        <label class="setting-label" for="fontFamilySelect">Arapça Hat & Yazı Tipi</label>
+        <select class="select-dropdown" id="fontFamilySelect" style="width: 100%; height: 42px;" onchange="window.app.applyFontFamily(this.value)">
+          <option value="'Abay Mushaf TDV', 'Hamdullah Quran', serif">Diyanet Mushafı (Abay TDV Fontu)</option>
+          <option value="'Hamdullah Quran', 'Abay Mushaf TDV', serif">Şeyh Hamdullah Nesh-i Kur'an</option>
+        </select>
+      </div>
+
+      <!-- Arabic Font Size -->
+      <div class="setting-group">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+          <label class="setting-label" style="margin: 0;">Arapça Yazı Boyutu</label>
+          <span id="arabicSizeLabel" style="font-size: 0.8rem; color: var(--accent-gold); font-weight: 700;">28px</span>
+        </div>
+        <input type="range" class="range-slider" id="arabicFontRange" min="20" max="48" step="2" value="28">
+        <div class="range-values">
+          <span>Küçük (20px)</span>
+          <span>Büyük (48px)</span>
+        </div>
+      </div>
+
+      <!-- Meal Font Size -->
+      <div class="setting-group">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+          <label class="setting-label" style="margin: 0;">Türkçe Meal Boyutu</label>
+          <span id="mealSizeLabel" style="font-size: 0.8rem; color: var(--accent-emerald); font-weight: 700;">16px</span>
+        </div>
+        <input type="range" class="range-slider" id="mealFontRange" min="13" max="24" step="1" value="16">
+        <div class="range-values">
+          <span>Küçük (13px)</span>
+          <span>Büyük (24px)</span>
+        </div>
+      </div>
+
+      <div style="margin-top: 1.5rem; text-align: center;">
+        <button class="page-nav-btn" style="width: 100%; justify-content: center; background: var(--accent-emerald); color: #fff; border-color: var(--accent-emerald);" onclick="window.app.closeSettings()">
+          Tamam
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toastNotification" role="alert" aria-live="polite">
+    Ayet kopyalandı
+  </div>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div class="container footer-content">
+      <div style="font-weight: 700; color: var(--text-main);">Kelâmullah • Açık Kaynak Kur'an-ı Kerim Platformu</div>
+      <p style="font-size: 0.825rem; color: var(--text-muted); max-width: 500px;">
+        Kur'an-ı Kerim metni ve Türkçe meali.
+      </p>
+      <div class="footer-links">
+        <a href="#/">Sureler</a>
+        <a href="#/cuzler">Cüzler</a>
+        <a href="#/arama">Arama</a>
+        <a href="https://github.com/kelamullah/kelamullah.github.io" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <!-- 1. Offline Data Bundle (enables instant load and file:/// execution) -->
+  <script src="data/quran_data.js"></script>
+  <!-- 2. Services & Controllers -->
+  <script src="js/data-service.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/reader.js"></script>
+  <script src="js/mushaf.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

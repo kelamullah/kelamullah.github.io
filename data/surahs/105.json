@@ -1,0 +1,53 @@
+﻿{
+    "surah":  {
+                  "surahId":  105,
+                  "name":  "Fîl",
+                  "nameArabic":  "سُورَةُ الْفٖيلِ",
+                  "verseCount":  5,
+                  "page":  601,
+                  "juz":  30,
+                  "nameEn":  "Al-Fil"
+              },
+    "verses":  [
+                   {
+                       "id":  6295,
+                       "verseNumber":  1,
+                       "arabic":  "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحَابِ الْفٖيلِۜ",
+                       "meal":  "Rabbin fil sahiplerine neler etti, görmedin mi?",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6296,
+                       "verseNumber":  2,
+                       "arabic":  "اَلَمْ يَجْعَلْ كَيْدَهُمْ فٖى تَضْلٖيلٍۙ",
+                       "meal":  "Onların kötü planlarını boşa çıkarmadı mı?",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6297,
+                       "verseNumber":  3,
+                       "arabic":  "وَاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابٖيلَۙ",
+                       "meal":  "Onların üstüne sürü sürü kuşlar gönderdi.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6298,
+                       "verseNumber":  4,
+                       "arabic":  "تَرْمٖيهِمْ بِحِجَارَةٍ مِنْ سِجّٖيلٍۙۖ",
+                       "meal":  "O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6299,
+                       "verseNumber":  5,
+                       "arabic":  "فَجَعَلَهُمْ كَعَصْفٍ مَاْكُولٍ",
+                       "meal":  "Böylece Allah onları yenilip çiğnenmiş ekine çevirdi.",
+                       "page":  601,
+                       "juz":  30
+                   }
+               ]
+}

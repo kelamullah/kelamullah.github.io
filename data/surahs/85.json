@@ -1,0 +1,189 @@
+﻿{
+    "surah":  {
+                  "surahId":  85,
+                  "name":  "Burûc",
+                  "nameArabic":  "سُورَةُ الْبُرُوجِ",
+                  "verseCount":  22,
+                  "page":  589,
+                  "juz":  30,
+                  "nameEn":  "Al-Buruj"
+              },
+    "verses":  [
+                   {
+                       "id":  5996,
+                       "verseNumber":  1,
+                       "arabic":  "وَالسَّمَٓاءِ ذَاتِ الْبُرُوجِۙ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5997,
+                       "verseNumber":  2,
+                       "arabic":  "وَالْيَوْمِ الْمَوْعُودِۙ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5998,
+                       "verseNumber":  3,
+                       "arabic":  "وَشَاهِدٍ وَمَشْهُودٍۜ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5999,
+                       "verseNumber":  4,
+                       "arabic":  "قُتِلَ اَصْحَابُ الْاُخْدُودِۙ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6000,
+                       "verseNumber":  5,
+                       "arabic":  "اَلنَّارِ ذَاتِ الْوَقُودِۙ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6001,
+                       "verseNumber":  6,
+                       "arabic":  "اِذْ هُمْ عَلَيْهَا قُعُودٌۙ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6002,
+                       "verseNumber":  7,
+                       "arabic":  "وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِنٖينَ شُهُودٌۜ",
+                       "meal":  "Burçlara sahip gökyüzüne, geleceği bildirilmiş olan güne, (o günde) tanıklık edene ve edilene andolsun ki, ateşle dolu hendeğe atılanlar (yakılarak) öldürüldü. Onlar (yakanlar) da başlarına oturmuşlar, müminlere yapmakta oldukları işkenceyi seyrediyorlardı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6003,
+                       "verseNumber":  8,
+                       "arabic":  "وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَزٖيزِ الْحَمٖيدِۙ",
+                       "meal":  "Onlardan, sırf, göklerin ve yerin mülkü kendisine ait olan, azîz ve hamîd olan Allah\u0027a iman ettikleri için intikam aldılar. Oysa ki Allah her şeyi görür.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6004,
+                       "verseNumber":  9,
+                       "arabic":  "اَلَّذٖى لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَىْءٍ شَهٖيدٌۜ",
+                       "meal":  "Onlardan, sırf, göklerin ve yerin mülkü kendisine ait olan, azîz ve hamîd olan Allah\u0027a iman ettikleri için intikam aldılar. Oysa ki Allah her şeyi görür.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6005,
+                       "verseNumber":  10,
+                       "arabic":  "اِنَّ الَّذٖينَ فَتَنُوا الْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرٖيقِۜ",
+                       "meal":  "Şüphesiz inanmış erkeklerle inanmış kadınlara işkence edip sonra tevbe de etmeyenlere cehennem azabı ve (orada) yanma cezası vardır.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6006,
+                       "verseNumber":  11,
+                       "arabic":  "اِنَّ الَّذٖينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرٖى مِنْ تَحْتِهَا الْاَنْهَارُۜ ذٰلِكَ الْفَوْزُ الْكَبٖيرُۜ",
+                       "meal":  "İman edip sâlih ameller işleyenlere ise, zemininden ırmaklar akan cennetler vardır. İşte büyük kurtuluş budur.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6007,
+                       "verseNumber":  12,
+                       "arabic":  "اِنَّ بَطْشَ رَبِّكَ لَشَدٖيدٌۜ",
+                       "meal":  "Şüphesiz Rabbinin yakalaması çok şiddetlidir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6008,
+                       "verseNumber":  13,
+                       "arabic":  "اِنَّهُ هُوَ يُبْدِئُ وَيُعٖيدُۚ",
+                       "meal":  "Bilin ki O, (kâinat yokken) ilk olarak yaratan, (ölümden sonra tekrar hayatı) geri getirendir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6009,
+                       "verseNumber":  14,
+                       "arabic":  "وَهُوَ الْغَفُورُ الْوَدُودُۙ",
+                       "meal":  "O, çok bağışlayan ve çok sevendir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6010,
+                       "verseNumber":  15,
+                       "arabic":  "ذُو الْعَرْشِ الْمَجٖيدُۙ",
+                       "meal":  "Arş\u0027ın sahibidir, çok yücedir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6011,
+                       "verseNumber":  16,
+                       "arabic":  "فَعَّالٌ لِمَا يُرٖيدُۜ",
+                       "meal":  "Dilediği şeyleri mutlaka yapandır.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6012,
+                       "verseNumber":  17,
+                       "arabic":  "هَلْ اَتٰيكَ حَدٖيثُ الْجُنُودِۙ",
+                       "meal":  "Orduların, Firavun ve Semûd\u0027un (uğradıkları felâketin) haberi sana geldi mi?",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6013,
+                       "verseNumber":  18,
+                       "arabic":  "فِرْعَوْنَ وَثَمُودَۜ",
+                       "meal":  "Orduların, Firavun ve Semûd\u0027un (uğradıkları felâketin) haberi sana geldi mi?",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6014,
+                       "verseNumber":  19,
+                       "arabic":  "بَلِ الَّذٖينَ كَفَرُوا فٖى تَكْذٖيبٍۙ",
+                       "meal":  "Doğrusu inkârcılar (gerçeği) yalanlayıp dururlar.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6015,
+                       "verseNumber":  20,
+                       "arabic":  "وَاللّٰهُ مِنْ وَرَٓائِهِمْ مُحٖيطٌۚ",
+                       "meal":  "Allah onları arkalarından kuşatmıştır.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6016,
+                       "verseNumber":  21,
+                       "arabic":  "بَلْ هُوَ قُرْاٰنٌ مَجٖيدٌۙ",
+                       "meal":  "Hakikatte o (yalanladıkları, aslı) levh-i mahfuzda bulunan şerefli Kur\u0027an\u0027dır.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6017,
+                       "verseNumber":  22,
+                       "arabic":  "ف۪ي لَوْحٍ مَحْفُوظٍ",
+                       "meal":  "Hakikatte o (yalanladıkları, aslı) levh-i mahfuzda bulunan şerefli Kur\u0027an\u0027dır.",
+                       "page":  590,
+                       "juz":  30
+                   }
+               ]
+}

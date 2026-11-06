@@ -1,0 +1,77 @@
+﻿{
+    "surah":  {
+                  "surahId":  94,
+                  "name":  "İnşirâh",
+                  "nameArabic":  "سُورَةُ الْاِنْشِرَاحِ",
+                  "verseCount":  8,
+                  "page":  596,
+                  "juz":  30,
+                  "nameEn":  "Ash-Sharh"
+              },
+    "verses":  [
+                   {
+                       "id":  6186,
+                       "verseNumber":  1,
+                       "arabic":  "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+                       "meal":  "Biz senin göğsünü açıp genişletmedik mi?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6187,
+                       "verseNumber":  2,
+                       "arabic":  "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+                       "meal":  "Belini büken yükünü senden alıp atmadık mı?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6188,
+                       "verseNumber":  3,
+                       "arabic":  "اَلَّذٖٓى اَنْقَضَ ظَهْرَكَۙ",
+                       "meal":  "Belini büken yükünü senden alıp atmadık mı?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6189,
+                       "verseNumber":  4,
+                       "arabic":  "وَرَفَعْنَا لَكَ ذِكْرَكَۜ",
+                       "meal":  "Senin şânını ve ününü yüceltmedik mi?",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6190,
+                       "verseNumber":  5,
+                       "arabic":  "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+                       "meal":  "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6191,
+                       "verseNumber":  6,
+                       "arabic":  "اِنَّ مَعَ الْعُسْرِ يُسْرًاۜ",
+                       "meal":  "Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6192,
+                       "verseNumber":  7,
+                       "arabic":  "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+                       "meal":  "Boş kaldın mı hemen (başka) işe koyul ve yalnız Rabbine yönel.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6193,
+                       "verseNumber":  8,
+                       "arabic":  "وَاِلٰى رَبِّكَ فَارْغَبْ",
+                       "meal":  "Boş kaldın mı hemen (başka) işe koyul ve yalnız Rabbine yönel.",
+                       "page":  596,
+                       "juz":  30
+                   }
+               ]
+}

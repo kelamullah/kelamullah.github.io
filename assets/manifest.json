@@ -1,0 +1,23 @@
+{
+  "name": "Kelâmullah - Kur'an-ı Kerim",
+  "short_name": "Kelâmullah",
+  "description": "Açık kaynak Kur'an-ı Kerim metni, Türkçe mealleri, sesli tilavet ve sure dizini.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1118",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "assets/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

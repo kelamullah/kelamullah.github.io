@@ -1,0 +1,189 @@
+﻿{
+    "surah":  {
+                  "surahId":  58,
+                  "name":  "Mücâdele",
+                  "nameArabic":  "سُورَةُ الْمُجَادَلَةِ",
+                  "verseCount":  22,
+                  "page":  541,
+                  "juz":  28,
+                  "nameEn":  "Al-Mujadila"
+              },
+    "verses":  [
+                   {
+                       "id":  5164,
+                       "verseNumber":  1,
+                       "arabic":  "قَدْ سَمِعَ اللّٰهُ قَوْلَ الَّتٖى تُجَادِلُكَ فٖى زَوْجِهَا وَتَشْتَكٖٓى اِلَى اللّٰهِۗ وَاللّٰهُ يَسْمَعُ تَحَاوُرَكُمَاۜ اِنَّ اللّٰهَ سَمٖيعٌ بَصٖيرٌ",
+                       "meal":  "Kocası hakkında seninle tartışan ve Allah\u0027a şikâyette bulunan kadının sözünü Allah işitmiştir. Allah, sizin konuşmanızı işitir. Çünkü Allah işitendir, bilendir.",
+                       "page":  541,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5165,
+                       "verseNumber":  2,
+                       "arabic":  "اَلَّذٖينَ يُظَاهِرُونَ مِنْكُمْ مِنْ نِسَٓائِهِمْ مَا هُنَّ اُمَّهَاتِهِمْۜ اِنْ اُمَّهَاتُهُمْ اِلَّا الّٰٓئٖ وَلَدْنَهُمْۜ وَاِنَّهُمْ لَيَقُولُونَ مُنْكَرًا مِنَ الْقَوْلِ وَزُورًاۜ وَاِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌ",
+                       "meal":  "İçinizden zıhâr yapanların kadınları, onların anaları değildir. Onların anaları ancak kendilerini doğuran kadınlardır. Şüphesiz onlar çirkin bir laf ve yalan söylüyorlar. Kuşkusuz Allah, affedicidir, bağışlayıcıdır.",
+                       "page":  541,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5166,
+                       "verseNumber":  3,
+                       "arabic":  "وَ‏الَّذٖينَ يُظَاهِرُونَ مِنْ نِسَٓائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرٖيرُ رَقَبَةٍ مِنْ قَبْلِ اَنْ يَتَمَٓاسَّاۜ ذٰلِكُمْ تُوعَظُونَ بِهٖۜ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبٖيرٌ",
+                       "meal":  "Kadınlardan zıhâr ile ayrılmak isteyip de sonra söylediklerinden dönenlerin karılarıyla temas etmeden önce bir köleyi hürriyete kavuşturmaları gerekir. Size öğütlenen budur. Allah, yaptıklarınızdan haberi olandır.",
+                       "page":  541,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5167,
+                       "verseNumber":  4,
+                       "arabic":  "فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِنْ قَبْلِ اَنْ يَتَمَٓاسَّاۚ فَمَنْ لَمْ يَسْتَطِعْ فَاِطْعَامُ سِتّٖينَ مِسْكٖينًاۜ ذٰلِكَ لِتُؤْمِنُوا بِاللّٰهِ وَرَسُولِهٖۜ وَتِلْكَ حُدُودُ اللّٰهِۜ وَلِلْكَافِرٖينَ عَذَابٌ اَلٖيمٌ",
+                       "meal":  "(Buna imkân) bulamayan kimse, hanımıyla temas etmeden önce ardarda iki ay oruç tutar. Buna da gücü yetmeyen, altmış fakiri doyurur. Bu (hafifletme), Allah\u0027a ve Resûlüne inanmanızdan dolayıdır. Bunlar Allah\u0027ın hükümleridir. Kâfirler için acı bir azap vardır.",
+                       "page":  541,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5168,
+                       "verseNumber":  5,
+                       "arabic":  "اِنَّ الَّذٖينَ يُحَٓادُّونَ اللّٰهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذٖينَ مِنْ قَبْلِهِمْ وَقَدْ اَنْزَلْنَٓا اٰيَاتٍ بَيِّنَاتٍۜ وَلِلْكَافِرٖينَ عَذَابٌ مُهٖينٌۚ",
+                       "meal":  "Allah\u0027a ve Resûlüne karşı gelenler, kendilerinden öncekilerin alçaltıldığı gibi alçaltılacaklardır. Biz apaçık âyetler indirmişizdir. Kâfirler için küçük düşürücü bir azap vardır.",
+                       "page":  541,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5169,
+                       "verseNumber":  6,
+                       "arabic":  "يَوْمَ يَبْعَثُهُمُ اللّٰهُ جَمٖيعًا فَيُنَبِّئُهُمْ بِمَا عَمِلُواۜ اَحْصٰيهُ اللّٰهُ وَنَسُوهُۜ وَاللّٰهُ عَلٰى كُلِّ شَىْءٍ شَهٖيدٌ۟",
+                       "meal":  "O gün Allah onların hepsini diriltecek ve yaptıklarını kendilerine haber verecektir. Allah onları bir bir saymıştır. Onlar ise unutmuşlardır. Allah her şeye şahittir.",
+                       "page":  541,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5170,
+                       "verseNumber":  7,
+                       "arabic":  "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمٰوَاتِ وَمَا فِى الْاَرْضِۜ مَا يَكُونُ مِنْ نَجْوٰى ثَلٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَلَٓا اَدْنٰى مِنْ ذٰلِكَ وَلَٓا اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواۚ ثُمَّ يُنَبِّئُهُمْ بِمَا عَمِلُوا يَوْمَ الْقِيٰمَةِۜ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلٖيمٌ",
+                       "meal":  "Göklerde ve yerde olanları Allah\u0027ın bildiğini görmüyor musun? Üç kişinin gizli konuştuğu yerde dördüncüsü mutlaka O\u0027dur. Beş kişinin gizli konuştuğu yerde altıncısı mutlaka O\u0027dur. Bunlardan az veya çok olsunlar ve nerede bulunurlarsa bulunsunlar mutlaka O, onlarla beraberdir. Sonra kıyamet günü onlara yaptıklarını haber verecektir. Doğrusu Allah, her şeyi bilendir.",
+                       "page":  542,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5171,
+                       "verseNumber":  8,
+                       "arabic":  "اَلَمْ تَرَ اِلَى الَّذٖينَ نُهُوا عَنِ النَّجْوٰى ثُمَّ يَعُودُونَ لِمَا نُهُوا عَنْهُ وَيَتَنَاجَوْنَ بِالْاِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِؗ وَاِذَا جَٓاؤُ۫كَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللّٰهُۙ وَيَقُولُونَ فٖٓى اَنْفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللّٰهُ بِمَا نَقُولُۜ حَسْبُهُمْ جَهَنَّمُۚ يَصْلَوْنَهَاۚ فَبِئْسَ الْمَصٖيرُ",
+                       "meal":  "Gizli konuşmaktan menedildikten sonra yine o yasaklananı yapmaya kalkışarak günah, düşmanlık ve Peygamber\u0027e karşı gelmek hususunda gizlice konuşanları görmedin mi? Onlar sana geldikleri zaman seni, Allah\u0027ın selamlamadığı bir şekilde selamlıyorlar. Kendi içlerinden de: Bu söylediklerimiz yüzünden Allah\u0027ın bize azap etmesi gerekmez miydi? derler. Cehennem onlara yeter. Oraya gireceklerdir. Ne kötü dönüş yeridir orası!",
+                       "page":  542,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5172,
+                       "verseNumber":  9,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْاِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَاجَوْا بِالْبِرِّ وَالتَّقْوٰىۜ وَاتَّقُوا اللّٰهَ الَّذٖٓى اِلَيْهِ تُحْشَرُونَ",
+                       "meal":  "Ey iman edenler! Aranızda gizli konuşacağınız zaman günahı, düşmanlığı ve Peygamber\u0027e karşı gelmeyi fısıldamayın. İyilik ve takvâyı konuşun. Huzuruna toplanacağınız Allah\u0027tan korkun.",
+                       "page":  542,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5173,
+                       "verseNumber":  10,
+                       "arabic":  "اِنَّمَا النَّجْوٰى مِنَ الشَّيْطَانِ لِيَحْزُنَ الَّذٖينَ اٰمَنُوا وَلَيْسَ بِضَٓارِّهِمْ شَيْـًٔا اِلَّا بِاِذْنِ اللّٰهِۜ وَعَلَى اللّٰهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+                       "meal":  "Gizli konuşmalar şeytandandır. Bu, iman edenleri üzmek içindir. Oysa şeytan, Allah\u0027ın izni olmadıkça, müminlere hiçbir zarar veremez. Müminler Allah\u0027a dayanıp güvensinler.",
+                       "page":  542,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5174,
+                       "verseNumber":  11,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِذَا قٖيلَ لَكُمْ تَفَسَّحُوا فِى الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللّٰهُ لَكُمْۚ وَاِذَا قٖيلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللّٰهُ الَّذٖينَ اٰمَنُوا مِنْكُمْۙ وَ‏الَّذٖينَ اُو۫تُوا الْعِلْمَ دَرَجَاتٍۜ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبٖيرٌ",
+                       "meal":  "Ey iman edenler! Size «Meclislerde yer açın» denilince yer açın ki Allah da size genişlik versin. Size «Kalkın» denilince de kalkın ki Allah sizden inananları ve kendilerine ilim verilenleri derecelerle yükseltsin. Allah yaptıklarınızdan haberdardır.",
+                       "page":  542,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5175,
+                       "verseNumber":  12,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِذَا نَاجَيْتُمُ الرَّسُولَ فَقَدِّمُوا بَيْنَ يَدَىْ نَجْوٰيكُمْ صَدَقَةًۜ ذٰلِكَ خَيْرٌ لَكُمْ وَاَطْهَرُۜ فَاِنْ لَمْ تَجِدُوا فَاِنَّ اللّٰهَ غَفُورٌ رَحٖيمٌ",
+                       "meal":  "Ey iman edenler! Peygamber ile gizli bir şey konuşacağınız zaman bu konuşmanızdan önce bir sadaka veriniz. Bu sizin için daha hayırlı ve daha temizdir. Şayet bir şey bulamazsanız, bilin ki Allah bağışlayandır, esirgeyendir.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5176,
+                       "verseNumber":  13,
+                       "arabic":  "ءَاَشْفَقْتُمْ اَنْ تُقَدِّمُوا بَيْنَ يَدَىْ نَجْوٰيكُمْ صَدَقَاتٍۜ فَاِذْ لَمْ تَفْعَلُوا وَتَابَ اللّٰهُ عَلَيْكُمْ فَاَقٖيمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَاَطٖيعُوا اللّٰهَ وَرَسُولَهُۜ وَاللّٰهُ خَبٖيرٌ بِمَا تَعْمَلُونَ۟",
+                       "meal":  "Gizli bir şey konuşmanızdan önce sadakalar vermekten çekindiniz mi? Bunu yapmadığınıza ve Allah da sizi affettiğine göre artık namazı kılın, zekâtı verin Allah\u0027a ve Resûlüne itaat edin. Allah yaptıklarınızdan haberdardır.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5177,
+                       "verseNumber":  14,
+                       "arabic":  "اَلَمْ تَرَ اِلَى الَّذٖينَ تَوَلَّوْا قَوْمًا غَضِبَ اللّٰهُ عَلَيْهِمْۜ مَا هُمْ مِنْكُمْ وَلَا مِنْهُمْۙ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+                       "meal":  "Allah\u0027ın kendilerine gazap ettiği bir topluluğu dost edinenleri görmedin mi? Onlar ne sizdendirler ne de onlardan. Bilerek yalan yere yemin ediyorlar.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5178,
+                       "verseNumber":  15,
+                       "arabic":  "اَعَدَّ اللّٰهُ لَهُمْ عَذَابًا شَدٖيدًاۜ اِنَّهُمْ سَٓاءَ مَا كَانُوا يَعْمَلُونَ",
+                       "meal":  "Allah onlara çetin bir azap hazırlamıştır. Gerçekten onların yaptıkları şey çok kötüdür!",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5179,
+                       "verseNumber":  16,
+                       "arabic":  "اِتَّخَذُٓوا اَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبٖيلِ اللّٰهِ فَلَهُمْ عَذَابٌ مُهٖينٌ",
+                       "meal":  "Onlar yeminlerini kalkan yapıp Allah\u0027ın yolundan alıkoydular. Bu yüzden onlara küçük düşürücü bir azap vardır.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5180,
+                       "verseNumber":  17,
+                       "arabic":  "لَنْ تُغْنِىَ عَنْهُمْ اَمْوَالُهُمْ وَلَٓا اَوْلَادُهُمْ مِنَ اللّٰهِ شَيْـًٔاۜ اُو۬لٰٓئِكَ اَصْحَابُ النَّارِۚ هُمْ فٖيهَا خَالِدُونَ",
+                       "meal":  "Onların malları da oğulları da Allah\u0027a karşı kendilerine bir fayda vermez. Onlar cehennem ehlidirler. Orada ebedî kalacaklardır.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5181,
+                       "verseNumber":  18,
+                       "arabic":  "يَوْمَ يَبْعَثُهُمُ اللّٰهُ جَمٖيعًا فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ اَنَّهُمْ عَلٰى شَىْءٍۜ اَلَٓا اِنَّهُمْ هُمُ الْكَاذِبُونَ",
+                       "meal":  "O gün Allah onların hepsini yeniden diriltecek, onlar da dünyada size yemin ettikleri gibi, O\u0027na yemin edeceklerdir. Kendilerinin bir şey (hakikat) üzerinde olduklarını sanırlar. İyi bilin ki onlar gerçekten yalancıdırlar.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5182,
+                       "verseNumber":  19,
+                       "arabic":  "اِسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَاَنْسٰيهُمْ ذِكْرَ اللّٰهِۜ اُو۬لٰٓئِكَ حِزْبُ الشَّيْطَانِۜ اَلَٓا اِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ",
+                       "meal":  "Şeytan onları etkisi altına aldı da kendilerine Allah\u0027ı anmayı unutturdu. İşte onlar şeytanın yandaşlarıdır. İyi bilin ki şeytanın yandaşları hep kayıptadırlar.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5183,
+                       "verseNumber":  20,
+                       "arabic":  "اِنَّ الَّذٖينَ يُحَٓادُّونَ اللّٰهَ وَرَسُولَهُٓ اُو۬لٰٓئِكَ فِى الْاَذَلّٖينَ",
+                       "meal":  "Allah\u0027a ve Peygamberine düşman olanlar, işte onlar en aşağıların arasındadırlar.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5184,
+                       "verseNumber":  21,
+                       "arabic":  "كَتَبَ اللّٰهُ لَاَغْلِبَنَّ اَنَا۬ وَرُسُل۪يۜ اِنَّ اللّٰهَ قَوِيٌّ عَز۪يزٌ",
+                       "meal":  "Allah: Elbette ben ve elçilerim galip geleceğiz, diye yazmıştır. Şüphesiz Allah güçlüdür, galiptir.",
+                       "page":  543,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5185,
+                       "verseNumber":  22,
+                       "arabic":  "لَا تَجِدُ قَوْمًا يُؤْمِنُونَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ يُوَٓادُّونَ مَنْ حَٓادَّ اللّٰهَ وَرَسُولَهُ وَلَوْ كَانُٓوا اٰبَٓاءَهُمْ اَوْ اَبْنَٓاءَهُمْ اَوْ اِخْوَانَهُمْ اَوْ عَش۪يرَتَهُمْۜ اُو۬لٰٓئِكَ كَتَبَ ف۪ي قُلُوبِهِمُ الْا۪يمَانَ وَاَيَّدَهُمْ بِرُوحٍ مِنْهُۜ وَيُدْخِلُهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ رَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوا عَنْهُۜ اُو۬لٰٓئِكَ حِزْبُ اللّٰهِۜ اَلَٓا اِنَّ حِزْبَ اللّٰهِ هُمُ الْمُفْلِحُونَ",
+                       "meal":  "Allah\u0027a ve ahiret gününe inanan bir toplumun -babaları, oğulları, kardeşleri, yahut akrabaları da olsa- Allah\u0027a ve Resûlüne düşman olanlarla dostluk ettiğini göremezsin. İşte onların kalbine Allah, iman yazmış ve katından bir ruh ile onları desteklemiştir. Onları içlerinden ırmaklar akan cennetlere sokacak, orada ebedî kalacaklardır. Allah onlardan razı olmuş, onlar da Allah\u0027tan hoşnut olmuşlardır. İşte onlar, Allah\u0027ın tarafında olanlardır. İyi bilin ki, kurtuluşa erecekler de sadece Allah\u0027ın tarafında olanlardır.",
+                       "page":  544,
+                       "juz":  28
+                   }
+               ]
+}

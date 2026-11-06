@@ -1,0 +1,53 @@
+﻿{
+    "surah":  {
+                  "surahId":  113,
+                  "name":  "Felak",
+                  "nameArabic":  "سُورَةُ الْفَلَقِ",
+                  "verseCount":  5,
+                  "page":  604,
+                  "juz":  30,
+                  "nameEn":  "Al-Falaq"
+              },
+    "verses":  [
+                   {
+                       "id":  6340,
+                       "verseNumber":  1,
+                       "arabic":  "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِۙ",
+                       "meal":  "De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6341,
+                       "verseNumber":  2,
+                       "arabic":  "مِنْ شَرِّ مَا خَلَقَۙ",
+                       "meal":  "De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6342,
+                       "verseNumber":  3,
+                       "arabic":  "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+                       "meal":  "De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6343,
+                       "verseNumber":  4,
+                       "arabic":  "وَمِنْ شَرِّ النَّفَّاثَاتِ فِى الْعُقَدِۙ",
+                       "meal":  "De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6344,
+                       "verseNumber":  5,
+                       "arabic":  "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+                       "meal":  "De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!",
+                       "page":  604,
+                       "juz":  30
+                   }
+               ]
+}

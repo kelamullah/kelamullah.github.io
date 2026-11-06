@@ -1,0 +1,63 @@
+User-agent: *
+Allow: /
+
+# OpenAI Crawlers & Search
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic Claude Crawlers
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI Crawlers
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI & Search
+User-agent: Google-Extended
+Allow: /
+User-agent: Googleother
+Allow: /
+User-agent: Googlebot
+Allow: /
+
+# Apple AI & Siri
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft Bing & Copilot
+User-agent: Bingbot
+Allow: /
+
+# Meta AI & Facebook
+User-agent: FacebookBot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+
+# Other Major AI Research & Indexing Bots
+User-agent: Bytespider
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: cohere-ai
+Allow: /
+User-agent: Diffbot
+Allow: /
+User-agent: CCBot
+Allow: /
+
+# Sitemaps & LLM Context Standards
+Sitemap: https://kelamullah.github.io/sitemap.xml
+LLMs-Txt: https://kelamullah.github.io/llms.txt
+LLMs-Full-Txt: https://kelamullah.github.io/llms-full.txt

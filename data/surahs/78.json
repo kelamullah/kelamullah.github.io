@@ -1,0 +1,333 @@
+﻿{
+    "surah":  {
+                  "surahId":  78,
+                  "name":  "Nebe",
+                  "nameArabic":  "سُورَةُ النَّبَاِ",
+                  "verseCount":  40,
+                  "page":  581,
+                  "juz":  30,
+                  "nameEn":  "An-Naba"
+              },
+    "verses":  [
+                   {
+                       "id":  5752,
+                       "verseNumber":  1,
+                       "arabic":  "عَمَّ يَتَسَٓاءَلُونَۚ",
+                       "meal":  "Birbirlerine neyi soruyorlar?",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5753,
+                       "verseNumber":  2,
+                       "arabic":  "عَنِ النَّبَاِ الْعَظٖيمِۙ",
+                       "meal":  "(İnanıp inanmamakta) ayrılığa düştükleri büyük haberi mi?",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5754,
+                       "verseNumber":  3,
+                       "arabic":  "اَلَّذٖى هُمْ فٖيهِ مُخْتَلِفُونَۜ",
+                       "meal":  "(İnanıp inanmamakta) ayrılığa düştükleri büyük haberi mi?",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5755,
+                       "verseNumber":  4,
+                       "arabic":  "كَلَّا سَيَعْلَمُونَۙ",
+                       "meal":  "Hayır! Anlayacaklar!",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5756,
+                       "verseNumber":  5,
+                       "arabic":  "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+                       "meal":  "Yine hayır! Onlar anlayacaklar!",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5757,
+                       "verseNumber":  6,
+                       "arabic":  "اَلَمْ نَجْعَلِ الْاَرْضَ مِهَادًاۙ",
+                       "meal":  "Biz yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5758,
+                       "verseNumber":  7,
+                       "arabic":  "وَالْجِبَالَ اَوْتَادًاۖ",
+                       "meal":  "Biz yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5759,
+                       "verseNumber":  8,
+                       "arabic":  "وَخَلَقْنَاكُمْ اَزْوَاجًاۙ",
+                       "meal":  "Sizi çifter çifter yarattık.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5760,
+                       "verseNumber":  9,
+                       "arabic":  "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًاۙ",
+                       "meal":  "Uykunuzu bir dinlenme kıldık.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5761,
+                       "verseNumber":  10,
+                       "arabic":  "وَجَعَلْنَا الَّيْلَ لِبَاسًاۙ",
+                       "meal":  "Geceyi bir örtü yaptık.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5762,
+                       "verseNumber":  11,
+                       "arabic":  "وَجَعَلْنَا النَّهَارَ مَعَاشًاۖ",
+                       "meal":  "Gündüzü de çalışıp kazanma zamanı kıldık.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5763,
+                       "verseNumber":  12,
+                       "arabic":  "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًاۙ",
+                       "meal":  "Üstünüzde yedi kat sağlam göğü bina ettik.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5764,
+                       "verseNumber":  13,
+                       "arabic":  "وَجَعَلْنَا سِرَاجًا وَهَّاجًاۖ",
+                       "meal":  "(Orada) alev alev yanan bir kandil yarattık.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5765,
+                       "verseNumber":  14,
+                       "arabic":  "وَاَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَٓاءً ثَجَّاجًاۙ",
+                       "meal":  "Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5766,
+                       "verseNumber":  15,
+                       "arabic":  "لِنُخْرِجَ بِهٖ حَبًّا وَنَبَاتًاۙ",
+                       "meal":  "Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5767,
+                       "verseNumber":  16,
+                       "arabic":  "وَجَنَّاتٍ اَلْفَافًاۜ",
+                       "meal":  "Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5768,
+                       "verseNumber":  17,
+                       "arabic":  "اِنَّ يَوْمَ الْفَصْلِ كَانَ مٖيقَاتًاۙ",
+                       "meal":  "Şüphesiz hüküm günü vakit olarak belirlenmiştir.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5769,
+                       "verseNumber":  18,
+                       "arabic":  "يَوْمَ يُنْفَخُ فِى الصُّورِ فَتَاْتُونَ اَفْوَاجًاۙ",
+                       "meal":  "Sûr\u0027a üflendiği gün, bölük bölük Allah\u0027a gelirsiniz#",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5770,
+                       "verseNumber":  19,
+                       "arabic":  "وَفُتِحَتِ السَّمَٓاءُ فَكَانَتْ اَبْوَابًاۙ",
+                       "meal":  "Gökyüzü açılır ve orada pek çok kapılar oluşur#",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5771,
+                       "verseNumber":  20,
+                       "arabic":  "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًاۜ",
+                       "meal":  "Dağlar yürütülür, serap haline gelir.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5772,
+                       "verseNumber":  21,
+                       "arabic":  "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًاۙ",
+                       "meal":  "Şüphesiz, azgınların barınağı olacak cehennem pusuda beklemektedir.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5773,
+                       "verseNumber":  22,
+                       "arabic":  "لِلطَّاغ۪ينَ مَاٰبًاۙ",
+                       "meal":  "Şüphesiz, azgınların barınağı olacak cehennem pusuda beklemektedir.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5774,
+                       "verseNumber":  23,
+                       "arabic":  "لَابِثٖينَ فٖيهَٓا اَحْقَابًاۚ",
+                       "meal":  "(Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5775,
+                       "verseNumber":  24,
+                       "arabic":  "لَا يَذُوقُونَ فٖيهَا بَرْدًا وَلَا شَرَابًاۙ",
+                       "meal":  "(Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5776,
+                       "verseNumber":  25,
+                       "arabic":  "اِلَّا حَمٖيمًا وَغَسَّاقًاۙ",
+                       "meal":  "(Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5777,
+                       "verseNumber":  26,
+                       "arabic":  "جَزَٓاءً وِفَاقًا",
+                       "meal":  "(Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5778,
+                       "verseNumber":  27,
+                       "arabic":  "اِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًاۙ",
+                       "meal":  "Çünkü onlar hesap gününü (geleceğini) ummazlardı.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5779,
+                       "verseNumber":  28,
+                       "arabic":  "وَكَذَّبُوا بِاٰيَاتِنَا كِذَّابًاۜ",
+                       "meal":  "Bizim âyetlerimizi yalanladıkça yalanlamışlardı.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5780,
+                       "verseNumber":  29,
+                       "arabic":  "وَكُلَّ شَىْءٍ اَحْصَيْنَاهُ كِتَابًا",
+                       "meal":  "Biz ise her şeyi bir kitapta sayıp yazmışızdır.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5781,
+                       "verseNumber":  30,
+                       "arabic":  "فَذُوقُوا فَلَنْ نَزٖيدَكُمْ اِلَّا عَذَابًا۟",
+                       "meal":  "Tadın! Bundan sonra yalnızca azabınızı arttıracağız.",
+                       "page":  581,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5782,
+                       "verseNumber":  31,
+                       "arabic":  "اِنَّ لِلْمُتَّقٖينَ مَفَازًاۙ",
+                       "meal":  "Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5783,
+                       "verseNumber":  32,
+                       "arabic":  "حَدَٓائِقَ وَاَعْنَابًاۙ",
+                       "meal":  "Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5784,
+                       "verseNumber":  33,
+                       "arabic":  "وَكَوَاعِبَ اَتْرَابًاۙ",
+                       "meal":  "Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5785,
+                       "verseNumber":  34,
+                       "arabic":  "وَكَاْسًا دِهَاقًاۜ",
+                       "meal":  "Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5786,
+                       "verseNumber":  35,
+                       "arabic":  "لَا يَسْمَعُونَ فٖيهَا لَغْوًا وَلَا كِذَّابًاۚ",
+                       "meal":  "Onlar orada ne boş bir lâkırdı ne de yalan işitirler.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5787,
+                       "verseNumber":  36,
+                       "arabic":  "جَزَٓاءً مِنْ رَبِّكَ عَطَٓاءً حِسَابًاۙ",
+                       "meal":  "Bunlar Rabbinin yeterli bir bağışı, mükâfatıdır.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5788,
+                       "verseNumber":  37,
+                       "arabic":  "رَبِّ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۙ الرَّحْمٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًاۙ",
+                       "meal":  "O, göklerin, yerin ve ikisi arasında bulunanların Rabbidir. O, rahmândır. O gün insanlar O\u0027na karşı konuşmaya yetkili değillerdir.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5789,
+                       "verseNumber":  38,
+                       "arabic":  "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلٰٓئِكَةُ صَفًّاۜ لَا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَقَالَ صَوَابًا",
+                       "meal":  "Ruh (Cebrail) ve melekler saf saf olup durduğu gün, Rahmân\u0027ın izin verdiklerinden başkaları konuşmazlar# konuşan da doğruyu söyler.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5790,
+                       "verseNumber":  39,
+                       "arabic":  "ذٰلِكَ الْيَوْمُ الْحَقُّۚ فَمَنْ شَٓاءَ اتَّخَذَ اِلٰى رَبِّهٖ مَاٰبًا",
+                       "meal":  "İşte o, kesin olarak gelecek gündür. O halde dileyen Rabbine varan bir yol tutsun.",
+                       "page":  582,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5791,
+                       "verseNumber":  40,
+                       "arabic":  "اِنَّٓا اَنْذَرْنَاكُمْ عَذَابًا قَرٖيبًاۚ يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنٖى كُنْتُ تُرَابًا",
+                       "meal":  "Biz, yakın bir azap ile sizi uyardık. O gün kişi önceden yaptıklarına bakacak ve inkârcı kişi: «Keşke toprak olsaydım!» diyecektir.",
+                       "page":  582,
+                       "juz":  30
+                   }
+               ]
+}

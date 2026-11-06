@@ -1,0 +1,213 @@
+﻿{
+    "surah":  {
+                  "surahId":  84,
+                  "name":  "İnşikâk",
+                  "nameArabic":  "سُورَةُ الْاِنْشِقَاقِ",
+                  "verseCount":  25,
+                  "page":  588,
+                  "juz":  30,
+                  "nameEn":  "Al-Inshiqaq"
+              },
+    "verses":  [
+                   {
+                       "id":  5970,
+                       "verseNumber":  1,
+                       "arabic":  "اِذَا السَّمَٓاءُ انْشَقَّتْۙ",
+                       "meal":  "Gök yarıldığı, Rabbine kulak verip boyun eğecek hale getirildiği zaman,",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5971,
+                       "verseNumber":  2,
+                       "arabic":  "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۙ",
+                       "meal":  "Gök yarıldığı, Rabbine kulak verip boyun eğecek hale getirildiği zaman,",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5972,
+                       "verseNumber":  3,
+                       "arabic":  "وَاِذَا الْاَرْضُ مُدَّتْۙ",
+                       "meal":  "Yer dümdüz edildiği, içinde bulunanları atıp boşaldığı ve Rabbini dinleyip O\u0027na hakkıyla itaata mecbur kılındığı vakit (insanoğlu yaptıkları ile karşılaşır).",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5973,
+                       "verseNumber":  4,
+                       "arabic":  "وَاَلْقَتْ مَا فٖيهَا وَتَخَلَّتْۙ",
+                       "meal":  "Yer dümdüz edildiği, içinde bulunanları atıp boşaldığı ve Rabbini dinleyip O\u0027na hakkıyla itaata mecbur kılındığı vakit (insanoğlu yaptıkları ile karşılaşır).",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5974,
+                       "verseNumber":  5,
+                       "arabic":  "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۜ",
+                       "meal":  "Yer dümdüz edildiği, içinde bulunanları atıp boşaldığı ve Rabbini dinleyip O\u0027na hakkıyla itaata mecbur kılındığı vakit (insanoğlu yaptıkları ile karşılaşır).",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5975,
+                       "verseNumber":  6,
+                       "arabic":  "يَٓا اَيُّهَا الْاِنْسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدْحًا فَمُلَاقٖيهِۚ",
+                       "meal":  "Ey insan! Şüphe yok ki sen Rabbine karşı çaba üstüne çaba göstermektesin# sonunda O\u0027na varacaksın.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5976,
+                       "verseNumber":  7,
+                       "arabic":  "فَاَمَّا مَنْ اُو۫تِىَ كِتَابَهُ بِيَمٖينِهٖۙ",
+                       "meal":  "Kimin kitabı sağından verilirse,",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5977,
+                       "verseNumber":  8,
+                       "arabic":  "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسٖيرًاۙ",
+                       "meal":  "Kolay bir hesapla hesaba çekilecek#",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5978,
+                       "verseNumber":  9,
+                       "arabic":  "وَيَنْقَلِبُ اِلٰٓى اَهْلِهٖ مَسْرُورًاۜ",
+                       "meal":  "Ve sevinçli olarak ailesine dönecektir.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5979,
+                       "verseNumber":  10,
+                       "arabic":  "وَاَمَّا مَنْ اُو۫تِىَ كِتَابَهُ وَرَٓاءَ ظَهْرِهٖۙ",
+                       "meal":  "Kimin de kitabı arkasından verilirse, derhal yok olmayı isteyecek# alevli ateşe girecektir. Zira o, (dünyada) ailesi içinde (mal-mülk sebebiyle) şımarmıştı.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5980,
+                       "verseNumber":  11,
+                       "arabic":  "فَسَوْفَ يَدْعُوا ثُبُورًاۙ",
+                       "meal":  "Kimin de kitabı arkasından verilirse, derhal yok olmayı isteyecek# alevli ateşe girecektir. Zira o, (dünyada) ailesi içinde (mal-mülk sebebiyle) şımarmıştı.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5981,
+                       "verseNumber":  12,
+                       "arabic":  "وَيَصْلٰى سَعٖيرًاۜ",
+                       "meal":  "Kimin de kitabı arkasından verilirse, derhal yok olmayı isteyecek# alevli ateşe girecektir. Zira o, (dünyada) ailesi içinde (mal-mülk sebebiyle) şımarmıştı.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5982,
+                       "verseNumber":  13,
+                       "arabic":  "اِنَّهُ كَانَ فٖٓى اَهْلِهٖ مَسْرُورًا",
+                       "meal":  "Kimin de kitabı arkasından verilirse, derhal yok olmayı isteyecek# alevli ateşe girecektir. Zira o, (dünyada) ailesi içinde (mal-mülk sebebiyle) şımarmıştı.",
+                       "page":  588,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5983,
+                       "verseNumber":  14,
+                       "arabic":  "اِنَّهُ ظَنَّ اَنْ لَنْ يَحُورَۚۛ",
+                       "meal":  "O hiçbir zaman Rabbine dönmeyeceğini sandı.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5984,
+                       "verseNumber":  15,
+                       "arabic":  "بَلٰىۚۛ اِنَّ رَبَّهُ كَانَ بِهٖ بَصٖيرًاۜ",
+                       "meal":  "Oysa gerçekten Rabbi onu görüyordu.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5985,
+                       "verseNumber":  16,
+                       "arabic":  "فَلَٓا اُقْسِمُ بِالشَّفَقِۙ",
+                       "meal":  "Hayır! Şafağa, geceye ve onda basan karanlığa, dolunay olmuş aya yemin ederim ki, halden hale geçersiniz.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5986,
+                       "verseNumber":  17,
+                       "arabic":  "وَالَّيْلِ وَمَا وَسَقَۙ",
+                       "meal":  "Hayır! Şafağa, geceye ve onda basan karanlığa, dolunay olmuş aya yemin ederim ki, halden hale geçersiniz.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5987,
+                       "verseNumber":  18,
+                       "arabic":  "وَالْقَمَرِ اِذَا اتَّسَقَۙ",
+                       "meal":  "Hayır! Şafağa, geceye ve onda basan karanlığa, dolunay olmuş aya yemin ederim ki, halden hale geçersiniz.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5988,
+                       "verseNumber":  19,
+                       "arabic":  "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍۜ",
+                       "meal":  "Hayır! Şafağa, geceye ve onda basan karanlığa, dolunay olmuş aya yemin ederim ki, halden hale geçersiniz.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5989,
+                       "verseNumber":  20,
+                       "arabic":  "فَمَا لَهُمْ لَا يُؤْمِنُونَۙ",
+                       "meal":  "Böyleyken onlar acaba neden iman etmezler?",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5990,
+                       "verseNumber":  21,
+                       "arabic":  "وَاِذَا قُرِئَ عَلَيْهِمُ الْقُرْاٰنُ لَا يَسْجُدُونَۜ",
+                       "meal":  "Onlar kendilerine Kur\u0027an okununca secde de etmezler.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5991,
+                       "verseNumber":  22,
+                       "arabic":  "بَلِ الَّذٖينَ كَفَرُوا يُكَذِّبُونَؗ",
+                       "meal":  "Aksine, kâfirler yalanlıyorlar.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5992,
+                       "verseNumber":  23,
+                       "arabic":  "وَاللّٰهُ اَعْلَمُ بِمَا يُوعُونَؗ",
+                       "meal":  "Halbuki Allah onların gizlediği şeyleri çok iyi bilir.",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5993,
+                       "verseNumber":  24,
+                       "arabic":  "فَبَشِّرْهُمْ بِعَذَابٍ اَلٖيمٍۙ",
+                       "meal":  "(Resûlüm!) Onlara acı azabı müjdele!",
+                       "page":  589,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5994,
+                       "verseNumber":  25,
+                       "arabic":  "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍ",
+                       "meal":  "İman edip sâlih amel işleyenler başkadır# onlar için arkası kesilmeyen bir mükâfat vardır.",
+                       "page":  589,
+                       "juz":  30
+                   }
+               ]
+}

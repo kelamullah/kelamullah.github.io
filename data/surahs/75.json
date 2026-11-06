@@ -1,0 +1,333 @@
+﻿{
+    "surah":  {
+                  "surahId":  75,
+                  "name":  "Kıyâmet",
+                  "nameArabic":  "سُورَةُ الْقِيٰمَةِ",
+                  "verseCount":  40,
+                  "page":  576,
+                  "juz":  29,
+                  "nameEn":  "Al-Qiyamah"
+              },
+    "verses":  [
+                   {
+                       "id":  5628,
+                       "verseNumber":  1,
+                       "arabic":  "لَٓا اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ",
+                       "meal":  "Kıyamet gününe yemin ederim.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5629,
+                       "verseNumber":  2,
+                       "arabic":  "وَلَٓا اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+                       "meal":  "Kendini kınayan (pişmanlık duyan) nefse yemin ederim (diriltilip hesaba çekileceksiniz).",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5630,
+                       "verseNumber":  3,
+                       "arabic":  "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَجْمَعَ عِظَامَهُۜ",
+                       "meal":  "İnsan, kendisinin kemiklerini biraraya toplayamayacağımızı mı sanır?",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5631,
+                       "verseNumber":  4,
+                       "arabic":  "بَلٰى قَادِرٖينَ عَلٰٓى اَنْ نُسَوِّىَ بَنَانَهُ",
+                       "meal":  "Evet, bizim, onun parmak uçlarını bile aynen eski haline getirmeye gücümüz yeter.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5632,
+                       "verseNumber":  5,
+                       "arabic":  "بَلْ يُرٖيدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهُۚ",
+                       "meal":  "Fakat insan önündekini (kıyameti) yalanlamak ister.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5633,
+                       "verseNumber":  6,
+                       "arabic":  "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۜ",
+                       "meal":  "«Kıyamet günü ne zamanmış?» diye sorar.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5634,
+                       "verseNumber":  7,
+                       "arabic":  "فَاِذَا بَرِقَ الْبَصَرُۙ",
+                       "meal":  "İşte, göz kamaştığı, ay tutulduğu, güneşle ay biraraya getirildiği zaman!",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5635,
+                       "verseNumber":  8,
+                       "arabic":  "وَخَسَفَ الْقَمَرُۙ",
+                       "meal":  "İşte, göz kamaştığı, ay tutulduğu, güneşle ay biraraya getirildiği zaman!",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5636,
+                       "verseNumber":  9,
+                       "arabic":  "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ",
+                       "meal":  "İşte, göz kamaştığı, ay tutulduğu, güneşle ay biraraya getirildiği zaman!",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5637,
+                       "verseNumber":  10,
+                       "arabic":  "يَقُولُ الْاِنْسَانُ يَوْمَئِذٍ اَيْنَ الْمَفَرُّۚ",
+                       "meal":  "O gün insan, «Kaçacak yer neresi!» diyecektir.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5638,
+                       "verseNumber":  11,
+                       "arabic":  "كَلَّا لَا وَزَرَۚ",
+                       "meal":  "Hayır, hayır! (Kaçıp) sığınacak yer yoktur!",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5639,
+                       "verseNumber":  12,
+                       "arabic":  "اِلٰى رَبِّكَ يَوْمَئِذٍۨ الْمُسْتَقَرُّۜ",
+                       "meal":  "O gün varıp durulacak yer, sadece Rabbinin huzurudur.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5640,
+                       "verseNumber":  13,
+                       "arabic":  "يُنَبَّؤُا الْاِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَاَخَّرَۜ",
+                       "meal":  "O gün insana, ileri götürdüğü ve geri bıraktığı ne varsa bildirilir.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5641,
+                       "verseNumber":  14,
+                       "arabic":  "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصٖيرَةٌۙ",
+                       "meal":  "Artık insan, kendi kendinin şahididir.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5642,
+                       "verseNumber":  15,
+                       "arabic":  "وَلَوْ اَلْقٰى مَعَاذ۪يرَهُۜ",
+                       "meal":  "İsterse özürlerini sayıp döksün.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5643,
+                       "verseNumber":  16,
+                       "arabic":  "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۜ",
+                       "meal":  "(Resûlüm!) onu (vahyi) çarçabuk almak için dilini kımıldatma.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5644,
+                       "verseNumber":  17,
+                       "arabic":  "اِنَّ عَلَيْنَا جَمْعَهُ وَقُرْاٰنَهُۚ",
+                       "meal":  "Şüphesiz onu, toplamak (senin kalbine yerleştirmek) ve onu okutmak bize aittir.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5645,
+                       "verseNumber":  18,
+                       "arabic":  "فَاِذَا قَرَاْنَاهُ فَاتَّبِعْ قُرْاٰنَهُۚ",
+                       "meal":  "O halde, biz onu okuduğumuz zaman, sen onun okunuşunu takip et.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5646,
+                       "verseNumber":  19,
+                       "arabic":  "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهُۜ",
+                       "meal":  "Sonra şüphen olmasın ki, onu açıklamak da bize aittir.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5647,
+                       "verseNumber":  20,
+                       "arabic":  "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَۙ",
+                       "meal":  "Hayır! Doğrusu siz, çarçabuk geçeni (dünya hayatını ve nimetlerini) seviyor, ahireti bırakıyorsunuz.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5648,
+                       "verseNumber":  21,
+                       "arabic":  "وَتَذَرُونَ الْاٰخِرَةَۜ",
+                       "meal":  "Hayır! Doğrusu siz, çarçabuk geçeni (dünya hayatını ve nimetlerini) seviyor, ahireti bırakıyorsunuz.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5649,
+                       "verseNumber":  22,
+                       "arabic":  "وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌۙ",
+                       "meal":  "Yüzler vardır ki, o gün ışıl ışıl parıldayacaktır.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5650,
+                       "verseNumber":  23,
+                       "arabic":  "اِلٰى رَبِّهَا نَاظِرَةٌۚ",
+                       "meal":  "Rablerine bakacaklardır (O\u0027nu göreceklerdir).",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5651,
+                       "verseNumber":  24,
+                       "arabic":  "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌۙ",
+                       "meal":  "Yüzler de vardır ki, o gün buruşacaktır#",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5652,
+                       "verseNumber":  25,
+                       "arabic":  "تَظُنُّ اَنْ يُفْعَلَ بِهَا فَاقِرَةٌۜ",
+                       "meal":  "Kendilerinin, bel kemiklerini kıran bir felâkete uğratılacağını sezeceklerdir.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5653,
+                       "verseNumber":  26,
+                       "arabic":  "كَلَّٓا اِذَا بَلَغَتِ التَّرَاقِىَۙ",
+                       "meal":  "Artık gözünüzü açın! Ne zaman ki can köprücük kemiğine dayanır,",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5654,
+                       "verseNumber":  27,
+                       "arabic":  "وَقٖيلَ مَنْ۔ رَاقٍۙ",
+                       "meal":  "«Tedavi edebilecek kimdir?» denir.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5655,
+                       "verseNumber":  28,
+                       "arabic":  "وَظَنَّ اَنَّهُ الْفِرَاقُۙ",
+                       "meal":  "(Can çekişen) bunun gerçek bir ayrılış olduğunu anlar.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5656,
+                       "verseNumber":  29,
+                       "arabic":  "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ",
+                       "meal":  "Ve bacak bacağa dolaşır.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5657,
+                       "verseNumber":  30,
+                       "arabic":  "اِلٰى رَبِّكَ يَوْمَئِذٍۨ الْمَسَاقُۜ۟",
+                       "meal":  "İşte o gün sevkedilecek yer, sadece Rabbinin huzurudur.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5658,
+                       "verseNumber":  31,
+                       "arabic":  "فَلَا صَدَّقَ وَلَا صَلّٰىۙ",
+                       "meal":  "İşte o, (Peygamber\u0027in getirdiğini) doğru kabul etmemiş, namaz da kılmamıştı.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5659,
+                       "verseNumber":  32,
+                       "arabic":  "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ",
+                       "meal":  "Aksine yalan saymış ve yüz çevirmişti.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5660,
+                       "verseNumber":  33,
+                       "arabic":  "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۜ",
+                       "meal":  "Sonra da çalım sata sata yürüyerek kendi ehline (taraftarlarına) gitmişti.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5661,
+                       "verseNumber":  34,
+                       "arabic":  "اَوْلٰى لَكَ فَاَوْلٰىۙ",
+                       "meal":  "Lâyıktır (o azap) sana, lâyık!",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5662,
+                       "verseNumber":  35,
+                       "arabic":  "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۜ",
+                       "meal":  "Evet, lâyıktır sana ( o azap) lâyık!",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5663,
+                       "verseNumber":  36,
+                       "arabic":  "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُتْرَكَ سُدًىۜ",
+                       "meal":  "İnsan, kendisinin başıboş bırakılacağını mı sanır!",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5664,
+                       "verseNumber":  37,
+                       "arabic":  "اَلَمْ يَكُ نُطْفَةً مِنْ مَنِىٍّ يُمْنٰىۙ",
+                       "meal":  "O, (döl yatağına) akıtılan meninin içinden bir nutfe (sperm) değil miydi?",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5665,
+                       "verseNumber":  38,
+                       "arabic":  "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ",
+                       "meal":  "Sonra bu, alaka (aşılanmış yumurta) olmuş, derken Allah onu (insan biçiminde) yaratıp şekillendirmişti.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5666,
+                       "verseNumber":  39,
+                       "arabic":  "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۜ",
+                       "meal":  "Ondan da iki eşi, yani erkek ve dişiyi var etmişti.",
+                       "page":  577,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5667,
+                       "verseNumber":  40,
+                       "arabic":  "اَلَيْسَ ذٰلِكَ بِقَادِرٍ عَلٰٓى اَنْ يُحْيِىَ الْمَوْتٰى",
+                       "meal":  "Peki (bunları yapan) Allah\u0027ın, ölüleri tekrar diriltmeye gücü yetmez mi?",
+                       "page":  577,
+                       "juz":  29
+                   }
+               ]
+}

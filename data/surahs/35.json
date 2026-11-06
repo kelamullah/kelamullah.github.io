@@ -1,0 +1,373 @@
+﻿{
+    "surah":  {
+                  "surahId":  35,
+                  "name":  "Fâtır",
+                  "nameArabic":  "سُورَةُ فَاطِرٍ",
+                  "verseCount":  45,
+                  "page":  433,
+                  "juz":  22,
+                  "nameEn":  "Fatir"
+              },
+    "verses":  [
+                   {
+                       "id":  3697,
+                       "verseNumber":  1,
+                       "arabic":  "اَلْحَمْدُ لِلّٰهِ فَاطِرِ السَّمٰوَاتِ وَالْاَرْضِ جَاعِلِ الْمَلٰٓئِكَةِ رُسُلًا اُو۬لٖٓى اَجْنِحَةٍ مَثْنٰى وَثُلٰثَ وَرُبَاعَۜ يَزٖيدُ فِى الْخَلْقِ مَا يَشَٓاءُۜ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىْءٍ قَدٖيرٌ",
+                       "meal":  "Gökleri ve yeri yaratan, melekleri ikişer, üçer, dörder kanatlı elçiler yapan Allah\u0027a hamdolsun. O, yaratmada dilediği arttırmayı yapar. Şüphesiz Allah, her şeye gücü yetendir.",
+                       "page":  433,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3698,
+                       "verseNumber":  2,
+                       "arabic":  "مَا يَفْتَحِ اللّٰهُ لِلنَّاسِ مِنْ رَحْمَةٍ فَلَا مُمْسِكَ لَهَاۚ وَمَا يُمْسِكْۙ فَلَا مُرْسِلَ لَهُ مِنْ بَعْدِهٖۜ وَهُوَ الْعَزٖيزُ الْحَكٖيمُ",
+                       "meal":  "Allah\u0027ın insanlara açacağı herhangi bir rahmeti tutup hapseden olamaz. O\u0027nun tuttuğunu O\u0027ndan sonra salıverecek de yoktur. O, üstündür, hikmet sahibidir.",
+                       "page":  433,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3699,
+                       "verseNumber":  3,
+                       "arabic":  "يَٓا اَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللّٰهِ عَلَيْكُمْۜ هَلْ مِنْ خَالِقٍ غَيْرُ اللّٰهِ يَرْزُقُكُمْ مِنَ السَّمَٓاءِ وَالْاَرْضِۜ لَٓا اِلٰهَ اِلَّا هُوَؗ فَاَنّٰى تُؤْفَكُونَ",
+                       "meal":  "Ey insanlar! Allah\u0027ın size olan nimetini hatırlayın# Allah\u0027tan başka size gökten ve yerden rızık verecek bir yaratıcı var mı? O\u0027ndan başka tanrı yoktur. Nasıl oluyor da (tevhidden küfre) çevriliyorsunuz!",
+                       "page":  433,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3700,
+                       "verseNumber":  4,
+                       "arabic":  "وَاِنْ يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَۜ وَاِلَى اللّٰهِ تُرْجَعُ الْاُمُورُ",
+                       "meal":  "Eğer seni yalanlıyorlarsa (üzülme)# senden önceki peygamberler de yalanlanmıştır. Bütün işler yalnızca Allah\u0027a döndürülecektir.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3701,
+                       "verseNumber":  5,
+                       "arabic":  "يَٓا اَيُّهَا النَّاسُ اِنَّ وَعْدَ اللّٰهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيٰوةُ الدُّنْيَا۠ وَلَا يَغُرَّنَّكُمْ بِاللّٰهِ الْغَرُورُ",
+                       "meal":  "Ey insanlar! Allah\u0027ın vâdi gerçektir, sakın dünya hayatı sizi aldatmasın ve o aldatıcı (şeytan) da Allah hakkında sizi kandırmasın!",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3702,
+                       "verseNumber":  6,
+                       "arabic":  "اِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّاۜ اِنَّمَا يَدْعُوا حِزْبَهُ لِيَكُونُوا مِنْ اَصْحَابِ السَّعٖيرِۜ",
+                       "meal":  "Çünkü şeytan, sizin düşmanınızdır, siz de onu düşman sayın. O, kendi taraftarlarını ancak ateş ehlinden olmaya çağırır.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3703,
+                       "verseNumber":  7,
+                       "arabic":  "اَلَّذٖينَ كَفَرُوا لَهُمْ عَذَابٌ شَدٖيدٌۜ وَ‏الَّذٖينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ مَغْفِرَةٌ وَاَجْرٌ كَبٖيرٌ۟",
+                       "meal":  "İnkâr edenler için şüphesiz çetin bir azap var, iman edip iyi işler yapanlara da mağfiret ve büyük bir mükâfat vardır.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3704,
+                       "verseNumber":  8,
+                       "arabic":  "اَفَمَنْ زُيِّنَ لَهُ سُٓوءُ عَمَلِهٖ فَرَاٰهُ حَسَنًاۜ فَاِنَّ اللّٰهَ يُضِلُّ مَنْ يَشَٓاءُ وَيَهْدٖى مَنْ يَشَٓاءُؗ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍۜ اِنَّ اللّٰهَ عَلٖيمٌ بِمَا يَصْنَعُونَ",
+                       "meal":  "Kötü işi kendisine güzel gösterilip de onu güzel gören kimse (kötülüğü hiç istemeyen kimseye benzer) mi? Allah dilediğini sapıklığa yöneltir, dilediğini doğru yola iletir. O halde onlar için üzülerek kendini helak etme. Allah onların ne yaptıklarını biliyor.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3705,
+                       "verseNumber":  9,
+                       "arabic":  "وَاللّٰهُ الَّذٖٓى اَرْسَلَ الرِّيَاحَ فَتُثٖيرُ سَحَابًا فَسُقْنَاهُ اِلٰى بَلَدٍ مَيِّتٍ فَاَحْيَيْنَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ كَذٰلِكَ النُّشُورُ",
+                       "meal":  "Rüzgârları gönderip de bulutu harekete geçiren Allah\u0027tır. Biz onu ölü bir bölgeye göndeririz de ölümünden sonra toprağa onunla hayat veririz. Ölülerin yeniden dirilmesi de böyle olacaktır.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3706,
+                       "verseNumber":  10,
+                       "arabic":  "مَنْ كَانَ يُرٖيدُ الْعِزَّةَ فَلِلّٰهِ الْعِزَّةُ جَمٖيعًاۜ اِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْفَعُهُۜ وَ‏الَّذٖينَ يَمْكُرُونَ السَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدٖيدٌۜ وَمَكْرُ اُو۬لٰٓئِكَ هُوَ يَبُورُ",
+                       "meal":  "Kim izzet ve şeref istiyor idiyse, bilsin ki, izzet ve şerefin hepsi Allah\u0027ındır. O\u0027na ancak güzel sözler yükselir (ulaşır). Onları da Allah\u0027a amel-i sâlih ulaştırır. Kötülüklerle tuzak kuranlara gelince, onlar için çetin bir azap vardır ve onların tuzağı bozulur.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3707,
+                       "verseNumber":  11,
+                       "arabic":  "وَاللّٰهُ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ جَعَلَكُمْ اَزْوَاجًاۜ وَمَا تَحْمِلُ مِنْ اُنْثٰى وَلَا تَضَعُ اِلَّا بِعِلْمِهٖۜ وَمَا يُعَمَّرُ مِنْ مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهٖٓ اِلَّا فٖى كِتَابٍۜ اِنَّ ذٰلِكَ عَلَى اللّٰهِ يَسٖيرٌ",
+                       "meal":  "Allah sizi (önce) topraktan, sonra meniden yarattı. Sonra sizi çiftler (erkek-dişi) kıldı. O\u0027nun bilgisi olmadan hiç bir dişi ne gebe kalır ne de doğurur. Bir canlıya ömür verilmesi de, onun ömründen azaltılması da mutlaka bir kitaptadır. Şüphesiz bunlar, Allah\u0027a kolaydır.",
+                       "page":  434,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3708,
+                       "verseNumber":  12,
+                       "arabic":  "وَمَا يَسْتَوِى الْبَحْرَانِۗ هٰذَا عَذْبٌ فُرَاتٌ سَٓائِغٌ شَرَابُهُ وَهٰذَا مِلْحٌ اُجَاجٌۜ وَمِنْ كُلٍّ تَاْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَاۚ وَتَرَى الْفُلْكَ فٖيهِ مَوَاخِرَ لِتَبْتَغُوا مِنْ فَضْلِهٖ وَلَعَلَّكُمْ تَشْكُرُونَ",
+                       "meal":  "İki deniz birbirine eşit olmaz. Bu tatlıdır, susuzluğu keser, içilmesi kolaydır. Şu da tuzludur, acıdır (boğazı yakar). Hepsinden de taze et (balık) yersiniz ve giyeceğiniz süs eşyası çıkarırsınız. Allah\u0027ın lütfundan (nasibinizi) arayıp da şükretmeniz için gemilerin, denizi yarıp gittiğini görürsün.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3709,
+                       "verseNumber":  13,
+                       "arabic":  "يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِۙ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَؗ كُلٌّ يَجْرٖٓى لِاَجَلٍ مُسَمًّىۜ ذٰلِكُمُ اللّٰهُ رَبُّكُمْ لَهُ الْمُلْكُۜ وَ‏الَّذٖينَ تَدْعُونَ مِنْ دُونِهٖ مَا يَمْلِكُونَ مِنْ قِطْمٖيرٍۜ",
+                       "meal":  "Allah, geceyi gündüzün içine sokar, gündüzü de gecenin içine sokar# güneş ve ayı emri altına almıştır. Her biri belirtilmiş bir süreye kadar akıp gider. İşte (bütün bunları yapan) Rabbiniz Allah\u0027tır. Mülk O\u0027nundur. O\u0027nu bırakıp da kendilerine taptıklarınız ise, bir çekirdek kabuğuna bile sahip değillerdir.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3710,
+                       "verseNumber":  14,
+                       "arabic":  "اِنْ تَدْعُوهُمْ لَا يَسْمَعُوا دُعَٓاءَكُمْۚ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْۜ وَيَوْمَ الْقِيٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْۜ وَلَا يُنَبِّئُكَ مِثْلُ خَبٖيرٍ۟",
+                       "meal":  "Eğer onları (putları) çağırırsanız, sizin çağırmanızı işitmezler. Faraza işitseler bile, size cevap veremezler. Kıyamet günü de sizin ortak koşmanızı reddederler. (Bu gerçeği) sana, her şeyden haberi olan (Allah) gibi hiç kimse haber veremez.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3711,
+                       "verseNumber":  15,
+                       "arabic":  "يَٓا اَيُّهَا النَّاسُ اَنْتُمُ الْفُقَرَٓاءُ اِلَى اللّٰهِۚ وَاللّٰهُ هُوَ الْغَنِىُّ الْحَمٖيدُ",
+                       "meal":  "Ey insanlar! Allah\u0027a muhtaç olan sizsiniz. Zengin ve övülmeye lâyık olan ancak O\u0027dur.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3712,
+                       "verseNumber":  16,
+                       "arabic":  "اِنْ يَشَاْ يُذْهِبْكُمْ وَيَاْتِ بِخَلْقٍ جَدٖيدٍۚ",
+                       "meal":  "Allah dilerse sizi yok eder ve yerinize yeni bir halk getirir.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3713,
+                       "verseNumber":  17,
+                       "arabic":  "وَمَا ذٰلِكَ عَلَى اللّٰهِ بِعَزٖيزٍ",
+                       "meal":  "Bu da Allah\u0027a güç bir şey değildir.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3714,
+                       "verseNumber":  18,
+                       "arabic":  "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ اُخْرٰىۜ وَاِنْ تَدْعُ مُثْقَلَةٌ اِلٰى حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبٰىۜ اِنَّمَا تُنْذِرُ الَّذٖينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ وَاَقَامُوا الصَّلٰوةَۜ وَمَنْ تَزَكّٰى فَاِنَّمَا يَتَزَكّٰى لِنَفْسِهٖۜ وَاِلَى اللّٰهِ الْمَصٖيرُ",
+                       "meal":  "Hiçbir günahkâr başkasının günahını yüklenmez. Yükü (günahı) ağır gelen kimse onu taşımak için (başkasını) çağırsa, bu çağırdığı akrabası da olsa, onun yükünden bir şey yüklenmez. Sen ancak görmeden Rablerinden korkanları ve namazı kılanları uyarabilirsin. Kim temizlenirse o, kendi menfaatine temizlenmiş olur. Dönüş Allah\u0027adır.",
+                       "page":  435,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3715,
+                       "verseNumber":  19,
+                       "arabic":  "وَمَا يَسْتَوِى الْاَعْمٰى وَالْبَصٖيرُۙ",
+                       "meal":  "Körle gören, karanlıkla aydınlık, gölge ile sıcak bir olmaz.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3716,
+                       "verseNumber":  20,
+                       "arabic":  "وَلَا الظُّلُمَاتُ وَلَا النُّورُۙ",
+                       "meal":  "Körle gören, karanlıkla aydınlık, gölge ile sıcak bir olmaz.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3717,
+                       "verseNumber":  21,
+                       "arabic":  "وَلَا الظِّلُّ وَلَا الْحَرُورُۚ",
+                       "meal":  "Körle gören, karanlıkla aydınlık, gölge ile sıcak bir olmaz.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3718,
+                       "verseNumber":  22,
+                       "arabic":  "وَمَا يَسْتَوِى الْاَحْيَٓاءُ وَلَا الْاَمْوَاتُۜ اِنَّ اللّٰهَ يُسْمِعُ مَنْ يَشَٓاءُۚ وَمَٓا اَنْتَ بِمُسْمِعٍ مَنْ فِى الْقُبُورِ",
+                       "meal":  "Dirilerle ölüler de bir olmaz. Şüphesiz Allah, dilediğine işittirir. Sen kabirlerdekilere işittiremezsin!",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3719,
+                       "verseNumber":  23,
+                       "arabic":  "اِنْ اَنْتَ اِلَّا نَذٖيرٌ",
+                       "meal":  "Sen sadece bir uyarıcısın.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3720,
+                       "verseNumber":  24,
+                       "arabic":  "اِنَّٓا اَرْسَلْنَاكَ بِالْحَقِّ بَشٖيرًا وَنَذٖيرًاۜ وَاِنْ مِنْ اُمَّةٍ اِلَّا خَلَا فٖيهَا نَذٖيرٌ",
+                       "meal":  "Biz seni müjdeleyici ve uyarıcı olarak hak ile gönderdik. Her millet için mutlaka bir uyarıcı (peygamber) bulunmuştur.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3721,
+                       "verseNumber":  25,
+                       "arabic":  "وَاِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذٖينَ مِنْ قَبْلِهِمْۚ جَٓاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ الْمُنٖيرِ",
+                       "meal":  "Eğer seni yalanlıyorlarsa (üzülme), onlardan öncekiler de yalanlamışlardı. (Oysa ki) peygamberleri onlara açık âyetler (mucizeler), sahifeler ve aydınlatıcı kitap getirmişlerdi.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3722,
+                       "verseNumber":  26,
+                       "arabic":  "ثُمَّ اَخَذْتُ الَّذٖينَ كَفَرُوا فَكَيْفَ كَانَ نَكٖيرِ۟",
+                       "meal":  "Sonra ben, o inkâr edenleri yakaladım. (Bak ki) cezam nasıl oldu!",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3723,
+                       "verseNumber":  27,
+                       "arabic":  "اَلَمْ تَرَ اَنَّ اللّٰهَ اَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءًۚ فَاَخْرَجْنَا بِهٖ ثَمَرَاتٍ مُخْتَلِفًا اَلْوَانُهَاۜ وَمِنَ الْجِبَالِ جُدَدٌ بٖيضٌ وَحُمْرٌ مُخْتَلِفٌ اَلْوَانُهَا وَغَرَابٖيبُ سُودٌ",
+                       "meal":  "Görmedin mi Allah gökten su indirdi. Onunla renkleri çeşit çeşit meyveler çıkardık. Dağlardan (geçen) beyaz, kırmızı, değişik renklerde ve simsiyah yollar (yaptık).",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3724,
+                       "verseNumber":  28,
+                       "arabic":  "وَمِنَ النَّاسِ وَالدَّوَٓابِّ وَالْاَنْعَامِ مُخْتَلِفٌ اَلْوَانُهُ كَذٰلِكَۜ اِنَّمَا يَخْشَى اللّٰهَ مِنْ عِبَادِهِ الْعُلَمٰٓؤُ۬اۜ اِنَّ اللّٰهَ عَزٖيزٌ غَفُورٌ",
+                       "meal":  "İnsanlardan, hayvanlardan ve davarlardan da yine böyle türlü renkte olanlar var. Kulları içinden ancak âlimler, Allah\u0027tan (gereğince) korkar. Şüphesiz Allah, daima üstündür, çok bağışlayandır.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3725,
+                       "verseNumber":  29,
+                       "arabic":  "اِنَّ الَّذٖينَ يَتْلُونَ كِتَابَ اللّٰهِ وَاَقَامُوا الصَّلٰوةَ وَاَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَنْ تَبُورَۙ",
+                       "meal":  "Allah\u0027ın kitabını okuyanlar, namazı kılanlar ve kendilerine verdiğimiz rızıktan (Allah için) gizli ve açık sarfedenler, asla zarara uğramayacak bir kazanç umabilirler.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3726,
+                       "verseNumber":  30,
+                       "arabic":  "لِيُوَفِّيَهُمْ اُجُورَهُمْ وَيَزٖيدَهُمْ مِنْ فَضْلِهٖۜ اِنَّهُ غَفُورٌ شَكُورٌ",
+                       "meal":  "Çünkü Allah, onların mükâfatlarını tam öder ve lütfundan onlara fazlasını da verir. Şüphesiz O, çok bağışlayan, şükrün karşılığını bol bol verendir.",
+                       "page":  436,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3727,
+                       "verseNumber":  31,
+                       "arabic":  "وَالَّذٖٓى اَوْحَيْنَٓا اِلَيْكَ مِنَ الْكِتَابِ هُوَ الْحَقُّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِۜ اِنَّ اللّٰهَ بِعِبَادِهٖ لَخَبٖيرٌ بَصٖيرٌ",
+                       "meal":  "Sana vahyettiğimiz kitap, kendinden öncekini (semavi kitapları) doğrulayıcı olarak gelen gerçektir. Allah, kullarının (her halinden) haberdardır, görendir.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3728,
+                       "verseNumber":  32,
+                       "arabic":  "ثُمَّ اَوْرَثْنَا الْكِتَابَ الَّذٖينَ اصْطَفَيْنَا مِنْ عِبَادِنَاۚ فَمِنْهُمْ ظَالِمٌ لِنَفْسِهٖۚ وَمِنْهُمْ مُقْتَصِدٌۚ وَمِنْهُمْ سَابِقٌ بِالْخَيْرَاتِ بِاِذْنِ اللّٰهِۜ ذٰلِكَ هُوَ الْفَضْلُ الْكَبٖيرُۜ",
+                       "meal":  "Sonra Kitab\u0027ı, kullarımız arasından seçtiklerimize verdik. Onlardan (insanlardan) kimi kendisine zulmeder, kimi ortadadır, kimi de Allah\u0027ın izniyle hayırlarda öne geçmek için yarışır. İşte büyük fazilet budur.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3729,
+                       "verseNumber":  33,
+                       "arabic":  "جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فٖيهَا مِنْ اَسَاوِرَ مِنْ ذَهَبٍ وَلُؤْلُؤً۬اۚ وَلِبَاسُهُمْ فٖيهَا حَرٖيرٌ",
+                       "meal":  "(Onların mükâfatı), içine girecekleri Adn cennetleridir. Orada altın bilezikler ve incilerle süslenirler. Orada giyecekleri elbiseleri de ipektir.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3730,
+                       "verseNumber":  34,
+                       "arabic":  "وَقَالُوا الْحَمْدُ لِلّٰهِ الَّذٖٓى اَذْهَبَ عَنَّا الْحَزَنَۜ اِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌۙ",
+                       "meal":  "(Cennette şöyle) derler: Bizden tasayı gideren Allah\u0027a hamdolsun. Doğrusu Rabbimiz çok bağışlayan, çok nimet verendir.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3731,
+                       "verseNumber":  35,
+                       "arabic":  "اَلَّذٖٓى اَحَلَّنَا دَارَ الْمُقَامَةِ مِنْ فَضْلِهٖۚ لَا يَمَسُّنَا فٖيهَا نَصَبٌ وَلَا يَمَسُّنَا فٖيهَا لُغُوبٌ",
+                       "meal":  "O (Rab) ki lütfuyla bizi asıl oturulacak yurda (cennete) yerleştirdi. Artık orada bize ne bir yorgunluk dokunacak ne de orada bize bir usanç gelecektir.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3732,
+                       "verseNumber":  36,
+                       "arabic":  "وَ‏الَّذٖينَ كَفَرُوا لَهُمْ نَارُ جَهَنَّمَۚ لَا يُقْضٰى عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُمْ مِنْ عَذَابِهَاۜ كَذٰلِكَ نَجْزٖى كُلَّ كَفُورٍۚ",
+                       "meal":  "İnkâr edenlere de cehennem ateşi vardır. Öldürülmezler ki ölsünler, cehennem azabı da onlara biraz olsun hafifletilmez. İşte biz, küfürde ileri giden her nankörü böyle cezalandırırız.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3733,
+                       "verseNumber":  37,
+                       "arabic":  "وَهُمْ يَصْطَرِخُونَ فٖيهَاۚ رَبَّنَٓا اَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذٖى كُنَّا نَعْمَلُۜ اَوَلَمْ نُعَمِّرْكُمْ مَا يَتَذَكَّرُ فٖيهِ مَنْ تَذَكَّرَ وَجَٓاءَكُمُ النَّذٖيرُۜ فَذُوقُوا فَمَا لِلظَّالِمٖينَ مِنْ نَصٖيرٍ۟",
+                       "meal":  "Onlar orada: Rabbimiz! Bizi çıkar, (önce) yaptığımızın yerine iyi işler yapalım! diye feryad ederler. Size düşünecek kimsenin düşünebileceği kadar bir ömür vermedik mi? Size uyarıcı da gelmedi mi? (Niçin inanmadınız?) Şimdi tadın (azabı)! Zalimlerin yardımcısı yoktur.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3734,
+                       "verseNumber":  38,
+                       "arabic":  "اِنَّ اللّٰهَ عَالِمُ غَيْبِ السَّمٰوَاتِ وَالْاَرْضِۜ اِنَّهُ عَلٖيمٌ بِذَاتِ الصُّدُورِ",
+                       "meal":  "Allah, göklerin ve yerin gaybını bilir. O, kalplerin içinde ne varsa onu da hakkıyla bilendir.",
+                       "page":  437,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3735,
+                       "verseNumber":  39,
+                       "arabic":  "هُوَ الَّذ۪ي جَعَلَكُمْ خَلَٓائِفَ فِي الْاَرْضِۜ فَمَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُۜ وَلَا يَز۪يدُ الْكَافِر۪ينَ كُفْرُهُمْ عِنْدَ رَبِّهِمْ اِلَّا مَقْتًاۚ وَلَا يَز۪يدُ الْكَافِر۪ينَ كُفْرُهُمْ اِلَّا خَسَارًا",
+                       "meal":  "Sizi yeryüzünde halifeler yapan O\u0027dur. Onun için kim inkâr ederse, inkârı kendi zararınadır. Kâfirlerin küfrü, Rableri katında kendileri için ancak gazabı arttırır. Kâfirlerin küfrü, kendilerine ziyandan başka bir şey getirmez.",
+                       "page":  438,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3736,
+                       "verseNumber":  40,
+                       "arabic":  "قُلْ اَرَاَيْتُمْ شُرَكَٓاءَكُمُ الَّذٖينَ تَدْعُونَ مِنْ دُونِ اللّٰهِۜ اَرُونٖى مَاذَا خَلَقُوا مِنَ الْاَرْضِ اَمْ لَهُمْ شِرْكٌ فِى السَّمٰوَاتِۚ اَمْ اٰتَيْنَاهُمْ كِتَابًا فَهُمْ عَلٰى بَيِّنَتٍ مِنْهُۚ بَلْ اِنْ يَعِدُ الظَّالِمُونَ بَعْضُهُمْ بَعْضًا اِلَّا غُرُورًا",
+                       "meal":  "De ki: Allah\u0027ı bırakıp da taptığınız, ortaklarınızı gördünüz mü? Gösterin bana! Onlar yerdeki hangi şeyi yarattılar! Yoksa onların göklerde mi bir ortaklıkları var! Yahut biz onlara, (bu hususta) bir kitap mı verdik de onlar, o kitaptaki bir delile dayanıyorlar? Hayır! O zalimler birbirlerine, aldatmadan başka bir şey vâdetmiyorlar.",
+                       "page":  438,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3737,
+                       "verseNumber":  41,
+                       "arabic":  "اِنَّ اللّٰهَ يُمْسِكُ السَّمٰوَاتِ وَالْاَرْضَ اَنْ تَزُولَاۚ وَلَئِنْ زَالَتَٓا اِنْ اَمْسَكَهُمَا مِنْ اَحَدٍ مِنْ بَعْدِهٖۜ اِنَّهُ كَانَ حَلٖيمًا غَفُورًا",
+                       "meal":  "Şüphesiz Allah gökleri ve yeri, nizamları bozulmasın diye tutuyor. Andolsun ki onların nizamı eğer bir bozulursa, kendisinden başka hiç kimse onları tutamaz. Şüphesiz O, halîmdir, çok bağışlayıcıdır.",
+                       "page":  438,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3738,
+                       "verseNumber":  42,
+                       "arabic":  "وَاَقْسَمُوا بِاللّٰهِ جَهْدَ اَيْمَانِهِمْ لَئِنْ جَٓاءَهُمْ نَذٖيرٌ لَيَكُونُنَّ اَهْدٰى مِنْ اِحْدَى الْاُمَمِۚ فَلَمَّا جَٓاءَهُمْ نَذٖيرٌ مَا زَادَهُمْ اِلَّا نُفُورًاۙ",
+                       "meal":  "Kendilerine bir uyarıcı (peygamber) gelirse, herhangi bir milletten daha çok doğru yolda olacaklarına dair bütün güçleriyle Allah\u0027a yemin etmişlerdi. Fakat onlara uyarıcı (Muhammed) gelince, bu, onların haktan uzaklaşmalarından başka bir şeyi arttırmadı.",
+                       "page":  438,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3739,
+                       "verseNumber":  43,
+                       "arabic":  "اِسْتِكْبَارًا فِى الْاَرْضِ وَمَكْرَ السَّيِّئِۜ وَلَا يَحٖيقُ الْمَكْرُ السَّيِّئُ اِلَّا بِاَهْلِهٖۜ فَهَلْ يَنْظُرُونَ اِلَّا سُنَّتَ الْاَوَّلٖينَۚ فَلَنْ تَجِدَ لِسُنَّتِ اللّٰهِ تَبْدٖيلًاۚ وَلَنْ تَجِدَ لِسُنَّتِ اللّٰهِ تَحْوٖيلًا",
+                       "meal":  "Çünkü onlar yeryüzünde büyüklük taslıyor ve kötü tuzaklar kuruyorlardı. Halbuki kişi kazdığı kuyuya kendi düşer. Onlar öncekilerin kanunundan (onlara uygulanandan) başkasını mı bekliyorlar? Allah\u0027ın kanununda asla bir değişme bulamazsın, Allah\u0027ın kanununda kesinlikle bir sapma da bulamazsın.",
+                       "page":  438,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3740,
+                       "verseNumber":  44,
+                       "arabic":  "اَوَلَمْ يَسٖيرُوا فِى الْاَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذٖينَ مِنْ قَبْلِهِمْ وَكَانُٓوا اَشَدَّ مِنْهُمْ قُوَّةًۜ وَمَا كَانَ اللّٰهُ لِيُعْجِزَهُ مِنْ شَىْءٍ فِى السَّمٰوَاتِ وَلَا فِى الْاَرْضِۜ اِنَّهُ كَانَ عَلٖيمًا قَدٖيرً",
+                       "meal":  "Bunlar yeryüzünde gezip de kendilerinden öncekilerin sonunun nasıl olduğunu görmediler mi? Halbuki onlar, bunlardan daha güçlü idiler. Ne göklerde ne de yerde Allah\u0027ı âciz bırakacak bir güç vardır. O, bilendir, güçlüdür.",
+                       "page":  438,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3741,
+                       "verseNumber":  45,
+                       "arabic":  "وَلَوْ يُؤَاخِذُ اللّٰهُ النَّاسَ بِمَا كَسَبُوا مَا تَرَكَ عَلٰى ظَهْرِهَا مِنْ دَٓابَّةٍ وَلٰكِنْ يُؤَخِّرُهُمْ اِلٰٓى اَجَلٍ مُسَمًّىۚ فَاِذَا جَٓاءَ اَجَلُهُمْ فَاِنَّ اللّٰهَ كَانَ بِعِبَادِهٖ بَصٖيرًا",
+                       "meal":  "Eğer Allah, yaptıkları yüzünden insanları (hemen) cezalandırsaydı, yeryüzünde hiçbir canlı yaratık bırakmazdı. Fakat Allah, onları belirtilmiş bir süreye kadar erteliyor. Vakitleri gelince (gerekeni yapar). Kuşkusuz Allah, kullarını görmektedir.",
+                       "page":  439,
+                       "juz":  22
+                   }
+               ]
+}

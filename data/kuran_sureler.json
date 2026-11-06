@@ -1,0 +1,1028 @@
+[
+  {
+    "surahId": 1,
+    "name": "Fâtiha",
+    "nameArabic": "سُورَةُ الْفَاتِحَةِ",
+    "verseCount": 7,
+    "page": 0,
+    "juz": 1,
+    "nameEn": "Al-Fatihah"
+  },
+  {
+    "surahId": 2,
+    "name": "Bakara",
+    "nameArabic": "سُورَةُ الْبَقَرَةِ",
+    "verseCount": 286,
+    "page": 1,
+    "juz": 1,
+    "nameEn": "Al-Baqarah"
+  },
+  {
+    "surahId": 3,
+    "name": "Âl-i İmrân",
+    "nameArabic": "سُورَةُ اٰلِ عِمْرٰنَ",
+    "verseCount": 200,
+    "page": 49,
+    "juz": 3,
+    "nameEn": "Ali 'Imran"
+  },
+  {
+    "surahId": 4,
+    "name": "Nisâ",
+    "nameArabic": "سُورَةُ النِّسَٓاءِ",
+    "verseCount": 176,
+    "page": 76,
+    "juz": 4,
+    "nameEn": "An-Nisa"
+  },
+  {
+    "surahId": 5,
+    "name": "Mâide",
+    "nameArabic": "سُورَةُ الْمَٓائِدَةِ",
+    "verseCount": 120,
+    "page": 105,
+    "juz": 6,
+    "nameEn": "Al-Ma'idah"
+  },
+  {
+    "surahId": 6,
+    "name": "En'âm",
+    "nameArabic": "سُورَةُ الْاَنْعَامِ",
+    "verseCount": 165,
+    "page": 127,
+    "juz": 7,
+    "nameEn": "Al-An'am"
+  },
+  {
+    "surahId": 7,
+    "name": "A'râf",
+    "nameArabic": "سُورَةُ الْاَعْرَافِ",
+    "verseCount": 206,
+    "page": 150,
+    "juz": 8,
+    "nameEn": "Al-A'raf"
+  },
+  {
+    "surahId": 8,
+    "name": "Enfâl",
+    "nameArabic": "سُورَةُ الْاَنْفَالِ",
+    "verseCount": 75,
+    "page": 176,
+    "juz": 9,
+    "nameEn": "Al-Anfal"
+  },
+  {
+    "surahId": 9,
+    "name": "Tevbe",
+    "nameArabic": "سُورَةُ التَّوْبَةِ",
+    "verseCount": 129,
+    "page": 186,
+    "juz": 10,
+    "nameEn": "At-Tawbah"
+  },
+  {
+    "surahId": 10,
+    "name": "Yûnus",
+    "nameArabic": "سُورَةُ يُونُسَ",
+    "verseCount": 109,
+    "page": 207,
+    "juz": 11,
+    "nameEn": "Yunus"
+  },
+  {
+    "surahId": 11,
+    "name": "Hûd",
+    "nameArabic": "سُورَةُ هُودٍ",
+    "verseCount": 123,
+    "page": 220,
+    "juz": 11,
+    "nameEn": "Hud"
+  },
+  {
+    "surahId": 12,
+    "name": "Yûsuf",
+    "nameArabic": "سُورَةُ يُوسُفَ",
+    "verseCount": 111,
+    "page": 234,
+    "juz": 12,
+    "nameEn": "Yusuf"
+  },
+  {
+    "surahId": 13,
+    "name": "Ra'd",
+    "nameArabic": "سُورَةُ الرَّعْدِ",
+    "verseCount": 43,
+    "page": 248,
+    "juz": 13,
+    "nameEn": "Ar-Ra'd"
+  },
+  {
+    "surahId": 14,
+    "name": "İbrâhîm",
+    "nameArabic": "سُورَةُ اِبْرٰهٖيمَ",
+    "verseCount": 52,
+    "page": 254,
+    "juz": 13,
+    "nameEn": "Ibrahim"
+  },
+  {
+    "surahId": 15,
+    "name": "Hicr",
+    "nameArabic": "سُورَةُ الْحِجْرِ",
+    "verseCount": 99,
+    "page": 261,
+    "juz": 14,
+    "nameEn": "Al-Hijr"
+  },
+  {
+    "surahId": 16,
+    "name": "Nahl",
+    "nameArabic": "سُورَةُ النَّحْلِ",
+    "verseCount": 128,
+    "page": 266,
+    "juz": 14,
+    "nameEn": "An-Nahl"
+  },
+  {
+    "surahId": 17,
+    "name": "İsrâ",
+    "nameArabic": "سُورَةُ الْاِسْرَٓاءِ",
+    "verseCount": 111,
+    "page": 281,
+    "juz": 15,
+    "nameEn": "Al-Isra"
+  },
+  {
+    "surahId": 18,
+    "name": "Kehf",
+    "nameArabic": "سُورَةُ الْكَهْفِ",
+    "verseCount": 110,
+    "page": 292,
+    "juz": 15,
+    "nameEn": "Al-Kahf"
+  },
+  {
+    "surahId": 19,
+    "name": "Meryem",
+    "nameArabic": "سُورَةُ مَرْيَمَ",
+    "verseCount": 98,
+    "page": 304,
+    "juz": 16,
+    "nameEn": "Maryam"
+  },
+  {
+    "surahId": 20,
+    "name": "Tâhâ",
+    "nameArabic": "سُورَةُ طٰهٰ",
+    "verseCount": 135,
+    "page": 311,
+    "juz": 16,
+    "nameEn": "Taha"
+  },
+  {
+    "surahId": 21,
+    "name": "Enbiyâ",
+    "nameArabic": "سُورَةُ الْاَنْبِيَٓاءِ",
+    "verseCount": 112,
+    "page": 321,
+    "juz": 17,
+    "nameEn": "Al-Anbiya"
+  },
+  {
+    "surahId": 22,
+    "name": "Hac",
+    "nameArabic": "سُورَةُ الْحَجِّ",
+    "verseCount": 78,
+    "page": 331,
+    "juz": 17,
+    "nameEn": "Al-Hajj"
+  },
+  {
+    "surahId": 23,
+    "name": "Mü'minûn",
+    "nameArabic": "سُورَةُ الْمُؤْمِنُونَ",
+    "verseCount": 118,
+    "page": 341,
+    "juz": 18,
+    "nameEn": "Al-Mu'minun"
+  },
+  {
+    "surahId": 24,
+    "name": "Nûr",
+    "nameArabic": "سُورَةُ النُّورِ",
+    "verseCount": 64,
+    "page": 349,
+    "juz": 18,
+    "nameEn": "An-Nur"
+  },
+  {
+    "surahId": 25,
+    "name": "Furkân",
+    "nameArabic": "سُورَةُ الْفُرْقَانِ",
+    "verseCount": 77,
+    "page": 358,
+    "juz": 18,
+    "nameEn": "Al-Furqan"
+  },
+  {
+    "surahId": 26,
+    "name": "Şuarâ",
+    "nameArabic": "سُورَةُ الشُّعَرَٓاءِ",
+    "verseCount": 227,
+    "page": 366,
+    "juz": 19,
+    "nameEn": "Ash-Shu'ara"
+  },
+  {
+    "surahId": 27,
+    "name": "Neml",
+    "nameArabic": "سُورَةُ النَّمْلِ",
+    "verseCount": 93,
+    "page": 376,
+    "juz": 19,
+    "nameEn": "An-Naml"
+  },
+  {
+    "surahId": 28,
+    "name": "Kasas",
+    "nameArabic": "سُورَةُ الْقَصَصِ",
+    "verseCount": 88,
+    "page": 384,
+    "juz": 20,
+    "nameEn": "Al-Qasas"
+  },
+  {
+    "surahId": 29,
+    "name": "Ankebût",
+    "nameArabic": "سُورَةُ الْعَنْكَبُوتِ",
+    "verseCount": 69,
+    "page": 395,
+    "juz": 20,
+    "nameEn": "Al-'Ankabut"
+  },
+  {
+    "surahId": 30,
+    "name": "Rûm",
+    "nameArabic": "سُورَةُ الرُّومِ",
+    "verseCount": 60,
+    "page": 403,
+    "juz": 21,
+    "nameEn": "Ar-Rum"
+  },
+  {
+    "surahId": 31,
+    "name": "Lokmân",
+    "nameArabic": "سُورَةُ لُقْمٰنَ",
+    "verseCount": 34,
+    "page": 410,
+    "juz": 21,
+    "nameEn": "Luqman"
+  },
+  {
+    "surahId": 32,
+    "name": "Secde",
+    "nameArabic": "سُورَةُ السَّجْدَةِ",
+    "verseCount": 30,
+    "page": 414,
+    "juz": 21,
+    "nameEn": "As-Sajdah"
+  },
+  {
+    "surahId": 33,
+    "name": "Ahzâb",
+    "nameArabic": "سُورَةُ الْاَحْزَابِ",
+    "verseCount": 73,
+    "page": 417,
+    "juz": 21,
+    "nameEn": "Al-Ahzab"
+  },
+  {
+    "surahId": 34,
+    "name": "Sebe'",
+    "nameArabic": "سُورَةُ سَبَإٍ",
+    "verseCount": 54,
+    "page": 427,
+    "juz": 22,
+    "nameEn": "Saba"
+  },
+  {
+    "surahId": 35,
+    "name": "Fâtır",
+    "nameArabic": "سُورَةُ فَاطِرٍ",
+    "verseCount": 45,
+    "page": 433,
+    "juz": 22,
+    "nameEn": "Fatir"
+  },
+  {
+    "surahId": 36,
+    "name": "Yâsîn",
+    "nameArabic": "سُورَةُ يٰسٓ",
+    "verseCount": 83,
+    "page": 439,
+    "juz": 22,
+    "nameEn": "Ya-Sin"
+  },
+  {
+    "surahId": 37,
+    "name": "Sâffât",
+    "nameArabic": "سُورَةُ الصَّٓافَّاتِ",
+    "verseCount": 182,
+    "page": 445,
+    "juz": 23,
+    "nameEn": "As-Saffat"
+  },
+  {
+    "surahId": 38,
+    "name": "Sâd",
+    "nameArabic": "سُورَةُ صٓ",
+    "verseCount": 88,
+    "page": 452,
+    "juz": 23,
+    "nameEn": "Sad"
+  },
+  {
+    "surahId": 39,
+    "name": "Zümer",
+    "nameArabic": "سُورَةُ الزُّمَرِ",
+    "verseCount": 75,
+    "page": 457,
+    "juz": 23,
+    "nameEn": "Az-Zumar"
+  },
+  {
+    "surahId": 40,
+    "name": "Mü'min",
+    "nameArabic": "سُورَةُ الْمُؤْمِنِ",
+    "verseCount": 85,
+    "page": 466,
+    "juz": 24,
+    "nameEn": "Ghafir"
+  },
+  {
+    "surahId": 41,
+    "name": "Fussilet",
+    "nameArabic": "سُورَةُ فُصِّلَتْ",
+    "verseCount": 54,
+    "page": 476,
+    "juz": 24,
+    "nameEn": "Fussilat"
+  },
+  {
+    "surahId": 42,
+    "name": "Şûrâ",
+    "nameArabic": "سُورَةُ الشُّورٰى",
+    "verseCount": 53,
+    "page": 482,
+    "juz": 25,
+    "nameEn": "Ash-Shuraa"
+  },
+  {
+    "surahId": 43,
+    "name": "Zuhruf",
+    "nameArabic": "سُورَةُ الزُّخْرُفِ",
+    "verseCount": 89,
+    "page": 488,
+    "juz": 25,
+    "nameEn": "Az-Zukhruf"
+  },
+  {
+    "surahId": 44,
+    "name": "Duhân",
+    "nameArabic": "سُورَةُ الدُّخَانِ",
+    "verseCount": 59,
+    "page": 495,
+    "juz": 25,
+    "nameEn": "Ad-Dukhan"
+  },
+  {
+    "surahId": 45,
+    "name": "Câsiye",
+    "nameArabic": "سُورَةُ الْجَاثِيَةِ",
+    "verseCount": 37,
+    "page": 498,
+    "juz": 25,
+    "nameEn": "Al-Jathiyah"
+  },
+  {
+    "surahId": 46,
+    "name": "Ahkâf",
+    "nameArabic": "سُورَةُ الْاَحْقَافِ",
+    "verseCount": 35,
+    "page": 501,
+    "juz": 26,
+    "nameEn": "Al-Ahqaf"
+  },
+  {
+    "surahId": 47,
+    "name": "Muhammed",
+    "nameArabic": "سُورَةُ مُحَمَّدٍ",
+    "verseCount": 38,
+    "page": 506,
+    "juz": 26,
+    "nameEn": "Muhammad"
+  },
+  {
+    "surahId": 48,
+    "name": "Fetih",
+    "nameArabic": "سُورَةُ الْفَتْحِ",
+    "verseCount": 29,
+    "page": 510,
+    "juz": 26,
+    "nameEn": "Al-Fath"
+  },
+  {
+    "surahId": 49,
+    "name": "Hucurât",
+    "nameArabic": "سُورَةُ الْحُجُرَاتِ",
+    "verseCount": 18,
+    "page": 514,
+    "juz": 26,
+    "nameEn": "Al-Hujurat"
+  },
+  {
+    "surahId": 50,
+    "name": "Kâf",
+    "nameArabic": "سُورَةُ قٓ",
+    "verseCount": 45,
+    "page": 517,
+    "juz": 26,
+    "nameEn": "Qaf"
+  },
+  {
+    "surahId": 51,
+    "name": "Zâriyât",
+    "nameArabic": "سُورَةُ الذَّارِيَاتِ",
+    "verseCount": 60,
+    "page": 519,
+    "juz": 26,
+    "nameEn": "Adh-Dhariyat"
+  },
+  {
+    "surahId": 52,
+    "name": "Tûr",
+    "nameArabic": "سُورَةُ الطُّورِ",
+    "verseCount": 49,
+    "page": 522,
+    "juz": 27,
+    "nameEn": "At-Tur"
+  },
+  {
+    "surahId": 53,
+    "name": "Necm",
+    "nameArabic": "سُورَةُ النَّجْمِ",
+    "verseCount": 62,
+    "page": 525,
+    "juz": 27,
+    "nameEn": "An-Najm"
+  },
+  {
+    "surahId": 54,
+    "name": "Kamer",
+    "nameArabic": "سُورَةُ الْقَمَرِ",
+    "verseCount": 55,
+    "page": 527,
+    "juz": 27,
+    "nameEn": "Al-Qamar"
+  },
+  {
+    "surahId": 55,
+    "name": "Rahmân",
+    "nameArabic": "سُورَةُ الرَّحْمٰنِ",
+    "verseCount": 78,
+    "page": 530,
+    "juz": 27,
+    "nameEn": "Ar-Rahman"
+  },
+  {
+    "surahId": 56,
+    "name": "Vâkıa",
+    "nameArabic": "سُورَةُ الْوَاقِعَةِ",
+    "verseCount": 96,
+    "page": 533,
+    "juz": 27,
+    "nameEn": "Al-Waqi'ah"
+  },
+  {
+    "surahId": 57,
+    "name": "Hadîd",
+    "nameArabic": "سُورَةُ الْحَدٖيدِ",
+    "verseCount": 29,
+    "page": 536,
+    "juz": 27,
+    "nameEn": "Al-Hadid"
+  },
+  {
+    "surahId": 58,
+    "name": "Mücâdele",
+    "nameArabic": "سُورَةُ الْمُجَادَلَةِ",
+    "verseCount": 22,
+    "page": 541,
+    "juz": 28,
+    "nameEn": "Al-Mujadila"
+  },
+  {
+    "surahId": 59,
+    "name": "Haşr",
+    "nameArabic": "سُورَةُ الْحَشْرِ",
+    "verseCount": 24,
+    "page": 544,
+    "juz": 28,
+    "nameEn": "Al-Hashr"
+  },
+  {
+    "surahId": 60,
+    "name": "Mümtehine",
+    "nameArabic": "سُورَةُ الْمُمْتَحِنَةِ",
+    "verseCount": 13,
+    "page": 548,
+    "juz": 28,
+    "nameEn": "Al-Mumtahanah"
+  },
+  {
+    "surahId": 61,
+    "name": "Saf",
+    "nameArabic": "سُورَةُ الصَّفِّ",
+    "verseCount": 14,
+    "page": 550,
+    "juz": 28,
+    "nameEn": "As-Saf"
+  },
+  {
+    "surahId": 62,
+    "name": "Cuma",
+    "nameArabic": "سُورَةُ الْجُمُعَةِ",
+    "verseCount": 11,
+    "page": 552,
+    "juz": 28,
+    "nameEn": "Al-Jumu'ah"
+  },
+  {
+    "surahId": 63,
+    "name": "Münâfikûn",
+    "nameArabic": "سُورَةُ الْمُنَافِقُونَ",
+    "verseCount": 11,
+    "page": 553,
+    "juz": 28,
+    "nameEn": "Al-Munafiqun"
+  },
+  {
+    "surahId": 64,
+    "name": "Tegâbün",
+    "nameArabic": "سُورَةُ التَّغَابُنِ",
+    "verseCount": 18,
+    "page": 555,
+    "juz": 28,
+    "nameEn": "At-Taghabun"
+  },
+  {
+    "surahId": 65,
+    "name": "Talâk",
+    "nameArabic": "سُورَةُ الطَّلَاقِ",
+    "verseCount": 12,
+    "page": 557,
+    "juz": 28,
+    "nameEn": "At-Talaq"
+  },
+  {
+    "surahId": 66,
+    "name": "Tahrîm",
+    "nameArabic": "سُورَةُ التَّحْرٖيمِ",
+    "verseCount": 12,
+    "page": 559,
+    "juz": 28,
+    "nameEn": "At-Tahrim"
+  },
+  {
+    "surahId": 67,
+    "name": "Mülk",
+    "nameArabic": "سُورَةُ الْمُلْكِ",
+    "verseCount": 30,
+    "page": 561,
+    "juz": 29,
+    "nameEn": "Al-Mulk"
+  },
+  {
+    "surahId": 68,
+    "name": "Kalem",
+    "nameArabic": "سُورَةُ الْقَلَمِ",
+    "verseCount": 52,
+    "page": 563,
+    "juz": 29,
+    "nameEn": "Al-Qalam"
+  },
+  {
+    "surahId": 69,
+    "name": "Hâkka",
+    "nameArabic": "سُورَةُ الْحَٓاقَّةِ",
+    "verseCount": 52,
+    "page": 565,
+    "juz": 29,
+    "nameEn": "Al-Haqqah"
+  },
+  {
+    "surahId": 70,
+    "name": "Meâric",
+    "nameArabic": "سُورَةُ الْمَعَارِجِ",
+    "verseCount": 44,
+    "page": 567,
+    "juz": 29,
+    "nameEn": "Al-Ma'arij"
+  },
+  {
+    "surahId": 71,
+    "name": "Nûh",
+    "nameArabic": "سُورَةُ نُوحٍ",
+    "verseCount": 28,
+    "page": 569,
+    "juz": 29,
+    "nameEn": "Nuh"
+  },
+  {
+    "surahId": 72,
+    "name": "Cin",
+    "nameArabic": "سُورَةُ الْجِنِّ",
+    "verseCount": 28,
+    "page": 571,
+    "juz": 29,
+    "nameEn": "Al-Jinn"
+  },
+  {
+    "surahId": 73,
+    "name": "Müzzemmil",
+    "nameArabic": "سُورَةُ الْمُزَّمِّلِ",
+    "verseCount": 20,
+    "page": 573,
+    "juz": 29,
+    "nameEn": "Al-Muzzammil"
+  },
+  {
+    "surahId": 74,
+    "name": "Müddessir",
+    "nameArabic": "سُورَةُ الْمُدَّثِّرِ",
+    "verseCount": 56,
+    "page": 574,
+    "juz": 29,
+    "nameEn": "Al-Muddaththir"
+  },
+  {
+    "surahId": 75,
+    "name": "Kıyâmet",
+    "nameArabic": "سُورَةُ الْقِيٰمَةِ",
+    "verseCount": 40,
+    "page": 576,
+    "juz": 29,
+    "nameEn": "Al-Qiyamah"
+  },
+  {
+    "surahId": 76,
+    "name": "İnsân",
+    "nameArabic": "سُورَةُ الْاِنْسَانِ",
+    "verseCount": 31,
+    "page": 577,
+    "juz": 29,
+    "nameEn": "Al-Insan"
+  },
+  {
+    "surahId": 77,
+    "name": "Mürselât",
+    "nameArabic": "سُورَةُ الْمُرْسَلَاتِ",
+    "verseCount": 50,
+    "page": 579,
+    "juz": 29,
+    "nameEn": "Al-Mursalat"
+  },
+  {
+    "surahId": 78,
+    "name": "Nebe",
+    "nameArabic": "سُورَةُ النَّبَاِ",
+    "verseCount": 40,
+    "page": 581,
+    "juz": 30,
+    "nameEn": "An-Naba"
+  },
+  {
+    "surahId": 79,
+    "name": "Naziât",
+    "nameArabic": "سُورَةُ النَّازِعَاتِ",
+    "verseCount": 46,
+    "page": 582,
+    "juz": 30,
+    "nameEn": "An-Nazi'at"
+  },
+  {
+    "surahId": 80,
+    "name": "Abese",
+    "nameArabic": "سُورَةُ عَبَسَ",
+    "verseCount": 42,
+    "page": 584,
+    "juz": 30,
+    "nameEn": "'Abasa"
+  },
+  {
+    "surahId": 81,
+    "name": "Tekvîr",
+    "nameArabic": "سُورَةُ التَّكْوٖيرِ",
+    "verseCount": 29,
+    "page": 585,
+    "juz": 30,
+    "nameEn": "At-Takwir"
+  },
+  {
+    "surahId": 82,
+    "name": "İnfitâr",
+    "nameArabic": "سُورَةُ الْاِنْفِطَارِ",
+    "verseCount": 19,
+    "page": 586,
+    "juz": 30,
+    "nameEn": "Al-Infitar"
+  },
+  {
+    "surahId": 83,
+    "name": "Mutaffifîn",
+    "nameArabic": "سُورَةُ الْمُطَفِّفٖينَ",
+    "verseCount": 36,
+    "page": 587,
+    "juz": 30,
+    "nameEn": "Al-Mutaffifin"
+  },
+  {
+    "surahId": 84,
+    "name": "İnşikâk",
+    "nameArabic": "سُورَةُ الْاِنْشِقَاقِ",
+    "verseCount": 25,
+    "page": 588,
+    "juz": 30,
+    "nameEn": "Al-Inshiqaq"
+  },
+  {
+    "surahId": 85,
+    "name": "Burûc",
+    "nameArabic": "سُورَةُ الْبُرُوجِ",
+    "verseCount": 22,
+    "page": 589,
+    "juz": 30,
+    "nameEn": "Al-Buruj"
+  },
+  {
+    "surahId": 86,
+    "name": "Târık",
+    "nameArabic": "سُورَةُ الطَّارِقِ",
+    "verseCount": 17,
+    "page": 590,
+    "juz": 30,
+    "nameEn": "At-Tariq"
+  },
+  {
+    "surahId": 87,
+    "name": "A'lâ",
+    "nameArabic": "سُورَةُ الْاَعْلٰى",
+    "verseCount": 19,
+    "page": 591,
+    "juz": 30,
+    "nameEn": "Al-A'la"
+  },
+  {
+    "surahId": 88,
+    "name": "Gâşiye",
+    "nameArabic": "سُورَةُ الْغَاشِيَةِ",
+    "verseCount": 26,
+    "page": 591,
+    "juz": 30,
+    "nameEn": "Al-Ghashiyah"
+  },
+  {
+    "surahId": 89,
+    "name": "Fecr",
+    "nameArabic": "سُورَةُ الْفَجْرِ",
+    "verseCount": 30,
+    "page": 592,
+    "juz": 30,
+    "nameEn": "Al-Fajr"
+  },
+  {
+    "surahId": 90,
+    "name": "Beled",
+    "nameArabic": "سُورَةُ الْبَلَدِ",
+    "verseCount": 20,
+    "page": 593,
+    "juz": 30,
+    "nameEn": "Al-Balad"
+  },
+  {
+    "surahId": 91,
+    "name": "Şems",
+    "nameArabic": "سُورَةُ الشَّمْسِ",
+    "verseCount": 15,
+    "page": 594,
+    "juz": 30,
+    "nameEn": "Ash-Shams"
+  },
+  {
+    "surahId": 92,
+    "name": "Leyl",
+    "nameArabic": "سُورَةُ الَّيْلِ",
+    "verseCount": 21,
+    "page": 595,
+    "juz": 30,
+    "nameEn": "Al-Layl"
+  },
+  {
+    "surahId": 93,
+    "name": "Duhâ",
+    "nameArabic": "سُورَةُ الضُّحٰى",
+    "verseCount": 11,
+    "page": 595,
+    "juz": 30,
+    "nameEn": "Ad-Duhaa"
+  },
+  {
+    "surahId": 94,
+    "name": "İnşirâh",
+    "nameArabic": "سُورَةُ الْاِنْشِرَاحِ",
+    "verseCount": 8,
+    "page": 596,
+    "juz": 30,
+    "nameEn": "Ash-Sharh"
+  },
+  {
+    "surahId": 95,
+    "name": "Tîn",
+    "nameArabic": "سُورَةُ التّٖينِ",
+    "verseCount": 8,
+    "page": 596,
+    "juz": 30,
+    "nameEn": "At-Tin"
+  },
+  {
+    "surahId": 96,
+    "name": "Alak",
+    "nameArabic": "سُورَةُ الْعَلَقِ",
+    "verseCount": 19,
+    "page": 597,
+    "juz": 30,
+    "nameEn": "Al-'Alaq"
+  },
+  {
+    "surahId": 97,
+    "name": "Kadir",
+    "nameArabic": "سُورَةُ الْقَدْرِ",
+    "verseCount": 5,
+    "page": 598,
+    "juz": 30,
+    "nameEn": "Al-Qadr"
+  },
+  {
+    "surahId": 98,
+    "name": "Beyyine",
+    "nameArabic": "سُورَةُ الْبَيِّنَةِ",
+    "verseCount": 8,
+    "page": 598,
+    "juz": 30,
+    "nameEn": "Al-Bayyinah"
+  },
+  {
+    "surahId": 99,
+    "name": "Zilzâl",
+    "nameArabic": "سُورَةُ الزِّلْزَالِ",
+    "verseCount": 8,
+    "page": 599,
+    "juz": 30,
+    "nameEn": "Az-Zalzalah"
+  },
+  {
+    "surahId": 100,
+    "name": "Âdiyât",
+    "nameArabic": "سُورَةُ الْعَادِيَاتِ",
+    "verseCount": 11,
+    "page": 599,
+    "juz": 30,
+    "nameEn": "Al-'Adiyat"
+  },
+  {
+    "surahId": 101,
+    "name": "Kâria",
+    "nameArabic": "سُورَةُ الْقَارِعَةِ",
+    "verseCount": 11,
+    "page": 600,
+    "juz": 30,
+    "nameEn": "Al-Qari'ah"
+  },
+  {
+    "surahId": 102,
+    "name": "Tekâsür",
+    "nameArabic": "سُورَةُ التَّكَاثُرِ",
+    "verseCount": 8,
+    "page": 600,
+    "juz": 30,
+    "nameEn": "At-Takathur"
+  },
+  {
+    "surahId": 103,
+    "name": "Asr",
+    "nameArabic": "سُورَةُ الْعَصْرِ",
+    "verseCount": 3,
+    "page": 601,
+    "juz": 30,
+    "nameEn": "Al-'Asr"
+  },
+  {
+    "surahId": 104,
+    "name": "Hümeze",
+    "nameArabic": "سُورَةُ الْهُمَزَةِ",
+    "verseCount": 9,
+    "page": 601,
+    "juz": 30,
+    "nameEn": "Al-Humazah"
+  },
+  {
+    "surahId": 105,
+    "name": "Fîl",
+    "nameArabic": "سُورَةُ الْفٖيلِ",
+    "verseCount": 5,
+    "page": 601,
+    "juz": 30,
+    "nameEn": "Al-Fil"
+  },
+  {
+    "surahId": 106,
+    "name": "Kureyş",
+    "nameArabic": "سُورَةُ قُرَيْشٍ",
+    "verseCount": 4,
+    "page": 602,
+    "juz": 30,
+    "nameEn": "Quraysh"
+  },
+  {
+    "surahId": 107,
+    "name": "Maûn",
+    "nameArabic": "سُورَةُ الْمَاعُونِ",
+    "verseCount": 7,
+    "page": 602,
+    "juz": 30,
+    "nameEn": "Al-Ma'un"
+  },
+  {
+    "surahId": 108,
+    "name": "Kevser",
+    "nameArabic": "سُورَةُ الْكَوْثَرِ",
+    "verseCount": 3,
+    "page": 602,
+    "juz": 30,
+    "nameEn": "Al-Kawthar"
+  },
+  {
+    "surahId": 109,
+    "name": "Kâfirûn",
+    "nameArabic": "سُورَةُ الْكَافِرُونَ",
+    "verseCount": 6,
+    "page": 603,
+    "juz": 30,
+    "nameEn": "Al-Kafirun"
+  },
+  {
+    "surahId": 110,
+    "name": "Nasr",
+    "nameArabic": "سُورَةُ النَّصْرِ",
+    "verseCount": 3,
+    "page": 603,
+    "juz": 30,
+    "nameEn": "An-Nasr"
+  },
+  {
+    "surahId": 111,
+    "name": "Tebbet",
+    "nameArabic": "سُورَةُ تَبَّتْ",
+    "verseCount": 5,
+    "page": 603,
+    "juz": 30,
+    "nameEn": "Al-Masad"
+  },
+  {
+    "surahId": 112,
+    "name": "İhlâs",
+    "nameArabic": "سُورَةُ الْاِخْلَاصِ",
+    "verseCount": 4,
+    "page": 604,
+    "juz": 30,
+    "nameEn": "Al-Ikhlas"
+  },
+  {
+    "surahId": 113,
+    "name": "Felak",
+    "nameArabic": "سُورَةُ الْفَلَقِ",
+    "verseCount": 5,
+    "page": 604,
+    "juz": 30,
+    "nameEn": "Al-Falaq"
+  },
+  {
+    "surahId": 114,
+    "name": "Nâs",
+    "nameArabic": "سُورَةُ النَّاسِ",
+    "verseCount": 6,
+    "page": 604,
+    "juz": 30,
+    "nameEn": "An-Nas"
+  }
+]

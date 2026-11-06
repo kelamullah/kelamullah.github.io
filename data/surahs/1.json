@@ -1,0 +1,69 @@
+﻿{
+    "surah":  {
+                  "surahId":  1,
+                  "name":  "Fâtiha",
+                  "nameArabic":  "سُورَةُ الْفَاتِحَةِ",
+                  "verseCount":  7,
+                  "page":  0,
+                  "juz":  1,
+                  "nameEn":  "Al-Fatihah"
+              },
+    "verses":  [
+                   {
+                       "id":  3,
+                       "verseNumber":  1,
+                       "arabic":  "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحٖيمِ",
+                       "meal":  "Rahmân ve rahîm olan Allah\u0027ın adıyla.",
+                       "page":  0,
+                       "juz":  1
+                   },
+                   {
+                       "id":  4,
+                       "verseNumber":  2,
+                       "arabic":  "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمٖينَۙ",
+                       "meal":  "Hamd (övme ve övülme), âlemlerin Rabbi Allah\u0027a mahsustur.",
+                       "page":  0,
+                       "juz":  1
+                   },
+                   {
+                       "id":  5,
+                       "verseNumber":  3,
+                       "arabic":  "اَلرَّحْمٰنِ الرَّحٖيمِۙ",
+                       "meal":  "O, rahmândır ve rahîmdir.",
+                       "page":  0,
+                       "juz":  1
+                   },
+                   {
+                       "id":  6,
+                       "verseNumber":  4,
+                       "arabic":  "مَالِكِ يَوْمِ الدّٖينِۜ",
+                       "meal":  "Ceza gününün mâlikidir.",
+                       "page":  0,
+                       "juz":  1
+                   },
+                   {
+                       "id":  7,
+                       "verseNumber":  5,
+                       "arabic":  "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعٖينُۜ",
+                       "meal":  "(Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız.",
+                       "page":  0,
+                       "juz":  1
+                   },
+                   {
+                       "id":  8,
+                       "verseNumber":  6,
+                       "arabic":  "اِهْدِنَا الصِّرَاطَ الْمُسْتَقٖيمَۙ",
+                       "meal":  "Bize doğru yolu göster.",
+                       "page":  0,
+                       "juz":  1
+                   },
+                   {
+                       "id":  9,
+                       "verseNumber":  7,
+                       "arabic":  "صِرَاطَ الَّذٖينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّٖينَ",
+                       "meal":  "Kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu# gazaba uğramışların ve sapmışların yolunu değil! Âmin.",
+                       "page":  0,
+                       "juz":  1
+                   }
+               ]
+}

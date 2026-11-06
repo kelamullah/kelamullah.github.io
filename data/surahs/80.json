@@ -1,0 +1,349 @@
+﻿{
+    "surah":  {
+                  "surahId":  80,
+                  "name":  "Abese",
+                  "nameArabic":  "سُورَةُ عَبَسَ",
+                  "verseCount":  42,
+                  "page":  584,
+                  "juz":  30,
+                  "nameEn":  "\u0027Abasa"
+              },
+    "verses":  [
+                   {
+                       "id":  5840,
+                       "verseNumber":  1,
+                       "arabic":  "عَبَسَ وَتَوَلّٰىۙ",
+                       "meal":  "(Peygamber), âmânın kendisine gelmesinden ötürü yüzünü ekşitti ve çevirdi. (Resûlüm! onun halini) sana kim bildirdi! Belki o temizlenecek, yahut öğüt alacak da o öğüt ona fayda verecek.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5841,
+                       "verseNumber":  2,
+                       "arabic":  "اَنْ جَٓاءَهُ الْاَعْمٰىۜ",
+                       "meal":  "(Peygamber), âmânın kendisine gelmesinden ötürü yüzünü ekşitti ve çevirdi. (Resûlüm! onun halini) sana kim bildirdi! Belki o temizlenecek, yahut öğüt alacak da o öğüt ona fayda verecek.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5842,
+                       "verseNumber":  3,
+                       "arabic":  "وَمَا يُدْرٖيكَ لَعَلَّهُ يَزَّكّٰىۙ",
+                       "meal":  "(Peygamber), âmânın kendisine gelmesinden ötürü yüzünü ekşitti ve çevirdi. (Resûlüm! onun halini) sana kim bildirdi! Belki o temizlenecek, yahut öğüt alacak da o öğüt ona fayda verecek.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5843,
+                       "verseNumber":  4,
+                       "arabic":  "اَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرٰىۜ",
+                       "meal":  "(Peygamber), âmânın kendisine gelmesinden ötürü yüzünü ekşitti ve çevirdi. (Resûlüm! onun halini) sana kim bildirdi! Belki o temizlenecek, yahut öğüt alacak da o öğüt ona fayda verecek.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5844,
+                       "verseNumber":  5,
+                       "arabic":  "اَمَّا مَنِ اسْتَغْنٰىۙ",
+                       "meal":  "Kendini (sana) muhtaç görmeyene gelince, sen ona yöneliyorsun. Oysa ki onun temizlenip arınmasından sen sorumlu değilsin.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5845,
+                       "verseNumber":  6,
+                       "arabic":  "فَاَنْتَ لَهُ تَصَدّٰىۜ",
+                       "meal":  "Kendini (sana) muhtaç görmeyene gelince, sen ona yöneliyorsun. Oysa ki onun temizlenip arınmasından sen sorumlu değilsin.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5846,
+                       "verseNumber":  7,
+                       "arabic":  "وَمَا عَلَيْكَ اَلَّا يَزَّكّٰىۜ",
+                       "meal":  "Kendini (sana) muhtaç görmeyene gelince, sen ona yöneliyorsun. Oysa ki onun temizlenip arınmasından sen sorumlu değilsin.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5847,
+                       "verseNumber":  8,
+                       "arabic":  "وَاَمَّا مَنْ جَٓاءَكَ يَسْعٰىۙ",
+                       "meal":  "Fakat koşarak ve (Allah\u0027tan) korkarak sana gelenle de ilgilenmiyorsun.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5848,
+                       "verseNumber":  9,
+                       "arabic":  "وَهُوَ يَخْشٰىۙ",
+                       "meal":  "Fakat koşarak ve (Allah\u0027tan) korkarak sana gelenle de ilgilenmiyorsun.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5849,
+                       "verseNumber":  10,
+                       "arabic":  "فَاَنْتَ عَنْهُ تَلَهّٰىۚ",
+                       "meal":  "Fakat koşarak ve (Allah\u0027tan) korkarak sana gelenle de ilgilenmiyorsun.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5850,
+                       "verseNumber":  11,
+                       "arabic":  "كَلَّٓا اِنَّهَا تَذْكِرَةٌۚ",
+                       "meal":  "Hayır! Şüphesiz bunlar (âyetler), değerli ve güvenilir kâtiplerin elleriyle (yazılıp) tertemiz kılınmış, yüce makamlara kaldırılmış mukaddes sahifelerde (yazılı) bir öğüttür# dileyen ondan (Kur\u0027an\u0027dan) öğüt alır.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5851,
+                       "verseNumber":  12,
+                       "arabic":  "فَمَنْ شَٓاءَ ذَكَرَهُۘ",
+                       "meal":  "Hayır! Şüphesiz bunlar (âyetler), değerli ve güvenilir kâtiplerin elleriyle (yazılıp) tertemiz kılınmış, yüce makamlara kaldırılmış mukaddes sahifelerde (yazılı) bir öğüttür# dileyen ondan (Kur\u0027an\u0027dan) öğüt alır.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5852,
+                       "verseNumber":  13,
+                       "arabic":  "فٖى صُحُفٍ مُكَرَّمَةٍۙ",
+                       "meal":  "Hayır! Şüphesiz bunlar (âyetler), değerli ve güvenilir kâtiplerin elleriyle (yazılıp) tertemiz kılınmış, yüce makamlara kaldırılmış mukaddes sahifelerde (yazılı) bir öğüttür# dileyen ondan (Kur\u0027an\u0027dan) öğüt alır.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5853,
+                       "verseNumber":  14,
+                       "arabic":  "مَرْفُوعَةٍ مُطَهَّرَةٍۙ",
+                       "meal":  "Hayır! Şüphesiz bunlar (âyetler), değerli ve güvenilir kâtiplerin elleriyle (yazılıp) tertemiz kılınmış, yüce makamlara kaldırılmış mukaddes sahifelerde (yazılı) bir öğüttür# dileyen ondan (Kur\u0027an\u0027dan) öğüt alır.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5854,
+                       "verseNumber":  15,
+                       "arabic":  "بِاَيْدٖى سَفَرَةٍۙ",
+                       "meal":  "Hayır! Şüphesiz bunlar (âyetler), değerli ve güvenilir kâtiplerin elleriyle (yazılıp) tertemiz kılınmış, yüce makamlara kaldırılmış mukaddes sahifelerde (yazılı) bir öğüttür# dileyen ondan (Kur\u0027an\u0027dan) öğüt alır.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5855,
+                       "verseNumber":  16,
+                       "arabic":  "كِرَامٍ بَرَرَةٍۜ",
+                       "meal":  "Hayır! Şüphesiz bunlar (âyetler), değerli ve güvenilir kâtiplerin elleriyle (yazılıp) tertemiz kılınmış, yüce makamlara kaldırılmış mukaddes sahifelerde (yazılı) bir öğüttür# dileyen ondan (Kur\u0027an\u0027dan) öğüt alır.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5856,
+                       "verseNumber":  17,
+                       "arabic":  "قُتِلَ الْاِنْسَانُ مَٓا اَكْفَرَهُۜ",
+                       "meal":  "Kahrolası insan! Ne inkârcıdır!",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5857,
+                       "verseNumber":  18,
+                       "arabic":  "مِنْ اَىِّ شَىْءٍ خَلَقَهُۜ",
+                       "meal":  "Allah onu neden yarattı?",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5858,
+                       "verseNumber":  19,
+                       "arabic":  "مِنْ نُطْفَةٍۜ خَلَقَهُ فَقَدَّرَهُۙ",
+                       "meal":  "Bir nutfeden (spermadan) yarattı da ona şekil verdi.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5859,
+                       "verseNumber":  20,
+                       "arabic":  "ثُمَّ السَّب۪يلَ يَسَّرَهُۙ",
+                       "meal":  "Sonra ona yolu kolaylaştırdı.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5860,
+                       "verseNumber":  21,
+                       "arabic":  "ثُمَّ اَمَاتَهُ فَاَقْبَرَهُۙ",
+                       "meal":  "Sonra onun canını aldı ve kabre soktu.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5861,
+                       "verseNumber":  22,
+                       "arabic":  "ثُمَّ اِذَا شَٓاءَ اَنْشَرَهُۜ",
+                       "meal":  "Sonra dilediği bir vakitte onu yeniden diriltir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5862,
+                       "verseNumber":  23,
+                       "arabic":  "كَلَّا لَمَّا يَقْضِ مَٓا اَمَرَهُۜ",
+                       "meal":  "Hayır! (İnsan) Allah\u0027ın emrettiğini yapmadı.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5863,
+                       "verseNumber":  24,
+                       "arabic":  "فَلْيَنْظُرِ الْاِنْسَانُ اِلٰى طَعَامِهٖۙ",
+                       "meal":  "İnsan, yediğine bir baksın!",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5864,
+                       "verseNumber":  25,
+                       "arabic":  "اَنَّا صَبَبْنَا الْمَٓاءَ صَبًّاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5865,
+                       "verseNumber":  26,
+                       "arabic":  "ثُمَّ شَقَقْنَا الْاَرْضَ شَقًّاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5866,
+                       "verseNumber":  27,
+                       "arabic":  "فَاَنْبَتْنَا فٖيهَا حَبًّاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5867,
+                       "verseNumber":  28,
+                       "arabic":  "وَعِنَبًا وَقَضْبًاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5868,
+                       "verseNumber":  29,
+                       "arabic":  "وَزَيْتُونًا وَنَخْلًاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5869,
+                       "verseNumber":  30,
+                       "arabic":  "وَحَدَٓائِقَ غُلْبًاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5870,
+                       "verseNumber":  31,
+                       "arabic":  "وَفَاكِهَةً وَاَبًّاۙ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5871,
+                       "verseNumber":  32,
+                       "arabic":  "مَتَاعًا لَكُمْ وَلِاَنْعَامِكُمْۜ",
+                       "meal":  "Şöyle ki: Yağmurlar yağdırdık. Sonra toprağı göz göz yardık da oradan ekinler, üzüm bağları, sebzeler, zeytin ve hurma ağaçları, iri ve sık ağaçlı bahçeler, meyveler ve çayırlar bitirdik. (Bütün bunlar) sizi ve hayvanlarınızı yararlandırmak içindir.",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5872,
+                       "verseNumber":  33,
+                       "arabic":  "فَاِذَا جَٓاءَتِ الصَّٓاخَّةُؗ",
+                       "meal":  "Kulakları sağır eden o ses geldiğinde,",
+                       "page":  584,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5873,
+                       "verseNumber":  34,
+                       "arabic":  "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخٖيهِۙ",
+                       "meal":  "İşte o gün kişi kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçar.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5874,
+                       "verseNumber":  35,
+                       "arabic":  "وَاُمِّهٖ وَاَبٖيهِۙ",
+                       "meal":  "İşte o gün kişi kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçar.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5875,
+                       "verseNumber":  36,
+                       "arabic":  "وَصَاحِبَتِهٖ وَبَنٖيهِۜ",
+                       "meal":  "İşte o gün kişi kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçar.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5876,
+                       "verseNumber":  37,
+                       "arabic":  "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَاْنٌ يُغْنٖيهِۜ",
+                       "meal":  "O gün, herkesin kendine yetip artacak bir derdi vardır.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5877,
+                       "verseNumber":  38,
+                       "arabic":  "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌۙ",
+                       "meal":  "O gün bir takım yüzler parlak, güleç ve sevinçlidir.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5878,
+                       "verseNumber":  39,
+                       "arabic":  "ضَاحِكَةٌ مُسْتَبْشِرَةٌۚ",
+                       "meal":  "O gün bir takım yüzler parlak, güleç ve sevinçlidir.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5879,
+                       "verseNumber":  40,
+                       "arabic":  "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۙ",
+                       "meal":  "Yine o gün birtakım yüzleri de keder bürümüş, hüzünden kapkara kesilmiştir. İşte bunlar kâfirlerdir, günahkârlardır.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5880,
+                       "verseNumber":  41,
+                       "arabic":  "تَرْهَقُهَا قَتَرَةٌۜ",
+                       "meal":  "Yine o gün birtakım yüzleri de keder bürümüş, hüzünden kapkara kesilmiştir. İşte bunlar kâfirlerdir, günahkârlardır.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5881,
+                       "verseNumber":  42,
+                       "arabic":  "اُو۬لٰٓئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+                       "meal":  "Yine o gün birtakım yüzleri de keder bürümüş, hüzünden kapkara kesilmiştir. İşte bunlar kâfirlerdir, günahkârlardır.",
+                       "page":  585,
+                       "juz":  30
+                   }
+               ]
+}

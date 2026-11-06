@@ -1,0 +1,453 @@
+﻿{
+    "surah":  {
+                  "surahId":  54,
+                  "name":  "Kamer",
+                  "nameArabic":  "سُورَةُ الْقَمَرِ",
+                  "verseCount":  55,
+                  "page":  527,
+                  "juz":  27,
+                  "nameEn":  "Al-Qamar"
+              },
+    "verses":  [
+                   {
+                       "id":  4902,
+                       "verseNumber":  1,
+                       "arabic":  "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
+                       "meal":  "Kıyamet yaklaştı ve ay yarıldı.",
+                       "page":  527,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4903,
+                       "verseNumber":  2,
+                       "arabic":  "وَاِنْ يَرَوْا اٰيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
+                       "meal":  "Onlar bir mucize görürlerse hemen yüz çevirirler ve: Eskiden beri devam edegelen bir büyüdür, derler.",
+                       "page":  527,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4904,
+                       "verseNumber":  3,
+                       "arabic":  "وَكَذَّبُوا وَاتَّبَعُٓوا اَهْوَٓاءَهُمْ وَكُلُّ اَمْرٍ مُسْتَقِرٌّ",
+                       "meal":  "Yalanladılar ve kendi heveslerine uydular. Halbuki her işin ulaşacağı yeri vardır.",
+                       "page":  527,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4905,
+                       "verseNumber":  4,
+                       "arabic":  "وَلَقَدْ جَٓاءَهُمْ مِنَ الْاَنْبَٓاءِ مَا فٖيهِ مُزْدَجَرٌۙ",
+                       "meal":  "Andolsun onlara, kötülükten önleyecek nice önemli haberler gelmiştir.",
+                       "page":  527,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4906,
+                       "verseNumber":  5,
+                       "arabic":  "حِكْمَةٌ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُۙ",
+                       "meal":  "Bu büyük bir hikmettir. Fakat (yüz çevirene) uyarılar ne fayda verir!",
+                       "page":  527,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4907,
+                       "verseNumber":  6,
+                       "arabic":  "فَتَوَلَّ عَنْهُمْۘ يَوْمَ يَدْعُ الدَّاعِ اِلٰى شَىْءٍ نُكُرٍۙ",
+                       "meal":  "Çağıranın görülmemiş bir şeye çağırdığı gün, sen de onlardan yüz çevir.",
+                       "page":  527,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4908,
+                       "verseNumber":  7,
+                       "arabic":  "خُشَّعًا اَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْاَجْدَاثِ كَاَنَّهُمْ جَرَادٌ مُنْتَشِرٌۙ",
+                       "meal":  "Sanki etrafa yayılmış çekirge sürüsü gibi bakışları perişan (utançtan yere bakar) bir halde ve dâvetçiye koşarak kabirlerden çıkarlar. O esnada kâfirler: Bu, çok çetin bir gündür! derler.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4909,
+                       "verseNumber":  8,
+                       "arabic":  "مُهْطِعٖينَ اِلَى الدَّاعِۜ يَقُولُ الْكَافِرُونَ هٰذَا يَوْمٌ عَسِرٌ",
+                       "meal":  "Sanki etrafa yayılmış çekirge sürüsü gibi bakışları perişan (utançtan yere bakar) bir halde ve dâvetçiye koşarak kabirlerden çıkarlar. O esnada kâfirler: Bu, çok çetin bir gündür! derler.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4910,
+                       "verseNumber":  9,
+                       "arabic":  "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ",
+                       "meal":  "Onlardan önce Nuh\u0027un kavmi de yalanladı, hem de kulumuzun yalancı olduğunda ısrar ederek: O, delirdi, dediler. Ve (Nuh, davetten vazgeçmeye) zorlandı.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4911,
+                       "verseNumber":  10,
+                       "arabic":  "فَدَعَا رَبَّهُٓ اَنّٖى مَغْلُوبٌ فَانْتَصِرْ",
+                       "meal":  "Bunun üzerine, Rabbine: Ben yenik düştüm, bana yardım et! diyerek yalvardı.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4912,
+                       "verseNumber":  11,
+                       "arabic":  "فَفَتَحْنَٓا اَبْوَابَ السَّمَٓاءِ بِمَٓاءٍ مُنْهَمِرٍؗ",
+                       "meal":  "Biz de derhal nehir gibi devamlı akan bir su ile göğün kapılarını açtık.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4913,
+                       "verseNumber":  12,
+                       "arabic":  "وَفَجَّرْنَا الْاَرْضَ عُيُونًا فَالْتَقَى الْمَٓاءُ عَلٰٓى اَمْرٍ قَدْ قُدِرَۚ",
+                       "meal":  "Yeryüzünde kaynaklar fışkırttık. (Her iki) su, takdir edilmiş bir işin olması için birleşmişti.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4914,
+                       "verseNumber":  13,
+                       "arabic":  "وَحَمَلْنَاهُ عَلٰى ذَاتِ اَلْوَاحٍ وَدُسُرٍۙ",
+                       "meal":  "Nuh\u0027u da tahtalardan yapılmış, çivilerle çakılmış gemiye bindirdik.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4915,
+                       "verseNumber":  14,
+                       "arabic":  "تَجْرٖى بِاَعْيُنِنَاۚ جَزَٓاءً لِمَنْ كَانَ كُفِرَ",
+                       "meal":  "İnkâr edilmiş olana (Nuh\u0027a) bir mükâfat olmak üzere gemi, gözlerimizin önünde akıp gidiyordu.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4916,
+                       "verseNumber":  15,
+                       "arabic":  "وَلَقَدْ تَرَكْنَاهَٓا اٰيَةً فَهَلْ مِنْ مُدَّكِرٍ",
+                       "meal":  "Andolsun ki onu bir ibret olarak bıraktık, ibret alan yok mudur?",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4917,
+                       "verseNumber":  16,
+                       "arabic":  "فَكَيْفَ كَانَ عَذَابٖى وَنُذُرِ",
+                       "meal":  "Benim azabım ve uyarılarım nasılmış!",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4918,
+                       "verseNumber":  17,
+                       "arabic":  "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+                       "meal":  "Andolsun biz Kur\u0027an\u0027ı öğüt alınsın diye kolaylaştırdık. (Ondan) öğüt alan yok mu?",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4919,
+                       "verseNumber":  18,
+                       "arabic":  "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابٖى وَنُذُرِ",
+                       "meal":  "Âd kavmi (Peygamberleri Hûd\u0027u) yalanladı da azabım ve tehdidim nasılmış (gördüler).",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4920,
+                       "verseNumber":  19,
+                       "arabic":  "اِنَّٓا اَرْسَلْنَا عَلَيْهِمْ رٖيحًا صَرْصَرًا فٖى يَوْمِ نَحْسٍ مُسْتَمِرٍّۙ",
+                       "meal":  "Biz onların üstüne, uğursuzluğu devamlı bir günde dondurucu bir rüzgâr gönderdik.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4921,
+                       "verseNumber":  20,
+                       "arabic":  "تَنْزِعُ النَّاسَۙ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ مُنْقَعِرٍ",
+                       "meal":  "O rüzgâr, insanları, sökülmüş hurma kütükleri gibi yere seriyordu.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4922,
+                       "verseNumber":  21,
+                       "arabic":  "فَكَيْفَ كَانَ عَذَابٖى وَنُذُرِ",
+                       "meal":  "Nasılmış benim azabım ve uyarılarım!",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4923,
+                       "verseNumber":  22,
+                       "arabic":  "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ۟",
+                       "meal":  "Andolsun biz Kur\u0027an\u0027ı düşünüp öğüt alınsın diye kolaylaştırdık. Öğüt alan yok mu?",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4924,
+                       "verseNumber":  23,
+                       "arabic":  "كَذَّبَتْ ثَمُودُ بِالنُّذُرِ",
+                       "meal":  "Semûd kavmi de uyarıcıları yalanladı.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4925,
+                       "verseNumber":  24,
+                       "arabic":  "فَقَالُٓوا اَبَشَرًا مِنَّا وَاحِدًا نَتَّبِعُهُٓۙ اِنَّٓا اِذًا لَفٖى ضَلَالٍ وَسُعُرٍ",
+                       "meal":  "«Aramızdan bir beşere mi uyacağız? O takdirde biz apaçık bir sapıklık ve çılgınlık etmiş oluruz» dediler.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4926,
+                       "verseNumber":  25,
+                       "arabic":  "ءَاُلْقِىَ الذِّكْرُ عَلَيْهِ مِنْ بَيْنِنَا بَلْ هُوَ كَذَّابٌ اَشِرٌ",
+                       "meal":  "«Vahiy, aramızda ona mı verildi? Hayır o, yalancı ve şımarığın biridir» (dediler.)",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4927,
+                       "verseNumber":  26,
+                       "arabic":  "سَيَعْلَمُونَ غَدًا مَنِ الْكَذَّابُ الْاَشِرُ",
+                       "meal":  "Yarın onlar, yalancı ve şımarığın kim olduğunu bileceklerdir.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4928,
+                       "verseNumber":  27,
+                       "arabic":  "اِنَّا مُرْسِلُوا النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْؗ",
+                       "meal":  "Gerçekten onları imtihan etmek için dişi deveyi gönderen biziz. Sen onları gözetle ve sabret.",
+                       "page":  528,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4929,
+                       "verseNumber":  28,
+                       "arabic":  "وَنَبِّئْهُمْ اَنَّ الْمَٓاءَ قِسْمَةٌ بَيْنَهُمْۚ كُلُّ شِرْبٍ مُحْتَضَرٌ",
+                       "meal":  "Onlara, suyun aralarında paylaştırıldığını haber ver. Her biri kendi içme sırasında gelsin.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4930,
+                       "verseNumber":  29,
+                       "arabic":  "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطٰى فَعَقَرَ",
+                       "meal":  "Arkadaşlarını çağırdılar, o da (bundan cür\u0027et alarak) kılıcını kaptı ve deveyi kesti.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4931,
+                       "verseNumber":  30,
+                       "arabic":  "فَكَيْفَ كَانَ عَذَابٖى وَنُذُرِ",
+                       "meal":  "(Bu azgınlara) azabım ve uyarılarım nasıl oldu!",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4932,
+                       "verseNumber":  31,
+                       "arabic":  "اِنَّٓا اَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشٖيمِ الْمُحْتَظِرِ",
+                       "meal":  "Biz onların üzerlerine korkunç bir ses gönderdik. Hemen hayvan ağılına konan kuru ot gibi oluverdiler.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4933,
+                       "verseNumber":  32,
+                       "arabic":  "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+                       "meal":  "Andolsun biz Kur\u0027an\u0027ı, anlaşılıp öğüt alınması için kolaylaştırdık. O halde düşünüp öğüt alan yok mu?",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4934,
+                       "verseNumber":  33,
+                       "arabic":  "كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ",
+                       "meal":  "Lût\u0027un kavmi de uyarıcı peygamberleri yalanladı.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4935,
+                       "verseNumber":  34,
+                       "arabic":  "اِنَّٓا اَرْسَلْنَا عَلَيْهِمْ حَاصِبًا اِلَّٓا اٰلَ لُوطٍۜ نَجَّيْنَاهُمْ بِسَحَرٍۙ",
+                       "meal":  "Biz de üstlerine taş (yağdıran bir fırtına) gönderdik. Ancak Lût ailesi müstesna, katımızdan bir nimet olarak onları seher vaktinde kurtardık. Biz şükredeni işte böyle mükâfatlandırırız.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4936,
+                       "verseNumber":  35,
+                       "arabic":  "نِعْمَةً مِنْ عِنْدِنَاۜ كَذٰلِكَ نَجْزٖى مَنْ شَكَرَ",
+                       "meal":  "Biz de üstlerine taş (yağdıran bir fırtına) gönderdik. Ancak Lût ailesi müstesna, katımızdan bir nimet olarak onları seher vaktinde kurtardık. Biz şükredeni işte böyle mükâfatlandırırız.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4937,
+                       "verseNumber":  36,
+                       "arabic":  "وَلَقَدْ اَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ",
+                       "meal":  "Andolsun ki, Lût onları bizim şiddetli azabımızla uyardı. Fakat onlar bu tehditleri kuşkuyla karşıladılar.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4938,
+                       "verseNumber":  37,
+                       "arabic":  "وَلَقَدْ رَاوَدُوهُ عَنْ ضَيْفِهٖ فَطَمَسْنَٓا اَعْيُنَهُمْ فَذُوقُوا عَذَابٖى وَنُذُرِ",
+                       "meal":  "Onlar Lût\u0027un misafirlerine karşı kötülük yapmayı planlamışlardı. Hemen biz onların gözlerini silme kör ettik. «Haydi azabımı ve uyarılarımı tadın!» (dedik).",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4939,
+                       "verseNumber":  38,
+                       "arabic":  "وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّۚ",
+                       "meal":  "Bir sabah kendilerine, yakalarını bir daha bırakmayacak olan bir azap gelip çattı.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4940,
+                       "verseNumber":  39,
+                       "arabic":  "فَذُوقُوا عَذَابٖى وَنُذُرِ",
+                       "meal":  "İşte azabımı ve uyarılarımı tadın! (denildi).",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4941,
+                       "verseNumber":  40,
+                       "arabic":  "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ۟",
+                       "meal":  "Andolsun biz Kur\u0027an\u0027ı, öğüt almak için kolaylaştırdık. O halde düşünüp ibret alan yok mu?",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4942,
+                       "verseNumber":  41,
+                       "arabic":  "وَلَقَدْ جَٓاءَ اٰلَ فِرْعَوْنَ النُّذُرُۚ",
+                       "meal":  "Şüphesiz Firavun\u0027un kavmine de uyarıcılar gelmişti.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4943,
+                       "verseNumber":  42,
+                       "arabic":  "كَذَّبُوا بِاٰيَاتِنَا كُلِّهَا فَاَخَذْنَاهُمْ اَخْذَ عَزٖيزٍ مُقْتَدِرٍ",
+                       "meal":  "Lâkin onlar bütün âyetlerimizi yalanladılar. Biz de onları güç ve kudretimize lâyık bir şekilde yakaladık.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4944,
+                       "verseNumber":  43,
+                       "arabic":  "اَكُفَّارُكُمْ خَيْرٌ مِنْ اُو۬لٰٓئِكُمْ اَمْ لَكُمْ بَرَٓاءَةٌ فِى الزُّبُرِۚ",
+                       "meal":  "Şimdi sizin kâfirleriniz, onlardan daha mı iyidirler? Yoksa kitaplarda sizin için bir berât mı var?",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4945,
+                       "verseNumber":  44,
+                       "arabic":  "اَمْ يَقُولُونَ نَحْنُ جَمٖيعٌ مُنْتَصِرٌ",
+                       "meal":  "Yoksa «Biz, intikam almağa gücü yeten bir topluluğuz» mu diyorlar?",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4946,
+                       "verseNumber":  45,
+                       "arabic":  "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ",
+                       "meal":  "O topluluk yakında bozulacak ve onlar arkalarını dönüp kaçacaklardır.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4947,
+                       "verseNumber":  46,
+                       "arabic":  "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ اَدْهٰى وَاَمَرُّ",
+                       "meal":  "Bilakis kıyamet onlara vâdedilen asıl saattir ve o saat daha belâlı ve daha acıdır.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4948,
+                       "verseNumber":  47,
+                       "arabic":  "اِنَّ الْمُجْرِمٖينَ فٖى ضَلَالٍ وَسُعُرٍۘ",
+                       "meal":  "Şüphesiz suçlular sapıklık ve çılgınlık içindedirler.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4949,
+                       "verseNumber":  48,
+                       "arabic":  "يَوْمَ يُسْحَبُونَ فِى النَّارِ عَلٰى وُجُوهِهِمْۜ ذُوقُوا مَسَّ سَقَرَ",
+                       "meal":  "O gün yüzüstü ateşe sürüklendiklerinde «Cehennemin elemini tadın!» denir.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4950,
+                       "verseNumber":  49,
+                       "arabic":  "اِنَّا كُلَّ شَىْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+                       "meal":  "Biz, her şeyi bir ölçüye göre yarattık.",
+                       "page":  529,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4951,
+                       "verseNumber":  50,
+                       "arabic":  "وَمَٓا اَمْرُنَٓا اِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ",
+                       "meal":  "Bizim buyruğumuz, bir anlık bakış gibi, bir tek sözden başka bir şey değildir.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4952,
+                       "verseNumber":  51,
+                       "arabic":  "وَلَقَدْ اَهْلَكْنَٓا اَشْيَاعَكُمْ فَهَلْ مِنْ مُدَّكِرٍ",
+                       "meal":  "Andolsun biz, sizin benzerlerinizi hep helâk ettik. Düşünüp ibret alan yok mu?",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4953,
+                       "verseNumber":  52,
+                       "arabic":  "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى الزُّبُرِ",
+                       "meal":  "Yaptıkları her şey kitaplarda (amel defterlerinde) mevcuttur.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4954,
+                       "verseNumber":  53,
+                       "arabic":  "وَكُلُّ صَغٖيرٍ وَكَبٖيرٍ مُسْتَطَرٌ",
+                       "meal":  "Küçük büyük her şey satır satır yazılmıştır.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4955,
+                       "verseNumber":  54,
+                       "arabic":  "اِنَّ الْمُتَّقٖينَ فٖى جَنَّاتٍ وَنَهَرٍۙ",
+                       "meal":  "Takvâ sahipleri cennetlerde ve ırmakların kenarlarında, güçlü ve Yüce Allah\u0027ın huzurunda hak meclisindedirler.",
+                       "page":  530,
+                       "juz":  27
+                   },
+                   {
+                       "id":  4956,
+                       "verseNumber":  55,
+                       "arabic":  "ف۪ي مَقْعَدِ صِدْقٍ عِنْدَ مَل۪يكٍ مُقْتَدِرٍ",
+                       "meal":  "Takvâ sahipleri cennetlerde ve ırmakların kenarlarında, güçlü ve Yüce Allah\u0027ın huzurunda hak meclisindedirler.",
+                       "page":  530,
+                       "juz":  27
+                   }
+               ]
+}

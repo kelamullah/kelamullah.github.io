@@ -1,0 +1,173 @@
+﻿{
+    "surah":  {
+                  "surahId":  73,
+                  "name":  "Müzzemmil",
+                  "nameArabic":  "سُورَةُ الْمُزَّمِّلِ",
+                  "verseCount":  20,
+                  "page":  573,
+                  "juz":  29,
+                  "nameEn":  "Al-Muzzammil"
+              },
+    "verses":  [
+                   {
+                       "id":  5550,
+                       "verseNumber":  1,
+                       "arabic":  "يَٓا اَيُّهَا الْمُزَّمِّلُۙ",
+                       "meal":  "Ey örtünüp bürünen (Resûlüm)!",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5551,
+                       "verseNumber":  2,
+                       "arabic":  "قُمِ الَّيْلَ اِلَّا قَلٖيلًاۙ",
+                       "meal":  "Birazı hariç, geceleri kalk namaz kıl. (Gecenin) yarısını (kıl). Yahut bunu biraz azalt, ya da çoğalt ve Kur\u0027an\u0027ı tane tane oku.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5552,
+                       "verseNumber":  3,
+                       "arabic":  "نِصْفَهُٓ اَوِانْقُصْ مِنْهُ قَلٖيلًاۙ",
+                       "meal":  "Birazı hariç, geceleri kalk namaz kıl. (Gecenin) yarısını (kıl). Yahut bunu biraz azalt, ya da çoğalt ve Kur\u0027an\u0027ı tane tane oku.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5553,
+                       "verseNumber":  4,
+                       "arabic":  "اَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْاٰنَ تَرْتٖيلًاۜ",
+                       "meal":  "Birazı hariç, geceleri kalk namaz kıl. (Gecenin) yarısını (kıl). Yahut bunu biraz azalt, ya da çoğalt ve Kur\u0027an\u0027ı tane tane oku.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5554,
+                       "verseNumber":  5,
+                       "arabic":  "اِنَّا سَنُلْقٖى عَلَيْكَ قَوْلًا ثَقٖيلًاۜ",
+                       "meal":  "Doğrusu biz sana (taşıması) ağır bir söz vahyedeceğiz.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5555,
+                       "verseNumber":  6,
+                       "arabic":  "اِنَّ نَاشِئَةَ الَّيْلِ هِىَ اَشَدُّ وَطْـًٔا وَاَقْوَمُ قٖيلًاۜ",
+                       "meal":  "Şüphesiz gece kalkışı, (kalp ve uzuvlar arasında) tam bir uyuma ve sağlam bir kıraata daha elverişlidir.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5556,
+                       "verseNumber":  7,
+                       "arabic":  "اِنَّ لَكَ فِى النَّهَارِ سَبْحًا طَوٖيلًاۜ",
+                       "meal":  "Zira gündüz vakti, sana uzun bir meşguliyet var.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5557,
+                       "verseNumber":  8,
+                       "arabic":  "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْتٖيلًاۜ",
+                       "meal":  "Rabbinin adını an. Bütün varlığınla O\u0027na yönel.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5558,
+                       "verseNumber":  9,
+                       "arabic":  "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَٓا اِلٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَكٖيلًا",
+                       "meal":  "O, doğunun da batının da Rabbidir. O\u0027ndan başka ilâh yoktur. Öyleyse yalnız O\u0027nun himayesine sığın.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5559,
+                       "verseNumber":  10,
+                       "arabic":  "وَاصْبِرْ عَلٰى مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمٖيلًا",
+                       "meal":  "Onların (müşriklerin) söylediklerine katlan ve onlardan güzellikle ayrıl.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5560,
+                       "verseNumber":  11,
+                       "arabic":  "وَذَرْنٖى وَالْمُكَذِّبٖينَ اُو۬لِى النَّعْمَةِ وَمَهِّلْهُمْ قَلٖيلًا",
+                       "meal":  "Nimet içinde yüzen o yalancıları bana bırak ve onlara biraz mühlet ver.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5561,
+                       "verseNumber":  12,
+                       "arabic":  "اِنَّ لَدَيْنَٓا اَنْكَالًا وَجَحٖيمًاۙ",
+                       "meal":  "Hiç şüphesiz bizim nezdimizde (onlar için hazırlanmış) boyunduruklar, yakıcı bir ateş, boğazdan geçmez bir yiyecek ve elem verici bir azap vardır.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5562,
+                       "verseNumber":  13,
+                       "arabic":  "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا اَلٖيمًا",
+                       "meal":  "Hiç şüphesiz bizim nezdimizde (onlar için hazırlanmış) boyunduruklar, yakıcı bir ateş, boğazdan geçmez bir yiyecek ve elem verici bir azap vardır.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5563,
+                       "verseNumber":  14,
+                       "arabic":  "يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثٖيبًا مَهٖيلًا",
+                       "meal":  "O gün (kıyamet günü) yeryüzü ve dağlar sarsılır# dağlar çöküntü ile akıp giden kum yığınına döner.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5564,
+                       "verseNumber":  15,
+                       "arabic":  "اِنَّٓا اَرْسَلْنَٓا اِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَٓا اَرْسَلْنَٓا اِلٰى فِرْعَوْنَ رَسُولًاۜ",
+                       "meal":  "Nasıl Firavun\u0027a bir elçi göndermiş idiysek doğrusu size de, hakkınızda şahitlik edecek bir peygamber gönderdik.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5565,
+                       "verseNumber":  16,
+                       "arabic":  "فَعَصٰى فِرْعَوْنُ الرَّسُولَ فَاَخَذْنَاهُ اَخْذًا وَبٖيلًا",
+                       "meal":  "Ama Firavun o peygambere karşı gelmiş, biz de onu ağır ve çetin bir şekilde muaheze etmiştik.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5566,
+                       "verseNumber":  17,
+                       "arabic":  "فَكَيْفَ تَتَّقُونَ اِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شٖيبًاۗ",
+                       "meal":  "Peki inkâr ederseniz, çocukları ak saçlı ihtiyarlara çevirecek o günden kendinizi nasıl koruyabileceksiniz?",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5567,
+                       "verseNumber":  18,
+                       "arabic":  "اَلسَّمَٓاءُ مُنْفَطِرٌ بِهٖۜ كَانَ وَعْدُهُ مَفْعُولًا",
+                       "meal":  "Gökyüzü bile onunla (o günün dehşetiyle) yarılacaktır. Allah\u0027ın vâdi mutlaka yerine gelir.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5568,
+                       "verseNumber":  19,
+                       "arabic":  "اِنَّ هٰذِهٖ تَذْكِرَةٌۚ فَمَنْ شَٓاءَ اتَّخَذَ اِلٰى رَبِّهٖ سَبٖيلًا۟",
+                       "meal":  "İşte bu (anlatılanlar), şüphesiz bir öğüttür. Artık kim dilerse Rabbine (varan) bir yol tutar.",
+                       "page":  573,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5569,
+                       "verseNumber":  20,
+                       "arabic":  "اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُومُ اَدْنٰى مِنْ ثُلُثَىِ الَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَٓائِفَةٌ مِنَ الَّذٖينَ مَعَكَۜ وَاللّٰهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَۜ عَلِمَ اَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَؤُ۫ا مَا تَيَسَّرَ مِنَ الْقُرْاٰنِۜ عَلِمَ اَنْ سَيَكُونُ مِنْكُمْ مَرْضٰىۙ وَاٰخَرُونَ يَضْرِبُونَ فِى الْاَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللّٰهِۙ وَاٰخَرُونَ يُقَاتِلُونَ فٖى سَبٖيلِ اللّٰهِؗ فَاقْرَؤُ۫ا مَا تَيَسَّرَ مِنْهُۙ وَاَقٖيمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَاَقْرِضُوا اللّٰهَ قَرْضًا حَسَنًاۜ وَمَا تُقَدِّمُوا لِاَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللّٰهِ هُوَ خَيْرًا وَاَعْظَمَ اَجْرًاۜ وَاسْتَغْفِرُوا اللّٰهَۜ اِنَّ اللّٰهَ غَفُورٌ رَحٖيمٌ",
+                       "meal":  "(Resûlüm!) Senin, gecenin üçte ikisine yakın kısmını, (bazen) yarısını, (bazen de) üçte birini yatmadan (ibadetle) geçirdiğini ve beraberinde bulunanlardan bir topluluğun da (böyle yaptığını) Rabbin elbette biliyor. Gece ve gündüzü (içinde olup bitenleri iyiden iyiye) ölçüp biçen ancak Allah\u0027tır. O sizin, bunu sayamayacağınızı bildiği için, sizi bağışladı. Artık, Kur\u0027an\u0027dan kolayınıza geleni okuyun. Allah bilmektedir ki, içinizde hastalar bulunacak, bir kısmınız Allah\u0027ın lütfundan (rızık) aramak üzere yeryüzünde yol tepecekler, diğer bir kısmınız da Allah yolunda çarpışacaklardır. O halde Kur\u0027an\u0027dan kolayınıza geleni okuyun. Namazı kılın, zekâtı verin, Allah\u0027a gönül hoşluğuyla ödünç verin. Kendiniz için önden (dünyada iken) ne iyilik hazırlarsanız Allah katında onu bulursunuz# hem de daha üstün ve mükâfatça daha büyük olmak üzere. Allah\u0027tan mağfiret dileyin, şüphesiz Allah çok bağışlayıcı, çok esirgeyicidir.",
+                       "page":  574,
+                       "juz":  29
+                   }
+               ]
+}

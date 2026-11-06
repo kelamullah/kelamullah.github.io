@@ -1,0 +1,49 @@
+/* ==========================================================================
+   Kelâmullah - Kur'an Fontları
+   - Türkiye Diyanet Vakfı (Abay TDV Mushaf Fontu)
+   - Şeyh Hamdullah Nesh-i Kur'an Fontu
+   ========================================================================== */
+
+/* 1. Türkiye Diyanet Vakfı Mushaf Fontu */
+@font-face {
+  font-family: 'Abay Mushaf TDV';
+  src: url('../fonts/abay_mushaf_tdv_normal.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 2. Şeyh Hamdullah Hat Fontu */
+@font-face {
+  font-family: 'Hamdullah Quran';
+  src: url('../fonts/quran_font_hamdullah.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Font Yardımcı Sınıfları */
+.font-tdv {
+  font-family: 'Abay Mushaf TDV', serif;
+}
+
+.font-hamdullah {
+  font-family: 'Hamdullah Quran', serif;
+}
+
+/* Âyet Sonu Simgesi ﴿...﴾ */
+.ayah-end-symbol {
+  display: inline-block;
+  font-family: 'Abay Mushaf TDV', 'Hamdullah Quran', serif;
+  color: var(--accent-gold);
+  margin: 0 4px;
+  font-size: 0.9em;
+}
+
+/* Kur'an Metni Rendering Optimizasyonları */
+.arabic-quran-text {
+  font-feature-settings: "cv01" on, "cv02" on;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: subpixel-antialiased;
+  direction: rtl;
+}

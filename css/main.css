@@ -1,0 +1,1493 @@
+/* ==========================================================================
+   Kelâmullah - Apple Human Interface Guidelines (iOS & Apple Books) Tasarımı
+   ========================================================================== */
+
+:root {
+  /* Dynamic font variables */
+  --arabic-font-size: 30px;
+  --meal-font-size: 16px;
+  --arabic-line-height: 2.3;
+  --arabic-font-family: 'Abay Mushaf TDV', 'Hamdullah Quran', serif;
+  
+  /* Apple Typography */
+  --ui-font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --reading-font-family: -apple-system-ui-serif, "New York", Georgia, Cambria, serif;
+
+  /* Apple Spring & Ease Transitions */
+  --ios-ease: cubic-bezier(0.25, 0.1, 0.25, 1);
+  --ios-spring: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+  --transition-fast: 0.18s var(--ios-ease);
+  --transition-normal: 0.28s var(--ios-ease);
+}
+
+/* ==========================================================================
+   Apple System Color Palettes
+   ========================================================================== */
+
+/* Dark Mode (iOS True Black & System Grouped Backgrounds) */
+[data-theme="dark"], :root {
+  --bg-app: #000000;
+  --bg-navbar: rgba(28, 28, 30, 0.78);
+  --bg-card: #1c1c1e;
+  --bg-card-hover: #2c2c2e;
+  --bg-surface: #151517;
+  --bg-input: #2c2c2e;
+  --bg-pill: rgba(120, 120, 128, 0.24);
+  --bg-pill-active: #636366;
+  --bg-active: rgba(48, 209, 88, 0.14);
+  --bg-highlight: rgba(255, 214, 10, 0.15);
+
+  --text-main: #ffffff;
+  --text-muted: #8e8e93;
+  --text-dim: #636366;
+  --text-arabic: #ffffff;
+  --text-meal: #d1d1d6;
+
+  --border-subtle: rgba(255, 255, 255, 0.1);
+  --border-hairline: rgba(84, 84, 88, 0.4);
+  --border-highlight: rgba(255, 214, 10, 0.4);
+
+  --accent-emerald: #30d158;
+  --accent-emerald-dark: #248a3d;
+  --accent-gold: #ffd60a;
+  --accent-gold-light: #ffe666;
+  --accent-blue: #0a84ff;
+
+  --badge-bg: rgba(255, 255, 255, 0.1);
+  --badge-text: #ffffff;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 12px 36px rgba(0, 0, 0, 0.55);
+  --shadow-pill: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* Light Mode (iOS System Grouped Background & Inset Cards) */
+[data-theme="light"] {
+  --bg-app: #f2f2f7;
+  --bg-navbar: rgba(255, 255, 255, 0.82);
+  --bg-card: #ffffff;
+  --bg-card-hover: #f9f9fb;
+  --bg-surface: #e5e5ea;
+  --bg-input: #e5e5ea;
+  --bg-pill: rgba(118, 118, 128, 0.12);
+  --bg-pill-active: #ffffff;
+  --bg-active: rgba(52, 199, 89, 0.12);
+  --bg-highlight: rgba(217, 119, 6, 0.12);
+
+  --text-main: #000000;
+  --text-muted: #8e8e93;
+  --text-dim: #aeaeb2;
+  --text-arabic: #1c1c1e;
+  --text-meal: #3a3a3c;
+
+  --border-subtle: rgba(60, 60, 67, 0.12);
+  --border-hairline: rgba(60, 60, 67, 0.18);
+  --border-highlight: rgba(217, 119, 6, 0.4);
+
+  --accent-emerald: #34c759;
+  --accent-emerald-dark: #248a3d;
+  --accent-gold: #c59238;
+  --accent-gold-light: #e5a93c;
+  --accent-blue: #007aff;
+
+  --badge-bg: rgba(0, 0, 0, 0.06);
+  --badge-text: #1c1c1e;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.08);
+  --shadow-pill: 0 4px 20px rgba(0, 0, 0, 0.09);
+}
+
+/* Apple Books Sepia Mode (Classic Warm Paper) */
+[data-theme="sepia"] {
+  --bg-app: #fbf0d9;
+  --bg-navbar: rgba(251, 240, 217, 0.85);
+  --bg-card: #f4e6c9;
+  --bg-card-hover: #ede0bf;
+  --bg-surface: #ecdcb7;
+  --bg-input: #ecdcb7;
+  --bg-pill: rgba(102, 77, 43, 0.12);
+  --bg-pill-active: #fbf0d9;
+  --bg-active: rgba(141, 91, 31, 0.12);
+  --bg-highlight: rgba(141, 91, 31, 0.15);
+
+  --text-main: #4b3823;
+  --text-muted: #7e6547;
+  --text-dim: #9c8466;
+  --text-arabic: #332414;
+  --text-meal: #4b3823;
+
+  --border-subtle: rgba(102, 77, 43, 0.15);
+  --border-hairline: rgba(102, 77, 43, 0.22);
+  --border-highlight: rgba(141, 91, 31, 0.4);
+
+  --accent-emerald: #1e6b3c;
+  --accent-emerald-dark: #144928;
+  --accent-gold: #8d5b1f;
+  --accent-gold-light: #b57a32;
+  --accent-blue: #2c6eb5;
+
+  --badge-bg: rgba(102, 77, 43, 0.1);
+  --badge-text: #4b3823;
+  --shadow-sm: 0 1px 2px rgba(75, 56, 35, 0.05);
+  --shadow-lg: 0 10px 30px rgba(75, 56, 35, 0.1);
+  --shadow-pill: 0 4px 18px rgba(75, 56, 35, 0.12);
+}
+
+/* ==========================================================================
+   Base Styles & Reset
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--ui-font-family);
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  line-height: 1.5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  transition: background-color var(--transition-normal), color var(--transition-normal);
+  padding-bottom: 96px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  font-family: inherit;
+  color: inherit;
+  transition: opacity var(--transition-fast), transform var(--transition-fast);
+}
+
+button:active {
+  opacity: 0.65;
+  transform: scale(0.98);
+}
+
+input, select {
+  font-family: inherit;
+  color: inherit;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* ==========================================================================
+   Apple Translucent Navigation Bar (Frosted Glass)
+   ========================================================================== */
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(25px) saturate(180%);
+  -webkit-backdrop-filter: blur(25px) saturate(180%);
+  background-color: var(--bg-navbar);
+  border-bottom: 0.5px solid var(--border-hairline);
+  transition: all var(--transition-normal);
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 54px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  letter-spacing: -0.015em;
+}
+
+.brand-icon {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+
+.brand-logo-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.brand-text {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.brand-name {
+  color: var(--text-main);
+  font-weight: 700;
+}
+
+.brand-arabic {
+  font-size: 0.85rem;
+  color: var(--accent-gold);
+  font-family: var(--arabic-font-family);
+  letter-spacing: 0;
+}
+
+/* Apple Segmented Control Navigation */
+.nav-tabs {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background: var(--bg-pill);
+  padding: 3px;
+  border-radius: 9px;
+}
+
+.nav-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  border-radius: 7px;
+  font-size: 0.825rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+}
+
+.nav-tab:hover {
+  color: var(--text-main);
+}
+
+.nav-tab.active {
+  background: var(--bg-pill-active);
+  color: var(--text-main);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  font-weight: 600;
+}
+
+/* Nav Actions */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  background: var(--bg-pill);
+  transition: all var(--transition-fast);
+}
+
+.icon-btn:hover {
+  color: var(--text-main);
+  background: var(--border-hairline);
+}
+
+.search-trigger-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-pill);
+  border-radius: 9px;
+  padding: 6px 12px;
+  font-size: 0.825rem;
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+}
+
+.search-trigger-btn:hover {
+  color: var(--text-main);
+}
+
+.kbd-shortcut {
+  font-size: 0.7rem;
+  padding: 1px 5px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+  color: var(--text-dim);
+}
+
+/* ==========================================================================
+   Apple Large Title & Hero Header
+   ========================================================================== */
+
+.hero-banner {
+  padding: 2.25rem 0 1.5rem;
+  text-align: left;
+}
+
+.hero-title {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: 1.15;
+  color: var(--text-main);
+  margin-bottom: 0.35rem;
+}
+
+.hero-subtitle {
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.hero-stats {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.25rem;
+  background: var(--bg-card);
+  border: 0.5px solid var(--border-subtle);
+  padding: 6px 16px;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  box-shadow: var(--shadow-sm);
+}
+
+.hero-stat-item strong {
+  color: var(--text-main);
+  margin-right: 3px;
+}
+
+.resume-reading-card {
+  margin: 1.25rem 0 0;
+  max-width: 480px;
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg-card);
+  border: 0.5px solid var(--border-subtle);
+  box-shadow: var(--shadow-sm);
+  padding: 10px 16px;
+  border-radius: 12px;
+  font-size: 0.875rem;
+}
+
+.resume-reading-card.visible {
+  display: flex;
+}
+
+.resume-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.resume-icon {
+  color: var(--accent-emerald);
+}
+
+/* ==========================================================================
+   Apple Search & Filter Toolbar
+   ========================================================================== */
+
+.toolbar-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 1.5rem;
+}
+
+.search-input-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.search-input-wrapper svg {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  height: 40px;
+  padding: 0 38px 0 38px;
+  border-radius: 10px;
+  background: var(--bg-input);
+  border: none;
+  color: var(--text-main);
+  font-size: 0.95rem;
+  outline: none;
+  transition: all var(--transition-fast);
+}
+
+.search-input:focus {
+  box-shadow: 0 0 0 2px var(--accent-blue);
+}
+
+.search-clear-btn {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-dim);
+}
+
+/* Apple Segmented Filter */
+.filter-chips {
+  display: flex;
+  background: var(--bg-pill);
+  padding: 3px;
+  border-radius: 9px;
+  align-self: flex-start;
+  gap: 2px;
+}
+
+.chip-btn {
+  padding: 6px 14px;
+  border-radius: 7px;
+  font-size: 0.825rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+}
+
+.chip-btn.active {
+  background: var(--bg-pill-active);
+  color: var(--text-main);
+  font-weight: 600;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+/* ==========================================================================
+   Apple Inset Grouped List (Sureler Listesi)
+   ========================================================================== */
+
+.surah-grid {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 3rem;
+  border: 0.5px solid var(--border-subtle);
+}
+
+.surah-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: transparent;
+  text-decoration: none;
+  border-bottom: 0.5px solid var(--border-hairline);
+  transition: background-color var(--transition-fast);
+  cursor: pointer;
+}
+
+.surah-card:last-child {
+  border-bottom: none;
+}
+
+.surah-card:active {
+  background-color: var(--bg-card-hover);
+}
+
+.surah-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.surah-badge {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: var(--badge-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.875rem;
+  color: var(--badge-text);
+  flex-shrink: 0;
+}
+
+.surah-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.surah-name-tr {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  letter-spacing: -0.01em;
+}
+
+.revelation-tag {
+  font-size: 0.65rem;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.revelation-tag.mekki {
+  background: rgba(255, 149, 0, 0.15);
+  color: #ff9500;
+}
+
+.revelation-tag.medeni {
+  background: rgba(52, 199, 89, 0.15);
+  color: var(--accent-emerald);
+}
+
+.surah-meta {
+  font-size: 0.775rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 2px;
+}
+
+.surah-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: right;
+}
+
+.surah-name-ar {
+  font-family: var(--arabic-font-family);
+  font-size: 1.45rem;
+  color: var(--accent-gold);
+  line-height: 1.1;
+}
+
+.surah-name-en {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+.ios-chevron {
+  color: var(--text-dim);
+  display: inline-flex;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* ==========================================================================
+   Juz (Cüz) Inset Grouped Grid
+   ========================================================================== */
+
+.juz-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 12px;
+  margin-bottom: 3rem;
+}
+
+.juz-card {
+  background: var(--bg-card);
+  border: 0.5px solid var(--border-subtle);
+  border-radius: 14px;
+  padding: 1rem 1.15rem;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-fast);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.juz-card:active {
+  background: var(--bg-card-hover);
+  transform: scale(0.98);
+}
+
+.juz-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.juz-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--text-main);
+  letter-spacing: -0.01em;
+}
+
+.juz-range {
+  font-size: 0.825rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+  margin-bottom: 10px;
+}
+
+.juz-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 8px;
+  border-top: 0.5px solid var(--border-hairline);
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+/* ==========================================================================
+   Apple Books Reading Experience (Sure Okuma)
+   ========================================================================== */
+
+.reader-container {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.reader-sticky-bar {
+  position: sticky;
+  top: 54px;
+  z-index: 40;
+  backdrop-filter: blur(25px) saturate(180%);
+  -webkit-backdrop-filter: blur(25px) saturate(180%);
+  background: var(--bg-navbar);
+  border-bottom: 0.5px solid var(--border-hairline);
+  padding: 6px 0;
+  margin-bottom: 1.5rem;
+}
+
+.reader-bar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.reader-bar-left, .reader-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.nav-back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--accent-blue);
+  padding: 6px 8px;
+  border-radius: 8px;
+  transition: opacity var(--transition-fast);
+}
+
+.nav-back-btn:active {
+  opacity: 0.5;
+}
+
+.select-dropdown {
+  height: 32px;
+  padding: 0 10px;
+  border-radius: 8px;
+  background: var(--bg-pill);
+  border: none;
+  color: var(--text-main);
+  font-size: 0.825rem;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+}
+
+/* Surah Hero Card */
+.surah-hero-header {
+  text-align: center;
+  padding: 2.25rem 1rem 1.75rem;
+  background: transparent;
+  margin-bottom: 1rem;
+}
+
+.surah-header-arabic {
+  font-family: var(--arabic-font-family);
+  font-size: 2.75rem;
+  color: var(--accent-gold);
+  line-height: 1.3;
+  margin-bottom: 0.35rem;
+}
+
+.surah-header-title {
+  font-size: 1.85rem;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  color: var(--text-main);
+  margin-bottom: 0.4rem;
+}
+
+.surah-header-meta {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.surah-bismillah-box {
+  margin-top: 1.75rem;
+  padding-top: 1.5rem;
+  border-top: 0.5px solid var(--border-hairline);
+}
+
+.bismillah-ar {
+  font-family: var(--arabic-font-family);
+  font-size: 2.3rem;
+  color: var(--text-main);
+  line-height: 1.4;
+}
+
+.bismillah-tr {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+  font-style: italic;
+  font-family: var(--reading-font-family);
+}
+
+/* Apple Books Inset Verse Cards */
+.verses-list {
+  background: var(--bg-card);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  border: 0.5px solid var(--border-subtle);
+  margin-bottom: 2rem;
+}
+
+.verse-card {
+  position: relative;
+  padding: 1.5rem 1.5rem;
+  border-bottom: 0.5px solid var(--border-hairline);
+  transition: background-color var(--transition-fast);
+}
+
+.verse-card:last-child {
+  border-bottom: none;
+}
+
+.verse-card.playing {
+  background-color: var(--bg-active);
+}
+
+.verse-card.target-highlight {
+  animation: apple-pulse 1.8s var(--ios-ease);
+}
+
+@keyframes apple-pulse {
+  0% { background-color: var(--bg-highlight); }
+  100% { background-color: transparent; }
+}
+
+.verse-header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.verse-badge-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.verse-number-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: var(--badge-bg);
+  font-size: 0.775rem;
+  font-weight: 700;
+  color: var(--accent-gold);
+}
+
+.verse-page-juz {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+.verse-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.verse-action-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  background: transparent;
+  transition: all var(--transition-fast);
+}
+
+.verse-action-btn:hover {
+  color: var(--text-main);
+  background: var(--bg-pill);
+}
+
+.verse-action-btn.active {
+  color: var(--accent-gold);
+}
+
+.verse-arabic {
+  direction: rtl;
+  text-align: right;
+  font-family: var(--arabic-font-family);
+  font-size: var(--arabic-font-size);
+  line-height: var(--arabic-line-height);
+  color: var(--text-arabic);
+  padding: 0.25rem 0 1rem;
+  word-spacing: 3px;
+}
+
+.verse-meal {
+  font-family: var(--reading-font-family);
+  font-size: var(--meal-font-size);
+  line-height: 1.8;
+  color: var(--text-meal);
+  letter-spacing: -0.01em;
+  padding-top: 0.75rem;
+  border-top: 0.5px solid var(--border-hairline);
+}
+
+/* View Mode classes */
+.view-mode-arabic-only .verse-meal {
+  display: none !important;
+}
+
+.view-mode-meal-only .verse-arabic {
+  display: none !important;
+}
+
+/* Reader Pagination */
+.reader-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 2rem 0 3.5rem;
+}
+
+.page-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background: var(--bg-card);
+  border: 0.5px solid var(--border-subtle);
+  color: var(--text-main);
+  font-weight: 500;
+  font-size: 0.9rem;
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-fast);
+}
+
+.page-nav-btn:active {
+  transform: scale(0.97);
+}
+
+/* ==========================================================================
+   Full Search View (Apple Style)
+   ========================================================================== */
+
+.search-view-container {
+  max-width: 820px;
+  margin: 0 auto 3rem;
+}
+
+.search-results-stats {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+.search-results-list {
+  background: var(--bg-card);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  border: 0.5px solid var(--border-subtle);
+}
+
+.search-result-card {
+  padding: 14px 16px;
+  border-bottom: 0.5px solid var(--border-hairline);
+  cursor: pointer;
+  transition: background-color var(--transition-fast);
+}
+
+.search-result-card:last-child {
+  border-bottom: none;
+}
+
+.search-result-card:active {
+  background-color: var(--bg-card-hover);
+}
+
+.search-result-ref {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent-emerald);
+}
+
+.search-result-meal {
+  font-family: var(--reading-font-family);
+  font-size: 0.95rem;
+  color: var(--text-meal);
+  line-height: 1.6;
+}
+
+.search-result-meal mark, .verse-meal mark {
+  background: rgba(255, 214, 10, 0.35);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+/* ==========================================================================
+   Saved Bookmarks View
+   ========================================================================== */
+
+.saved-container {
+  max-width: 820px;
+  margin: 0 auto 3rem;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--text-muted);
+}
+
+.empty-state svg {
+  width: 52px;
+  height: 52px;
+  color: var(--text-dim);
+  margin-bottom: 0.75rem;
+}
+
+/* ==========================================================================
+   Apple Music / Podcasts Floating Mini Player Capsule
+   ========================================================================== */
+
+.audio-bar {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%) translateY(140%);
+  z-index: 60;
+  width: calc(100% - 32px);
+  max-width: 580px;
+  background: var(--bg-navbar);
+  backdrop-filter: blur(25px) saturate(190%);
+  -webkit-backdrop-filter: blur(25px) saturate(190%);
+  border: 0.5px solid var(--border-hairline);
+  border-radius: 20px;
+  box-shadow: var(--shadow-pill);
+  transition: transform 0.35s var(--ios-spring);
+}
+
+.audio-bar.visible {
+  transform: translateX(-50%) translateY(0);
+}
+
+.audio-bar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+  padding: 0 16px;
+  gap: 12px;
+}
+
+.audio-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 140px;
+}
+
+.audio-cover {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  background: var(--text-main);
+  color: var(--bg-app);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.audio-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.audio-surah-title {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--text-main);
+  white-space: nowrap;
+}
+
+.audio-reciter-name {
+  font-size: 0.725rem;
+  color: var(--text-muted);
+}
+
+.audio-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.play-pause-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--text-main);
+  color: var(--bg-app);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.audio-secondary-btn {
+  width: 30px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+}
+
+.audio-secondary-btn:hover {
+  color: var(--text-main);
+}
+
+.audio-options {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.audio-speed-btn {
+  padding: 3px 7px;
+  border-radius: 6px;
+  background: var(--bg-pill);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+/* ==========================================================================
+   Apple iOS Action Sheet / Modal
+   ========================================================================== */
+
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 100;
+  display: none;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0;
+}
+
+.modal-backdrop.open {
+  display: flex;
+}
+
+.modal-card {
+  width: 100%;
+  max-width: 520px;
+  background: var(--bg-card);
+  border-radius: 24px 24px 0 0;
+  box-shadow: var(--shadow-lg);
+  padding: 1.25rem 1.5rem 2rem;
+  max-height: 85vh;
+  overflow-y: auto;
+  animation: slideUp 0.3s var(--ios-spring);
+  border-top: 0.5px solid var(--border-hairline);
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+}
+
+.modal-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: -0.015em;
+}
+
+.setting-group {
+  margin-bottom: 1.25rem;
+}
+
+.setting-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  margin-bottom: 0.45rem;
+  display: block;
+}
+
+.theme-options {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  background: var(--bg-pill);
+  padding: 3px;
+  border-radius: 10px;
+}
+
+.theme-btn {
+  padding: 8px 10px;
+  border-radius: 8px;
+  font-size: 0.825rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.theme-btn.active {
+  background: var(--bg-pill-active);
+  color: var(--text-main);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+.range-slider {
+  width: 100%;
+  accent-color: var(--accent-emerald);
+  cursor: pointer;
+}
+
+.range-values {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  margin-top: 4px;
+}
+
+/* ==========================================================================
+   Apple Toast Notification (Dynamic Island Pill)
+   ========================================================================== */
+
+.toast {
+  position: fixed;
+  top: 18px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-30px) scale(0.95);
+  background: var(--text-main);
+  color: var(--bg-app);
+  box-shadow: var(--shadow-pill);
+  padding: 8px 18px;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  z-index: 150;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.28s var(--ios-spring);
+}
+
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0) scale(1);
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.app-footer {
+  margin-top: auto;
+  border-top: 0.5px solid var(--border-hairline);
+  padding: 2.25rem 0 2rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.25rem;
+  margin-top: 4px;
+}
+
+.footer-links a:hover {
+  color: var(--text-main);
+}
+
+/* ==========================================================================
+   Responsive Adaptations (iOS Mobile Screen)
+   ========================================================================== */
+
+/* ==========================================================================
+   Mushaf Page Frame & Traditional Layout
+   ========================================================================== */
+
+.mushaf-page-frame {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 18px;
+  padding: 1.5rem 1.75rem 2rem;
+  box-shadow: var(--shadow-sm);
+  position: relative;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.mushaf-page-frame::after {
+  content: "";
+  position: absolute;
+  inset: 8px;
+  border: 1px solid var(--accent-gold);
+  border-radius: 12px;
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+.mushaf-page-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 0.5px solid var(--border-hairline);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.mushaf-header-juz {
+  color: var(--accent-emerald);
+}
+
+.mushaf-header-page {
+  font-weight: 700;
+  color: var(--accent-gold);
+}
+
+.mushaf-header-surah {
+  color: var(--text-main);
+}
+
+.mushaf-surah-header {
+  text-align: center;
+  background: var(--bg-surface);
+  border: 1px solid var(--accent-gold);
+  border-radius: 12px;
+  padding: 10px 16px;
+  margin: 1.5rem 0 1rem;
+}
+
+.mushaf-surah-title-ar {
+  font-family: var(--arabic-font-family);
+  font-size: 1.85rem;
+  color: var(--accent-gold);
+  line-height: 1.2;
+}
+
+.mushaf-surah-title-tr {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.mushaf-bismillah {
+  font-family: var(--arabic-font-family);
+  font-size: 2.1rem;
+  color: var(--text-main);
+  text-align: center;
+  margin: 0.75rem 0 1.25rem;
+  line-height: 1.3;
+}
+
+.mushaf-page-content {
+  direction: rtl;
+  text-align: justify;
+  text-align-last: center;
+  font-family: var(--arabic-font-family);
+  font-size: var(--arabic-font-size);
+  line-height: calc(var(--arabic-line-height) + 0.1);
+  color: var(--text-arabic);
+  flex: 1;
+  padding: 0.5rem 0;
+  word-spacing: 4px;
+}
+
+.mushaf-verse-span {
+  display: inline;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 0 2px;
+  transition: all var(--transition-fast);
+}
+
+.mushaf-verse-span:hover {
+  background: var(--bg-highlight);
+}
+
+.mushaf-verse-span.playing {
+  background: var(--bg-active);
+  color: var(--accent-emerald);
+}
+
+.mushaf-verse-span.selected {
+  background: var(--bg-highlight);
+  box-shadow: 0 0 0 2px var(--accent-gold);
+}
+
+.mushaf-ayah-badge {
+  font-family: var(--arabic-font-family);
+  color: var(--accent-gold);
+  font-size: 0.85em;
+  margin: 0 3px;
+  display: inline-block;
+  user-select: none;
+}
+
+.mushaf-page-bottombar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.75rem;
+  margin-top: 1.5rem;
+  border-top: 0.5px solid var(--border-hairline);
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+@media (max-width: 768px) {
+  .nav-tabs {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 0;
+    border-top: 0.5px solid var(--border-hairline);
+    background: var(--bg-navbar);
+    backdrop-filter: blur(25px) saturate(180%);
+    -webkit-backdrop-filter: blur(25px) saturate(180%);
+    z-index: 45;
+    justify-content: space-around;
+    padding: 6px 12px;
+    height: 56px;
+  }
+
+  body {
+    padding-bottom: 120px;
+  }
+
+  .nav-tab {
+    flex-direction: column;
+    padding: 3px 8px;
+    font-size: 0.68rem;
+    gap: 2px;
+  }
+
+  .audio-bar {
+    bottom: 66px;
+    width: calc(100% - 24px);
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+}

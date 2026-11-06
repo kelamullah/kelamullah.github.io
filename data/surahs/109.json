@@ -1,0 +1,61 @@
+﻿{
+    "surah":  {
+                  "surahId":  109,
+                  "name":  "Kâfirûn",
+                  "nameArabic":  "سُورَةُ الْكَافِرُونَ",
+                  "verseCount":  6,
+                  "page":  603,
+                  "juz":  30,
+                  "nameEn":  "Al-Kafirun"
+              },
+    "verses":  [
+                   {
+                       "id":  6318,
+                       "verseNumber":  1,
+                       "arabic":  "قُلْ يَٓا اَيُّهَا الْكَافِرُونَۙ",
+                       "meal":  "(Resûlüm!) De ki: Ey kâfirler! Ben sizin tapmakta olduklarınıza tapmam.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6319,
+                       "verseNumber":  2,
+                       "arabic":  "لَٓا اَعْبُدُ مَا تَعْبُدُونَۙ",
+                       "meal":  "(Resûlüm!) De ki: Ey kâfirler! Ben sizin tapmakta olduklarınıza tapmam.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6320,
+                       "verseNumber":  3,
+                       "arabic":  "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۚ",
+                       "meal":  "Siz de benim taptığıma tapmıyorsunuz.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6321,
+                       "verseNumber":  4,
+                       "arabic":  "وَلَٓا اَنَا۬ عَابِدٌ مَا عَبَدْتُمْۙ",
+                       "meal":  "Ben de sizin taptıklarınıza asla tapacak değilim.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6322,
+                       "verseNumber":  5,
+                       "arabic":  "وَلَٓا اَنْتُمْ عَابِدُونَ مَٓا اَعْبُدُۜ",
+                       "meal":  "Evet, siz de benim taptığıma tapıyor değilsiniz.",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6323,
+                       "verseNumber":  6,
+                       "arabic":  "لَكُمْ دٖينُكُمْ وَلِىَ دٖينِ",
+                       "meal":  "Sizin dininiz size, benim dinim de banadır.",
+                       "page":  603,
+                       "juz":  30
+                   }
+               ]
+}

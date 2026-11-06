@@ -1,0 +1,413 @@
+﻿{
+    "surah":  {
+                  "surahId":  77,
+                  "name":  "Mürselât",
+                  "nameArabic":  "سُورَةُ الْمُرْسَلَاتِ",
+                  "verseCount":  50,
+                  "page":  579,
+                  "juz":  29,
+                  "nameEn":  "Al-Mursalat"
+              },
+    "verses":  [
+                   {
+                       "id":  5701,
+                       "verseNumber":  1,
+                       "arabic":  "وَالْمُرْسَلَاتِ عُرْفًاۙ",
+                       "meal":  "Yemin olsun, (iyiliklerle) birbiri peşinden gönderilenlere#",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5702,
+                       "verseNumber":  2,
+                       "arabic":  "فَالْعَاصِفَاتِ عَصْفًاۙ",
+                       "meal":  "Şiddetle eserek (zararlıları) savurup atanlara#",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5703,
+                       "verseNumber":  3,
+                       "arabic":  "وَالنَّاشِرَاتِ نَشْرًاۙ",
+                       "meal":  "(Hakikat ve hayırları) yaydıkça yayanlara#",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5704,
+                       "verseNumber":  4,
+                       "arabic":  "فَالْفَارِقَاتِ فَرْقًاۙ",
+                       "meal":  "(Hak ile batılı) birbirinden iyice ayıranlara#",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5705,
+                       "verseNumber":  5,
+                       "arabic":  "فَالْمُلْقِيَاتِ ذِكْرًاۙ",
+                       "meal":  "(Allah\u0027a yönelenleri) arıtmak, (kötüleri) sakındırmak için öğüt telkin edenlere#",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5706,
+                       "verseNumber":  6,
+                       "arabic":  "عُذْرًا اَوْ نُذْرًاۙ",
+                       "meal":  "(Allah\u0027a yönelenleri) arıtmak, (kötüleri) sakındırmak için öğüt telkin edenlere#",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5707,
+                       "verseNumber":  7,
+                       "arabic":  "اِنَّمَا تُوعَدُونَ لَوَاقِعٌۜ",
+                       "meal":  "Bilin ki size vadolunan şey gerçekleşecek!",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5708,
+                       "verseNumber":  8,
+                       "arabic":  "فَاِذَا النُّجُومُ طُمِسَتْۙ",
+                       "meal":  "Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur).",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5709,
+                       "verseNumber":  9,
+                       "arabic":  "وَاِذَا السَّمَٓاءُ فُرِجَتْۙ",
+                       "meal":  "Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur).",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5710,
+                       "verseNumber":  10,
+                       "arabic":  "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
+                       "meal":  "Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur).",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5711,
+                       "verseNumber":  11,
+                       "arabic":  "وَاِذَا الرُّسُلُ اُقِّتَتْۜ",
+                       "meal":  "Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur).",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5712,
+                       "verseNumber":  12,
+                       "arabic":  "لِاَىِّ يَوْمٍ اُجِّلَتْۜ",
+                       "meal":  "(Bu alâmetler) hangi vakte ertelenmiştir?",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5713,
+                       "verseNumber":  13,
+                       "arabic":  "لِيَوْمِ الْفَصْلِۚ",
+                       "meal":  "Ayırım gününe.",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5714,
+                       "verseNumber":  14,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الْفَصْلِۜ",
+                       "meal":  "(Resûlüm!) Ayırım gününün ne olduğunu sen nereden bileceksin!",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5715,
+                       "verseNumber":  15,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün (Peygamber\u0027i ve ahireti) yalan sayanların vay haline!",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5716,
+                       "verseNumber":  16,
+                       "arabic":  "اَلَمْ نُهْلِكِ الْاَوَّلٖينَۜ",
+                       "meal":  "Biz, (bunlar gibi inkârcı olan) öncekileri helâk etmedik mi?",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5717,
+                       "verseNumber":  17,
+                       "arabic":  "ثُمَّ نُتْبِعُهُمُ الْاٰخِرٖينَ",
+                       "meal":  "Sonra arkadakileri de onların ardına takacağız.",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5718,
+                       "verseNumber":  18,
+                       "arabic":  "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمٖينَ",
+                       "meal":  "İşte biz suçlulara böyle yaparız!",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5719,
+                       "verseNumber":  19,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  579,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5720,
+                       "verseNumber":  20,
+                       "arabic":  "اَلَمْ نَخْلُقْكُمْ مِنْ مَٓاءٍ مَهٖينٍۙ",
+                       "meal":  "(Ey insanlar!) Biz sizi dayanıksız bir sudan yaratmadık mı?",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5721,
+                       "verseNumber":  21,
+                       "arabic":  "فَجَعَلْنَاهُ فٖى قَرَارٍ مَكٖينٍۙ",
+                       "meal":  "İşte o suyu, belli bir süreye kadar sağlam bir yere yerleştirdik.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5722,
+                       "verseNumber":  22,
+                       "arabic":  "اِلٰى قَدَرٍ مَعْلُومٍۙ",
+                       "meal":  "İşte o suyu, belli bir süreye kadar sağlam bir yere yerleştirdik.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5723,
+                       "verseNumber":  23,
+                       "arabic":  "فَقَدَرْنَاۗ فَنِعْمَ الْقَادِرُونَ",
+                       "meal":  "Biz buna güç yetirmişizdir. Ve bizim gücümüz ne büyüktür!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5724,
+                       "verseNumber":  24,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5725,
+                       "verseNumber":  25,
+                       "arabic":  "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتًاۙ",
+                       "meal":  "Biz, yeryüzünü dirilere ve ölülere toplanma yeri yapmadık mı?",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5726,
+                       "verseNumber":  26,
+                       "arabic":  "اَحْيَٓاءً وَاَمْوَاتًاۙ",
+                       "meal":  "Biz, yeryüzünü dirilere ve ölülere toplanma yeri yapmadık mı?",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5727,
+                       "verseNumber":  27,
+                       "arabic":  "وَجَعَلْنَا فٖيهَا رَوَاسِىَ شَامِخَاتٍ وَاَسْقَيْنَاكُمْ مَٓاءً فُرَاتًاۜ",
+                       "meal":  "Yeryüzünde haşmetli dağlar yarattık, sizlere tatlı sular içirdik.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5728,
+                       "verseNumber":  28,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5729,
+                       "verseNumber":  29,
+                       "arabic":  "اِنْطَلِقُٓوا اِلٰى مَا كُنْتُمْ بِهٖ تُكَذِّبُونَۚ",
+                       "meal":  "(İnkârcılara o gün şöyle denilir:) yalan sayageldiğiniz azaba doğru gidin!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5730,
+                       "verseNumber":  30,
+                       "arabic":  "اِنْطَلِقُٓوا اِلٰى ظِلٍّ ذٖى ثَلٰثِ شُعَبٍۙ",
+                       "meal":  "Üç kola ayrılmış, (ama) ne gölgelendiren ne de alevden koruyan bir gölgeye gidin.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5731,
+                       "verseNumber":  31,
+                       "arabic":  "لَا ظَلٖيلٍ وَلَا يُغْنٖى مِنَ اللَّهَبِۜ",
+                       "meal":  "Üç kola ayrılmış, (ama) ne gölgelendiren ne de alevden koruyan bir gölgeye gidin.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5732,
+                       "verseNumber":  32,
+                       "arabic":  "اِنَّهَا تَرْمٖى بِشَرَرٍ كَالْقَصْرِۚ",
+                       "meal":  "O, saray gibi kocaman kıvılcım saçar.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5733,
+                       "verseNumber":  33,
+                       "arabic":  "كَاَنَّهُ جِمَالَتٌ صُفْرٌۜ",
+                       "meal":  "Her bir kıvılcım, sanki birer sarı deve gibidir.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5734,
+                       "verseNumber":  34,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5735,
+                       "verseNumber":  35,
+                       "arabic":  "هٰذَا يَوْمُ لَا يَنْطِقُونَۙ",
+                       "meal":  "Bu, (kâfirlerin) konuşamayacağı bir gündür.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5736,
+                       "verseNumber":  36,
+                       "arabic":  "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+                       "meal":  "Onlara izin de verilmez ki (sözde) mazeretlerini beyan etsinler.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5737,
+                       "verseNumber":  37,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5738,
+                       "verseNumber":  38,
+                       "arabic":  "هٰذَا يَوْمُ الْفَصْلِۚ جَمَعْنَاكُمْ وَالْاَوَّلٖينَ",
+                       "meal":  "(O zaman şöyle denir:) Bu, ayırım günüdür. Sizi ve sizden öncekileri bir araya getirdik.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5739,
+                       "verseNumber":  39,
+                       "arabic":  "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَكٖيدُونِ",
+                       "meal":  "(Azaptan kurtulmanız için) bir hileniz varsa, gösterin bana hilenizi!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5740,
+                       "verseNumber":  40,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ۟",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5741,
+                       "verseNumber":  41,
+                       "arabic":  "اِنَّ الْمُتَّقٖينَ فٖى ظِلَالٍ وَعُيُونٍۙ",
+                       "meal":  "Şüphesiz (o gün) takvâ sahipleri, gölgeliklerde ve pınar başlarında, canlarının çektiğinden çeşit çeşit meyveler arasında olacaklardır.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5742,
+                       "verseNumber":  42,
+                       "arabic":  "وَفَوَاكِهَ مِمَّا يَشْتَهُونَۜ",
+                       "meal":  "Şüphesiz (o gün) takvâ sahipleri, gölgeliklerde ve pınar başlarında, canlarının çektiğinden çeşit çeşit meyveler arasında olacaklardır.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5743,
+                       "verseNumber":  43,
+                       "arabic":  "كُلُوا وَاشْرَبُوا هَنٖٓيـًٔا بِمَا كُنْتُمْ تَعْمَلُونَ",
+                       "meal":  "(Kendilerine:) «İşlediklerinizin karşılığı olarak şimdi âfiyetle yeyin için» (denir).",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5744,
+                       "verseNumber":  44,
+                       "arabic":  "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنٖينَ",
+                       "meal":  "İşte, biz iyilik yapanları böyle mükâfatlandırırız.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5745,
+                       "verseNumber":  45,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5746,
+                       "verseNumber":  46,
+                       "arabic":  "كُلُوا وَتَمَتَّعُوا قَلٖيلًا اِنَّكُمْ مُجْرِمُونَ",
+                       "meal":  "(Ey inkârcılar!) Yeyiniz, (dünyadan) faydalanınız biraz! Gerçek şu ki, sizler suçlusunuz!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5747,
+                       "verseNumber":  47,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5748,
+                       "verseNumber":  48,
+                       "arabic":  "وَاِذَا قٖيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+                       "meal":  "Onlar, kendilerine: «Allah\u0027ın huzurunda eğilin!» denildiği vakit eğilmezler.",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5749,
+                       "verseNumber":  49,
+                       "arabic":  "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبٖينَ",
+                       "meal":  "O gün, (hakikatleri) yalan sayanların vay haline!",
+                       "page":  580,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5750,
+                       "verseNumber":  50,
+                       "arabic":  "فَبِاَيِّ حَد۪يثٍ بَعْدَهُ يُؤْمِنُونَ",
+                       "meal":  "Onlar artık bundan (Kur\u0027an\u0027dan) sonra hangi söze inanacaklar.",
+                       "page":  580,
+                       "juz":  29
+                   }
+               ]
+}

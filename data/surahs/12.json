@@ -1,0 +1,901 @@
+﻿{
+    "surah":  {
+                  "surahId":  12,
+                  "name":  "Yûsuf",
+                  "nameArabic":  "سُورَةُ يُوسُفَ",
+                  "verseCount":  111,
+                  "page":  234,
+                  "juz":  12,
+                  "nameEn":  "Yusuf"
+              },
+    "verses":  [
+                   {
+                       "id":  1610,
+                       "verseNumber":  1,
+                       "arabic":  "الٓرٰ۠ تِلْكَ اٰيَاتُ الْكِتَابِ الْمُبٖينِ۠",
+                       "meal":  "Elif. Lâm. Râ. Bunlar, apaçık Kitab\u0027ın âyetleridir.",
+                       "page":  234,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1611,
+                       "verseNumber":  2,
+                       "arabic":  "اِنَّٓا اَنْزَلْنَاهُ قُرْءٰنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
+                       "meal":  "Anlayasınız diye biz onu Arapça bir Kur\u0027an olarak indirdik.",
+                       "page":  234,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1612,
+                       "verseNumber":  3,
+                       "arabic":  "نَحْنُ نَقُصُّ عَلَيْكَ اَحْسَنَ الْقَصَصِ بِمَٓا اَوْحَيْنَٓا اِلَيْكَ هٰذَا الْقُرْاٰنَۗ وَاِنْ كُنْتَ مِنْ قَبْلِه۪ لَمِنَ الْغَافِل۪ينَ",
+                       "meal":  "(Ey Muhammed!) Biz, sana bu Kur\u0027an\u0027ı vahyetmekle geçmiş milletlerin haberlerini sana en güzel bir şekilde anlatıyoruz. Gerçek şu ki, sen bundan önce (bu haberleri) elbette bilmeyenlerden idin.",
+                       "page":  234,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1613,
+                       "verseNumber":  4,
+                       "arabic":  "اِذْ قَالَ يُوسُفُ لِاَبٖيهِ يَٓا اَبَتِ اِنّٖى رَاَيْتُ اَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَاَيْتُهُمْ لٖى سَاجِدٖينَ",
+                       "meal":  "Bir zamanlar Yusuf, babasına (Ya\u0027kub\u0027a) demişti ki: Babacığım! Ben (rüyamda) on bir yıldızla güneşi ve ayı gördüm# onları bana secde ederlerken gördüm.",
+                       "page":  234,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1614,
+                       "verseNumber":  5,
+                       "arabic":  "قَالَ يَا بُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلٰٓى اِخْوَتِكَ فَيَكٖيدُوا لَكَ كَيْدًاۜ اِنَّ الشَّيْطَانَ لِلْاِنْسَانِ عَدُوٌّ مُبٖينٌ",
+                       "meal":  "(Babası:) Yavrucuğum! dedi, rüyanı sakın kardeşlerine anlatma# sonra sana bir tuzak kurarlar! Çünkü şeytan insana apaçık bir düşmandır.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1615,
+                       "verseNumber":  6,
+                       "arabic":  "وَكَذٰلِكَ يَجْتَبٖيكَ رَبُّكَ وَيُعَلِّمُكَ مِنْ تَاْوٖيلِ الْاَحَادٖيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلٰٓى اٰلِ يَعْقُوبَ كَمَٓا اَتَمَّهَا عَلٰٓى اَبَوَيْكَ مِنْ قَبْلُ اِبْرٰهٖيمَ وَاِسْحٰقَۜ اِنَّ رَبَّكَ عَلٖيمٌ حَكٖيمٌ۟",
+                       "meal":  "İşte böylece Rabbin seni seçecek, sana (rüyada görülen) olayların yorumunu öğretecek ve daha önce iki atan İbrahim ve İshak\u0027a nimetini tamamladığı gibi sana ve Ya\u0027kub soyuna da nimetini tamamlayacaktır. Çünkü Rabbin çok iyi bilendir, hikmet sahibidir.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1616,
+                       "verseNumber":  7,
+                       "arabic":  "لَقَدْ كَانَ فٖى يُوسُفَ وَاِخْوَتِهٖٓ اٰيَاتٌ لِلسَّٓائِلٖينَ",
+                       "meal":  "Andolsun ki Yusuf ve kardeşlerinde, (almak) isteyenler için ibretler vardır.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1617,
+                       "verseNumber":  8,
+                       "arabic":  "اِذْ قَالُوا لَيُوسُفُ وَاَخُوهُ اَحَبُّ اِلٰٓى اَبٖينَا مِنَّا وَنَحْنُ عُصْبَةٌۜ اِنَّ اَبَانَا لَفٖى ضَلَالٍ مُبٖينٍۚ",
+                       "meal":  "(Kardeşleri) dediler ki: Yusuf\u0027la kardeşi (Bünyamin) babamıza bizden daha sevgilidir. Halbuki biz kalabalık bir cemaatiz. Şüphesiz ki babamız apaçık bir yanlışlık içindedir.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1618,
+                       "verseNumber":  9,
+                       "arabic":  "اُقْتُلُوا يُوسُفَ اَوِ اطْرَحُوهُ اَرْضًا يَخْلُ لَكُمْ وَجْهُ اَبٖيكُمْ وَتَكُونُوا مِنْ بَعْدِهٖ قَوْمًا صَالِحٖينَ",
+                       "meal":  "(Aralarında dediler ki:) Yusuf\u0027u öldürün veya onu (uzak) bir yere atın ki babanızın teveccühü yalnız size kalsın! Ondan sonra da (tevbe ederek) sâlih kimseler olursunuz!",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1619,
+                       "verseNumber":  10,
+                       "arabic":  "قَالَ قَٓائِلٌ مِنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَاَلْقُوهُ فٖى غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ اِنْ كُنْتُمْ فَاعِلٖينَ",
+                       "meal":  "Onlardan biri: Yusuf\u0027u öldürmeyin, eğer mutlaka yapacaksanız onu kuyunun dibine atın da geçen kervanlardan biri onu alsın (götürsün), dedi.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1620,
+                       "verseNumber":  11,
+                       "arabic":  "قَالُوا يَٓا اَبَانَا مَا لَكَ لَا تَاْمَنَّا࣮ عَلٰى يُوسُفَ وَاِنَّا لَهُ لَنَاصِحُونَ",
+                       "meal":  "Dediler ki: «Ey babamız! Sana ne oluyor da Yusuf hakkında bize güvenmiyorsun! Oysa ki biz onun iyiliğini istemekteyiz.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1621,
+                       "verseNumber":  12,
+                       "arabic":  "اَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَاِنَّا لَهُ لَحَافِظُونَ",
+                       "meal":  "Yarın onu bizimle beraber (kıra) gönder de bol bol yesin (içsin), oynasın. Biz onu mutlaka koruruz.»",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1622,
+                       "verseNumber":  13,
+                       "arabic":  "قَالَ اِنّٖى لَيَحْزُنُنٖٓى اَنْ تَذْهَبُوا بِهٖ وَاَخَافُ اَنْ يَاْكُلَهُ الذِّئْبُ وَاَنْتُمْ عَنْهُ غَافِلُونَ",
+                       "meal":  "(Babaları) dedi ki: Onu götürmeniz beni mutlaka üzer. Siz ondan habersizken onu bir kurdun yemesinden korkarım.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1623,
+                       "verseNumber":  14,
+                       "arabic":  "قَالُوا لَئِنْ اَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ اِنَّٓا اِذًا لَخَاسِرُونَ",
+                       "meal":  "Dediler ki: Hakikaten biz (kuvvetli) bir topluluk olduğumuz halde, eğer onu kurt yerse, o zaman biz gerçekten âciz kimseler sayılırız.",
+                       "page":  235,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1624,
+                       "verseNumber":  15,
+                       "arabic":  "فَلَمَّا ذَهَبُوا بِهٖ وَاَجْمَعُٓوا اَنْ يَجْعَلُوهُ فٖى غَيَابَتِ الْجُبِّۚ وَاَوْحَيْنَٓا اِلَيْهِ لَتُنَبِّئَنَّهُمْ بِاَمْرِهِمْ هٰذَا وَهُمْ لَا يَشْعُرُونَ",
+                       "meal":  "Onu götürüp de kuyunun dibine atmaya ittifakla karar verdikleri zaman, biz Yusuf\u0027a: Andolsun ki sen onların bu işlerini onlar (işin) farkına varmadan, kendilerine haber vereceksin, diye vahyettik.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1625,
+                       "verseNumber":  16,
+                       "arabic":  "وَجَٓاؤُٓ۫ اَبَاهُمْ عِشَٓاءً يَبْكُونَۜ",
+                       "meal":  "Akşamleyin ağlayarak babalarına geldiler.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1626,
+                       "verseNumber":  17,
+                       "arabic":  "قَالُوا يَٓا اَبَانَٓا اِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِنْدَ مَتَاعِنَا فَاَكَلَهُ الذِّئْبُۚ وَمَٓا اَنْتَ بِمُؤْمِنٍ لَنَا وَلَوْ كُنَّا صَادِقٖينَ",
+                       "meal":  "Ey babamız! dediler, biz yarışmak üzere uzaklaştık# Yusuf\u0027u eşyamızın yanında bırakmıştık. (Ne yazık ki) onu kurt yemiş! Fakat biz doğru söyleyenler olsak da sen bize inanmazsın.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1627,
+                       "verseNumber":  18,
+                       "arabic":  "وَجَٓاؤُ۫ عَلٰى قَمٖيصِهٖ بِدَمٍ كَذِبٍۜ قَالَ بَلْ سَوَّلَتْ لَكُمْ اَنْفُسُكُمْ اَمْرًاۜ فَصَبْرٌ جَمٖيلٌۜ وَاللّٰهُ الْمُسْتَعَانُ عَلٰى مَا تَصِفُونَ",
+                       "meal":  "Gömleğinin üstünde sahte bir kan ile geldiler. (Ya\u0027kub) dedi ki: Bilakis nefisleriniz size (kötü) bir işi güzel gösterdi. Artık (bana düşen) hakkıyla sabretmektir. Anlattığınız karşısında (bana) yardım edecek olan, ancak Allah\u0027tır.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1628,
+                       "verseNumber":  19,
+                       "arabic":  "وَجَٓاءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَارِدَهُمْ فَاَدْلٰى دَلْوَهُۜ قَالَ يَا بُشْرٰى هٰذَا غُلَامٌۜ وَاَسَرُّوهُ بِضَاعَةًۜ وَاللّٰهُ عَلٖيمٌ بِمَا يَعْمَلُونَ",
+                       "meal":  "Bir kervan geldi ve sucularını (kuyuya) gönderdiler, o da (gidip) kovasını saldı, (Yusuf\u0027u görünce) «Müjde! İşte bir oğlan!» dedi. Onu bir ticaret malı olarak sakladılar. Allah onların yaptıklarını çok iyi bilir.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1629,
+                       "verseNumber":  20,
+                       "arabic":  "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍۚ وَكَانُوا فٖيهِ مِنَ الزَّاهِدٖينَ۟",
+                       "meal":  "(Kafile Mısır\u0027a vardığında) onu değersiz bir pahaya, sayılı birkaç dirheme sattılar. Onlar zaten ona değer vermemişlerdi.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1630,
+                       "verseNumber":  21,
+                       "arabic":  "وَقَالَ الَّذِى اشْتَرٰيهُ مِنْ مِصْرَ لِامْرَاَتِهٖٓ اَكْرِمٖى مَثْوٰيهُ عَسٰٓى اَنْ يَنْفَعَنَٓا اَوْ نَتَّخِذَهُ وَلَدًاۜ وَكَذٰلِكَ مَكَّنَّا لِيُوسُفَ فِى الْاَرْضِؗ وَلِنُعَلِّمَهُ مِنْ تَاْوٖيلِ الْاَحَادٖيثِۜ وَاللّٰهُ غَالِبٌ عَلٰٓى اَمْرِهٖ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+                       "meal":  "Mısır\u0027da onu satın alan adam, karısına dedi ki: «Ona değer ver ve güzel bak! Umulur ki bize faydası olur. Veya onu evlât ediniriz.» İşte böylece (Mısır\u0027da adaletle hükmetmesi) ve kendisine (rüyadaki) olayların yorumunu öğretmemiz için Yusuf\u0027u o yere yerleştirdik. Allah, emrini yerine getirmeye kadirdir. Fakat insanların çoğu (bunu) bilmezler.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1631,
+                       "verseNumber":  22,
+                       "arabic":  "وَلَمَّا بَلَغَ اَشُدَّهُٓ اٰتَيْنَاهُ حُكْمًا وَعِلْمًاۜ وَكَذٰلِكَ نَجْزِى الْمُحْسِنٖينَ",
+                       "meal":  "(Yusuf) erginlik çağına erişince, ona (isabetle) hükmetme (yeteneği) ve ilim verdik. İşte güzel davrananları biz böyle mükâfatlandırırız.",
+                       "page":  236,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1632,
+                       "verseNumber":  23,
+                       "arabic":  "وَرَاوَدَتْهُ الَّتٖى هُوَ فٖى بَيْتِهَا عَنْ نَفْسِهٖ وَغَلَّقَتِ الْاَبْوَابَ وَقَالَتْ هَيْتَ لَكَۜ قَالَ مَعَاذَ اللّٰهِ اِنَّهُ رَبّٖٓى اَحْسَنَ مَثْوَاىَۜ اِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+                       "meal":  "Evinde bulunduğu kadın, onun nefsinden murat almak istedi, kapıları iyice kapattı ve «Haydi gel!» dedi. O da «(Hâşâ), Allah\u0027a sığınırım! Zira kocanız benim velinimetimdir, bana güzel davrandı. Gerçek şu ki, zalimler iflah olmaz!» dedi.",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1633,
+                       "verseNumber":  24,
+                       "arabic":  "وَلَقَدْ هَمَّتْ بِهٖۗ وَهَمَّ بِهَاۚ لَوْلَٓا اَنْ رَاٰ بُرْهَانَ رَبِّهٖۜ كَذٰلِكَ لِنَصْرِفَ عَنْهُ السُّٓوءَ وَالْفَحْشَٓاءَۜ اِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصٖينَ",
+                       "meal":  "Andolsun ki, kadın ona meyletti. Eğer Rabbinin işaret ve ikazını görmeseydi o da kadına meyletmişti. İşte böylece biz, kötülük ve fuhşu ondan uzaklaştırmak için (delilimizi gösterdik). Şüphesiz o ihlâslı kullarımızdandı.",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1634,
+                       "verseNumber":  25,
+                       "arabic":  "وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمٖيصَهُ مِنْ دُبُرٍ وَاَلْفَيَا سَيِّدَهَا لَدَا الْبَابِۜ قَالَتْ مَا جَزَٓاءُ مَنْ اَرَادَ بِاَهْلِكَ سُٓوءًا اِلَّٓا اَنْ يُسْجَنَ اَوْ عَذَابٌ اَلٖيمٌ",
+                       "meal":  "İkisi de kapıya doğru koştular. Kadın onun gömleğini arkadan yırttı. Kapının yanında onun kocasına rastladılar. Kadın dedi ki: Senin ailene kötülük etmek isteyenin cezası, zindana atılmaktan veya elem verici bir işkenceden başka ne olabilir!",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1635,
+                       "verseNumber":  26,
+                       "arabic":  "قَالَ هِىَ رَاوَدَتْنٖى عَنْ نَفْسٖى وَشَهِدَ شَاهِدٌ مِنْ اَهْلِهَاۚ اِنْ كَانَ قَمٖيصُهُ قُدَّ مِنْ قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ الْكَاذِبٖينَ",
+                       "meal":  "Yusuf: «Asıl kendisi benim nefsimden murat almak istedi» dedi. Kadının akrabasından biri şöyle şahitlik etti: «Eğer gömleği önden yırtılmışsa, kadın doğru söylemiştir, bu ise yalancılardandır.»",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1636,
+                       "verseNumber":  27,
+                       "arabic":  "وَاِنْ كَانَ قَمٖيصُهُ قُدَّ مِنْ دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقٖينَ",
+                       "meal":  "«Eğer gömleği arkadan yırtılmışsa, kadın yalan söylemiştir. Bu ise doğru söyleyenlerdendir.»",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1637,
+                       "verseNumber":  28,
+                       "arabic":  "فَلَمَّا رَاٰ قَمٖيصَهُ قُدَّ مِنْ دُبُرٍ قَالَ اِنَّهُ مِنْ كَيْدِكُنَّۜ اِنَّ كَيْدَكُنَّ عَظٖيمٌ",
+                       "meal":  "(Kocası, Yusuf\u0027un gömleğinin) arkadan yırtılmış olduğunu görünce, (kadına): «Şüphesiz, dedi# bu, sizin tuzağınızdır. Sizin tuzağınız gerçekten büyüktür.»",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1638,
+                       "verseNumber":  29,
+                       "arabic":  "يُوسُفُ اَعْرِضْ عَنْ هٰذَا وَاسْتَغْفِرٖى لِذَنْبِكِۚ اِنَّكِ كُنْتِ مِنَ الْخَاطِـٖٔينَ۟",
+                       "meal":  "«Ey Yusuf! Sen bundan (olanları söylemekten) vazgeç! (Ey kadın!) Sen de günahının affını dile! Çünkü sen günahkârlardan oldun»",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1639,
+                       "verseNumber":  30,
+                       "arabic":  "وَقَالَ نِسْوَةٌ فِى الْمَدٖينَةِ امْرَاَتُ الْعَزٖيزِ تُرَاوِدُ فَتٰيهَا عَنْ نَفْسِهٖۚ قَدْ شَغَفَهَا حُبًّاۜ اِنَّا لَنَرٰيهَا فٖى ضَلَالٍ مُبٖينٍ",
+                       "meal":  "Şehirdeki bazı kadınlar dediler ki: Azizin karısı, delikanlısının nefsinden murat almak istiyormuş# Yusuf\u0027un sevdası onun kalbine işlemiş! Biz onu gerçekten açık bir sapıklık içinde görüyoruz.",
+                       "page":  237,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1640,
+                       "verseNumber":  31,
+                       "arabic":  "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ اَرْسَلَتْ اِلَيْهِنَّ وَاَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَاٰتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكّ۪ينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّۚ فَلَمَّا رَاَيْنَهُٓ اَكْبَرْنَهُ وَقَطَّعْنَ اَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلّٰهِ مَا هٰذَا بَشَرًاۜ اِنْ هٰذَٓا اِلَّا مَلَكٌ كَر۪يمٌ",
+                       "meal":  "Kadın, onların dedikodusunu duyunca, onlara dâvetçi gönderdi# onlar için dayanacak yastıklar hazırladı. Onlardan herbirine bir bıçak verdi. (Kadınlar meyveleri soyarken Yusuf\u0027a): «Çık karşılarına!» dedi. Kadınlar onu görünce, onun büyüklüğünü anladılar. (Şaşkınlıklarından) ellerini kestiler ve dediler ki: Hâşâ Rabbimiz! Bu bir beşer değil... Bu ancak üstün bir melektir!",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1641,
+                       "verseNumber":  32,
+                       "arabic":  "قَالَتْ فَذٰلِكُنَّ الَّذٖى لُمْتُنَّنٖى فٖيهِۜ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهٖ فَاسْتَعْصَمَۜ وَلَئِنْ لَمْ يَفْعَلْ مَٓا اٰمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرٖينَ",
+                       "meal":  "Kadın dedi ki: İşte hakkında beni kınadığınnız şahıs budur. Ben onun nefsinden murat almak istedim. Fakat o, (bundan) şiddetle sakındı. Andolsun, eğer o kendisine emredeceğimi yapmazsa mutlaka zindana atılacak ve elbette sürünenlerden olacaktır!",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1642,
+                       "verseNumber":  33,
+                       "arabic":  "قَالَ رَبِّ السِّجْنُ اَحَبُّ اِلَىَّ مِمَّا يَدْعُونَنٖٓى اِلَيْهِۚ وَاِلَّا تَصْرِفْ عَنّٖى كَيْدَهُنَّ اَصْبُ اِلَيْهِنَّ وَاَكُنْ مِنَ الْجَاهِلٖينَ",
+                       "meal":  "(Yusuf:) Rabbim! Bana zindan, bunların benden istediklerinden daha iyidir! Eğer onların hilelerini benden çevirmezsen, onlara meyleder ve cahillerden olurum! dedi.",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1643,
+                       "verseNumber":  34,
+                       "arabic":  "فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّۜ اِنَّهُ هُوَ السَّمٖيعُ الْعَلٖيمُ",
+                       "meal":  "Rabbi onun duasını kabul etti ve hilelerini ondan uzaklaştırdı. Çünkü O çok iyi işiten, pek iyi bilendir.",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1644,
+                       "verseNumber":  35,
+                       "arabic":  "ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَاَوُا الْاٰيَاتِ لَيَسْجُنُنَّهُ حَتّٰى حٖينٍ۟",
+                       "meal":  "Sonunda (aziz ve arkadaşları) kesin delilleri görmelerine rağmen (halkın dedikodusunu kesmek için yine de) onu bir zamana kadar mutlaka zindana atmaları kendilerine uygun göründü.",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1645,
+                       "verseNumber":  36,
+                       "arabic":  "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِۜ قَالَ اَحَدُهُمَٓا اِنّٖٓى اَرٰينٖٓى اَعْصِرُ خَمْرًاۚ وَقَالَ الْاٰخَرُ اِنّٖٓى اَرٰينٖٓى اَحْمِلُ فَوْقَ رَاْسٖى خُبْزًا تَاْكُلُ الطَّيْرُ مِنْهُۜ نَبِّئْنَا بِتَاْوٖيلِهٖۚ اِنَّا نَرٰيكَ مِنَ الْمُحْسِنٖينَ",
+                       "meal":  "Onunla birlikte zindana iki delikanlı daha girdi. Onlardan biri dedi ki: Ben (rüyada) şarap sıktığımı gördüm. Diğeri de: Ben de başımın üstünde kuşların yemekte olduğu bir ekmek taşıdığımı gördüm. Bunun yorumunu bize haber ver. Çünkü biz seni güzel davrananlardan görüyoruz, dedi.",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1646,
+                       "verseNumber":  37,
+                       "arabic":  "قَالَ لَا يَاْتٖيكُمَا طَعَامٌ تُرْزَقَانِهٖٓ اِلَّا نَبَّاْتُكُمَا بِتَاْوٖيلِهٖ قَبْلَ اَنْ يَاْتِيَكُمَاۜ ذٰلِكُمَا مِمَّا عَلَّمَنٖى رَبّٖىۜ اِنّٖى تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللّٰهِ وَهُمْ بِالْاٰخِرَةِ هُمْ كَافِرُونَۙ",
+                       "meal":  "(Yusuf) dedi ki: Size yedirilecek yemek gelmeden önce onun yorumunu mutlaka size haber vereceğim. Bu, Rabbimin bana öğrettiklerindendir. Şüphesiz ben Allah\u0027a inanmayan bir kavmin dininden uzaklaştım. Onlar ahireti inkâr edenlerin kendileridir.",
+                       "page":  238,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1647,
+                       "verseNumber":  38,
+                       "arabic":  "وَاتَّبَعْتُ مِلَّةَ اٰبَٓاءٖٓى اِبْرٰهٖيمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَٓا اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَىْءٍۜ ذٰلِكَ مِنْ فَضْلِ اللّٰهِ عَلَيْنَا وَعَلَى النَّاسِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+                       "meal":  "Atalarım İbrahim, İshak ve Ya\u0027kub\u0027un dinine uydum. Allah\u0027a herhangi bir şeyi ortak koşmamız bize yaraşmaz. Bu, Allah\u0027ın bize ve insanlara olan lütfundandır. Fakat insanların çoğu şükretmezler.",
+                       "page":  239,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1648,
+                       "verseNumber":  39,
+                       "arabic":  "يَا صَاحِبَىِ السِّجْنِ ءَاَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ اَمِ اللّٰهُ الْوَاحِدُ الْقَهَّارُۜ",
+                       "meal":  "Ey zindan arkadaşlarım! Çeşitli tanrılar mı daha iyi, yoksa gücüne karşı durulamaz olan bir tek Allah mı?",
+                       "page":  239,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1649,
+                       "verseNumber":  40,
+                       "arabic":  "مَا تَعْبُدُونَ مِنْ دُونِهٖٓ اِلَّٓا اَسْمَٓاءً سَمَّيْتُمُوهَٓا اَنْتُمْ وَاٰبَٓاؤُ۬كُمْ مَٓا اَنْزَلَ اللّٰهُ بِهَا مِنْ سُلْطَانٍۜ اِنِ الْحُكْمُ اِلَّا لِلّٰهِۜ اَمَرَ اَلَّا تَعْبُدُٓوا اِلَّٓا اِيَّاهُۜ ذٰلِكَ الدّٖينُ الْقَيِّمُ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+                       "meal":  "Allah\u0027ı bırakıp da taptıklarınız, sizin ve atalarınızın taktığı birtakım isimlerden başka bir şey değildir. Allah onlar hakkında herhangi bir delil indirmemiştir. Hüküm sadece Allah\u0027a aittir. O size kendisinden başkasına ibadet etmemenizi emretmiştir. İşte dosdoğru din budur. Fakat insanların çoğu bilmezler.",
+                       "page":  239,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1650,
+                       "verseNumber":  41,
+                       "arabic":  "يَا صَاحِبَىِ السِّجْنِ اَمَّٓا اَحَدُكُمَا فَيَسْقٖى رَبَّهُ خَمْرًاۚ وَاَمَّا الْاٰخَرُ فَيُصْلَبُ فَتَاْكُلُ الطَّيْرُ مِنْ رَاْسِهٖۜ قُضِىَ الْاَمْرُ الَّذٖى فٖيهِ تَسْتَفْتِيَانِۜ",
+                       "meal":  "Ey zindan arkadaşlarım! (Rüyalarınıza gelince), biriniz (daha önce olduğu gibi) efendisine şarap içirecek# diğeri ise asılacak ve kuşlar onun başından (beynini) yiyecekler. Yorumunu sorduğunuz iş (bu şekilde) kesinleşmiştir.",
+                       "page":  239,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1651,
+                       "verseNumber":  42,
+                       "arabic":  "وَقَالَ لِلَّذٖى ظَنَّ اَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنٖى عِنْدَ رَبِّكَؗ فَاَنْسٰيهُ الشَّيْطَانُ ذِكْرَ رَبِّهٖ فَلَبِثَ فِى السِّجْنِ بِضْعَ سِنٖينَۜ۟",
+                       "meal":  "Onlardan, kurtulacağını bildiği kimseye dedi ki: Beni efendinin yanında an, (umulur ki beni çıkarır). Fakat şeytan ona, efendisine anmayı unutturdu. Dolayısıyla (Yusuf), birkaç sene daha zindanda kaldı.",
+                       "page":  239,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1652,
+                       "verseNumber":  43,
+                       "arabic":  "وَقَالَ الْمَلِكُ اِنّٖٓى اَرٰى سَبْعَ بَقَرَاتٍ سِمَانٍ يَاْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَاُخَرَ يَابِسَاتٍۜ يَٓا اَيُّهَا الْمَلَاُ اَفْتُونٖى فٖى رُءْيَاىَ اِنْ كُنْتُمْ لِلرُّءْيَا تَعْبُرُونَ",
+                       "meal":  "Kral dedi ki: Ben (rüyada) yedi arık ineğin yediği yedi semiz inek gördüm. Ayrıca, yedi yeşil başak ve diğerlerini de kuru gördüm. Ey ileri gelenler! Eğer rüya yorumluyorsanız, benim rüyamı da bana yorumlayınız.",
+                       "page":  239,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1653,
+                       "verseNumber":  44,
+                       "arabic":  "قَالُٓوا اَضْغَاثُ اَحْلَامٍۚ وَمَا نَحْنُ بِتَاْوٖيلِ الْاَحْلَامِ بِعَالِمٖينَ",
+                       "meal":  "(Yorumcular) dediler ki: Bunlar karmakarışık düşlerdir. Biz böyle düşlerin yorumunu bilenlerden değiliz.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1654,
+                       "verseNumber":  45,
+                       "arabic":  "وَقَالَ الَّذٖى نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ اُمَّةٍ اَنَا۬ اُنَبِّئُكُمْ بِتَاْوٖيلِهٖ فَاَرْسِلُونِ",
+                       "meal":  "(Zindandaki) iki kişiden kurtulmuş olan, uzun bir zaman sonra (Yusuf\u0027u) hatırlayarak dedi ki: Ben size onun yorumunu haber veririm, beni hemen (zindana) gönderin.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1655,
+                       "verseNumber":  46,
+                       "arabic":  "يُوسُفُ اَيُّهَا الصِّدّٖيقُ اَفْتِنَا فٖى سَبْعِ بَقَرَاتٍ سِمَانٍ يَاْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَاُخَرَ يَابِسَاتٍۙ لَعَلّٖٓى اَرْجِعُ اِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+                       "meal":  "(Yusuf\u0027un yanına gelerek dedi ki:) Ey Yusuf, ey doğru sözlü kişi! (Rüyada görülen) yedi arık ineğin yediği yedi semiz inek ile yedi yeşil başak ve diğerleri de kuru olan (başaklar) hakkında bize yorum yap. Ümit ederim ki, insanlara (isabetli yorumunla) dönerim de belki onlar da doğruyu öğrenirler.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1656,
+                       "verseNumber":  47,
+                       "arabic":  "قَالَ تَزْرَعُونَ سَبْعَ سِنٖينَ دَاَبًاۚ فَمَا حَصَدْتُمْ فَذَرُوهُ فٖى سُنْبُلِهٖٓ اِلَّا قَلٖيلًا مِمَّا تَاْكُلُونَ",
+                       "meal":  "Yusuf dedi ki: Yedi sene âdetiniz üzere ekin ekersiniz. Sonra da yiyeceklerinizden az bir miktar hariç, biçtiklerinizi başağında (stok edip) bırakınız.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1657,
+                       "verseNumber":  48,
+                       "arabic":  "ثُمَّ يَاْتٖى مِنْ بَعْدِ ذٰلِكَ سَبْعٌ شِدَادٌ يَاْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ اِلَّا قَلٖيلًا مِمَّا تُحْصِنُونَ",
+                       "meal":  "Sonra bunun ardından, saklayacaklarınızdan az bir miktar (tohumluk) hariç, o yıllar için biriktirdiklerinizi yeyip bitirecek yedi kıtlık yılı gelecektir.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1658,
+                       "verseNumber":  49,
+                       "arabic":  "ثُمَّ يَاْتٖى مِنْ بَعْدِ ذٰلِكَ عَامٌ فٖيهِ يُغَاثُ النَّاسُ وَفٖيهِ يَعْصِرُونَ۟",
+                       "meal":  "Sonra bunun ardından da bir yıl gelecek ki, o yılda insanlara (Allah tarafından) yardım olunacak ve o yılda (meyvesuyu ve yağ) sıkacaklar.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1659,
+                       "verseNumber":  50,
+                       "arabic":  "وَقَالَ الْمَلِكُ ائْتُونٖى بِهٖۚ فَلَمَّا جَٓاءَهُ الرَّسُولُ قَالَ ارْجِعْ اِلٰى رَبِّكَ فَسْـَٔلْهُ مَا بَالُ النِّسْوَةِ الّٰتٖى قَطَّعْنَ اَيْدِيَهُنَّۜ اِنَّ رَبّٖى بِكَيْدِهِنَّ عَلٖيمٌ",
+                       "meal":  "(Adam bu yorumu getirince) kral dedi ki: «Onu bana getirin!» Elçi, Yusuf\u0027a geldiği zaman, (Yusuf) dedi ki: «Efendine dön de ona: Ellerini kesen o kadınların zoru neydi? diye sor. Şüphesiz benim Rabbim onların hilesini çok iyi bilir.»",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1660,
+                       "verseNumber":  51,
+                       "arabic":  "قَالَ مَا خَطْبُكُنَّ اِذْ رَاوَدْتُنَّ يُوسُفَ عَنْ نَفْسِهٖۜ قُلْنَ حَاشَ لِلّٰهِ مَا عَلِمْنَا عَلَيْهِ مِنْ سُٓوءٍۜ قَالَتِ امْرَاَتُ الْعَزٖيزِ الْـٰٔنَ حَصْحَصَ الْحَقُّؗ اَنَا۬ رَاوَدْتُهُ عَنْ نَفْسِهٖ وَاِنَّهُ لَمِنَ الصَّادِقٖينَ",
+                       "meal":  "(Kral kadınlara) dedi ki: Yusuf\u0027un nefsinden murat almak istediğiniz zaman durumunuz neydi? Kadınlar, Hâşâ! Allah için, biz ondan hiçbir kötülük görmedik, dediler. Azizin karısı da dedi ki: «Şimdi gerçek ortaya çıktı. Ben onun nefsinden murat almak istemiştim. Şüphesiz ki o doğru söyleyenlerdendir.»",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1661,
+                       "verseNumber":  52,
+                       "arabic":  "ذٰلِكَ لِيَعْلَمَ اَنّٖى لَمْ اَخُنْهُ بِالْغَيْبِ وَاَنَّ اللّٰهَ لَا يَهْدٖى كَيْدَ الْخَٓائِنٖينَ",
+                       "meal":  "(Yusuf dedi ki): Bu, azizin yokluğunda ona hainlik etmediğimi ve Allah\u0027ın hainlerin hilesini başarıya ulaştırmayacağını (herkesin) bilmesi içindir.",
+                       "page":  240,
+                       "juz":  12
+                   },
+                   {
+                       "id":  1662,
+                       "verseNumber":  53,
+                       "arabic":  "وَمَٓا اُبَرِّئُ نَفْسٖىۚ اِنَّ النَّفْسَ لَاَمَّارَةٌ بِالسُّٓوءِ اِلَّا مَا رَحِمَ رَبّٖىۜ اِنَّ رَبّٖى غَفُورٌ رَحٖيمٌ",
+                       "meal":  "(Bununla beraber) nefsimi temize çıkarmıyorum. Çünkü nefis aşırı şekilde kötülüğü emreder# Rabbim acıyıp korumuş başka. Şüphesiz Rabbim çok bağışlayan, pek esirgeyendir.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1663,
+                       "verseNumber":  54,
+                       "arabic":  "وَقَالَ الْمَلِكُ ائْتُونٖى بِهٖٓ اَسْتَخْلِصْهُ لِنَفْسٖىۚ فَلَمَّا كَلَّمَهُ قَالَ اِنَّكَ الْيَوْمَ لَدَيْنَا مَكٖينٌ اَمٖينٌ",
+                       "meal":  "Kral dedi ki: Onu bana getirin, onu kendime özel danışman edineyim. Onunla konuşunca: Bugün sen yanımızda yüksek makam sahibi ve güvenilir birisin, dedi.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1664,
+                       "verseNumber":  55,
+                       "arabic":  "قَالَ اجْعَلْنٖى عَلٰى خَزَٓائِنِ الْاَرْضِۚ اِنّٖى حَفٖيظٌ عَلٖيمٌ",
+                       "meal":  "«Beni ülkenin hazinelerine tayin et! Çünkü ben (onları) çok iyi korurum ve bu işi bilirim» dedi.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1665,
+                       "verseNumber":  56,
+                       "arabic":  "وَكَذٰلِكَ مَكَّنَّا لِيُوسُفَ فِى الْاَرْضِۚ يَتَبَوَّاُ مِنْهَا حَيْثُ يَشَٓاءُۜ نُصٖيبُ بِرَحْمَتِنَا مَنْ نَشَٓاءُ وَلَا نُضٖيعُ اَجْرَ الْمُحْسِنٖينَ",
+                       "meal":  "Ve böylece Yusuf\u0027a orada dilediği gibi hareket etmek üzere ülke içinde yetki verdik. Biz dilediğimiz kimseye rahmetimizi eriştiririz. Ve güzel davrananların mükâfatını zayi etmeyiz.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1666,
+                       "verseNumber":  57,
+                       "arabic":  "وَلَاَجْرُ الْاٰخِرَةِ خَيْرٌ لِلَّذٖينَ اٰمَنُوا وَكَانُوا يَتَّقُونَ۟",
+                       "meal":  "İman edip de (kötülüklerden) sakınanlar için ahiret mükâfatı daha hayırlıdır.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1667,
+                       "verseNumber":  58,
+                       "arabic":  "وَجَٓاءَ اِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ",
+                       "meal":  "Yusuf\u0027un kardeşleri gelip onun huzuruna girdiler, (Yusuf) onları tanıdı, onlar onu tanımıyorlardı.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1668,
+                       "verseNumber":  59,
+                       "arabic":  "وَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ قَالَ ائْتُونٖى بِاَخٍ لَكُمْ مِنْ اَبٖيكُمْۚ اَلَا تَرَوْنَ اَنّٖٓى اُو۫فِى الْكَيْلَ وَاَنَا۬ خَيْرُ الْمُنْزِلٖينَ",
+                       "meal":  "(Yusuf) onların yüklerini hazırlayınca dedi ki: «Sizin bababir kardeşinizi de bana getirin. Görmüyor musunuz, ben ölçeği tam dolduruyorum ve ben misafirperverlerin en iyisiyim.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1669,
+                       "verseNumber":  60,
+                       "arabic":  "فَاِنْ لَمْ تَاْتُونٖى بِهٖ فَلَا كَيْلَ لَكُمْ عِنْدٖى وَلَا تَقْرَبُونِ",
+                       "meal":  "Eğer onu bana getirmezseniz, artık benim yanımda size verilecek bir ölçek (erzak) yoktur, bana hiç yaklaşmayın!»",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1670,
+                       "verseNumber":  61,
+                       "arabic":  "قَالُوا سَنُرَاوِدُ عَنْهُ اَبَاهُ وَاِنَّا لَفَاعِلُونَ",
+                       "meal":  "Dediler ki: Onu babasından istemeye çalışacağız, kuşkusuz bunu yapacağız.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1671,
+                       "verseNumber":  62,
+                       "arabic":  "وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فٖى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَٓا اِذَا انْقَلَبُٓوا اِلٰٓى اَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+                       "meal":  "(Yusuf) emrindeki gençlere dedi ki: Sermayelerini yüklerinin içine koyun. Olur ki ailelerine döndüklerinde bunun farkına varırlar da belki geri gelirler.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1672,
+                       "verseNumber":  63,
+                       "arabic":  "فَلَمَّا رَجَعُٓوا اِلٰٓى اَبٖيهِمْ قَالُوا يَٓا اَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَاَرْسِلْ مَعَنَٓا اَخَانَا نَكْتَلْ وَاِنَّا لَهُ لَحَافِظُونَ",
+                       "meal":  "Babalarına döndüklerinde dediler ki: Ey babamız! Erzak bize yasaklandı. Kardeşimizi (Bünyamin\u0027i) bizimle beraber gönder de (onun sayesinde) ölçüp alalım. Biz onu mutlaka koruyacağız.",
+                       "page":  241,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1673,
+                       "verseNumber":  64,
+                       "arabic":  "قَالَ هَلْ اٰمَنُكُمْ عَلَيْهِ اِلَّا كَمَٓا اَمِنْتُكُمْ عَلٰٓى اَخ۪يهِ مِنْ قَبْلُۜ فَاللّٰهُ خَيْرٌ حَافِظًاۖ وَهُوَ اَرْحَمُ الرَّاحِم۪ينَ",
+                       "meal":  "Ya\u0027kub dedi ki: Daha önce kardeşi (Yusuf) hakkında size ne kadar güvendiysem, bunun hakkında da size ancak o kadar güvenirim! (Ben onu sadece Allah\u0027a emanet ediyorum)# Allah en hayırlı koruyucudur. O, acıyanların en merhametlisidir.",
+                       "page":  242,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1674,
+                       "verseNumber":  65,
+                       "arabic":  "وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ اِلَيْهِمْۜ قَالُوا يَٓا اَبَانَا مَا نَبْغٖىۜ هٰذِهٖ بِضَاعَتُنَا رُدَّتْ اِلَيْنَاۚ وَنَمٖيرُ اَهْلَنَا وَنَحْفَظُ اَخَانَا وَنَزْدَادُ كَيْلَ بَعٖيرٍۜ ذٰلِكَ كَيْلٌ يَسٖيرٌ",
+                       "meal":  "Eşyalarını açtıklarında sermayelerinin kendilerine geri verildiğini gördüler. Dediler ki: Ey babamız! Daha ne istiyoruz. İşte sermâyemiz de bize geri verilmiş. (Onunla yine) ailemize yiyecek getiririz, kardeşimizi koruruz ve bir deve yükü de fazla alırız. Çünkü bu (seferki aldığımız) az bir miktardır.",
+                       "page":  242,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1675,
+                       "verseNumber":  66,
+                       "arabic":  "قَالَ لَنْ اُرْسِلَهُ مَعَكُمْ حَتّٰى تُؤْتُونِ مَوْثِقًا مِنَ اللّٰهِ لَتَاْتُنَّنٖى بِهٖٓ اِلَّٓا اَنْ يُحَاطَ بِكُمْۚ فَلَمَّٓا اٰتَوْهُ مَوْثِقَهُمْ قَالَ اللّٰهُ عَلٰى مَا نَقُولُ وَكٖيلٌ",
+                       "meal":  "(Ya\u0027kub) dedi ki: Kuşatılmanız (ve çaresiz kalma durumunuz) hariç, onu bana mutlaka getireceğinize dair Allah adına bana sağlam bir söz vermediğiniz takdirde onu sizinle beraber göndermem!» Ona (istediği şekilde) teminatlarını verdiklerinde dedi ki: Söylediklerimize Allah şahittir.",
+                       "page":  242,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1676,
+                       "verseNumber":  67,
+                       "arabic":  "وَقَالَ يَا بَنِىَّ لَا تَدْخُلُوا مِنْ بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ اَبْوَابٍ مُتَفَرِّقَةٍۜ وَمَٓا اُغْنٖى عَنْكُمْ مِنَ اللّٰهِ مِنْ شَىْءٍۜ اِنِ الْحُكْمُ اِلَّا لِلّٰهِۜ عَلَيْهِ تَوَكَّلْتُۚ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+                       "meal":  "Sonra şöyle dedi: Oğullarım! (Şehre) hepiniz bir kapıdan girmeyin, ayrı ayrı kapılardan girin. Ama Allah\u0027tan (gelecek) hiçbir şeyi sizden savamam. Hüküm Allah\u0027tan başkasının değildir. (Onun için) ben yalnız O\u0027na dayandım. Tevekkül edenler yalnız O\u0027na dayansınlar.",
+                       "page":  242,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1677,
+                       "verseNumber":  68,
+                       "arabic":  "وَلَمَّا دَخَلُوا مِنْ حَيْثُ اَمَرَهُمْ اَبُوهُمْۜ مَا كَانَ يُغْنٖى عَنْهُمْ مِنَ اللّٰهِ مِنْ شَىْءٍ اِلَّا حَاجَةً فٖى نَفْسِ يَعْقُوبَ قَضٰيهَاۜ وَاِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ۟",
+                       "meal":  "Babalarının kendilerine emrettiği yerden (çeşitli kapılardan) girdiklerinde (onun emrini yerine getirdiler. Fakat bu tedbir) Allah\u0027tan gelecek hiçbir şeyi onlardan savamazdı# ancak Ya\u0027kub içindeki bir dileği açığa vurmuş oldu. Şüphesiz o, ilim sahibiydi, çünkü ona biz öğretmiştik. Fakat insanların çoğu bilmezler.",
+                       "page":  242,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1678,
+                       "verseNumber":  69,
+                       "arabic":  "وَلَمَّا دَخَلُوا عَلٰى يُوسُفَ اٰوٰٓى اِلَيْهِ اَخَاهُ قَالَ اِنّٖٓى اَنَا۬ اَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ",
+                       "meal":  "Yusuf\u0027un yanına girdiklerinde öz kardeşini yanına aldı ve «Bilesin ki ben senin kardeşinim, onların yaptıklarına üzülme» dedi.",
+                       "page":  242,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1679,
+                       "verseNumber":  70,
+                       "arabic":  "فَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ جَعَلَ السِّقَايَةَ فٖى رَحْلِ اَخٖيهِ ثُمَّ اَذَّنَ مُؤَذِّنٌ اَيَّتُهَا الْعٖيرُ اِنَّكُمْ لَسَارِقُونَ",
+                       "meal":  "(Yusuf) onların yükünü hazırladığı zaman maşrabayı kardeşinin yükü içine koydu! (Kafile hareket ettikten) sonra bir tellal: Ey kafile! Siz hırsızsınız! diye seslendi.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1680,
+                       "verseNumber":  71,
+                       "arabic":  "قَالُوا وَاَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ",
+                       "meal":  "(Yusuf\u0027un kardeşleri) onlara dönerek: Ne arıyorsunuz? dediler.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1681,
+                       "verseNumber":  72,
+                       "arabic":  "قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَٓاءَ بِهٖ حِمْلُ بَعٖيرٍ وَاَنَا۬ بِهٖ زَعٖيمٌ",
+                       "meal":  "Kralın su kabını arıyoruz# onu getirene bir deve yükü (bahşiş) var dediler. (İçlerinden biri:) Ben buna kefilim, dedi.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1682,
+                       "verseNumber":  73,
+                       "arabic":  "قَالُوا تَاللّٰهِ لَقَدْ عَلِمْتُمْ مَا جِئْنَا لِنُفْسِدَ فِى الْاَرْضِ وَمَا كُنَّا سَارِقٖينَ",
+                       "meal":  "Allah\u0027a andolsun ki, bizim yeryüzünde fesat çıkarmak için gelmediğimizi siz de biliyorsunuz. Biz hırsız da değiliz, dediler.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1683,
+                       "verseNumber":  74,
+                       "arabic":  "قَالُوا فَمَا جَزَٓاؤُ۬هُٓ اِنْ كُنْتُمْ كَاذِبٖينَ",
+                       "meal":  "(Yusuf\u0027un adamları) dediler ki: Peki, siz yalancıysanız bunun cezası nedir?",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1684,
+                       "verseNumber":  75,
+                       "arabic":  "قَالُوا جَزَٓاؤُ۬هُ مَنْ وُجِدَ فٖى رَحْلِهٖ فَهُوَ جَزَٓاؤُ۬هُۜ كَذٰلِكَ نَجْزِى الظَّالِمٖينَ",
+                       "meal":  "«Onun cezası, kayıp eşya, kimin yükünde bulunursa işte o (şahsa el koymak) onun cezasıdır. Biz zalimleri böyle cezalandırırız» dediler.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1685,
+                       "verseNumber":  76,
+                       "arabic":  "فَبَدَاَ بِاَوْعِيَتِهِمْ قَبْلَ وِعَٓاءِ اَخٖيهِ ثُمَّ اسْتَخْرَجَهَا مِنْ وِعَٓاءِ اَخٖيهِۜ كَذٰلِكَ كِدْنَا لِيُوسُفَۜ مَا كَانَ لِيَاْخُذَ اَخَاهُ فٖى دٖينِ الْمَلِكِ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُۜ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَٓاءُۜ وَفَوْقَ كُلِّ ذٖى عِلْمٍ عَلٖيمٌ",
+                       "meal":  "Bunun üzerine Yusuf, kardeşinin yükünden önce onların yüklerini (aramaya) başladı. Sonra da onu, kardeşinin yükünden çıkarttı. İşte biz Yusuf\u0027a böyle bir tedbir öğrettik, yoksa kralın kanununa göre kardeşini tutamayacaktı. Ancak Allah\u0027ın dilemesi hariç. Biz kimi dilersek onu derecelerle yükseltiriz. Zira her ilim sahibinin üstünde daha iyi bilen birisi vardır.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1686,
+                       "verseNumber":  77,
+                       "arabic":  "قَالُٓوا اِنْ يَسْرِقْ فَقَدْ سَرَقَ اَخٌ لَهُ مِنْ قَبْلُۚ فَاَسَرَّهَا يُوسُفُ فٖى نَفْسِهٖ وَلَمْ يُبْدِهَا لَهُمْ قَالَ اَنْتُمْ شَرٌّ مَكَانًاۚ وَاللّٰهُ اَعْلَمُ بِمَا تَصِفُونَ",
+                       "meal":  "(Kardeşleri) dediler ki: «Eğer o çaldıysa, daha önce onun bir kardeşi de çalmıştı.» Yusuf bunu içinde sakladı, onlara açmadı. (Kendi kendine) dedi ki: Siz daha kötü durumdasınız! Allah, sizin anlattığınızı çok iyi bilir.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1687,
+                       "verseNumber":  78,
+                       "arabic":  "قَالُوا يَٓا اَيُّهَا الْعَزٖيزُ اِنَّ لَهُٓ اَبًا شَيْخًا كَبٖيرًا فَخُذْ اَحَدَنَا مَكَانَهُۚ اِنَّا نَرٰيكَ مِنَ الْمُحْسِنٖينَ",
+                       "meal":  "Dediler ki: Ey aziz! Gerçekten onun çok yaşlı bir babası var. Onun yerine bizim birimizi alıkoy. Zira biz seni, iyilik edenlerden görüyoruz.",
+                       "page":  243,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1688,
+                       "verseNumber":  79,
+                       "arabic":  "قَالَ مَعَاذَ اللّٰهِ اَنْ نَأْخُذَ اِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُٓۙ اِنَّٓا اِذًا لَظَالِمُونَ۟",
+                       "meal":  "Dedi ki: Eşyamızı yanında bulduğumuz kimseden başkasını yakalamaktan Allah\u0027a sığınırız, o takdirde biz gerçekten zalimler oluruz!",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1689,
+                       "verseNumber":  80,
+                       "arabic":  "فَلَمَّا اسْتَيْـَٔسُوا مِنْهُ خَلَصُوا نَجِيًّاۜ قَالَ كَبٖيرُهُمْ اَلَمْ تَعْلَمُٓوا اَنَّ اَبَاكُمْ قَدْ اَخَذَ عَلَيْكُمْ مَوْثِقًا مِنَ اللّٰهِ وَمِنْ قَبْلُ مَا فَرَّطْتُمْ فٖى يُوسُفَۚ فَلَنْ اَبْرَحَ الْاَرْضَ حَتّٰى يَاْذَنَ لٖٓى اَبٖٓى اَوْ يَحْكُمَ اللّٰهُ لٖىۚ وَهُوَ خَيْرُ الْحَاكِمٖينَ",
+                       "meal":  "Ondan ümitlerini kesince, (meseleyi) gizli görüşmek üzere ayrılıp (bir kenara) çekildiler. Büyükleri dedi ki: «Babanızın sizden Allah adına söz aldığını, daha önce de Yusuf hakkında işlediğiniz kusuru bilmiyor musunuz? Babam bana izin verinceye veya benim için Allah hükmedinceye kadar bu yerden asla ayrılmayacağım. O hükmedenlerin en hayırlısıdır.",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1690,
+                       "verseNumber":  81,
+                       "arabic":  "اِرْجِعُٓوا اِلٰٓى اَبٖيكُمْ فَقُولُوا يَٓا اَبَانَٓا اِنَّ ابْنَكَ سَرَقَۚ وَمَا شَهِدْنَٓا اِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظٖينَ",
+                       "meal":  "Babanıza dönün ve deyin ki: «Ey babamız! Şüphesiz oğlun hırsızlık etti. Biz, bildiğimizden başkasına şahitlik etmedik. Biz gaybın bekçileri değiliz.",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1691,
+                       "verseNumber":  82,
+                       "arabic":  "وَسْـَٔلِ الْقَرْيَةَ الَّتٖى كُنَّا فٖيهَا وَالْعٖيرَ الَّتٖٓى اَقْبَلْنَا فٖيهَاۜ وَاِنَّا لَصَادِقُونَ",
+                       "meal":  "(İstersen) içinde bulunduğumuz şehire (Mısır halkına) ve aralarında geldiğimiz kafileye de sor. Biz gerçekten doğru söylüyoruz.»",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1692,
+                       "verseNumber":  83,
+                       "arabic":  "قَالَ بَلْ سَوَّلَتْ لَكُمْ اَنْفُسُكُمْ اَمْرًاۜ فَصَبْرٌ جَمٖيلٌۜ عَسَى اللّٰهُ اَنْ يَاْتِيَنٖى بِهِمْ جَمٖيعًاۜ اِنَّهُ هُوَ الْعَلٖيمُ الْحَكٖيمُ",
+                       "meal":  "(Babaları) dedi ki: «Hayır, nefisleriniz sizi (böyle) bir işe sürükledi. (Bana düşen) artık, güzel bir sabırdır. Umulur ki, Allah onların hepsini bana getirir. Çünkü O çok iyi bilendir, hikmet sahibidir.»",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1693,
+                       "verseNumber":  84,
+                       "arabic":  "وَتَوَلّٰى عَنْهُمْ وَقَالَ يَٓا اَسَفٰى عَلٰى يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظٖيمٌ",
+                       "meal":  "Onlardan yüz çevirdi, «Ah Yusuf\u0027um ah!» diye sızlandı ve kederini içine gömmesi yüzünden gözlerine boz geldi.",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1694,
+                       "verseNumber":  85,
+                       "arabic":  "قَالُوا تَاللّٰهِ تَفْتَؤُ۬ا تَذْكُرُ يُوسُفَ حَتّٰى تَكُونَ حَرَضًا اَوْ تَكُونَ مِنَ الْهَالِكٖينَ",
+                       "meal":  "(Oğulları:) «Allah\u0027a andolsun ki sen hâla Yusuf\u0027u anıyorsun. Sonunda ya hasta olacaksın ya da büsbütün helâk olacaksın!» dediler.",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1695,
+                       "verseNumber":  86,
+                       "arabic":  "قَالَ اِنَّمَٓا اَشْكُوا بَثّٖى وَحُزْنٖٓى اِلَى اللّٰهِ وَاَعْلَمُ مِنَ اللّٰهِ مَا لَا تَعْلَمُونَ",
+                       "meal":  "(Ya\u0027kub:) Ben gam ve kederimi sadece Allah\u0027a arzediyorum. Ve ben sizin bilemiyeceğiniz şeyleri Allah tarafından (vahiy ile) biliyorum, dedi.",
+                       "page":  244,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1696,
+                       "verseNumber":  87,
+                       "arabic":  "يَا بَنِىَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَاَخٖيهِ وَلَا تَايْـَٔسُوا مِنْ رَوْحِ اللّٰهِۜ اِنَّهُ لَا يَايْـَٔسُ مِنْ رَوْحِ اللّٰهِ اِلَّا الْقَوْمُ الْكَافِرُونَ",
+                       "meal":  "Ey oğullarım! Gidin de Yusuf\u0027u ve kardeşini iyice araştırın, Allah\u0027ın rahmetinden ümit kesmeyin. Çünkü kâfirler topluluğundan başkası Allah\u0027ın rahmetinden ümit kesmez.",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1697,
+                       "verseNumber":  88,
+                       "arabic":  "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَٓا اَيُّهَا الْعَزٖيزُ مَسَّنَا وَاَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجٰيةٍ فَاَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَاۜ اِنَّ اللّٰهَ يَجْزِى الْمُتَصَدِّقٖينَ",
+                       "meal":  "Yusuf\u0027un yanına girdiklerinde dediler ki: Ey aziz! Bizi ve ailemizi kıtlık bastı ve biz değersiz bir sermaye ile geldik. Hakkımızı tam ölçerek ver. Ayrıca bize bağışta da bulun. Şüphesiz Allah sadaka verenleri mükâfatlandırır.",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1698,
+                       "verseNumber":  89,
+                       "arabic":  "قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَاَخٖيهِ اِذْ اَنْتُمْ جَاهِلُونَ",
+                       "meal":  "Yusuf dedi ki: Siz, cahilliğiniz yüzünden Yusuf ve kardeşine yaptıklarınızı biliyor musunuz?",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1699,
+                       "verseNumber":  90,
+                       "arabic":  "قَالُٓوا ءَاِنَّكَ لَاَنْتَ يُوسُفُۜ قَالَ اَنَا۬ يُوسُفُ وَهٰذَٓا اَخٖىؗ قَدْ مَنَّ اللّٰهُ عَلَيْنَاۜ اِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَاِنَّ اللّٰهَ لَايُضٖيعُ اَجْرَ الْمُحْسِنٖينَ",
+                       "meal":  "Yoksa sen, gerçekten Yusuf musun? dediler. O da: (Evet) ben Yusuf\u0027um, bu da kardeşim. (Birbirimize kavuşmayı) Allah bize lütfetti. Çünkü kim (Allah\u0027tan) korkar ve sabrederse, şüphesiz Allah güzel davrananların mükâfatını zayi etmez, dedi.",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1700,
+                       "verseNumber":  91,
+                       "arabic":  "قَالُوا تَاللّٰهِ لَقَدْ اٰثَرَكَ اللّٰهُ عَلَيْنَا وَاِنْ كُنَّا لَخَاطِـٖٔينَ",
+                       "meal":  "(Kardeşleri) dediler ki: Allah\u0027a andolsun, hakikaten Allah seni bize üstün kılmış. Gerçekten biz hataya düşmüşüz.",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1701,
+                       "verseNumber":  92,
+                       "arabic":  "قَالَ لَا تَثْرٖيبَ عَلَيْكُمُ الْيَوْمَۜ يَغْفِرُ اللّٰهُ لَكُمْؗ وَهُوَ اَرْحَمُ الرَّاحِمٖينَ",
+                       "meal":  "(Yusuf) dedi ki: «Bugün sizi kınamak yok, Allah sizi affetsin! O, merhametlilerin en merhametlisidir.»",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1702,
+                       "verseNumber":  93,
+                       "arabic":  "اِذْهَبُوا بِقَمٖيصٖى هٰذَا فَاَلْقُوهُ عَلٰى وَجْهِ اَبٖى يَاْتِ بَصٖيرًاۚ وَاْتُونٖى بِاَهْلِكُمْ اَجْمَعٖينَ۟",
+                       "meal":  "«Şu benim gömleğimi götürün de onu babamın yüzüne koyun, (gözleri) görecek duruma gelir. Ve bütün ailenizi bana getirin.»",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1703,
+                       "verseNumber":  94,
+                       "arabic":  "وَلَمَّا فَصَلَتِ الْعٖيرُ قَالَ اَبُوهُمْ اِنّٖى لَاَجِدُ رٖيحَ يُوسُفَ لَوْلَٓا اَنْ تُفَنِّدُونِ",
+                       "meal":  "Kafile (Mısır\u0027dan) ayrılınca, babaları (yanındakilere): Eğer bana bunamış demezseniz inanın ben Yusuf\u0027un kokusunu alıyorum! dedi.",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1704,
+                       "verseNumber":  95,
+                       "arabic":  "قَالُوا تَاللّٰهِ اِنَّكَ لَفٖى ضَلَالِكَ الْقَدٖيمِ",
+                       "meal":  "(Onlar da:) Vallahi sen hâla eski şaşkınlığındasın, dediler.",
+                       "page":  245,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1705,
+                       "verseNumber":  96,
+                       "arabic":  "فَلَمَّٓا اَنْ جَٓاءَ الْبَش۪يرُ اَلْقٰيهُ عَلٰى وَجْهِه۪ فَارْتَدَّ بَص۪يرًاۚ قَالَ اَلَمْ اَقُلْ لَكُمْ اِنّ۪ٓي اَعْلَمُ مِنَ اللّٰهِ مَا لَا تَعْلَمُونَ",
+                       "meal":  "Müjdeci gelince, gömleği onun yüzüne koyar koymaz (Ya\u0027kub) görür oldu. Ben size: «Allah tarafından (vahiy ile) sizin bilemeyeceğiniz şeyleri bilirim» demedim mi! dedi.",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1706,
+                       "verseNumber":  97,
+                       "arabic":  "قَالُوا يَٓا اَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَٓا اِنَّا كُنَّا خَاطِـٖٔينَ",
+                       "meal":  "(Oğulları) dediler ki: Ey babamız! (Allah\u0027tan) bizim günahlarımızın affını dile! Çünkü biz gerçekten günahkârlar idik.",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1707,
+                       "verseNumber":  98,
+                       "arabic":  "قَالَ سَوْفَ اَسْتَغْفِرُ لَكُمْ رَبّٖىۜ اِنَّهُ هُوَ الْغَفُورُ الرَّحٖيمُ",
+                       "meal":  "(Ya\u0027kub:) Sizin için Rabbimden af dileyeceğim. Çünkü O çok bağışlayan, pek esirgeyendir, dedi.",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1708,
+                       "verseNumber":  99,
+                       "arabic":  "فَلَمَّا دَخَلُوا عَلٰى يُوسُفَ اٰوٰٓى اِلَيْهِ اَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ اِنْ شَٓاءَ اللّٰهُ اٰمِنٖينَۜ",
+                       "meal":  "(Hep beraber Mısır\u0027a gidip) Yusuf\u0027un yanına girdikleri zaman, ana-babasını kucakladı, «Güven içinde Allah\u0027ın iradesiyle Mısır\u0027a girin!» dedi.",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1709,
+                       "verseNumber":  100,
+                       "arabic":  "وَرَفَعَ اَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًاۚ وَقَالَ يَٓا اَبَتِ هٰذَا تَاْوٖيلُ رُءْيَاىَ مِنْ قَبْلُؗ قَدْ جَعَلَهَا رَبّٖى حَقًّاۜ وَقَدْ اَحْسَنَ بٖٓى اِذْ اَخْرَجَنٖى مِنَ السِّجْنِ وَجَٓاءَ بِكُمْ مِنَ الْبَدْوِ مِنْ بَعْدِ اَنْ نَزَغَ الشَّيْطَانُ بَيْنٖى وَبَيْنَ اِخْوَتٖىۜ اِنَّ رَبّٖى لَطٖيفٌ لِمَا يَشَٓاءُۜ اِنَّهُ هُوَ الْعَلٖيمُ الْحَكٖيمُ",
+                       "meal":  "Ana ve babasını tahtının üstüne çıkartıp oturttu ve hepsi onun için (ona kavuştukları için) secdeye kapandılar. (Yusuf) dedi ki: «Ey babacığım! İşte bu, daha önce (gördüğüm) rüyanın yorumudur. Rabbim onu gerçekleştirdi. Doğrusu Rabbim bana (çok şey) lütfetti. Çünkü beni zindandan çıkardı ve şeytan benimle kardeşlerimin arasını bozduktan sonra sizi çölden getirdi. Şüphesiz ki Rabbim dilediğine lütfedicidir. Kuşkusuz O çok iyi bilendir, hikmet sahibidir.»",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1710,
+                       "verseNumber":  101,
+                       "arabic":  "رَبِّ قَدْ اٰتَيْتَنٖى مِنَ الْمُلْكِ وَعَلَّمْتَنٖى مِنْ تَاْوٖيلِ الْاَحَادٖيثِۚ فَاطِرَ السَّمٰوَاتِ وَالْاَرْضِ اَنْتَ وَلِيّٖ فِى الدُّنْيَا وَالْاٰخِرَةِۚ تَوَفَّنٖى مُسْلِمًا وَاَلْحِقْنٖى بِالصَّالِحٖينَ",
+                       "meal":  "«Ey Rabbim! Mülkten bana (nasibimi) verdin ve bana (rüyada görülen) olayların yorumunu da öğrettin. Ey gökleri ve yeri yaratan! Sen dünyada da ahirette de benim sahibimsin. Beni müslüman olarak öldür ve beni sâlihler arasına kat!»",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1711,
+                       "verseNumber":  102,
+                       "arabic":  "ذٰلِكَ مِنْ اَنْبَٓاءِ الْغَيْبِ نُوحٖيهِ اِلَيْكَۚ وَمَا كُنْتَ لَدَيْهِمْ اِذْ اَجْمَعُٓوا اَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+                       "meal":  "İşte bu (Yusuf kıssası) gayb haberlerindendir. Onu sana vahyediyoruz. Onlar hile yaparak işlerine karar verdikleri zaman sen onların yanında değildin (ki bunları bilesin).",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1712,
+                       "verseNumber":  103,
+                       "arabic":  "وَمَٓا اَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنٖينَ",
+                       "meal":  "Sen ne kadar üstüne düşsen de insanların çoğu iman edecek değillerdir.",
+                       "page":  246,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1713,
+                       "verseNumber":  104,
+                       "arabic":  "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ اَجْرٍۜ اِنْ هُوَ اِلَّا ذِكْرٌ لِلْعَالَمٖينَ۟",
+                       "meal":  "Halbuki sen bunun için (peygamberlik görevini îfa için) onlardan bir ücret istemiyorsun. Kur\u0027an, âlemler için ancak bir öğüttür.",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1714,
+                       "verseNumber":  105,
+                       "arabic":  "وَكَاَيِّنْ مِنْ اٰيَةٍ فِى السَّمٰوَاتِ وَالْاَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+                       "meal":  "Göklerde ve yerde nice deliller vardır ki, onlar bu delillerden yüzlerini çevirip geçerler.",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1715,
+                       "verseNumber":  106,
+                       "arabic":  "وَمَا يُؤْمِنُ اَكْثَرُهُمْ بِاللّٰهِ اِلَّا وَهُمْ مُشْرِكُونَ",
+                       "meal":  "Onların çoğu, ancak ortak koşarak Allah\u0027a iman ederler.",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1716,
+                       "verseNumber":  107,
+                       "arabic":  "اَفَاَمِنُٓوا اَنْ تَاْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللّٰهِ اَوْ تَاْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+                       "meal":  "Allah tarafından kuşatıcı bir felâket gelmesi veya farkında olmadan kıyametin ansızın kopması karşısında kendilerini emîn mi gördüler?",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1717,
+                       "verseNumber":  108,
+                       "arabic":  "قُلْ هٰذِهٖ سَبٖيلٖٓى اَدْعُٓوا اِلَى اللّٰهِ عَلٰى بَصٖيرَةٍ اَنَا۬ وَمَنِ اتَّبَعَنٖىۜ وَسُبْحَانَ اللّٰهِ وَمَٓا اَنَا۬ مِنَ الْمُشْرِكٖينَ",
+                       "meal":  "(Resûlüm!) De ki: «İşte bu, benim yolumdur. Ben Allah\u0027a çağırıyorum, ben ve bana uyanlar aydınlık bir yol üzerindeyiz. Allah\u0027ı (ortaklardan) tenzih ederim! Ve ben ortak koşanlardan değilim.»",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1718,
+                       "verseNumber":  109,
+                       "arabic":  "وَمَٓا اَرْسَلْنَا مِنْ قَبْلِكَ اِلَّا رِجَالًا نُوحٖٓى اِلَيْهِمْ مِنْ اَهْلِ الْقُرٰىۜ اَفَلَمْ يَسٖيرُوا فِى الْاَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذٖينَ مِنْ قَبْلِهِمْۜ وَلَدَارُ الْاٰخِرَةِ خَيْرٌ لِلَّذٖينَ اتَّقَوْاۜ اَفَلَا تَعْقِلُونَ",
+                       "meal":  "Senden önce de, şehirler halkından kendilerine vahyettiğimiz erkeklerden başkasını peygamber göndermedik. (Kâfirler) yeryüzünde hiç gezmediler mi ki, kendilerinden öncekilerin sonunun nasıl olduğunu görsünler! Sakınanlar için ahiret yurdu elbette daha iyidir. Hâla aklınızı kullanmıyor musunuz?",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1719,
+                       "verseNumber":  110,
+                       "arabic":  "حَتّٰٓى اِذَا اسْتَيْـَٔسَ الرُّسُلُ وَظَنُّٓوا اَنَّهُمْ قَدْ كُذِبُوا جَٓاءَهُمْ نَصْرُنَاۙ فَنُجِّىَ مَنْ نَشَٓاءُۜ وَلَا يُرَدُّ بَاْسُنَا عَنِ الْقَوْمِ الْمُجْرِمٖينَ",
+                       "meal":  "Nihayet peygamberler ümitlerini yitirip de kendilerinin yalana çıkarıldıklarını sandıkları sırada onlara yardımımız gelir ve dilediğimiz kimse kurtuluşa erdirilir. (Fakat) suçlular topluluğundan azabımız asla geri çevrilmez.",
+                       "page":  247,
+                       "juz":  13
+                   },
+                   {
+                       "id":  1720,
+                       "verseNumber":  111,
+                       "arabic":  "لَقَدْ كَانَ ف۪ي قَصَصِهِمْ عِبْرَةٌ لِاُو۬لِي الْاَلْبَابِۜ مَا كَانَ حَد۪يثًا يُفْتَرٰى وَلٰكِنْ تَصْد۪يقَ الَّذ۪ي بَيْنَ يَدَيْهِ وَتَفْص۪يلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+                       "meal":  "Andolsun onların (geçmiş peygamberler ve ümmetlerinin) kıssalarında akıl sahipleri için pek çok ibretler vardır. (Bu Kur\u0027an) uydurulabilecek bir söz değildir. Fakat o, kendinden öncekileri tasdik eden, her şeyi açıklayan (bir kitaptır)# iman eden toplum için bir rahmet ve bir hidayettir.",
+                       "page":  247,
+                       "juz":  13
+                   }
+               ]
+}

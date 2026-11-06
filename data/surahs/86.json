@@ -1,0 +1,149 @@
+﻿{
+    "surah":  {
+                  "surahId":  86,
+                  "name":  "Târık",
+                  "nameArabic":  "سُورَةُ الطَّارِقِ",
+                  "verseCount":  17,
+                  "page":  590,
+                  "juz":  30,
+                  "nameEn":  "At-Tariq"
+              },
+    "verses":  [
+                   {
+                       "id":  6019,
+                       "verseNumber":  1,
+                       "arabic":  "وَالسَّمَٓاءِ وَالطَّارِقِۙ",
+                       "meal":  "Gökyüzüne ve târıka (sabah yıldızına ) yemin ederim. Târıkın ne olduğunu nereden bileceksin? (O, karanlığı) delen yıldızdır. Hiç kimse yoktur ki üzerinde bir koruyucu, bir denetleyici bulunmasın.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6020,
+                       "verseNumber":  2,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا الطَّارِقُۙ",
+                       "meal":  "Gökyüzüne ve târıka (sabah yıldızına ) yemin ederim. Târıkın ne olduğunu nereden bileceksin? (O, karanlığı) delen yıldızdır. Hiç kimse yoktur ki üzerinde bir koruyucu, bir denetleyici bulunmasın.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6021,
+                       "verseNumber":  3,
+                       "arabic":  "اَلنَّجْمُ الثَّاقِبُۙ",
+                       "meal":  "Gökyüzüne ve târıka (sabah yıldızına ) yemin ederim. Târıkın ne olduğunu nereden bileceksin? (O, karanlığı) delen yıldızdır. Hiç kimse yoktur ki üzerinde bir koruyucu, bir denetleyici bulunmasın.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6022,
+                       "verseNumber":  4,
+                       "arabic":  "اِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌۜ",
+                       "meal":  "Gökyüzüne ve târıka (sabah yıldızına ) yemin ederim. Târıkın ne olduğunu nereden bileceksin? (O, karanlığı) delen yıldızdır. Hiç kimse yoktur ki üzerinde bir koruyucu, bir denetleyici bulunmasın.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6023,
+                       "verseNumber":  5,
+                       "arabic":  "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَۜ",
+                       "meal":  "İnsan neden yaratıldığına bir baksın! Atılan bir sudan yaratıldı. (O su) sırt ile göğüs kafesi arasından çıkar. İşte Allah (başlangıçta bu şekilde yarattığı) insanı tekrar yaratmaya da kadirdir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6024,
+                       "verseNumber":  6,
+                       "arabic":  "خُلِقَ مِنْ مَٓاءٍ دَافِقٍۙ",
+                       "meal":  "İnsan neden yaratıldığına bir baksın! Atılan bir sudan yaratıldı. (O su) sırt ile göğüs kafesi arasından çıkar. İşte Allah (başlangıçta bu şekilde yarattığı) insanı tekrar yaratmaya da kadirdir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6025,
+                       "verseNumber":  7,
+                       "arabic":  "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَٓائِبِۜ",
+                       "meal":  "İnsan neden yaratıldığına bir baksın! Atılan bir sudan yaratıldı. (O su) sırt ile göğüs kafesi arasından çıkar. İşte Allah (başlangıçta bu şekilde yarattığı) insanı tekrar yaratmaya da kadirdir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6026,
+                       "verseNumber":  8,
+                       "arabic":  "اِنَّهُ عَلٰى رَجْعِهٖ لَقَادِرٌۜ",
+                       "meal":  "İnsan neden yaratıldığına bir baksın! Atılan bir sudan yaratıldı. (O su) sırt ile göğüs kafesi arasından çıkar. İşte Allah (başlangıçta bu şekilde yarattığı) insanı tekrar yaratmaya da kadirdir.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6027,
+                       "verseNumber":  9,
+                       "arabic":  "يَوْمَ تُبْلَى السَّرَٓائِرُۙ",
+                       "meal":  "Gizlenenlerin ortaya döküldüğü günde insan için ne bir güç ne de bir yardımcı vardır.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6028,
+                       "verseNumber":  10,
+                       "arabic":  "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍۜ",
+                       "meal":  "Gizlenenlerin ortaya döküldüğü günde insan için ne bir güç ne de bir yardımcı vardır.",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6029,
+                       "verseNumber":  11,
+                       "arabic":  "وَالسَّمَٓاءِ ذَاتِ الرَّجْعِۙ",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6030,
+                       "verseNumber":  12,
+                       "arabic":  "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6031,
+                       "verseNumber":  13,
+                       "arabic":  "اِنَّهُ لَقَوْلٌ فَصْلٌۙ",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6032,
+                       "verseNumber":  14,
+                       "arabic":  "وَمَا هُوَ بِالْهَزْلِۜ",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6033,
+                       "verseNumber":  15,
+                       "arabic":  "اِنَّهُمْ يَكٖيدُونَ كَيْدًاۙ",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6034,
+                       "verseNumber":  16,
+                       "arabic":  "وَاَكٖيدُ كَيْدًاۚ",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6035,
+                       "verseNumber":  17,
+                       "arabic":  "فَمَهِّلِ الْكَافِر۪ينَ اَمْهِلْهُمْ رُوَيْدًا",
+                       "meal":  "Dönüş sahibi olan (yağmur yağdıran) göğe, (nebat ile) yarılan yere yemin ederim ki Kur\u0027an, (hak ile bâtılı) ayıran bir sözdür. O, asla bir şaka değildir. Onlar bir tuzak kurarlar, ben de bir tuzak kurarım. Kâfirlere mühlet ver, onları biraz kendi hallerine bırak (pek yakında desteğimiz sana gelecek).",
+                       "page":  590,
+                       "juz":  30
+                   }
+               ]
+}

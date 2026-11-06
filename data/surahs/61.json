@@ -1,0 +1,125 @@
+﻿{
+    "surah":  {
+                  "surahId":  61,
+                  "name":  "Saf",
+                  "nameArabic":  "سُورَةُ الصَّفِّ",
+                  "verseCount":  14,
+                  "page":  550,
+                  "juz":  28,
+                  "nameEn":  "As-Saf"
+              },
+    "verses":  [
+                   {
+                       "id":  5226,
+                       "verseNumber":  1,
+                       "arabic":  "سَبَّحَ لِلّٰهِ مَا فِى السَّمٰوَاتِ وَمَا فِى الْاَرْضِۚ وَهُوَ الْعَزٖيزُ الْحَكٖيمُ",
+                       "meal":  "Göklerde ve yerdekilerin hepsi Allah\u0027ı tesbih eder. O, üstündür, hikmet sahibidir.",
+                       "page":  550,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5227,
+                       "verseNumber":  2,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+                       "meal":  "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?",
+                       "page":  550,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5228,
+                       "verseNumber":  3,
+                       "arabic":  "كَبُرَ مَقْتًا عِنْدَ اللّٰهِ اَنْ تَقُولُوا مَا لَا تَفْعَلُونَ",
+                       "meal":  "Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir nefretle karşılanır.",
+                       "page":  550,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5229,
+                       "verseNumber":  4,
+                       "arabic":  "اِنَّ اللّٰهَ يُحِبُّ الَّذٖينَ يُقَاتِلُونَ فٖى سَبٖيلِهٖ صَفًّا كَاَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ",
+                       "meal":  "Allah, kendi yolunda kenetlenmiş bir yapı gibi saf bağlayarak savaşanları sever.",
+                       "page":  550,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5230,
+                       "verseNumber":  5,
+                       "arabic":  "وَاِذْ قَالَ مُوسٰى لِقَوْمِهٖ يَا قَوْمِ لِمَ تُؤْذُونَنٖى وَقَدْ تَعْلَمُونَ اَنّٖى رَسُولُ اللّٰهِ اِلَيْكُمْۜ فَلَمَّا زَاغُٓوا اَزَاغَ اللّٰهُ قُلُوبَهُمْۜ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفَاسِقٖينَ",
+                       "meal":  "Bir zaman Musa kavmine: Ey kavmim! Benim, Allah\u0027ın size gönderdiği elçisi olduğumu bildiğiniz halde niçin beni incitiyorsunuz? demişti. Onlar yoldan sapınca, Allah da kalplerini saptırmıştı. Allah, fâsıklar topluluğunu doğru yola iletmez.",
+                       "page":  550,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5231,
+                       "verseNumber":  6,
+                       "arabic":  "وَاِذْ قَالَ عٖيسَى ابْنُ مَرْيَمَ يَا بَنٖٓى اِسْرَٓاءٖيلَ اِنّٖى رَسُولُ اللّٰهِ اِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَىَّ مِنَ التَّوْرٰيةِ وَمُبَشِّرًا بِرَسُولٍ يَاْتٖى مِنْ بَعْدِى اسْمُهُٓ اَحْمَدُۜ فَلَمَّا جَٓاءَهُمْ بِالْبَيِّنَاتِ قَالُوا هٰذَا سِحْرٌ مُبٖينٌ",
+                       "meal":  "Hatırla ki, Meryem oğlu İsa: Ey İsrailoğulları! Ben size Allah\u0027ın elçisiyim, benden önce gelen Tevrat\u0027ı doğrulayıcı ve benden sonra gelecek Ahmed adında bir peygamberi de müjdeleyici olarak geldim, demişti. Fakat o, kendilerine açık deliller getirince: Bu apaçık bir büyüdür, dediler.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5232,
+                       "verseNumber":  7,
+                       "arabic":  "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعٰٓى اِلَى الْاِسْلَامِۜ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّالِمٖينَ",
+                       "meal":  "İslâm\u0027a çağırıldığı halde Allah\u0027a karşı yalan uydurandan daha zalim kim olabilir! Allah, zalimler topluluğunu doğru yola erdirmez.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5233,
+                       "verseNumber":  8,
+                       "arabic":  "يُرٖيدُونَ لِيُطْفِؤُ۫ا نُورَ اللّٰهِ بِاَفْوَاهِهِمْ وَاللّٰهُ مُتِمُّ نُورِهٖ وَلَوْ كَرِهَ الْكَافِرُونَ",
+                       "meal":  "Onlar ağızlarıyla Allah\u0027ın nûrunu söndürmek istiyorlar. Halbuki kâfirler istemeseler de Allah nûrunu tamamlayacaktır.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5234,
+                       "verseNumber":  9,
+                       "arabic":  "هُوَ الَّذٖٓى اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَدٖينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّٖينِ كُلِّهٖ وَلَوْ كَرِهَ الْمُشْرِكُونَ۟",
+                       "meal":  "Müşrikler istemeseler de dinini bütün dinlere üstün kılmak için Peygamberini hidayet ve hak ile gönderen O\u0027dur.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5235,
+                       "verseNumber":  10,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا هَلْ اَدُلُّكُمْ عَلٰى تِجَارَةٍ تُنْجٖيكُمْ مِنْ عَذَابٍ اَلٖيمٍ",
+                       "meal":  "Ey iman edenler! Sizi acı bir azaptan kurtaracak ticareti size göstereyim mi?",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5236,
+                       "verseNumber":  11,
+                       "arabic":  "تُؤْمِنُونَ بِاللّٰهِ وَرَسُولِهٖ وَتُجَاهِدُونَ فٖى سَبٖيلِ اللّٰهِ بِاَمْوَالِكُمْ وَاَنْفُسِكُمْۜ ذٰلِكُمْ خَيْرٌ لَكُمْ اِنْ كُنْتُمْ تَعْلَمُونَۙ",
+                       "meal":  "Allah\u0027a ve Resûlüne inanır, mallarınızla ve canlarınızla Allah yolunda cihad edersiniz. Eğer bilirseniz, bu sizin için daha hayırlıdır.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5237,
+                       "verseNumber":  12,
+                       "arabic":  "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرٖى مِنْ تَحْتِهَا الْاَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فٖى جَنَّاتِ عَدْنٍۜ ذٰلِكَ الْفَوْزُ الْعَظٖيمُۙ",
+                       "meal":  "İşte bu takdirde O, sizin günahlarınızı bağışlar, sizi zemininden ırmaklar akan cennetlere, Adn cennetlerindeki güzel meskenlere koyar. İşte en büyük kurtuluş budur.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5238,
+                       "verseNumber":  13,
+                       "arabic":  "وَاُخْرٰى تُحِبُّونَهَاۜ نَصْرٌ مِنَ اللّٰهِ وَفَتْحٌ قَرٖيبٌۜ وَبَشِّرِ الْمُؤْمِنٖينَ",
+                       "meal":  "Seveceğiniz başka bir şey daha var: Allah\u0027tan yardım ve yakın bir fetih. Müminleri (bunlarla) müjdele.",
+                       "page":  551,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5239,
+                       "verseNumber":  14,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا كُونُٓوا اَنْصَارَ اللّٰهِ كَمَا قَالَ عٖيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيّٖنَ مَنْ اَنْصَارٖٓى اِلَى اللّٰهِۜ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنْصَارُ اللّٰهِ فَاٰمَنَتْ طَٓائِفَةٌ مِنْ بَنٖٓى اِسْرَٓاءٖيلَ وَكَفَرَتْ طَٓائِفَةٌۚ فَاَيَّدْنَا الَّذٖينَ اٰمَنُوا عَلٰى عَدُوِّهِمْ فَاَصْبَحُوا ظَاهِرٖينَ",
+                       "meal":  "Ey iman edenler! Allah\u0027ın yardımcıları olun. Nitekim Meryem oğlu İsa havârîlere: Allah\u0027a (giden yolda) benim yardımcılarım kimdir? demişti. Havârîler de: Allah (yolunun) yardımcıları biziz, demişlerdi. İsrailoğullarından bir zümre inanmış, bir zümre de inkâr etmişti. Nihayet biz inananları, düşmanlarına karşı destekledik. Böylece üstün geldiler.",
+                       "page":  551,
+                       "juz":  28
+                   }
+               ]
+}

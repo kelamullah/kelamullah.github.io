@@ -1,0 +1,45 @@
+﻿{
+    "surah":  {
+                  "surahId":  112,
+                  "name":  "İhlâs",
+                  "nameArabic":  "سُورَةُ الْاِخْلَاصِ",
+                  "verseCount":  4,
+                  "page":  604,
+                  "juz":  30,
+                  "nameEn":  "Al-Ikhlas"
+              },
+    "verses":  [
+                   {
+                       "id":  6335,
+                       "verseNumber":  1,
+                       "arabic":  "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+                       "meal":  "De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6336,
+                       "verseNumber":  2,
+                       "arabic":  "اَللّٰهُ الصَّمَدُۚ",
+                       "meal":  "De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6337,
+                       "verseNumber":  3,
+                       "arabic":  "لَمْ يَلِدْ وَلَمْ يُولَدْۙ",
+                       "meal":  "De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.",
+                       "page":  604,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6338,
+                       "verseNumber":  4,
+                       "arabic":  "وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ",
+                       "meal":  "De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.",
+                       "page":  604,
+                       "juz":  30
+                   }
+               ]
+}

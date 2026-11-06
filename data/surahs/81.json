@@ -1,0 +1,245 @@
+﻿{
+    "surah":  {
+                  "surahId":  81,
+                  "name":  "Tekvîr",
+                  "nameArabic":  "سُورَةُ التَّكْوٖيرِ",
+                  "verseCount":  29,
+                  "page":  585,
+                  "juz":  30,
+                  "nameEn":  "At-Takwir"
+              },
+    "verses":  [
+                   {
+                       "id":  5883,
+                       "verseNumber":  1,
+                       "arabic":  "اِذَا الشَّمْسُ كُوِّرَتْۙۖ",
+                       "meal":  "Güneş katlanıp dürüldüğünde,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5884,
+                       "verseNumber":  2,
+                       "arabic":  "وَاِذَا النُّجُومُ انْكَدَرَتْۙۖ",
+                       "meal":  "Yıldızlar (kararıp) döküldüğünde,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5885,
+                       "verseNumber":  3,
+                       "arabic":  "وَاِذَا الْجِبَالُ سُيِّرَتْۙۖ",
+                       "meal":  "Dağlar (sallanıp) yürütüldüğünde,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5886,
+                       "verseNumber":  4,
+                       "arabic":  "وَاِذَا الْعِشَارُ عُطِّلَتْۙۖ",
+                       "meal":  "Gebe develer salıverildiğinde,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5887,
+                       "verseNumber":  5,
+                       "arabic":  "وَاِذَا الْوُحُوشُ حُشِرَتْۙۖ",
+                       "meal":  "Vahşî hayvanlar toplanıp bir araya getirildiğinde,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5888,
+                       "verseNumber":  6,
+                       "arabic":  "وَاِذَا الْبِحَارُ سُجِّرَتْۙۖ",
+                       "meal":  "Denizler kaynatıldığında,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5889,
+                       "verseNumber":  7,
+                       "arabic":  "وَاِذَا النُّفُوسُ زُوِّجَتْۙۖ",
+                       "meal":  "Ruhlar (bedenlerle) birleştirildiğinde,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5890,
+                       "verseNumber":  8,
+                       "arabic":  "وَاِذَا الْمَوْءُ۫دَةُ سُئِلَتْۙ",
+                       "meal":  "Diri diri toprağa gömülen kıza, hangi günah sebebiyle öldürüldüğü sorulduğunda,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5891,
+                       "verseNumber":  9,
+                       "arabic":  "بِاَىِّ ذَنْبٍ قُتِلَتْۚ",
+                       "meal":  "Diri diri toprağa gömülen kıza, hangi günah sebebiyle öldürüldüğü sorulduğunda,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5892,
+                       "verseNumber":  10,
+                       "arabic":  "وَاِذَا الصُّحُفُ نُشِرَتْۙۖ",
+                       "meal":  "(Amellerin yazılı olduğu) defterler açıldığında,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5893,
+                       "verseNumber":  11,
+                       "arabic":  "وَاِذَا السَّمَٓاءُ كُشِطَتْۙۖ",
+                       "meal":  "Gökyüzü sıyrılıp alındığında,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5894,
+                       "verseNumber":  12,
+                       "arabic":  "وَاِذَا الْجَحٖيمُ سُعِّرَتْۙۖ",
+                       "meal":  "Cehennem tutuşturulduğunda ve cennet yaklaştırıldığında,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5895,
+                       "verseNumber":  13,
+                       "arabic":  "وَاِذَا الْجَنَّةُ اُزْلِفَتْۙۖ",
+                       "meal":  "Cehennem tutuşturulduğunda ve cennet yaklaştırıldığında,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5896,
+                       "verseNumber":  14,
+                       "arabic":  "عَلِمَتْ نَفْسٌ مَٓا اَحْضَرَتْۜ",
+                       "meal":  "Kişi neler getirdiğini öğrenmiş olacaktır.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5897,
+                       "verseNumber":  15,
+                       "arabic":  "فَلَٓا اُقْسِمُ بِالْخُنَّسِۙ",
+                       "meal":  "Hayır! Akıp giden, bir kaybolup bir etrafı aydınlatan yıldızlara andolsun,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5898,
+                       "verseNumber":  16,
+                       "arabic":  "اَلْجَوَارِ الْكُنَّسِۙ",
+                       "meal":  "Hayır! Akıp giden, bir kaybolup bir etrafı aydınlatan yıldızlara andolsun,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5899,
+                       "verseNumber":  17,
+                       "arabic":  "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+                       "meal":  "Kararmaya yüz tuttuğunda geceye andolsun,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5900,
+                       "verseNumber":  18,
+                       "arabic":  "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+                       "meal":  "Ağarmaya başladığında sabaha andolsun ki,",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5901,
+                       "verseNumber":  19,
+                       "arabic":  "اِنَّهُ لَقَوْلُ رَسُولٍ كَرٖيمٍۙ",
+                       "meal":  "O (Kur\u0027an), şüphesiz değerli, güçlü ve Arş\u0027ın sahibi (Allah\u0027ın) katında itibarlı bir elçinin (Cebrail\u0027in) getirdiği sözdür.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5902,
+                       "verseNumber":  20,
+                       "arabic":  "ذٖى قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكٖينٍۙ",
+                       "meal":  "O (Kur\u0027an), şüphesiz değerli, güçlü ve Arş\u0027ın sahibi (Allah\u0027ın) katında itibarlı bir elçinin (Cebrail\u0027in) getirdiği sözdür.",
+                       "page":  585,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5903,
+                       "verseNumber":  21,
+                       "arabic":  "مُطَاعٍ ثَمَّ اَمٖينٍۜ",
+                       "meal":  "O orada sayılan, güvenilen (bir elçi) dir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5904,
+                       "verseNumber":  22,
+                       "arabic":  "وَمَا صَاحِبُكُمْ بِمَجْنُونٍۚ",
+                       "meal":  "Arkadaşınız (Muhammed) de mecnun değildir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5905,
+                       "verseNumber":  23,
+                       "arabic":  "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبٖينِۚ",
+                       "meal":  "Andolsun ki, onu (Cebrail\u0027i) apaçık ufukta görmüştür.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5906,
+                       "verseNumber":  24,
+                       "arabic":  "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنٖينٍۚ",
+                       "meal":  "O, gaybın bilgilerini (sizden) esirgemez.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5907,
+                       "verseNumber":  25,
+                       "arabic":  "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجٖيمٍۚ",
+                       "meal":  "O lânetlenmiş şeytanın sözü de değildir.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5908,
+                       "verseNumber":  26,
+                       "arabic":  "فَاَيْنَ تَذْهَبُونَۜ",
+                       "meal":  "Hal böyle iken nereye gidiyorsunuz?",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5909,
+                       "verseNumber":  27,
+                       "arabic":  "اِنْ هُوَ اِلَّا ذِكْرٌ لِلْعَالَمٖينَۙ",
+                       "meal":  "O, herkes için, sizden doğru yolda gitmek isteyenler için bir öğüttür.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5910,
+                       "verseNumber":  28,
+                       "arabic":  "لِمَنْ شَٓاءَ مِنْكُمْ اَنْ يَسْتَقٖيمَ",
+                       "meal":  "O, herkes için, sizden doğru yolda gitmek isteyenler için bir öğüttür.",
+                       "page":  586,
+                       "juz":  30
+                   },
+                   {
+                       "id":  5911,
+                       "verseNumber":  29,
+                       "arabic":  "وَمَا تَشَٓاؤُ۫نَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ رَبُّ الْعَالَمٖينَ",
+                       "meal":  "Âlemlerin Rabbi Allah dilemedikçe siz dileyemezsiniz.",
+                       "page":  586,
+                       "juz":  30
+                   }
+               ]
+}

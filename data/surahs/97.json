@@ -1,0 +1,53 @@
+﻿{
+    "surah":  {
+                  "surahId":  97,
+                  "name":  "Kadir",
+                  "nameArabic":  "سُورَةُ الْقَدْرِ",
+                  "verseCount":  5,
+                  "page":  598,
+                  "juz":  30,
+                  "nameEn":  "Al-Qadr"
+              },
+    "verses":  [
+                   {
+                       "id":  6224,
+                       "verseNumber":  1,
+                       "arabic":  "اِنَّٓا اَنْزَلْنَاهُ فٖى لَيْلَـةِ الْقَدْرِۚ",
+                       "meal":  "Biz onu (Kur\u0027an\u0027ı) Kadir gecesinde indirdik.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6225,
+                       "verseNumber":  2,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا لَيْلَـةُ الْقَدْرِۜ",
+                       "meal":  "Kadir gecesinin ne olduğunu sen bilir misin?",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6226,
+                       "verseNumber":  3,
+                       "arabic":  "لَيْلَـةُ الْقَدْرِ خَيْرٌ مِنْ اَلْفِ شَهْرٍۜ",
+                       "meal":  "Kadir gecesi, bin aydan hayırlıdır.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6227,
+                       "verseNumber":  4,
+                       "arabic":  "تَنَزَّلُ الْمَلٰٓئِكَةُ وَالرُّوحُ فٖيهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۙۛ",
+                       "meal":  "O gecede, Rablerinin izniyle melekler ve Ruh (Cebrail), her iş için iner dururlar.",
+                       "page":  598,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6228,
+                       "verseNumber":  5,
+                       "arabic":  "سَلَامٌ۠ۛ هِيَ حَتّٰى مَطْلَعِ الْفَجْرِ",
+                       "meal":  "O gece, esenlik doludur. Ta fecrin doğuşuna kadar.",
+                       "page":  598,
+                       "juz":  30
+                   }
+               ]
+}

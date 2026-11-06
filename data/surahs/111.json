@@ -1,0 +1,53 @@
+﻿{
+    "surah":  {
+                  "surahId":  111,
+                  "name":  "Tebbet",
+                  "nameArabic":  "سُورَةُ تَبَّتْ",
+                  "verseCount":  5,
+                  "page":  603,
+                  "juz":  30,
+                  "nameEn":  "Al-Masad"
+              },
+    "verses":  [
+                   {
+                       "id":  6329,
+                       "verseNumber":  1,
+                       "arabic":  "تَبَّتْ يَدَٓا اَبٖى لَهَبٍ وَتَبَّۜ",
+                       "meal":  "Ebu Leheb\u0027in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek).",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6330,
+                       "verseNumber":  2,
+                       "arabic":  "مَٓا اَغْنٰى عَنْهُ مَالُهُ وَمَا كَسَبَۜ",
+                       "meal":  "Ebu Leheb\u0027in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek).",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6331,
+                       "verseNumber":  3,
+                       "arabic":  "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۚ",
+                       "meal":  "Ebu Leheb\u0027in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek).",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6332,
+                       "verseNumber":  4,
+                       "arabic":  "وَامْرَاَتُهُۜ حَمَّالَةَ الْحَطَبِۚ",
+                       "meal":  "Ebu Leheb\u0027in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek).",
+                       "page":  603,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6333,
+                       "verseNumber":  5,
+                       "arabic":  "فٖى جٖيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+                       "meal":  "Ebu Leheb\u0027in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek).",
+                       "page":  603,
+                       "juz":  30
+                   }
+               ]
+}

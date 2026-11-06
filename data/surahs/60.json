@@ -1,0 +1,117 @@
+﻿{
+    "surah":  {
+                  "surahId":  60,
+                  "name":  "Mümtehine",
+                  "nameArabic":  "سُورَةُ الْمُمْتَحِنَةِ",
+                  "verseCount":  13,
+                  "page":  548,
+                  "juz":  28,
+                  "nameEn":  "Al-Mumtahanah"
+              },
+    "verses":  [
+                   {
+                       "id":  5212,
+                       "verseNumber":  1,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا لَا تَتَّخِذُوا عَدُوّٖى وَعَدُوَّكُمْ اَوْلِيَٓاءَ تُلْقُونَ اِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَٓاءَكُمْ مِنَ الْحَقِّۚ يُخْرِجُونَ الرَّسُولَ وَاِيَّاكُمْ اَنْ تُؤْمِنُوا بِاللّٰهِ رَبِّكُمْۜ اِنْ كُنْتُمْ خَرَجْتُمْ جِهَادًا فٖى سَبٖيلٖى وَابْتِغَٓاءَ مَرْضَاتٖى تُسِرُّونَ اِلَيْهِمْ بِالْمَوَدَّةِۗ وَاَنَا۬ اَعْلَمُ بِمَٓا اَخْفَيْتُمْ وَمَٓا اَعْلَنْتُمْۜ وَمَنْ يَفْعَلْهُ مِنْكُمْ فَقَدْ ضَلَّ سَوَٓاءَ السَّبٖيلِ",
+                       "meal":  "Ey iman edenler! Eğer benim yolumda savaşmak ve rızamı kazanmak için çıkmışsanız, benim de düşmanım, sizin de düşmanınız olanlara sevgi göstererek, gizli muhabbet besleyerek onları dost edinmeyin. Oysa onlar, size gelen gerçeği inkâr etmişlerdir. Rabbiniz Allah\u0027a inandığınızdan dolayı Peygamber\u0027i de sizi de yurdunuzdan çıkarıyorlar. Ben, sizin saklı tuttuğunuzu da, açığa vurduğunuzu da en iyi bilenim. Sizden kim bunu yaparsa (onları dost edinirse) doğru yoldan sapmış olur.",
+                       "page":  548,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5213,
+                       "verseNumber":  2,
+                       "arabic":  "اِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ اَعْدَٓاءً وَيَبْسُطُٓوا اِلَيْكُمْ اَيْدِيَهُمْ وَاَلْسِنَتَهُمْ بِالسُّٓوءِ وَوَدُّوا لَوْ تَكْفُرُونَۜ",
+                       "meal":  "Şayet onlar sizi ele geçirirlerse, size düşman kesilecekler, size ellerini ve dillerini kötülükle uzatacaklardır. Zaten inkâr edivermenizi istemektedirler.",
+                       "page":  548,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5214,
+                       "verseNumber":  3,
+                       "arabic":  "لَنْ تَنْفَعَكُمْ اَرْحَامُكُمْ وَلَٓا اَوْلَادُكُمْۚۛ يَوْمَ الْقِيٰمَةِۚۛ يَفْصِلُ بَيْنَكُمْۜ وَاللّٰهُ بِمَا تَعْمَلُونَ بَصٖيرٌ",
+                       "meal":  "Kıyamet günü yakınlarınız ve çocuklarınız size fayda vermezler. Çünkü Allah aranızı ayırır. Allah, yaptıklarınızı görendir.",
+                       "page":  548,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5215,
+                       "verseNumber":  4,
+                       "arabic":  "قَدْ كَانَتْ لَكُمْ اُسْوَةٌ حَسَنَةٌ فٖٓى اِبْرٰهٖيمَ وَ‏الَّذٖينَ مَعَهُۚ اِذْ قَالُوا لِقَوْمِهِمْ اِنَّا بُرَءٰٓؤُ۬ا مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللّٰهِؗ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَٓاءُ اَبَدًا حَتّٰى تُؤْمِنُوا بِاللّٰهِ وَحْدَهُٓ اِلَّا قَوْلَ اِبْرٰهٖيمَ لِاَبٖيهِ لَاَسْتَغْفِرَنَّ لَكَ وَمَٓا اَمْلِكُ لَكَ مِنَ اللّٰهِ مِنْ شَىْءٍۜ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَاِلَيْكَ اَنَبْنَا وَاِلَيْكَ الْمَصٖيرُ",
+                       "meal":  "İbrahim\u0027de ve onunla beraber olanlarda, sizin için gerçekten güzel bir örnek vardır. Onlar kavimlerine demişlerdi ki: «Biz sizden ve Allah\u0027ı bırakıp taptıklarınızdan uzağız. Sizi tanımıyoruz. Siz bir tek Allah\u0027a inanıncaya kadar, sizinle bizim aramızda sürekli bir düşmanlık ve öfke belirmiştir.» Şu kadar var ki, İbrahim babasına: «Andolsun senin için mağfiret dileyeceğim. Fakat Allah\u0027tan sana gelecek herhangi bir şeyi önlemeye gücüm yetmez» demişti. (O müminler şöyle dediler:) Rabbimiz! Ancak sana dayandık, sana yöneldik. Dönüş de ancak sanadır.",
+                       "page":  548,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5216,
+                       "verseNumber":  5,
+                       "arabic":  "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذٖينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَاۚ اِنَّكَ اَنْتَ الْعَزٖيزُ الْحَكٖيمُ",
+                       "meal":  "Rabbimiz! Bizi, inkâr edenler için deneme konusu kılma, bizi bağışla! Ey Rabbimiz! Yegâne galip ve hikmet sahibi, ancak sensin.",
+                       "page":  548,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5217,
+                       "verseNumber":  6,
+                       "arabic":  "لَقَدْ كَانَ لَكُمْ فٖيهِمْ اُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُوا اللّٰهَ وَالْيَوْمَ الْاٰخِرَۜ وَمَنْ يَتَوَلَّ فَاِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمٖيدُ۟",
+                       "meal":  "Andolsun, onlar sizin için, Allah\u0027ı ve ahiret gününü arzu edenler için güzel bir örnektir. Kim yüz çevirirse şüphesiz Allah, zengindir, hamde lâyık olandır.",
+                       "page":  549,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5218,
+                       "verseNumber":  7,
+                       "arabic":  "عَسَى اللّٰهُ اَنْ يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذٖينَ عَادَيْتُمْ مِنْهُمْ مَوَدَّةًۜ وَاللّٰهُ قَدٖيرٌۜ وَاللّٰهُ غَفُورٌ رَحٖيمٌ",
+                       "meal":  "Olur ki Allah sizinle düşman olduklarınız arasında yakında bir dostluk meydana getirir. Allah gücü yetendir. Allah çok bağışlayan, çok esirgeyendir.",
+                       "page":  549,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5219,
+                       "verseNumber":  8,
+                       "arabic":  "لَا يَنْهٰكُمُ اللّٰهُ عَنِ الَّذٖينَ لَمْ يُقَاتِلُوكُمْ فِى الدّٖينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ اَنْ تَبَرُّوهُمْ وَتُقْسِطُٓوا اِلَيْهِمْۜ اِنَّ اللّٰهَ يُحِبُّ الْمُقْسِطٖينَ",
+                       "meal":  "Allah, sizinle din uğrunda savaşmayan ve sizi yurtlarınızdan çıkarmayanlara iyilik yapmanızı ve onlara âdil davranmanızı yasaklamaz. Çünkü Allah, adaletli olanları sever.",
+                       "page":  549,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5220,
+                       "verseNumber":  9,
+                       "arabic":  "اِنَّمَا يَنْهٰيكُمُ اللّٰهُ عَنِ الَّذٖينَ قَاتَلُوكُمْ فِى الدّٖينِ وَاَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلٰٓى اِخْرَاجِكُمْ اَنْ تَوَلَّوْهُمْۚ وَمَنْ يَتَوَلَّهُمْ فَاُو۬لٰٓئِكَ هُمُ الظَّالِمُونَ",
+                       "meal":  "Allah, yalnız sizinle din uğrunda savaşanları, sizi yurtlarınızdan çıkaranları ve çıkarılmanız için onlara yardım edenleri dost edinmenizi yasaklar. Kim onlarla dost olursa işte zalimler onlardır.",
+                       "page":  549,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5221,
+                       "verseNumber":  10,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِذَا جَٓاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّۜ اَللّٰهُ اَعْلَمُ بِاٖيمَانِهِنَّۚ فَاِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ اِلَى الْكُفَّارِۜ لَا هُنَّ حِلٌّ لَهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّۜ وَاٰتُوهُمْ مَٓا اَنْفَقُواۜ وَلَا جُنَاحَ عَلَيْكُمْ اَنْ تَنْكِحُوهُنَّ اِذَٓا اٰتَيْتُمُوهُنَّ اُجُورَهُنَّۜ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَسْـَٔلُوا مَٓا اَنْفَقْتُمْ وَلْيَسْـَٔلُوا مَٓا اَنْفَقُواۜ ذٰلِكُمْ حُكْمُ اللّٰهِۜ يَحْكُمُ بَيْنَكُمْۜ وَاللّٰهُ عَلٖيمٌ حَكٖيمٌ",
+                       "meal":  "Ey iman edenler! Mümin kadınlar hicret ederek size geldiği zaman, onları, imtihan edin. Allah onların imanlarını daha iyi bilir. Eğer siz de onların inanmış kadınlar olduklarını öğrenirseniz onları kâfirlere geri göndermeyin. Bunlar onlara helâl değildir. Onlar da bunlara helâl olmazlar. Onların (kocalarının) sarfettiklerini (mehirleri) geri verin. Mehirlerini kendilerine verdiğiniz zaman onlarla evlenmenizde size bir günah yoktur. Kâfir kadınları nikâhınızda tutmayın, sarfettiğinizi isteyin. Onlar da sarfettiklerini istesinler. Allah\u0027ın hükmü budur. Aranızda O hükmeder. Allah bilendir, hikmet sahibidir.",
+                       "page":  549,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5222,
+                       "verseNumber":  11,
+                       "arabic":  "وَاِنْ فَاتَكُمْ شَىْءٌ مِنْ اَزْوَاجِكُمْ اِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَاٰتُوا الَّذٖينَ ذَهَبَتْ اَزْوَاجُهُمْ مِثْلَ مَٓا اَنْفَقُواۜ وَاتَّقُوا اللّٰهَ الَّذٖٓى اَنْتُمْ بِهٖ مُؤْمِنُونَ",
+                       "meal":  "Eğer eşlerinizden biri, sizi bırakıp kâfirlere kaçar, siz de (onlarla savaşıp) galip gelirseniz, eşleri gitmiş olanlara (ganimetten), harcadıkları kadar verin. İnandığınız Allah\u0027a karşı gelmekten sakının.",
+                       "page":  549,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5223,
+                       "verseNumber":  12,
+                       "arabic":  "يَٓا اَيُّهَا النَّبِىُّ اِذَا جَٓاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلٰٓى اَنْ لَا يُشْرِكْنَ بِاللّٰهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنٖينَ وَلَا يَقْتُلْنَ اَوْلَادَهُنَّ وَلَا يَاْتٖينَ بِبُهْتَانٍ يَفْتَرٖينَهُ بَيْنَ اَيْدٖيهِنَّ وَاَرْجُلِهِنَّ وَلَا يَعْصٖينَكَ فٖى مَعْرُوفٍ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللّٰهَۜ اِنَّ اللّٰهَ غَفُورٌ رَحٖيمٌ",
+                       "meal":  "Ey Peygamber! İnanmış kadınlar, Allah\u0027a hiçbir şeyi ortak koşmamak, hırsızlık yapmamak, zina etmemek, çocuklarını öldürmemek, elleriyle ayakları arasında bir iftira uydurup getirmemek, iyi işi işlemekte sana karşı gelmemek hususunda sana biat etmeye geldikleri zaman, biatlarını kabul et ve onlar için Allah\u0027tan mağfiret dile. Şüphesiz Allah, çok bağışlayandır, çok esirgeyendir.",
+                       "page":  550,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5224,
+                       "verseNumber":  13,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا لَا تَتَوَلَّوْا قَوْمًا غَضِبَ اللّٰهُ عَلَيْهِمْ قَدْ يَئِسُوا مِنَ الْاٰخِرَةِ كَمَا يَئِسَ الْكُفَّارُ مِنْ اَصْحَابِ الْقُبُورِ",
+                       "meal":  "Ey iman edenler! Kendilerine Allah\u0027ın gazap ettiği bir kavmi dost edinmeyin. Zira onlar, kâfirlerin kabirlerdekilerden(onların dirilmesinden) ümit kestikleri gibi ahiretten ümit kesmişlerdir.",
+                       "page":  550,
+                       "juz":  28
+                   }
+               ]
+}

@@ -1,0 +1,461 @@
+﻿{
+    "surah":  {
+                  "surahId":  74,
+                  "name":  "Müddessir",
+                  "nameArabic":  "سُورَةُ الْمُدَّثِّرِ",
+                  "verseCount":  56,
+                  "page":  574,
+                  "juz":  29,
+                  "nameEn":  "Al-Muddaththir"
+              },
+    "verses":  [
+                   {
+                       "id":  5571,
+                       "verseNumber":  1,
+                       "arabic":  "يَٓا اَيُّهَا الْمُدَّثِّرُۙ",
+                       "meal":  "Ey bürünüp sarınan (Resûlüm)!",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5572,
+                       "verseNumber":  2,
+                       "arabic":  "قُمْ فَاَنْذِرْۙ",
+                       "meal":  "Kalk, ve (insanları) uyar.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5573,
+                       "verseNumber":  3,
+                       "arabic":  "وَرَبَّكَ فَكَبِّرْۙ",
+                       "meal":  "Sadece Rabbini büyük tanı.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5574,
+                       "verseNumber":  4,
+                       "arabic":  "وَثِيَابَكَ فَطَهِّرْۙ",
+                       "meal":  "Elbiseni tertemiz tut.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5575,
+                       "verseNumber":  5,
+                       "arabic":  "وَالرُّجْزَ فَاهْجُرْۙ",
+                       "meal":  "Kötü şeyleri terket.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5576,
+                       "verseNumber":  6,
+                       "arabic":  "وَلَا تَمْنُنْ تَسْتَكْثِرُۙ",
+                       "meal":  "Yaptığın iyiliği çok görerek başa kakma.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5577,
+                       "verseNumber":  7,
+                       "arabic":  "وَلِرَبِّكَ فَاصْبِرْۜ",
+                       "meal":  "Rabbinin rızasına ermek için sabret.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5578,
+                       "verseNumber":  8,
+                       "arabic":  "فَاِذَا نُقِرَ فِى النَّاقُورِۙ",
+                       "meal":  "O Sûr\u0027a üfürüldüğü zaman var ya,",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5579,
+                       "verseNumber":  9,
+                       "arabic":  "فَذٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسٖيرٌۙ",
+                       "meal":  "İşte o gün zorlu bir gündür.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5580,
+                       "verseNumber":  10,
+                       "arabic":  "عَلَى الْكَافِرٖينَ غَيْرُ يَسٖيرٍ",
+                       "meal":  "Kâfirler için (hiç de) kolay değildir.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5581,
+                       "verseNumber":  11,
+                       "arabic":  "ذَرْنٖى وَمَنْ خَلَقْتُ وَحٖيدًاۙ",
+                       "meal":  "Tek olarak yaratıp, kendisine geniş servet ve gözü önünde duran oğullar verdiğim, kendisi için (nimetleri önüne) serdikçe serdiğim o kimseyi bana bırak!",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5582,
+                       "verseNumber":  12,
+                       "arabic":  "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًاۙ",
+                       "meal":  "Tek olarak yaratıp, kendisine geniş servet ve gözü önünde duran oğullar verdiğim, kendisi için (nimetleri önüne) serdikçe serdiğim o kimseyi bana bırak!",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5583,
+                       "verseNumber":  13,
+                       "arabic":  "وَبَنٖينَ شُهُودًاۙ",
+                       "meal":  "Tek olarak yaratıp, kendisine geniş servet ve gözü önünde duran oğullar verdiğim, kendisi için (nimetleri önüne) serdikçe serdiğim o kimseyi bana bırak!",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5584,
+                       "verseNumber":  14,
+                       "arabic":  "وَمَهَّدْتُ لَهُ تَمْهٖيدًاۙ",
+                       "meal":  "Tek olarak yaratıp, kendisine geniş servet ve gözü önünde duran oğullar verdiğim, kendisi için (nimetleri önüne) serdikçe serdiğim o kimseyi bana bırak!",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5585,
+                       "verseNumber":  15,
+                       "arabic":  "ثُمَّ يَطْمَعُ اَنْ اَزٖيدَۗ",
+                       "meal":  "Üstelik o (nimetlerimi) daha da arttırmamı umuyor.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5586,
+                       "verseNumber":  16,
+                       "arabic":  "كَلَّاۜ اِنَّهُ كَانَ لِاٰيَاتِنَا عَنٖيدًاۜ",
+                       "meal":  "Asla (ummasın)! Çünkü o, bizim âyetlerimize karşı alabildiğine inatçıdır.",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5587,
+                       "verseNumber":  17,
+                       "arabic":  "سَاُرْهِقُهُ صَعُودًاۜ",
+                       "meal":  "Ben onu sarp bir yokuşa sardıracağım!",
+                       "page":  574,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5588,
+                       "verseNumber":  18,
+                       "arabic":  "اِنَّهُ فَكَّرَ وَقَدَّرَۙ",
+                       "meal":  "Zira o, düşündü taşındı, ölçtü biçti.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5589,
+                       "verseNumber":  19,
+                       "arabic":  "فَقُتِلَ كَيْفَ قَدَّرَۙ",
+                       "meal":  "Canı çıkasıca, ne biçim ölçtü biçti!",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5590,
+                       "verseNumber":  20,
+                       "arabic":  "ثُمَّ قُتِلَ كَيْفَ قَدَّرَۙ",
+                       "meal":  "Sonra, canı çıkasıca tekrar (ölçtü biçti)# nasıl ölçtü biçtiyse!",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5591,
+                       "verseNumber":  21,
+                       "arabic":  "ثُمَّ نَظَرَۙ",
+                       "meal":  "Sonra baktı. Sonra kaşlarını çattı, suratını astı. En sonunda, kibirini yenemeyip sırt çevirdi de: «Bu (Kur\u0027an) dedi, olsa olsa (sihirbazlardan öğrenilip) nakledilen bir sihirdir. Bu, insan sözünden başka bir şey değil.»",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5592,
+                       "verseNumber":  22,
+                       "arabic":  "ثُمَّ عَبَسَ وَبَسَرَۙ",
+                       "meal":  "Sonra baktı. Sonra kaşlarını çattı, suratını astı. En sonunda, kibirini yenemeyip sırt çevirdi de: «Bu (Kur\u0027an) dedi, olsa olsa (sihirbazlardan öğrenilip) nakledilen bir sihirdir. Bu, insan sözünden başka bir şey değil.»",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5593,
+                       "verseNumber":  23,
+                       "arabic":  "ثُمَّ اَدْبَرَ وَاسْتَكْبَرَۙ",
+                       "meal":  "Sonra baktı. Sonra kaşlarını çattı, suratını astı. En sonunda, kibirini yenemeyip sırt çevirdi de: «Bu (Kur\u0027an) dedi, olsa olsa (sihirbazlardan öğrenilip) nakledilen bir sihirdir. Bu, insan sözünden başka bir şey değil.»",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5594,
+                       "verseNumber":  24,
+                       "arabic":  "فَقَالَ اِنْ هٰذَٓا اِلَّا سِحْرٌ يُؤْثَرُۙ",
+                       "meal":  "Sonra baktı. Sonra kaşlarını çattı, suratını astı. En sonunda, kibirini yenemeyip sırt çevirdi de: «Bu (Kur\u0027an) dedi, olsa olsa (sihirbazlardan öğrenilip) nakledilen bir sihirdir. Bu, insan sözünden başka bir şey değil.»",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5595,
+                       "verseNumber":  25,
+                       "arabic":  "اِنْ هٰذَٓا اِلَّا قَوْلُ الْبَشَرِۜ",
+                       "meal":  "Sonra baktı. Sonra kaşlarını çattı, suratını astı. En sonunda, kibirini yenemeyip sırt çevirdi de: «Bu (Kur\u0027an) dedi, olsa olsa (sihirbazlardan öğrenilip) nakledilen bir sihirdir. Bu, insan sözünden başka bir şey değil.»",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5596,
+                       "verseNumber":  26,
+                       "arabic":  "سَاُصْلٖيهِ سَقَرَ",
+                       "meal":  "Ben onu sekara (cehenneme) sokacağım.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5597,
+                       "verseNumber":  27,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا سَقَرُۜ",
+                       "meal":  "Sen biliyor musun sekar nedir?",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5598,
+                       "verseNumber":  28,
+                       "arabic":  "لَا تُبْقٖى وَلَا تَذَرُۚ",
+                       "meal":  "Hem (bütün bedeni helâk eder, hiçbir şey) bırakmaz, hem (eski hale getirip tekrar azap etmekten) vazgeçmez o.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5599,
+                       "verseNumber":  29,
+                       "arabic":  "لَوَّاحَةٌ لِلْبَشَرِۚ",
+                       "meal":  "İnsanın derisini kavurur.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5600,
+                       "verseNumber":  30,
+                       "arabic":  "عَلَيْهَا تِسْعَةَ عَشَرَۜ",
+                       "meal":  "Üzerinde ondokuz (muhafız melek) vardır.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5601,
+                       "verseNumber":  31,
+                       "arabic":  "وَمَا جَعَلْنَٓا اَصْحَابَ النَّارِ اِلَّا مَلٰٓئِكَةًۖ وَمَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةً لِلَّذٖينَ كَفَرُواۙ لِيَسْتَيْقِنَ الَّذٖينَ اُو۫تُوا الْكِتَابَ وَيَزْدَادَ الَّذٖينَ اٰمَنُٓوا اٖيمَانًا وَلَا يَرْتَابَ الَّذٖينَ اُو۫تُوا الْكِتَابَ وَالْمُؤْمِنُونَۙ وَلِيَقُولَ الَّذٖينَ فٖى قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَٓا اَرَادَ اللّٰهُ بِهٰذَا مَثَلًاۜ كَذٰلِكَ يُضِلُّ اللّٰهُ مَنْ يَشَٓاءُ وَيَهْدٖى مَنْ يَشَٓاءُۜ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ اِلَّا هُوَۜ وَمَا هِىَ اِلَّا ذِكْرٰى لِلْبَشَرِ۟",
+                       "meal":  "Biz cehennemin işlerine bakmakla ancak melekleri görevlendirmişizdir. Onların sayısını da inkârcılar için sadece bir imtihan (vesilesi) yaptık ki, böylelikle, kendilerine kitap verilenler iyiden iyiye öğrensin, iman edenlerin imanını arttırsın# hem kendilerine kitap verilenler hem müminler şüpheye düşmesinler, kalplerinde hastalık bulunanlar ve kâfirler de: «Allah bu misalle ne demek istemiştir ki?» desinler. İşte Allah böylece, dilediğini sapıklıkta bırakır, dilediğini doğru yola eriştirir. Rabbinin ordularını, kendisinden başkası bilmez. Bu ise, insanlık için ancak bir öğüttür.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5602,
+                       "verseNumber":  32,
+                       "arabic":  "كَلَّا وَالْقَمَرِۙ",
+                       "meal":  "Hayır hayır (öğüt almazlar). Aya andolsun ki,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5603,
+                       "verseNumber":  33,
+                       "arabic":  "وَالَّيْلِ اِذْ اَدْبَرَۙ",
+                       "meal":  "Dönüp gitmekte olan geceye,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5604,
+                       "verseNumber":  34,
+                       "arabic":  "وَالصُّبْحِ اِذَٓا اَسْفَرَۙ",
+                       "meal":  "Ağarmakta olan sabaha andolsun ki,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5605,
+                       "verseNumber":  35,
+                       "arabic":  "اِنَّهَا لَاِحْدَى الْكُبَرِۙ",
+                       "meal":  "O (cehennem), insanlık için, sizden ileri gitmek ya da geri kalmak isteyen kimseler için büyük uyarıcı musibetlerden biridir.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5606,
+                       "verseNumber":  36,
+                       "arabic":  "نَذٖيرًا لِلْبَشَرِۙ",
+                       "meal":  "O (cehennem), insanlık için, sizden ileri gitmek ya da geri kalmak isteyen kimseler için büyük uyarıcı musibetlerden biridir.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5607,
+                       "verseNumber":  37,
+                       "arabic":  "لِمَنْ شَٓاءَ مِنْكُمْ اَنْ يَتَقَدَّمَ اَوْ يَتَاَخَّرَۜ",
+                       "meal":  "O (cehennem), insanlık için, sizden ileri gitmek ya da geri kalmak isteyen kimseler için büyük uyarıcı musibetlerden biridir.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5608,
+                       "verseNumber":  38,
+                       "arabic":  "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهٖينَةٌۙ",
+                       "meal":  "Her nefis, kazandığına karşılık bir rehindir#",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5609,
+                       "verseNumber":  39,
+                       "arabic":  "اِلَّٓا اَصْحَابَ الْيَمٖينِۜۛ",
+                       "meal":  "Ancak sağdakiler başka.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5610,
+                       "verseNumber":  40,
+                       "arabic":  "فٖى جَنَّاتٍۜۛ يَتَسَٓاءَلُونَۙ",
+                       "meal":  "Onlar cennetler içindedir. Günahkârlara: Sizi şu yakıcı ateşe sokan nedir? diye uzaktan uzağa sorarlar.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5611,
+                       "verseNumber":  41,
+                       "arabic":  "عَنِ الْمُجْرِمٖينَۙ",
+                       "meal":  "Onlar cennetler içindedir. Günahkârlara: Sizi şu yakıcı ateşe sokan nedir? diye uzaktan uzağa sorarlar.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5612,
+                       "verseNumber":  42,
+                       "arabic":  "مَا سَلَكَكُمْ فٖى سَقَرَ",
+                       "meal":  "Onlar cennetler içindedir. Günahkârlara: Sizi şu yakıcı ateşe sokan nedir? diye uzaktan uzağa sorarlar.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5613,
+                       "verseNumber":  43,
+                       "arabic":  "قَالُوا لَمْ نَكُ مِنَ الْمُصَلّٖينَۙ",
+                       "meal":  "Onlar şöyle cevap verirler: Biz namaz kılanlardan değildik,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5614,
+                       "verseNumber":  44,
+                       "arabic":  "وَلَمْ نَكُ نُطْعِمُ الْمِسْكٖينَۙ",
+                       "meal":  "Yoksulu doyurmuyorduk,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5615,
+                       "verseNumber":  45,
+                       "arabic":  "وَكُنَّا نَخُوضُ مَعَ الْخَٓائِضٖينَۙ",
+                       "meal":  "(Bâtıla) dalanlarla birlikte dalıyorduk,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5616,
+                       "verseNumber":  46,
+                       "arabic":  "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدّٖينِۙ",
+                       "meal":  "Ceza gününü de yalan sayıyorduk,",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5617,
+                       "verseNumber":  47,
+                       "arabic":  "حَتّٰٓى اَتٰينَا الْيَقٖينُۜ",
+                       "meal":  "Sonunda bize ölüm geldi çattı.",
+                       "page":  575,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5618,
+                       "verseNumber":  48,
+                       "arabic":  "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعٖينَۜ",
+                       "meal":  "Artık şefaatçilerin şefaati onlara fayda vermez.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5619,
+                       "verseNumber":  49,
+                       "arabic":  "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضٖينَۙ",
+                       "meal":  "Böyle iken onlara ne oluyor ki, âdeta arslandan ürküp kaçan yaban eşekleri gibi (hâla) öğütten yüz çeviriyorlar?",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5620,
+                       "verseNumber":  50,
+                       "arabic":  "كَاَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌۙ",
+                       "meal":  "Böyle iken onlara ne oluyor ki, âdeta arslandan ürküp kaçan yaban eşekleri gibi (hâla) öğütten yüz çeviriyorlar?",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5621,
+                       "verseNumber":  51,
+                       "arabic":  "فَرَّتْ مِنْ قَسْوَرَةٍۜ",
+                       "meal":  "Böyle iken onlara ne oluyor ki, âdeta arslandan ürküp kaçan yaban eşekleri gibi (hâla) öğütten yüz çeviriyorlar?",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5622,
+                       "verseNumber":  52,
+                       "arabic":  "بَلْ يُرٖيدُ كُلُّ امْرِئٍ مِنْهُمْ اَنْ يُؤْتٰى صُحُفًا مُنَشَّرَةًۙ",
+                       "meal":  "Daha doğrusu onlardan her biri, kendisine, (önünde) açılmış sahifeler (ilâhî vahiy) verilmesini istiyor.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5623,
+                       "verseNumber":  53,
+                       "arabic":  "كَلَّاۜ بَلْ لَا يَخَافُونَ الْاٰخِرَةَۜ",
+                       "meal":  "Hayır! Aslında onlar ahiretten korkmuyorlar.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5624,
+                       "verseNumber":  54,
+                       "arabic":  "كَلَّٓا اِنَّهُ تَذْكِرَةٌۚ",
+                       "meal":  "Asla (düşündükleri gibi değil)! Bilsinler ki bu, gerçekten bir ikazdır!",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5625,
+                       "verseNumber":  55,
+                       "arabic":  "فَمَنْ شَٓاءَ ذَكَرَهُۜ",
+                       "meal":  "Dileyen ondan (düşünüp) öğüt alır.",
+                       "page":  576,
+                       "juz":  29
+                   },
+                   {
+                       "id":  5626,
+                       "verseNumber":  56,
+                       "arabic":  "وَمَا يَذْكُرُونَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُۜ هُوَ اَهْلُ التَّقْوٰى وَاَهْلُ الْمَغْفِرَةِ",
+                       "meal":  "Bununla beraber, Allah dilemeksizin onlar öğüt alamazlar. Sakınılmaya lâyık olan da O\u0027dur, mağfiret sahibi de O\u0027dur.",
+                       "page":  576,
+                       "juz":  29
+                   }
+               ]
+}

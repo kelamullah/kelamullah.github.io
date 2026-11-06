@@ -1,0 +1,77 @@
+﻿{
+    "surah":  {
+                  "surahId":  102,
+                  "name":  "Tekâsür",
+                  "nameArabic":  "سُورَةُ التَّكَاثُرِ",
+                  "verseCount":  8,
+                  "page":  600,
+                  "juz":  30,
+                  "nameEn":  "At-Takathur"
+              },
+    "verses":  [
+                   {
+                       "id":  6272,
+                       "verseNumber":  1,
+                       "arabic":  "اَلْهٰيكُمُ التَّكَاثُرُۙ",
+                       "meal":  "Çokluk kuruntusu sizi o derece oyaladı ki, nihayet kabirleri ziyaret ettiniz.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6273,
+                       "verseNumber":  2,
+                       "arabic":  "حَتّٰى زُرْتُمُ الْمَقَابِرَۜ",
+                       "meal":  "Çokluk kuruntusu sizi o derece oyaladı ki, nihayet kabirleri ziyaret ettiniz.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6274,
+                       "verseNumber":  3,
+                       "arabic":  "كَلَّا سَوْفَ تَعْلَمُونَۙ",
+                       "meal":  "Hayır! Yakında bileceksiniz! Elbette yakında bileceksiniz!",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6275,
+                       "verseNumber":  4,
+                       "arabic":  "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۜ",
+                       "meal":  "Hayır! Yakında bileceksiniz! Elbette yakında bileceksiniz!",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6276,
+                       "verseNumber":  5,
+                       "arabic":  "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقٖينِۜ",
+                       "meal":  "Gerçek öyle değil! Kesin bilgi ile bilmiş olsaydınız, (orada) mutlaka cehennem ateşini görürdünüz. Sonra ahirette onu çıplak gözle göreceksiniz. Nihayet o gün (dünyada yararlandığınız) nimetlerden elbette ve elbette hesaba çekileceksiniz.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6277,
+                       "verseNumber":  6,
+                       "arabic":  "لَتَرَوُنَّ الْجَحٖيمَۙ",
+                       "meal":  "Gerçek öyle değil! Kesin bilgi ile bilmiş olsaydınız, (orada) mutlaka cehennem ateşini görürdünüz. Sonra ahirette onu çıplak gözle göreceksiniz. Nihayet o gün (dünyada yararlandığınız) nimetlerden elbette ve elbette hesaba çekileceksiniz.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6278,
+                       "verseNumber":  7,
+                       "arabic":  "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقٖينِۙ",
+                       "meal":  "Gerçek öyle değil! Kesin bilgi ile bilmiş olsaydınız, (orada) mutlaka cehennem ateşini görürdünüz. Sonra ahirette onu çıplak gözle göreceksiniz. Nihayet o gün (dünyada yararlandığınız) nimetlerden elbette ve elbette hesaba çekileceksiniz.",
+                       "page":  600,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6279,
+                       "verseNumber":  8,
+                       "arabic":  "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ النَّعٖيمِ",
+                       "meal":  "Gerçek öyle değil! Kesin bilgi ile bilmiş olsaydınız, (orada) mutlaka cehennem ateşini görürdünüz. Sonra ahirette onu çıplak gözle göreceksiniz. Nihayet o gün (dünyada yararlandığınız) nimetlerden elbette ve elbette hesaba çekileceksiniz.",
+                       "page":  600,
+                       "juz":  30
+                   }
+               ]
+}

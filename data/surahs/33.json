@@ -1,0 +1,597 @@
+﻿{
+    "surah":  {
+                  "surahId":  33,
+                  "name":  "Ahzâb",
+                  "nameArabic":  "سُورَةُ الْاَحْزَابِ",
+                  "verseCount":  73,
+                  "page":  417,
+                  "juz":  21,
+                  "nameEn":  "Al-Ahzab"
+              },
+    "verses":  [
+                   {
+                       "id":  3568,
+                       "verseNumber":  1,
+                       "arabic":  "يَٓا اَيُّهَا النَّبِىُّ اتَّقِ اللّٰهَ وَلَا تُطِعِ الْكَافِرٖينَ وَالْمُنَافِقٖينَۜ اِنَّ اللّٰهَ كَانَ عَلٖيمًا حَكٖيمًاۙ",
+                       "meal":  "Ey Peygamber! Allah\u0027tan kork, kâfirlere ve münafıklara boyun eğme. Elbette Allah her şeyi bilmekte ve yerli yerince yapmaktadır.",
+                       "page":  417,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3569,
+                       "verseNumber":  2,
+                       "arabic":  "وَاتَّبِعْ مَا يُوحٰٓى اِلَيْكَ مِنْ رَبِّكَۜ اِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُونَ خَبٖيرًاۙ",
+                       "meal":  "Rabbinden sana vahyedilene uy. Şüphesiz Allah, bütün yaptıklarınızdan haberdardır.",
+                       "page":  417,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3570,
+                       "verseNumber":  3,
+                       "arabic":  "وَتَوَكَّلْ عَلَى اللّٰهِۜ وَكَفٰى بِاللّٰهِ وَكٖيلًا",
+                       "meal":  "Allah\u0027a güven. Vekîl olarak Allah yeter.",
+                       "page":  417,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3571,
+                       "verseNumber":  4,
+                       "arabic":  "مَا جَعَلَ اللّٰهُ لِرَجُلٍ مِنْ قَلْبَيْنِ فٖى جَوْفِهٖۚ وَمَا جَعَلَ اَزْوَاجَكُمُ الّٰٓئٖ تُظَاهِرُونَ مِنْهُنَّ اُمَّهَاتِكُمْۚ وَمَا جَعَلَ اَدْعِيَٓاءَكُمْ اَبْنَٓاءَكُمْۜ ذٰلِكُمْ قَوْلُكُمْ بِاَفْوَاهِكُمْۜ وَاللّٰهُ يَقُولُ الْحَقَّ وَهُوَ يَهْدِى السَّبٖيلَ",
+                       "meal":  "Allah, bir adamın içinde iki kalp yaratmadığı gibi, «zıhâr» yaptığınız eşlerinizi de analarınız yerinde tutmadı ve evlâtlıklarınızı da öz oğullarınız olarak tanımadı. Bunlar sizin ağızlarınıza geliveren sözlerden ibarettir. Allah ise gerçeği söyler ve doğru yola O eriştirir.",
+                       "page":  417,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3572,
+                       "verseNumber":  5,
+                       "arabic":  "اُدْعُوهُمْ لِاٰبَٓائِهِمْ هُوَ اَقْسَطُ عِنْدَ اللّٰهِۚ فَاِنْ لَمْ تَعْلَمُٓوا اٰبَٓاءَهُمْ فَاِخْوَانُكُمْ فِى الدّٖينِ وَمَوَالٖيكُمْۜ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فٖيمَٓا اَخْطَاْتُمْ بِهٖۙ وَلٰكِنْ مَا تَعَمَّدَتْ قُلُوبُكُمْۜ وَكَانَ اللّٰهُ غَفُورًا رَحٖيمًا",
+                       "meal":  "Onları (evlât edindiklerinizi) babalarına nisbet ederek çağırın. Allah yanında en doğrusu budur. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları din kardeşleriniz ve görüp gözettiğiniz kimseler olarak kabul edin. Yanılarak yaptıklarınızda size vebal yok# fakat kalplerinizin bile bile yöneldiğinde günah vardır. Allah bağışlayandır, esirgeyendir.",
+                       "page":  417,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3573,
+                       "verseNumber":  6,
+                       "arabic":  "اَلنَّبِيُّ اَوْلٰى بِالْمُؤْمِن۪ينَ مِنْ اَنْفُسِهِمْ وَاَزْوَاجُهُٓ اُمَّهَاتُهُمْۜ وَاُو۬لُوا الْاَرْحَامِ بَعْضُهُمْ اَوْلٰى بِبَعْضٍ ف۪ي كِتَابِ اللّٰهِ مِنَ الْمُؤْمِن۪ينَ وَالْمُهَاجِر۪ينَ اِلَّٓا اَنْ تَفْعَلُٓوا اِلٰٓى اَوْلِيَٓائِكُمْ مَعْرُوفًاۜ كَانَ ذٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+                       "meal":  "Peygamber, müminlere kendi canlarından daha yakındır. Eşleri, onların analarıdır. Akraba olanlar, Allah\u0027ın Kitabına göre, (mirasçılık bakımından) birbirlerine diğer müminlerden ve muhacirlerden daha yakındırlar# ancak, dostlarınıza uygun bir vasiyet yapmanız müstesnadır. Bunlar Kitap\u0027ta yazılı bulunmaktadır.",
+                       "page":  417,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3574,
+                       "verseNumber":  7,
+                       "arabic":  "وَاِذْ اَخَذْنَا مِنَ النَّبِيّٖنَ مٖيثَاقَهُمْ وَمِنْكَ وَمِنْ نُوحٍ وَاِبْرٰهٖيمَ وَمُوسٰى وَعٖيسَى ابْنِ مَرْيَمَۖ وَاَخَذْنَا مِنْهُمْ مٖيثَاقًا غَلٖيظًاۙ",
+                       "meal":  "Hani biz peygamberlerden söz almıştık# senden, Nuh\u0027tan, İbrahim\u0027den, Musa\u0027dan ve Meryem oğlu İsa\u0027dan da. (Evet) biz onlardan pek sağlam bir söz aldık.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3575,
+                       "verseNumber":  8,
+                       "arabic":  "لِيَسْـَٔلَ الصَّادِقٖينَ عَنْ صِدْقِهِمْۚ وَاَعَدَّ لِلْكَافِرٖينَ عَذَابًا اَلٖيمًا۟",
+                       "meal":  "Allah bu sözü doğruları doğruluklarıyla sorumlu kılmak için aldı. Kâfirler için de çok acıklı bir azap hazırladı.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3576,
+                       "verseNumber":  9,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا اذْكُرُوا نِعْمَةَ اللّٰهِ عَلَيْكُمْ اِذْ جَٓاءَتْكُمْ جُنُودٌ فَاَرْسَلْنَا عَلَيْهِمْ رٖيحًا وَجُنُودًا لَمْ تَرَوْهَاۜ وَكَانَ اللّٰهُ بِمَا تَعْمَلُونَ بَصٖيرًاۚ",
+                       "meal":  "Ey iman edenler! Allah\u0027ın size olan nimetini hatırlayın# hani size ordular saldırmıştı da, biz onlara karşı bir rüzgâr ve sizin görmediğiniz ordular göndermiştik. Allah ne yaptığınızı çok iyi görmekteydi.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3577,
+                       "verseNumber":  10,
+                       "arabic":  "اِذْ جَٓاؤُ۫كُمْ مِنْ فَوْقِكُمْ وَمِنْ اَسْفَلَ مِنْكُمْ وَاِذْ زَاغَتِ الْاَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ وَتَظُنُّونَ بِاللّٰهِ الظُّنُونَا",
+                       "meal":  "Onlar hem yukarınızdan hem aşağı tarafınızdan (vâdinin üstünden ve alt yanından) üzerinize yürüdükleri zaman# gözler yıldığı, yürekler gırtlağa geldiği ve siz Allah hakkında türlü türlü şeyler düşündüğünüz zaman#",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3578,
+                       "verseNumber":  11,
+                       "arabic":  "هُنَالِكَ ابْتُلِىَ الْمُؤْمِنُونَ وَزُلْزِلُوا زِلْزَالًا شَدٖيدًا",
+                       "meal":  "İşte orada iman sahipleri imtihandan geçirilmiş ve şiddetli bir sarsıntıya uğratılmışlardı.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3579,
+                       "verseNumber":  12,
+                       "arabic":  "وَاِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذٖينَ فٖى قُلُوبِهِمْ مَرَضٌ مَا وَعَدَنَا اللّٰهُ وَرَسُولُهُٓ اِلَّا غُرُورًا",
+                       "meal":  "Ve o zaman, münafıklar ile kalplerinde hastalık (iman zayıflığı) bulunanlar: Meğer Allah ve Resûlü bize sadece kuru vaadlerde bulunmuşlar! diyorlardı.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3580,
+                       "verseNumber":  13,
+                       "arabic":  "وَاِذْ قَالَتْ طَٓائِفَةٌ مِنْهُمْ يَٓا اَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَارْجِعُواۚ وَيَسْتَاْذِنُ فَرٖيقٌ مِنْهُمُ النَّبِىَّ يَقُولُونَ اِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍۜ اِنْ يُرٖيدُونَ اِلَّا فِرَارًا",
+                       "meal":  "Onlardan bir gurup da demişti ki: Ey Yesribliler (Medineliler)! Artık sizin için durmanın sırası değil, haydi dönün! İçlerinden bir kısmı ise: Gerçekten evlerimiz emniyette değil, diyerek Peygamber\u0027den izin istiyordu# oysa evleri tehlikede değildi, sadece kaçmayı arzuluyorlardı.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3581,
+                       "verseNumber":  14,
+                       "arabic":  "وَلَوْ دُخِلَتْ عَلَيْهِمْ مِنْ اَقْطَارِهَا ثُمَّ سُئِلُوا الْفِتْنَةَ لَاٰتَوْهَا وَمَا تَلَبَّثُوا بِهَٓا اِلَّا يَسٖيرًا",
+                       "meal":  "Medine\u0027nin her yanından üzerlerine saldırılsaydı da, o zaman savaşmaları istenseydi, şüphesiz hemen savaşa katılırlar ve evlerinde pek eğlenmezlerdi.",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3582,
+                       "verseNumber":  15,
+                       "arabic":  "وَلَقَدْ كَانُوا عَاهَدُوا اللّٰهَ مِنْ قَبْلُ لَا يُوَلُّونَ الْاَدْبَارَۜ وَكَانَ عَهْدُ اللّٰهِ مَسْؤُ۫لًا",
+                       "meal":  "Andolsun ki daha önce onlar, sırt çevirip kaçmayacaklarına dair Allah\u0027a söz vermişlerdi. Allah\u0027a verilen söz mesuliyeti gerektirir!",
+                       "page":  418,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3583,
+                       "verseNumber":  16,
+                       "arabic":  "قُلْ لَنْ يَنْفَعَكُمُ الْفِرَارُ اِنْ فَرَرْتُمْ مِنَ الْمَوْتِ اَوِ الْقَتْلِ وَاِذًا لَا تُمَتَّعُونَ اِلَّا قَلٖيلًا",
+                       "meal":  "(Resûlüm!) De ki: Eğer ölümden veya öldürülmekten kaçıyorsanız, kaçmanın size asla faydası olmaz! (Eceliniz gelmemiş ise) o takdirde de, yaşatılacağınız süre çok değildir.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3584,
+                       "verseNumber":  17,
+                       "arabic":  "قُلْ مَنْ ذَا الَّذٖى يَعْصِمُكُمْ مِنَ اللّٰهِ اِنْ اَرَادَ بِكُمْ سُٓوءًا اَوْ اَرَادَ بِكُمْ رَحْمَةًۜ وَلَا يَجِدُونَ لَهُمْ مِنْ دُونِ اللّٰهِ وَلِيًّا وَلَا نَصٖيرًا",
+                       "meal":  "De ki: Allah size bir kötülük dilerse, O\u0027na karşı sizi kim korur# ya da size rahmet dilerse (size kim zarar verebilir)? Onlar, kendilerine Allah\u0027tan başka ne bir dost bulurlar ne de bir yardımcı.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3585,
+                       "verseNumber":  18,
+                       "arabic":  "قَدْ يَعْلَمُ اللّٰهُ الْمُعَوِّقٖينَ مِنْكُمْ وَالْقَٓائِلٖينَ لِاِخْوَانِهِمْ هَلُمَّ اِلَيْنَاۚ وَلَا يَاْتُونَ الْبَاْسَ اِلَّا قَلٖيلًاۙ",
+                       "meal":  "Allah, içinizden (savaştan) alıkoyanları ve yandaşlarına: «Bize katılın» diyenleri gerçekten biliyor. Zaten bunların pek azı savaşa gelir.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3586,
+                       "verseNumber":  19,
+                       "arabic":  "اَشِحَّةً عَلَيْكُمْۚ فَاِذَا جَٓاءَ الْخَوْفُ رَاَيْتَهُمْ يَنْظُرُونَ اِلَيْكَ تَدُورُ اَعْيُنُهُمْ كَالَّذٖى يُغْشٰى عَلَيْهِ مِنَ الْمَوْتِۚ فَاِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِاَلْسِنَةٍ حِدَادٍ اَشِحَّةً عَلَى الْخَيْرِۜ اُو۬لٰٓئِكَ لَمْ يُؤْمِنُوا فَاَحْبَطَ اللّٰهُ اَعْمَالَهُمْۜ وَكَانَ ذٰلِكَ عَلَى اللّٰهِ يَسٖيرًا",
+                       "meal":  "(Gelseler de) size karşı pek hasistirler. Hele korku gelip çattı mı, üzerine ölüm baygınlığı çökmüş gibi gözleri dönerek sana baktıklarını görürsün. Korku gidince ise, mala düşkünlük göstererek sizi sivri dilleri ile incitirler. Onlar iman etmiş değillerdir# bunun için Allah onların yaptıklarını boşa çıkarmıştır. Bu, Allah\u0027a göre kolaydır.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3587,
+                       "verseNumber":  20,
+                       "arabic":  "يَحْسَبُونَ الْاَحْزَابَ لَمْ يَذْهَبُواۚ وَاِنْ يَاْتِ الْاَحْزَابُ يَوَدُّوا لَوْ اَنَّهُمْ بَادُونَ فِى الْاَعْرَابِ يَسْـَٔلُونَ عَنْ اَنْبَٓائِكُمْۜ وَلَوْ كَانُوا فٖيكُمْ مَا قَاتَلُٓوا اِلَّا قَلٖيلًا۟",
+                       "meal":  "Bunlar, düşman birliklerinin bozulup gitmedikleri evhamı içindedirler. Müttefikler ordusu yine gelecek olsa, isterler ki, çölde göçebe Araplar içinde bulunsunlar da, sizin haberlerinizi (uzaktan) sorsunlar. Zaten içinizde bulunsalardı dahi pek savaşacak değillerdi.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3588,
+                       "verseNumber":  21,
+                       "arabic":  "لَقَدْ كَانَ لَكُمْ فٖى رَسُولِ اللّٰهِ اُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُوا اللّٰهَ وَالْيَوْمَ الْاٰخِرَ وَذَكَرَ اللّٰهَ كَثٖيرًاۜ",
+                       "meal":  "Andolsun ki, Resûlullah, sizin için, Allah\u0027a ve ahiret gününe kavuşmayı umanlar ve Allah\u0027ı çok zikredenler için güzel bir örnektir.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3589,
+                       "verseNumber":  22,
+                       "arabic":  "وَلَمَّا رَاَ الْمُؤْمِنُونَ الْاَحْزَابَۙ قَالُوا هٰذَا مَا وَعَدَنَا اللّٰهُ وَرَسُولُهُ وَصَدَقَ اللّٰهُ وَرَسُولُهُؗ وَمَا زَادَهُمْ اِلَّٓا اٖيمَانًا وَتَسْلٖيمًاۜ",
+                       "meal":  "Müminler ise, düşman birliklerini gördüklerinde: İşte Allah ve Resûlü\u0027nün bize vâdettiği! Allah ve Resûlü doğru söylemiştir, dediler. Bu (orduların gelişi), onların ancak imanlarını ve Allah\u0027a bağlılıklarını arttırdı.",
+                       "page":  419,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3590,
+                       "verseNumber":  23,
+                       "arabic":  "مِنَ الْمُؤْمِنٖينَ رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللّٰهَ عَلَيْهِۚ فَمِنْهُمْ مَنْ قَضٰى نَحْبَهُ وَمِنْهُمْ مَنْ يَنْتَظِرُؗ وَمَا بَدَّلُوا تَبْدٖيلًاۙ",
+                       "meal":  "Müminler içinde Allah\u0027a verdikleri sözde duran nice erler var. İşte onlardan kimi, sözünü yerine getirip o yolda canını vermiştir# kimi de (şehitliği) beklemektedir. Onlar hiçbir şekilde (sözlerini) değiştirmemişlerdir.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3591,
+                       "verseNumber":  24,
+                       "arabic":  "لِيَجْزِىَ اللّٰهُ الصَّادِقٖينَ بِصِدْقِهِمْ وَيُعَذِّبَ الْمُنَافِقٖينَ اِنْ شَٓاءَ اَوْ يَتُوبَ عَلَيْهِمْۜ اِنَّ اللّٰهَ كَانَ غَفُورًا رَحٖيمًاۚ",
+                       "meal":  "Çünkü Allah sadâkat gösterenleri sadâkatları sebebiyle mükâfatlandıracak, münafıklara -dilerse- azap edecek yahut da (tevbe ederlerse) tevbelerini kabul edecektir. Şüphesiz Allah, bağışlayandır, esirgeyendir.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3592,
+                       "verseNumber":  25,
+                       "arabic":  "وَرَدَّ اللّٰهُ الَّذٖينَ كَفَرُوا بِغَيْظِهِمْ لَمْ يَنَالُوا خَيْرًاۜ وَكَفَى اللّٰهُ الْمُؤْمِنٖينَ الْقِتَالَۜ وَكَانَ اللّٰهُ قَوِيًّا عَزٖيزًاۚ",
+                       "meal":  "Allah, o inkâr edenleri hiçbir fayda elde edemeden öfkeleri ile geri çevirdi. Allah(ın yardımı) savaşta müminlere yetti. Allah güçlüdür, mutlak galiptir.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3593,
+                       "verseNumber":  26,
+                       "arabic":  "وَاَنْزَلَ الَّذٖينَ ظَاهَرُوهُمْ مِنْ اَهْلِ الْكِتَابِ مِنْ صَيَاصٖيهِمْ وَقَذَفَ فٖى قُلُوبِهِمُ الرُّعْبَ فَرٖيقًا تَقْتُلُونَ وَتَاْسِرُونَ فَرٖيقًاۚ",
+                       "meal":  "Allah, ehl-i kitaptan, onlara (müşrik ordularına) yardım edenleri kalelerinden indirdi ve kalplerine korku düşürdü# bir kısmını öldürüyor, bir kısmını da esir alıyordunuz.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3594,
+                       "verseNumber":  27,
+                       "arabic":  "وَاَوْرَثَكُمْ اَرْضَهُمْ وَدِيَارَهُمْ وَاَمْوَالَهُمْ وَاَرْضًا لَمْ تَطَؤُ۫هَاۜ وَكَانَ اللّٰهُ عَلٰى كُلِّ شَىْءٍ قَدٖيرًا۟",
+                       "meal":  "Allah, onların yerlerine, yurtlarına, mallarına ve ayak basmadığınız topraklara sizi mirasçı yaptı. Allah\u0027ın her şeye gücü yeter.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3595,
+                       "verseNumber":  28,
+                       "arabic":  "يَٓا اَيُّهَا النَّبِىُّ قُلْ لِاَزْوَاجِكَ اِنْ كُنْتُنَّ تُرِدْنَ الْحَيٰوةَ الدُّنْيَا وَزٖينَتَهَا فَتَعَالَيْنَ اُمَتِّعْكُنَّ وَاُسَرِّحْكُنَّ سَرَاحًا جَمٖيلًا",
+                       "meal":  "Ey Peygamber! Eşlerine şöyle söyle: Eğer dünya dirliğini ve süsünü (refahını) istiyorsanız, gelin size boşanma bedellerinizi vereyim de, sizi güzellikle salıvereyim.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3596,
+                       "verseNumber":  29,
+                       "arabic":  "وَاِنْ كُنْتُنَّ تُرِدْنَ اللّٰهَ وَرَسُولَهُ وَالدَّارَ الْاٰخِرَةَ فَاِنَّ اللّٰهَ اَعَدَّ لِلْمُحْسِنَاتِ مِنْكُنَّ اَجْرًا عَظٖيمًا",
+                       "meal":  "Eğer Allah\u0027ı, Peygamberini ve ahiret yurdunu diliyorsanız, bilin ki, Allah, içinizden güzel davrananlar için büyük bir mükâfat hazırlamıştır.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3597,
+                       "verseNumber":  30,
+                       "arabic":  "يَا نِسَٓاءَ النَّبِىِّ مَنْ يَاْتِ مِنْكُنَّ بِفَاحِشَةٍ مُبَيِّنَةٍ يُضَاعَفْ لَهَا الْعَذَابُ ضِعْفَيْنِۜ وَكَانَ ذٰلِكَ عَلَى اللّٰهِ يَسٖيرًا",
+                       "meal":  "Ey peygamber hanımları! Sizden kim açık bir hayâsızlık yaparsa, onun azabı iki katına çıkarılır. Bu, Allah\u0027a göre kolaydır.",
+                       "page":  420,
+                       "juz":  21
+                   },
+                   {
+                       "id":  3598,
+                       "verseNumber":  31,
+                       "arabic":  "وَمَنْ يَقْنُتْ مِنْكُنَّ لِلّٰهِ وَرَسُولِهٖ وَتَعْمَلْ صَالِحًا نُؤْتِهَٓا اَجْرَهَا مَرَّتَيْنِۙ وَاَعْتَدْنَا لَهَا رِزْقًا كَرٖيمًا",
+                       "meal":  "Sizden kim, Allah\u0027a ve Resûlüne itaat eder ve yararlı iş yaparsa ona mükâfatını iki kat veririz. Ve ona (cennette) bol rızık hazırlamışızdır.",
+                       "page":  421,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3599,
+                       "verseNumber":  32,
+                       "arabic":  "يَا نِسَٓاءَ النَّبِىِّ لَسْتُنَّ كَاَحَدٍ مِنَ النِّسَٓاءِ اِنِ اتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذٖى فٖى قَلْبِهٖ مَرَضٌ وَقُلْنَ قَوْلًا مَعْرُوفًاۚ",
+                       "meal":  "Ey Peygamber hanımları! Siz, kadınlardan herhangi biri gibi değilsiniz. Eğer (Allah\u0027tan) korkuyorsanız, (yabancı erkeklere karşı) çekici bir eda ile konuşmayın# sonra kalbinde hastalık bulunan kimse ümide kapılır. Güzel söz söyleyin.",
+                       "page":  421,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3600,
+                       "verseNumber":  33,
+                       "arabic":  "وَقَرْنَ فٖى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْاُو۫لٰى وَاَقِمْنَ الصَّلٰوةَ وَاٰتٖينَ الزَّكٰوةَ وَاَطِعْنَ اللّٰهَ وَرَسُولَهُۜ اِنَّمَا يُرٖيدُ اللّٰهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ اَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهٖيرًاۚ",
+                       "meal":  "Evlerinizde oturun, eski cahiliye âdetinde olduğu gibi açılıp saçılmayın. Namazı kılın, zekâtı verin, Allah\u0027a ve Resûlüne itaat edin. Ey Ehl-i Beyt! Allah sizden, sadece günahı gidermek ve sizi tertemiz yapmak istiyor.",
+                       "page":  421,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3601,
+                       "verseNumber":  34,
+                       "arabic":  "وَاذْكُرْنَ مَا يُتْلٰى فٖى بُيُوتِكُنَّ مِنْ اٰيَاتِ اللّٰهِ وَالْحِكْمَةِۜ اِنَّ اللّٰهَ كَانَ لَطٖيفًا خَبٖيرًا۟",
+                       "meal":  "Evlerinizde okunan Allah\u0027ın âyetlerini ve hikmeti hatırlayın. Şüphesiz Allah, her şeyin iç yüzünü bilendir ve her şeyden haberi olandır.",
+                       "page":  421,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3602,
+                       "verseNumber":  35,
+                       "arabic":  "اِنَّ الْمُسْلِمٖينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِ وَالْقَانِتٖينَ وَالْقَانِتَاتِ وَالصَّادِقٖينَ وَالصَّادِقَاتِ وَالصَّابِرٖينَ وَالصَّابِرَاتِ وَالْخَاشِعٖينَ وَالْخَاشِعَاتِ وَالْمُتَصَدِّقٖينَ وَالْمُتَصَدِّقَاتِ وَالصَّٓائِمٖينَ وَالصَّٓائِمَاتِ وَالْحَافِظٖينَ فُرُوجَهُمْ وَالْحَافِظَاتِ وَالذَّاكِرٖينَ اللّٰهَ كَثٖيرًا وَالذَّاكِرَاتِ اَعَدَّ اللّٰهُ لَهُمْ مَغْفِرَةً وَاَجْرًا عَظٖيمًا",
+                       "meal":  "Müslüman erkekler ve müslüman kadınlar, mümin erkekler ve mümin kadınlar, taata devam eden erkekler ve taata devam eden kadınlar, doğru erkekler ve doğru kadınlar, sabreden erkekler ve sabreden kadınlar, mütevazi erkekler ve mütevazi kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve (ırzlarını) koruyan kadınlar, Allah\u0027ı çok zikreden erkekler ve zikreden kadınlar var ya# işte Allah, bunlar için bir mağfiret ve büyük bir mükâfat hazırlamıştır.",
+                       "page":  421,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3603,
+                       "verseNumber":  36,
+                       "arabic":  "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ اِذَا قَضَى اللّٰهُ وَرَسُولُهُٓ اَمْرًا اَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ اَمْرِهِمْۜ وَمَنْ يَعْصِ اللّٰهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبٖينًا",
+                       "meal":  "Allah ve Resûlü bir işe hüküm verdiği zaman, inanmış bir erkek ve kadına o işi kendi isteklerine göre seçme hakkı yoktur. Her kim Allah ve Resûlüne karşı gelirse, apaçık bir sapıklığa düşmüş olur.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3604,
+                       "verseNumber":  37,
+                       "arabic":  "وَاِذْ تَقُولُ لِلَّذٖٓى اَنْعَمَ اللّٰهُ عَلَيْهِ وَاَنْعَمْتَ عَلَيْهِ اَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللّٰهَ وَتُخْفٖى فٖى نَفْسِكَ مَا اللّٰهُ مُبْدٖيهِ وَتَخْشَى النَّاسَۚ وَاللّٰهُ اَحَقُّ اَنْ تَخْشٰيهُۜ فَلَمَّا قَضٰى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا لِكَىْ لَا يَكُونَ عَلَى الْمُؤْمِنٖينَ حَرَجٌ فٖٓى اَزْوَاجِ اَدْعِيَٓائِهِمْ اِذَا قَضَوْا مِنْهُنَّ وَطَرًاۜ وَكَانَ اَمْرُ اللّٰهِ مَفْعُولًا",
+                       "meal":  "(Resûlüm!) Hani Allah\u0027ın nimet verdiği, senin de kendisine iyilik ettiğin kimseye: Eşini yanında tut, Allah\u0027tan kork! diyordun. Allah\u0027ın açığa vuracağı şeyi, insanlardan çekinerek içinde gizliyordun. Oysa asıl korkmana lâyık olan Allah\u0027tır. Zeyd, o kadından ilişiğini kesince biz onu sana nikâhladık ki evlâtlıkları, karılarıyla ilişkilerini kestiklerinde (o kadınlarla evlenmek isterlerse) müminlere bir güçlük olmasın. Allah\u0027ın emri yerine getirilmiştir.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3605,
+                       "verseNumber":  38,
+                       "arabic":  "مَا كَانَ عَلَى النَّبِىِّ مِنْ حَرَجٍ فٖيمَا فَرَضَ اللّٰهُ لَهُۜ سُنَّةَ اللّٰهِ فِى الَّذٖينَ خَلَوْا مِنْ قَبْلُۜ وَكَانَ اَمْرُ اللّٰهِ قَدَرًا مَقْدُورًاۙ",
+                       "meal":  "Allah\u0027ın, kendisine helâl kıldığı şeyde Peygamber\u0027e herhangi bir vebâl yoktur. Önce gelip geçenler arasında da Allah\u0027ın âdeti böyle idi. Allah\u0027ın emri mutlaka yerine gelecek, yazılmış bir kaderdir.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3606,
+                       "verseNumber":  39,
+                       "arabic":  "اَلَّذٖينَ يُبَلِّغُونَ رِسَالَاتِ اللّٰهِ وَيَخْشَوْنَهُ وَلَا يَخْشَوْنَ اَحَدًا اِلَّا اللّٰهَۜ وَكَفٰى بِاللّٰهِ حَسٖيبًا",
+                       "meal":  "O peygamberler ki Allah\u0027ın gönderdiği emirleri duyururlar, Allah\u0027tan korkarlar ve O\u0027ndan başka kimseden korkmazlar. Hesap görücü olarak Allah (herkese) yeter.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3607,
+                       "verseNumber":  40,
+                       "arabic":  "مَا كَانَ مُحَمَّدٌ اَبَٓا اَحَدٍ مِنْ رِجَالِكُمْ وَلٰكِنْ رَسُولَ اللّٰهِ وَخَاتَمَ النَّبِيّٖنَۜ وَكَانَ اللّٰهُ بِكُلِّ شَىْءٍ عَلٖيمًا۟",
+                       "meal":  "Muhammed, sizin erkeklerinizden hiçbirinin babası değildir. Fakat o, Allah\u0027ın Resûlü ve peygamberlerin sonuncusudur. Allah her şeyi hakkıyla bilendir.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3608,
+                       "verseNumber":  41,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا اذْكُرُوا اللّٰهَ ذِكْرًا كَثٖيرًاۙ",
+                       "meal":  "Ey inananlar! Allah\u0027ı çokça zikredin.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3609,
+                       "verseNumber":  42,
+                       "arabic":  "وَسَبِّحُوهُ بُكْرَةً وَاَصٖيلًا",
+                       "meal":  "Ve O\u0027nu sabah-akşam tesbih edin.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3610,
+                       "verseNumber":  43,
+                       "arabic":  "هُوَ الَّذٖى يُصَلّٖى عَلَيْكُمْ وَمَلٰٓئِكَتُهُ لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ اِلَى النُّورِۜ وَكَانَ بِالْمُؤْمِنٖينَ رَحٖيمًا",
+                       "meal":  "Sizi karanlıklardan aydınlığa çıkarmak için üzerinize rahmetini gönderen O\u0027dur. Melekleri de size istiğfar eder. Allah, müminlere karşı çok merhametlidir.",
+                       "page":  422,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3611,
+                       "verseNumber":  44,
+                       "arabic":  "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌۚ وَاَعَدَّ لَهُمْ اَجْرًا كَرٖيمًا",
+                       "meal":  "Kendisine kavuştukları gün, Allah\u0027ın onlara iltifatı, «selâm» dır. Allah onlara çok değerli mükâfat hazırlamıştır.",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3612,
+                       "verseNumber":  45,
+                       "arabic":  "يَٓا اَيُّهَا النَّبِىُّ اِنَّٓا اَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذٖيرًاۙ",
+                       "meal":  "Ey Peygamber! Biz seni hakikaten bir şahit, bir müjdeleyici ve bir uyarıcı olarak gönderdik.",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3613,
+                       "verseNumber":  46,
+                       "arabic":  "وَدَاعِيًا اِلَى اللّٰهِ بِاِذْنِهٖ وَسِرَاجًا مُنٖيرًا",
+                       "meal":  "Allah\u0027ın izniyle, bir davetçi ve nûr saçan bir kandil olarak (gönderdik).",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3614,
+                       "verseNumber":  47,
+                       "arabic":  "وَبَشِّرِ الْمُؤْمِنٖينَ بِاَنَّ لَهُمْ مِنَ اللّٰهِ فَضْلًا كَبٖيرًا",
+                       "meal":  "Allah\u0027tan büyük bir lütfa ereceklerini müminlere müjdele.",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3615,
+                       "verseNumber":  48,
+                       "arabic":  "وَلَا تُطِعِ الْكَافِرٖينَ وَالْمُنَافِقٖينَ وَدَعْ اَذٰيهُمْ وَتَوَكَّلْ عَلَى اللّٰهِۜ وَكَفٰى بِاللّٰهِ وَكٖيلًا",
+                       "meal":  "Kâfirlere ve münafıklara boyun eğme. Onların eziyetlerine aldırma. Allah\u0027a güvenip dayan, vekîl ve destek olarak Allah yeter.",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3616,
+                       "verseNumber":  49,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِنْ قَبْلِ اَنْ تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَاۚ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمٖيلًا",
+                       "meal":  "Ey iman edenler! Mümin kadınları nikâhlayıp da, henüz zifafa girmeden onları boşarsanız, onları sayacağınız bir iddet süresince bekletme hakkınız yoktur. O halde onları (bir bağışla) memnun edin ve onları güzel bir şekilde serbest bırakın.",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3617,
+                       "verseNumber":  50,
+                       "arabic":  "يَٓا اَيُّهَا النَّبِىُّ اِنَّٓا اَحْلَلْنَا لَكَ اَزْوَاجَكَ الّٰتٖٓى اٰتَيْتَ اُجُورَهُنَّ وَمَا مَلَكَتْ يَمٖينُكَ مِمَّٓا اَفَٓاءَ اللّٰهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّاتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَالَاتِكَ الّٰتٖى هَاجَرْنَ مَعَكَؗ وَامْرَاَةً مُؤْمِنَةً اِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ اِنْ اَرَادَ النَّبِىُّ اَنْ يَسْتَنْكِحَهَاۗ خَالِصَةً لَكَ مِنْ دُونِ الْمُؤْمِنٖينَۜ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فٖٓى اَزْوَاجِهِمْ وَ مَامَلَكَتْ اَيْمَانُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌۜ وَكَانَ اللّٰهُ غَفُورًا رَحٖيمًا",
+                       "meal":  "Ey Peygamber! Mehirlerini verdiğin hanımlarını, Allah\u0027ın sana ganimet olarak verdiği ve elinin altında bulunan cariyeleri, amcanın, halanın, dayının ve teyzenin seninle beraber göç eden kızlarını sana helâl kıldık. Bir de Peygamber kendisiyle evlenmek istediği takdirde, kendisini peygambere hibe eden mümin kadını, diğer müminlere değil, sırf sana mahsus olmak üzere (helâl kıldık). Kuşkusuz biz, hanımları ve ellerinin altında bulunan cariyeleri hakkında müminlere neyi farz kıldığımızı biliriz. (Bu hususta ne yapmaları lâzım geldiğini onlara açıkladık) ki, sana bir zorluk olmasın. Allah bağışlayandır, merhamet edendir.",
+                       "page":  423,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3618,
+                       "verseNumber":  51,
+                       "arabic":  "تُرْجٖى مَنْ تَشَٓاءُ مِنْهُنَّ وَتُـْٔوٖٓى اِلَيْكَ مَنْ تَشَٓاءُۜ وَمَنِ ابْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَۜ ذٰلِكَ اَدْنٰٓى اَنْ تَقَرَّ اَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَٓا اٰتَيْتَهُنَّ كُلُّهُنَّۜ وَاللّٰهُ يَعْلَمُ مَا فٖى قُلُوبِكُمْۜ وَكَانَ اللّٰهُ عَلٖيمًا حَلٖيمًا",
+                       "meal":  "Onlardan dilediğini geriye bırakır, dilediğini de yanına alırsın. Bıraktığın hanımlarından arzu ettiğini tekrar yanına almanda, senin üzerine bir günah yoktur. Böyle yapman onların mutlu olmalarına, üzülmemelerine ve hepsinin, senin verdiklerine razı olmalarına daha uygundur. Allah, kalplerinizde olanı bilir. Allah hakkıyle bilendir, halîmdir.",
+                       "page":  424,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3619,
+                       "verseNumber":  52,
+                       "arabic":  "لَا يَحِلُّ لَكَ النِّسَٓاءُ مِنْ بَعْدُ وَلَٓا اَنْ تَبَدَّلَ بِهِنَّ مِنْ اَزْوَاجٍ وَلَوْ اَعْجَبَكَ حُسْنُهُنَّ اِلَّا مَا مَلَكَتْ يَمٖينُكَۜ وَكَانَ اللّٰهُ عَلٰى كُلِّ شَىْءٍ رَقٖيبًا۟",
+                       "meal":  "Bundan sonra artık başka kadınlarla evlenmen, elinin altında bulunan cariyeler hariç, güzellikleri hoşuna gitse bile, bunların yerine başka hanımlar alman sana helâl değildir. Allah her şeyi gözetler.",
+                       "page":  424,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3620,
+                       "verseNumber":  53,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِىِّ اِلَّٓا اَنْ يُؤْذَنَ لَكُمْ اِلٰى طَعَامٍ غَيْرَ نَاظِرٖينَ اِنٰيهُۙ وَلٰكِنْ اِذَا دُعٖيتُمْ فَادْخُلُوا فَاِذَا طَعِمْتُمْ فَانْتَشِرُوا وَلَا مُسْتَاْنِسٖينَ لِحَدٖيثٍۜ اِنَّ ذٰلِكُمْ كَانَ يُؤْذِى النَّبِىَّ فَيَسْتَحْيٖ مِنْكُمْؗ وَاللّٰهُ لَا يَسْتَحْيٖ مِنَ الْحَقِّۜ وَاِذَا سَاَلْتُمُوهُنَّ مَتَاعًا فَسْـَٔلُوهُنَّ مِنْ وَرَٓاءِ حِجَابٍۜ ذٰلِكُمْ اَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّۜ وَمَا كَانَ لَكُمْ اَنْ تُؤْذُوا رَسُولَ اللّٰهِ وَلَٓا اَنْ تَنْكِحُٓوا اَزْوَاجَهُ مِنْ بَعْدِهٖٓ اَبَدًاۜ اِنَّ ذٰلِكُمْ كَانَ عِنْدَ اللّٰهِ عَظٖيمًا",
+                       "meal":  "Ey iman edenler! Siz, bir yemeğe çağırılmadıkça, zamanını gözetmeksizin, Peygamber\u0027in evlerine girmeyin. Ancak davet edildiğiniz vakit girin. Yemeği yediğinizde hemen dağılın, sohbete dalmayın. Çünkü bu hareketiniz Peygamber\u0027i üzmekte, fakat o (size bunu söylemekten) utanmaktadır. Ama Allah, hakkı söylemekten çekinmez. Peygamber\u0027in hanımlarından bir şey istediğiniz zaman perde arkasından isteyin. Bu, hem sizin kalpleriniz, hem de onların kalpleri için daha temiz bir davranıştır. Sizin Allah\u0027ın Resûlünü üzmeniz ve kendisinden sonra onun hanımlarını nikâhlamanız asla caiz olamaz. Çünkü bu, Allah katında büyük (bir günah) tır.",
+                       "page":  424,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3621,
+                       "verseNumber":  54,
+                       "arabic":  "اِنْ تُبْدُوا شَيْـًٔا اَوْ تُخْفُوهُ فَاِنَّ اللّٰهَ كَانَ بِكُلِّ شَىْءٍ عَلٖيمًا",
+                       "meal":  "Bir şeyi açığa vursanız da, gizleseniz de şüphe yok ki Allah, her şeyi gayet iyi bilmektedir.",
+                       "page":  424,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3622,
+                       "verseNumber":  55,
+                       "arabic":  "‏لَا جُنَاحَ عَلَيْهِنَّ فٖٓى اٰبَٓائِهِنَّ وَلَٓا اَبْنَٓائِهِنَّ وَلَٓا اِخْوَانِهِنَّ وَلَٓا اَبْنَٓاءِ اِخْوَانِهِنَّ وَلَٓا اَبْنَٓاءِ اَخَوَاتِهِنَّ وَلَا نِسَٓائِهِنَّ وَلَا مَا مَلَكَتْ اَيْمَانُهُنَّۚ وَاتَّقٖينَ اللّٰهَۜ اِنَّ اللّٰهَ كَانَ عَلٰى كُلِّ شَىْءٍ شَهٖيدًا",
+                       "meal":  "Onlara (Peygamber\u0027in hanımlarına) babaları, oğulları, kardeşleri, kardeşlerinin oğulları, kız kardeşlerinin oğulları, kadınları (mümin kadınlar) ve ellerinin altında bulunan câriyelerinden dolayı bir günah yoktur. (Ey Peygamber hanımları!) Allah\u0027tan korkun# şüphesiz Allah, her şeye şahittir.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3623,
+                       "verseNumber":  56,
+                       "arabic":  "اِنَّ اللّٰهَ وَمَلٰٓئِكَتَهُ يُصَلُّونَ عَلَى النَّبِىِّۜ يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلٖيمًا",
+                       "meal":  "Allah ve melekleri, Peygamber\u0027e çok salevât getirirler. Ey müminler! Siz de ona salevât getirin ve tam bir teslimiyetle selam verin.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3624,
+                       "verseNumber":  57,
+                       "arabic":  "اِنَّ الَّذٖينَ يُؤْذُونَ اللّٰهَ وَرَسُولَهُ لَعَنَهُمُ اللّٰهُ فِى الدُّنْيَا وَالْاٰخِرَةِ وَاَعَدَّ لَهُمْ عَذَابًا مُهٖينًا",
+                       "meal":  "Allah ve Resûlünü incitenlere Allah, dünyada ve ahirette lânet etmiş ve onlar için horlayıcı bir azap hazırlamıştır.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3625,
+                       "verseNumber":  58,
+                       "arabic":  "وَالَّذٖينَ يُؤْذُونَ الْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَانًا وَاِثْمًا مُبٖينًا۟",
+                       "meal":  "Mümin erkeklere ve mümin kadınlara, yapmadıkları bir şeyden dolayı eziyet edenler, şüphesiz bir iftira ve apaçık bir günah yüklenmişlerdir.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3626,
+                       "verseNumber":  59,
+                       "arabic":  "يَٓا اَيُّهَا النَّبِىُّ قُلْ لِاَزْوَاجِكَ وَبَنَاتِكَ وَنِسَٓاءِ الْمُؤْمِنٖينَ يُدْنٖينَ عَلَيْهِنَّ مِنْ جَلَابٖيبِهِنَّۜ ذٰلِكَ اَدْنٰٓى اَنْ يُعْرَفْنَ فَلَا يُؤْذَيْنَۜ وَكَانَ اللّٰهُ غَفُورًا رَحٖيمًا",
+                       "meal":  "Ey Peygamber! Hanımlarına, kızlarına ve müminlerin kadınlarına (bir ihtiyaç için dışarı çıktıkları zaman) dış örtülerini üstlerine almalarını söyle. Onların tanınması ve incitilmemesi için en elverişli olan budur. Allah bağışlayandır, esirgeyendir.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3627,
+                       "verseNumber":  60,
+                       "arabic":  "لَئِنْ لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذٖينَ فٖى قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِى الْمَدٖينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فٖيهَٓا اِلَّا قَلٖيلًاۚۛ",
+                       "meal":  "Andolsun, iki yüzlüler, kalplerinde hastalık bulunanlar (fuhuş düşüncesi taşıyanlar), şehirde kötü haber yayanlar (bu hallerinden) vazgeçmezlerse, seni onlara musallat ederiz (onlarla savaşmanı ve onları şehirden sürüp çıkarmanı sana emrederiz)# sonra orada, senin yanında ancak az bir zaman kalabilirler.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3628,
+                       "verseNumber":  61,
+                       "arabic":  "مَلْعُونٖينَۚۛ اَيْنَ مَا ثُقِفُٓوا اُخِذُوا وَقُتِّلُوا تَقْتٖيلًا",
+                       "meal":  "Hepsi de lânetlenmiş olarak nerede ele geçirilirlerse, yakalanır ve mutlaka öldürülürler.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3629,
+                       "verseNumber":  62,
+                       "arabic":  "سُنَّةَ اللّٰهِ فِى الَّذٖينَ خَلَوْا مِنْ قَبْلُۚ وَلَنْ تَجِدَ لِسُنَّةِ اللّٰهِ تَبْدٖيلًا",
+                       "meal":  "Allah\u0027ın önceden geçenler hakkındaki kanunu budur. Allah\u0027ın kanununda asla bir değişiklik bulamazsın.",
+                       "page":  425,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3630,
+                       "verseNumber":  63,
+                       "arabic":  "يَسْـَٔلُكَ النَّاسُ عَنِ السَّاعَةِۜ قُلْ اِنَّمَا عِلْمُهَا عِنْدَ اللّٰهِۜ وَمَا يُدْرٖيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرٖيبًا",
+                       "meal":  "İnsanlar sana kıyametin zamanını soruyorlar. De ki: Onun bilgisi Allah katındadır. Ne bilirsin, belki de zamanı yakındır.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3631,
+                       "verseNumber":  64,
+                       "arabic":  "اِنَّ اللّٰهَ لَعَنَ الْكَافِرٖينَ وَاَعَدَّ لَهُمْ سَعٖيرًاۙ",
+                       "meal":  "Şu muhakkak ki, Allah kâfirleri rahmetinden kovmuş ve onlara çılgın bir ateş hazırlamıştır.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3632,
+                       "verseNumber":  65,
+                       "arabic":  "خَالِدٖينَ فٖيهَٓا اَبَدًاۚ لَا يَجِدُونَ وَلِيًّا وَلَا نَصٖيرًاۚ",
+                       "meal":  "(Onlar) orada ebedî olarak kalacaklar, (kendilerini koruyacak) ne bir dost ne de bir yardımcı bulacaklardır.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3633,
+                       "verseNumber":  66,
+                       "arabic":  "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى النَّارِ يَقُولُونَ يَا لَيْتَنَٓا اَطَعْنَا اللّٰهَ وَاَطَعْنَا الرَّسُولَا",
+                       "meal":  "Yüzleri ateşte evrilip çevrildiği gün: Eyvah bize! Keşke Allah\u0027a itaat etseydik, Peygamber\u0027e de itaat etseydik! derler.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3634,
+                       "verseNumber":  67,
+                       "arabic":  "وَقَالُوا رَبَّنَٓا اِنَّٓا اَطَعْنَا سَادَتَنَا وَكُبَرَٓاءَنَا فَاَضَلُّونَا السَّبٖيلَا",
+                       "meal":  "Ey Rabbimiz! Biz reislerimize ve büyüklerimize uyduk da onlar bizi yoldan saptırdılar, derler.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3635,
+                       "verseNumber":  68,
+                       "arabic":  "رَبَّنَٓا اٰتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبٖيرًا۟",
+                       "meal":  "Rabbimiz! Onlara iki kat azap ver ve onları büyük bir lânetle rahmetinden kov.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3636,
+                       "verseNumber":  69,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا لَا تَكُونُوا كَالَّذٖينَ اٰذَوْا مُوسٰى فَبَرَّاَهُ اللّٰهُ مِمَّا قَالُواۜ وَكَانَ عِنْدَ اللّٰهِ وَجٖيهًا",
+                       "meal":  "Ey iman edenler! Siz de Musa\u0027ya eziyet edenler gibi olmayın. Nihayet Allah onu, dedikleri şeyden temize çıkardı. O, Allah yanında şerefli idi.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3637,
+                       "verseNumber":  70,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُوا اتَّقُوا اللّٰهَ وَقُولُوا قَوْلًا سَدٖيدًاۙ",
+                       "meal":  "Ey iman edenler! Allah\u0027tan korkun ve doğru söz söyleyin.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3638,
+                       "verseNumber":  71,
+                       "arabic":  "يُصْلِحْ لَكُمْ اَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْۜ وَمَنْ يُطِعِ اللّٰهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظٖيمًا",
+                       "meal":  "(Böyle davranırsanız) Allah işlerinizi düzeltir ve günahlarınızı bağışlar. Kim Allah ve Resûlüne itaat ederse büyük bir kurtuluşa ermiş olur.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3639,
+                       "verseNumber":  72,
+                       "arabic":  "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُۜ اِنَّهُ كَانَ ظَلُومًا جَهُولًاۙ",
+                       "meal":  "Biz emaneti, göklere, yere ve dağlara teklif ettik de onlar bunu yüklenmekten çekindiler, (sorumluluğundan) korktular. Onu insan yüklendi. Doğrusu o çok zalim, çok cahildir.",
+                       "page":  426,
+                       "juz":  22
+                   },
+                   {
+                       "id":  3640,
+                       "verseNumber":  73,
+                       "arabic":  "لِيُعَذِّبَ اللّٰهُ الْمُنَافِق۪ينَ وَالْمُنَافِقَاتِ وَالْمُشْرِك۪ينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللّٰهُ عَلَى الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِۜ وَكَانَ اللّٰهُ غَفُورًا رَح۪يمًا",
+                       "meal":  "(Allah bu emaneti insana vermek sûretiyle), münafık erkeklere ve münafık kadınlara, müşrik erkeklere ve müşrik kadınlara azap edecek, inanan erkeklerin ve inanan kadınların da tevbesini kabul buyuracaktır. Allah bağışlayandır, merhamet edendir.",
+                       "page":  426,
+                       "juz":  22
+                   }
+               ]
+}

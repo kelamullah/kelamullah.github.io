@@ -1,0 +1,101 @@
+﻿{
+    "surah":  {
+                  "surahId":  62,
+                  "name":  "Cuma",
+                  "nameArabic":  "سُورَةُ الْجُمُعَةِ",
+                  "verseCount":  11,
+                  "page":  552,
+                  "juz":  28,
+                  "nameEn":  "Al-Jumu\u0027ah"
+              },
+    "verses":  [
+                   {
+                       "id":  5241,
+                       "verseNumber":  1,
+                       "arabic":  "يُسَبِّحُ لِلّٰهِ مَا فِى السَّمٰوَاتِ وَمَا فِى الْاَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزٖيزِ الْحَكٖيمِ",
+                       "meal":  "Göklerde ve yerde olanların hepsi, mülkün sahibi, eksiklikten münezzeh, azîz ve hakîm olan Allah\u0027ı tesbih eder.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5242,
+                       "verseNumber":  2,
+                       "arabic":  "هُوَ الَّذٖى بَعَثَ فِى الْاُمِّيّٖنَ رَسُولًا مِنْهُمْ يَتْلُوا عَلَيْهِمْ اٰيَاتِهٖ وَيُزَكّٖيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَۗ وَاِنْ كَانُوا مِنْ قَبْلُ لَفٖى ضَلَالٍ مُبٖينٍۙ",
+                       "meal":  "Çünkü ümmîlere içlerinden, kendilerine âyetlerini okuyan, onları temizleyen, onlara Kitab\u0027ı ve hikmeti öğreten bir peygamber gönderen O\u0027dur. Kuşkusuz onlar önceden apaçık bir sapıklık içindeydiler.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5243,
+                       "verseNumber":  3,
+                       "arabic":  "وَاٰخَرٖينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْۜ وَهُوَ الْعَزٖيزُ الْحَكٖيمُ",
+                       "meal":  "(Peygamberi) müminlerden henüz kendilerine katılmamış bulunan diğer insanlara da göndermiştir. O, azîzdir, hakîmdir.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5244,
+                       "verseNumber":  4,
+                       "arabic":  "ذٰلِكَ فَضْلُ اللّٰهِ يُؤْتٖيهِ مَنْ يَشَٓاءُۜ وَاللّٰهُ ذُو الْفَضْلِ الْعَظٖيمِ",
+                       "meal":  "Bu, Allah\u0027ın lütfudur. Onu dilediğine verir. Allah büyük lütuf sahibidir.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5245,
+                       "verseNumber":  5,
+                       "arabic":  "مَثَلُ الَّذٖينَ حُمِّلُوا التَّوْرٰيةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ اَسْفَارًاۜ بِئْسَ مَثَلُ الْقَوْمِ الَّذٖينَ كَذَّبُوا بِاٰيَاتِ اللّٰهِۜ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّالِمٖينَ",
+                       "meal":  "Tevrat\u0027la yükümlü tutulup da onunla amel etmeyenlerin durumu, ciltlerce kitap taşıyan merkebin durumu gibidir. Allah\u0027ın âyetlerini yalanlamış olan kavmin durumu ne kötüdür! Allah, zalimler topluluğunu doğru yola iletmez.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5246,
+                       "verseNumber":  6,
+                       "arabic":  "قُلْ يَٓا اَيُّهَا الَّذٖينَ هَادُٓوا اِنْ زَعَمْتُمْ اَنَّكُمْ اَوْلِيَٓاءُ لِلّٰهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ اِنْ كُنْتُمْ صَادِقٖينَ",
+                       "meal":  "De ki: Ey yahudiler! Bütün insanlar değil de, yalnız, kendinizin Allah\u0027ın dostları olduğunuzu iddia ediyorsanız, bunda da samimi iseniz, haydi ölümü temenni edin (bakalım)!",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5247,
+                       "verseNumber":  7,
+                       "arabic":  "وَلَا يَتَمَنَّوْنَهُٓ اَبَدًا بِمَا قَدَّمَتْ اَيْدٖيهِمْۜ وَاللّٰهُ عَلٖيمٌ بِالظَّالِمٖينَ",
+                       "meal":  "Ama onlar, önceden yaptıklarından dolayı ölümü asla temenni etmezler. Allah, zalimleri çok iyi bilir.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5248,
+                       "verseNumber":  8,
+                       "arabic":  "قُلْ اِنَّ الْمَوْتَ الَّذٖى تَفِرُّونَ مِنْهُ فَاِنَّهُ مُلَاقٖيكُمْ ثُمَّ تُرَدُّونَ اِلٰى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ۟",
+                       "meal":  "De ki: Sizin kendisinden kaçtığınız ölüm, muhakkak sizi bulacaktır. Sonra da görüleni ve görülmeyeni bilen Allah\u0027a döndürüleceksiniz de O size bütün yaptıklarınızı haber verecektir.",
+                       "page":  552,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5249,
+                       "verseNumber":  9,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِذَا نُودِىَ لِلصَّلٰوةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا اِلٰى ذِكْرِ اللّٰهِ وَذَرُوا الْبَيْعَۜ ذٰلِكُمْ خَيْرٌ لَكُمْ اِنْ كُنْتُمْ تَعْلَمُونَ",
+                       "meal":  "Ey iman edenler! Cuma günü namaza çağırıldığı (ezan okunduğu) zaman, hemen Allah\u0027ı anmaya koşun ve alış verişi bırakın. Eğer bilmiş olsanız, elbette bu, sizin için daha hayırlıdır.",
+                       "page":  553,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5250,
+                       "verseNumber":  10,
+                       "arabic":  "فَاِذَا قُضِيَتِ الصَّلٰوةُ فَانْتَشِرُوا فِى الْاَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللّٰهِ وَاذْكُرُوا اللّٰهَ كَثٖيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+                       "meal":  "Namaz kılınınca artık yeryüzüne dağılın ve Allah\u0027ın lütfundan isteyin. Allah\u0027ı çok zikredin# umulur ki kurtuluşa erersiniz.",
+                       "page":  553,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5251,
+                       "verseNumber":  11,
+                       "arabic":  "وَاِذَا رَاَوْا تِجَارَةً اَوْ لَهْوًاۨ انْفَضُّٓوا اِلَيْهَا وَتَرَكُوكَ قَٓائِمًاۜ قُلْ مَا عِنْدَ اللّٰهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِۜ وَاللّٰهُ خَيْرُ الرَّازِقٖينَ",
+                       "meal":  "Onlar bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona giderler ve seni ayakta bırakırlar. De ki: Allah\u0027ın yanında bulunan, eğlenceden ve ticaretten daha yararlıdır. Allah, rızık verenlerin en hayırlısıdır.",
+                       "page":  553,
+                       "juz":  28
+                   }
+               ]
+}

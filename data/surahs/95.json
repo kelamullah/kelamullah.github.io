@@ -1,0 +1,77 @@
+﻿{
+    "surah":  {
+                  "surahId":  95,
+                  "name":  "Tîn",
+                  "nameArabic":  "سُورَةُ التّٖينِ",
+                  "verseCount":  8,
+                  "page":  596,
+                  "juz":  30,
+                  "nameEn":  "At-Tin"
+              },
+    "verses":  [
+                   {
+                       "id":  6195,
+                       "verseNumber":  1,
+                       "arabic":  "وَالتّٖينِ وَالزَّيْتُونِۙ",
+                       "meal":  "İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6196,
+                       "verseNumber":  2,
+                       "arabic":  "وَطُورِ سٖينٖينَۙ",
+                       "meal":  "İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6197,
+                       "verseNumber":  3,
+                       "arabic":  "وَهٰذَا الْبَلَدِ الْاَمٖينِۙ",
+                       "meal":  "İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6198,
+                       "verseNumber":  4,
+                       "arabic":  "لَقَدْ خَلَقْنَا الْاِنْسَانَ فٖٓى اَحْسَنِ تَقْوٖيمٍؗ",
+                       "meal":  "İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6199,
+                       "verseNumber":  5,
+                       "arabic":  "ثُمَّ رَدَدْنَاهُ اَسْفَلَ سَافِلٖينَۙ",
+                       "meal":  "İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik.",
+                       "page":  596,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6200,
+                       "verseNumber":  6,
+                       "arabic":  "اِلَّا الَّذٖينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍۜ",
+                       "meal":  "Fakat iman edip sâlih amel işleyenler için eksilmeyen devamlı bir ecir vardır.",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6201,
+                       "verseNumber":  7,
+                       "arabic":  "فَمَا يُكَذِّبُكَ بَعْدُ بِالدّٖينِۜ",
+                       "meal":  "Artık bundan sonra, ceza günü konusunda seni kim yalanlayabilir?",
+                       "page":  597,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6202,
+                       "verseNumber":  8,
+                       "arabic":  "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحَاكِم۪ينَ",
+                       "meal":  "Allah, hüküm verenlerin en üstünü değil midir?",
+                       "page":  597,
+                       "juz":  30
+                   }
+               ]
+}

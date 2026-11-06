@@ -1,0 +1,157 @@
+﻿{
+    "surah":  {
+                  "surahId":  64,
+                  "name":  "Tegâbün",
+                  "nameArabic":  "سُورَةُ التَّغَابُنِ",
+                  "verseCount":  18,
+                  "page":  555,
+                  "juz":  28,
+                  "nameEn":  "At-Taghabun"
+              },
+    "verses":  [
+                   {
+                       "id":  5265,
+                       "verseNumber":  1,
+                       "arabic":  "يُسَبِّحُ لِلّٰهِ مَا فِى السَّمٰوَاتِ وَمَا فِى الْاَرْضِۚ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُؗ وَهُوَ عَلٰى كُلِّ شَىْءٍ قَدٖيرٌ",
+                       "meal":  "Göklerde ve yerde ne varsa hepsi Allah\u0027ı tesbih eder. Mülk O\u0027nundur, hamd O\u0027nadır. O her şeye kadirdir.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5266,
+                       "verseNumber":  2,
+                       "arabic":  "هُوَ الَّذٖى خَلَقَكُمْ فَمِنْكُمْ كَافِرٌ وَمِنْكُمْ مُؤْمِنٌۜ وَاللّٰهُ بِمَا تَعْمَلُونَ بَصٖيرٌ",
+                       "meal":  "Sizi yaratan O\u0027dur. Böyle iken kiminiz kâfir, kiminiz mümindir. Allah yaptıklarınızı görendir.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5267,
+                       "verseNumber":  3,
+                       "arabic":  "خَلَقَ السَّمٰوَاتِ وَالْاَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَاَحْسَنَ صُوَرَكُمْۚ وَاِلَيْهِ الْمَصٖيرُ",
+                       "meal":  "Gökleri ve yeri yerli yerince yarattı. Sizi şekillendirdi ve şekillerinizi de güzel yaptı. Dönüş ancak O\u0027nadır.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5268,
+                       "verseNumber":  4,
+                       "arabic":  "يَعْلَمُ مَا فِى السَّمٰوَاتِ وَالْاَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَۜ وَاللّٰهُ عَلٖيمٌ بِذَاتِ الصُّدُورِ",
+                       "meal":  "Göklerde ve yerde olanları bilir. Gizlediklerinizi ve açığa vurduklarınızı da bilir. Allah kalplerde olanı bilendir.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5269,
+                       "verseNumber":  5,
+                       "arabic":  "اَلَمْ يَاْتِكُمْ نَبَؤُا الَّذٖينَ كَفَرُوا مِنْ قَبْلُؗ فَذَاقُوا وَبَالَ اَمْرِهِمْ وَلَهُمْ عَذَابٌ اَلٖيمٌ",
+                       "meal":  "Daha önce inkâr edenlerin haberi size ulaşmadı mı? İşte onlar (dünyada) yaptıklarının cezasını tattılar. Onlar için acı bir azap da vardır.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5270,
+                       "verseNumber":  6,
+                       "arabic":  "ذٰلِكَ بِاَنَّهُ كَانَتْ تَاْتٖيهِمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَقَالُٓوا اَبَشَرٌ يَهْدُونَنَاؗ فَكَفَرُوا وَتَوَلَّوْا وَاسْتَغْنَى اللّٰهُۜ وَاللّٰهُ غَنِىٌّ حَمٖيدٌ",
+                       "meal":  "(O azabın sebebi) şu ki, onlara peygamberleri apaçık deliller getirmişlerdi, fakat onlar: Bir beşer mi bizi doğru yola götürecekmiş? dediler, inkâr ettiler ve yüz çevirdiler. Allah da hiçbir şeye muhtaç olmadığını gösterdi. Allah zengindir, hamde lâyıktır.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5271,
+                       "verseNumber":  7,
+                       "arabic":  "زَعَمَ الَّذٖينَ كَفَرُٓوا اَنْ لَنْ يُبْعَثُواۜ قُلْ بَلٰى وَرَبّٖى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْۜ وَذٰلِكَ عَلَى اللّٰهِ يَسٖيرٌ",
+                       "meal":  "İnkâr edenler, kesinlikle diriltilmeyeceklerini ileri sürdüler. De ki: Hayır! Rabbime andolsun ki mutlaka diriltileceksiniz, sonra yaptıklarınız size haber verilecektir. Bu, Allah\u0027a göre kolaydır.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5272,
+                       "verseNumber":  8,
+                       "arabic":  "فَاٰمِنُوا بِاللّٰهِ وَرَسُولِهٖ وَالنُّورِ الَّذٖٓى اَنْزَلْنَاۜ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبٖيرٌ",
+                       "meal":  "Onun için Allah\u0027a, Peygamberine ve indirdiğimiz o nûra (Kur\u0027an\u0027a) inanın. Allah yaptıklarınızdan haberdardır.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5273,
+                       "verseNumber":  9,
+                       "arabic":  "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ذٰلِكَ يَوْمُ التَّغَابُنِۜ وَمَنْ يُؤْمِنْ بِاللّٰهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهٖ وَيُدْخِلْهُ جَنَّاتٍ تَجْرٖى مِنْ تَحْتِهَا الْاَنْهَارُ خَالِدٖينَ فٖيهَٓا اَبَدًاۜ ذٰلِكَ الْفَوْزُ الْعَظٖيمُ",
+                       "meal":  "Mahşer vaktinde sizi toplayacağı gün, işte o zarar günüdür. (Ancak) kim Allah\u0027a inanır ve yararlı iş yaparsa, Allah onun kötülüklerini örter, onu (ve benzerlerini), içinde ebedî kalacakları, altlarından ırmaklar akan cennetlere sokar. İşte büyük kurtuluş budur.",
+                       "page":  555,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5274,
+                       "verseNumber":  10,
+                       "arabic":  "وَ‏الَّذٖينَ كَفَرُوا وَكَذَّبُوا بِاٰيَاتِنَٓا اُو۬لٰٓئِكَ اَصْحَابُ النَّارِ خَالِدٖينَ فٖيهَاۜ وَبِئْسَ الْمَصٖيرُ۟",
+                       "meal":  "İnkâr eden ve âyetlerimizi yalanlayanlara gelince, işte onlar cehennem ehlidirler. Orada ebedî kalacaklardır. Ne kötü gidilecek yerdir orası!",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5275,
+                       "verseNumber":  11,
+                       "arabic":  "مَٓا اَصَابَ مِنْ مُصٖيبَةٍ اِلَّا بِاِذْنِ اللّٰهِۜ وَمَنْ يُؤْمِنْ بِاللّٰهِ يَهْدِ قَلْبَهُۜ وَاللّٰهُ بِكُلِّ شَىْءٍ عَلٖيمٌ",
+                       "meal":  "Allah\u0027ın izni olmaksızın hiçbir musibet isabet etmez. Kim Allah\u0027a inanırsa, Allah onun kalbini doğruya götürür. Allah her şeyi bilendir.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5276,
+                       "verseNumber":  12,
+                       "arabic":  "وَاَطٖيعُوا اللّٰهَ وَاَطٖيعُوا الرَّسُولَۚ فَاِنْ تَوَلَّيْتُمْ فَاِنَّمَا عَلٰى رَسُولِنَا الْبَلَاغُ الْمُبٖينُ",
+                       "meal":  "Allah\u0027a itaat edin, Peygamber\u0027e de itaat edin. Yüz çevirirseniz bilin ki, elçimize düşen apaçık bir duyurmadır.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5277,
+                       "verseNumber":  13,
+                       "arabic":  "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۜ وَعَلَى اللّٰهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+                       "meal":  "Allah# O\u0027ndan başka hiçbir ilâh yoktur. Müminler yalnız Allah\u0027a dayanıp güvensinler.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5278,
+                       "verseNumber":  14,
+                       "arabic":  "يَٓا اَيُّهَا الَّذٖينَ اٰمَنُٓوا اِنَّ مِنْ اَزْوَاجِكُمْ وَاَوْلَادِكُمْ عَدُوًّا لَكُمْ فَاحْذَرُوهُمْۚ وَاِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَاِنَّ اللّٰهَ غَفُورٌ رَحٖيمٌ",
+                       "meal":  "Ey iman edenler! Eşlerinizden ve çocuklarınızdan size düşman olanlar da vardır. Onlardan sakının. Ama affeder, kusurlarını başlarına kakmaz, kusurlarını örterseniz, bilin ki, Allah çok bağışlayan, çok esirgeyendir.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5279,
+                       "verseNumber":  15,
+                       "arabic":  "اِنَّمَٓا اَمْوَالُكُمْ وَاَوْلَادُكُمْ فِتْنَةٌۜ وَاللّٰهُ عِنْدَهُٓ اَجْرٌ عَظٖيمٌ",
+                       "meal":  "Doğrusu mallarınız ve çocuklarınız sizin için bir imtihandır. Büyük mükâfat ise Allah\u0027ın yanındadır.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5280,
+                       "verseNumber":  16,
+                       "arabic":  "فَاتَّقُوا اللّٰهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَاَطٖيعُوا وَاَنْفِقُوا خَيْرًا لِاَنْفُسِكُمْۜ وَمَنْ يُوقَ شُحَّ نَفْسِهٖ فَاُو۬لٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+                       "meal":  "O halde gücünüz yettiğince Allah\u0027a isyandan kaçının. Dinleyin, itaat edin, kendi iyiliğinize olarak harcayın. Kim nefsinin cimriliğinden korunursa işte onlar kurtuluşa erenlerdir.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5281,
+                       "verseNumber":  17,
+                       "arabic":  "اِنْ تُقْرِضُوا اللّٰهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْۜ وَاللّٰهُ شَكُورٌ حَلٖيمٌۙ",
+                       "meal":  "Eğer Allah\u0027a (rızası uğruna) ödünç verirseniz, Allah onu sizin için kat kat arttırır ve sizi bağışlar. Allah çok mükâfat verendir, ceza vermekte acele etmeyendir.",
+                       "page":  556,
+                       "juz":  28
+                   },
+                   {
+                       "id":  5282,
+                       "verseNumber":  18,
+                       "arabic":  "عَالِمُ الْغَيْبِ وَالشَّهَادَةِ الْعَزٖيزُ الْحَكٖيمُ",
+                       "meal":  "Görülmeyeni ve görüleni bilendir. Üstündür, hikmet sahibidir.",
+                       "page":  556,
+                       "juz":  28
+                   }
+               ]
+}

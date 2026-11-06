@@ -1,0 +1,37 @@
+﻿{
+    "surah":  {
+                  "surahId":  108,
+                  "name":  "Kevser",
+                  "nameArabic":  "سُورَةُ الْكَوْثَرِ",
+                  "verseCount":  3,
+                  "page":  602,
+                  "juz":  30,
+                  "nameEn":  "Al-Kawthar"
+              },
+    "verses":  [
+                   {
+                       "id":  6314,
+                       "verseNumber":  1,
+                       "arabic":  "اِنَّٓا اَعْطَيْنَاكَ الْكَوْثَرَۜ",
+                       "meal":  "(Resûlüm!) Kuşkusuz biz sana Kevser\u0027i verdik. Şimdi sen Rabbine kulluk et ve kurban kes. Asıl sonu kesik olan, şüphesiz sana hınç besleyendir.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6315,
+                       "verseNumber":  2,
+                       "arabic":  "فَصَلِّ لِرَبِّكَ وَانْحَرْۜ",
+                       "meal":  "(Resûlüm!) Kuşkusuz biz sana Kevser\u0027i verdik. Şimdi sen Rabbine kulluk et ve kurban kes. Asıl sonu kesik olan, şüphesiz sana hınç besleyendir.",
+                       "page":  602,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6316,
+                       "verseNumber":  3,
+                       "arabic":  "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
+                       "meal":  "(Resûlüm!) Kuşkusuz biz sana Kevser\u0027i verdik. Şimdi sen Rabbine kulluk et ve kurban kes. Asıl sonu kesik olan, şüphesiz sana hınç besleyendir.",
+                       "page":  602,
+                       "juz":  30
+                   }
+               ]
+}

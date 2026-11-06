@@ -1,0 +1,85 @@
+﻿{
+    "surah":  {
+                  "surahId":  104,
+                  "name":  "Hümeze",
+                  "nameArabic":  "سُورَةُ الْهُمَزَةِ",
+                  "verseCount":  9,
+                  "page":  601,
+                  "juz":  30,
+                  "nameEn":  "Al-Humazah"
+              },
+    "verses":  [
+                   {
+                       "id":  6285,
+                       "verseNumber":  1,
+                       "arabic":  "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍۙ",
+                       "meal":  "Arkadan çekiştirmeyi, yüze karşı eğlenmeyi âdet edinen herkesin vay haline! O ki, mal toplamış ve onu sayıp durmuştur.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6286,
+                       "verseNumber":  2,
+                       "arabic":  "اَلَّذٖى جَمَعَ مَالًا وَعَدَّدَهُۙ",
+                       "meal":  "Arkadan çekiştirmeyi, yüze karşı eğlenmeyi âdet edinen herkesin vay haline! O ki, mal toplamış ve onu sayıp durmuştur.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6287,
+                       "verseNumber":  3,
+                       "arabic":  "يَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُۚ",
+                       "meal":  "(O), malının kendisini ebedî kılacağını zanneder.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6288,
+                       "verseNumber":  4,
+                       "arabic":  "كَلَّا لَيُنْبَذَنَّ فِى الْحُطَمَةِؗ",
+                       "meal":  "Hayır! Andolsun ki o, Hutame\u0027ye atılacaktır.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6289,
+                       "verseNumber":  5,
+                       "arabic":  "وَمَٓا اَدْرٰيكَ مَا الْحُطَمَةُۜ",
+                       "meal":  "Hutame\u0027nin ne olduğunu bilir misin?",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6290,
+                       "verseNumber":  6,
+                       "arabic":  "نَارُ اللّٰهِ الْمُوقَدَةُۙ",
+                       "meal":  "Allah\u0027ın, tutuşturulmuş, (yandıkça) tırmanıp kalplerin ta üstüne çıkan ateşidir.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6291,
+                       "verseNumber":  7,
+                       "arabic":  "اَلَّتٖى تَطَّلِعُ عَلَى الْاَفْـِٔدَةِۜ",
+                       "meal":  "Allah\u0027ın, tutuşturulmuş, (yandıkça) tırmanıp kalplerin ta üstüne çıkan ateşidir.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6292,
+                       "verseNumber":  8,
+                       "arabic":  "اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌۙ",
+                       "meal":  "Onlar (bu ateşin içinde) uzatılmış sütunlara bağlanmışlar ve o vaziyette o (ateş) üzerlerine kapatılmıştır.",
+                       "page":  601,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6293,
+                       "verseNumber":  9,
+                       "arabic":  "ف۪ي عَمَدٍ مُمَدَّدَةٍ",
+                       "meal":  "Onlar (bu ateşin içinde) uzatılmış sütunlara bağlanmışlar ve o vaziyette o (ateş) üzerlerine kapatılmıştır.",
+                       "page":  601,
+                       "juz":  30
+                   }
+               ]
+}

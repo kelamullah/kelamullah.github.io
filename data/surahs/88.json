@@ -1,0 +1,221 @@
+﻿{
+    "surah":  {
+                  "surahId":  88,
+                  "name":  "Gâşiye",
+                  "nameArabic":  "سُورَةُ الْغَاشِيَةِ",
+                  "verseCount":  26,
+                  "page":  591,
+                  "juz":  30,
+                  "nameEn":  "Al-Ghashiyah"
+              },
+    "verses":  [
+                   {
+                       "id":  6057,
+                       "verseNumber":  1,
+                       "arabic":  "هَلْ اَتٰيكَ حَدٖيثُ الْغَاشِيَةِۜ",
+                       "meal":  "(Resûlüm!) Dehşeti her şeyi kaplayan kıyametin haberi sana geldi mi?",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6058,
+                       "verseNumber":  2,
+                       "arabic":  "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌۙ",
+                       "meal":  "O gün bir takım yüzler zelildir, durmadan çalışır, (fakat boşuna) yorulur, kızgın ateşe girer. Onlara kaynar su pınarından içirilir. Onlar için kuru dikenden başka yemek yoktur, o ise ne besler ne de açlığı giderir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6059,
+                       "verseNumber":  3,
+                       "arabic":  "عَامِلَةٌ نَاصِبَةٌۙ",
+                       "meal":  "O gün bir takım yüzler zelildir, durmadan çalışır, (fakat boşuna) yorulur, kızgın ateşe girer. Onlara kaynar su pınarından içirilir. Onlar için kuru dikenden başka yemek yoktur, o ise ne besler ne de açlığı giderir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6060,
+                       "verseNumber":  4,
+                       "arabic":  "تَصْلٰى نَارًا حَامِيَةًۙ",
+                       "meal":  "O gün bir takım yüzler zelildir, durmadan çalışır, (fakat boşuna) yorulur, kızgın ateşe girer. Onlara kaynar su pınarından içirilir. Onlar için kuru dikenden başka yemek yoktur, o ise ne besler ne de açlığı giderir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6061,
+                       "verseNumber":  5,
+                       "arabic":  "تُسْقٰى مِنْ عَيْنٍ اٰنِيَةٍۜ",
+                       "meal":  "O gün bir takım yüzler zelildir, durmadan çalışır, (fakat boşuna) yorulur, kızgın ateşe girer. Onlara kaynar su pınarından içirilir. Onlar için kuru dikenden başka yemek yoktur, o ise ne besler ne de açlığı giderir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6062,
+                       "verseNumber":  6,
+                       "arabic":  "لَيْسَ لَهُمْ طَعَامٌ اِلَّا مِنْ ضَرٖيعٍۙ",
+                       "meal":  "O gün bir takım yüzler zelildir, durmadan çalışır, (fakat boşuna) yorulur, kızgın ateşe girer. Onlara kaynar su pınarından içirilir. Onlar için kuru dikenden başka yemek yoktur, o ise ne besler ne de açlığı giderir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6063,
+                       "verseNumber":  7,
+                       "arabic":  "لَا يُسْمِنُ وَلَا يُغْنٖى مِنْ جُوعٍۜ",
+                       "meal":  "O gün bir takım yüzler zelildir, durmadan çalışır, (fakat boşuna) yorulur, kızgın ateşe girer. Onlara kaynar su pınarından içirilir. Onlar için kuru dikenden başka yemek yoktur, o ise ne besler ne de açlığı giderir.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6064,
+                       "verseNumber":  8,
+                       "arabic":  "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌۙ",
+                       "meal":  "O gün bir takım yüzler de vardır ki, mutludurlar# (dünyadaki) çabalarından hoşnut olmuşlardır, yüce bir cennettedirler. Orada boş bir söz işitmezler.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6065,
+                       "verseNumber":  9,
+                       "arabic":  "لِسَعْيِهَا رَاضِيَةٌۙ",
+                       "meal":  "O gün bir takım yüzler de vardır ki, mutludurlar# (dünyadaki) çabalarından hoşnut olmuşlardır, yüce bir cennettedirler. Orada boş bir söz işitmezler.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6066,
+                       "verseNumber":  10,
+                       "arabic":  "فٖى جَنَّةٍ عَالِيَةٍۙ",
+                       "meal":  "O gün bir takım yüzler de vardır ki, mutludurlar# (dünyadaki) çabalarından hoşnut olmuşlardır, yüce bir cennettedirler. Orada boş bir söz işitmezler.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6067,
+                       "verseNumber":  11,
+                       "arabic":  "لَا تَسْمَعُ فٖيهَا لَاغِيَةًۜ",
+                       "meal":  "O gün bir takım yüzler de vardır ki, mutludurlar# (dünyadaki) çabalarından hoşnut olmuşlardır, yüce bir cennettedirler. Orada boş bir söz işitmezler.",
+                       "page":  591,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6068,
+                       "verseNumber":  12,
+                       "arabic":  "فٖيهَا عَيْنٌ جَارِيَةٌۘ",
+                       "meal":  "Orada (cennette) devamlı akan bir pınar, orada yükseltilmiş tahtlar, konulmuş kadehler, sıra sıra dizilmiş yastıklar, serilmiş halılar vardır.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6069,
+                       "verseNumber":  13,
+                       "arabic":  "فٖيهَا سُرُرٌ مَرْفُوعَةٌۙ",
+                       "meal":  "Orada (cennette) devamlı akan bir pınar, orada yükseltilmiş tahtlar, konulmuş kadehler, sıra sıra dizilmiş yastıklar, serilmiş halılar vardır.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6070,
+                       "verseNumber":  14,
+                       "arabic":  "وَاَكْوَابٌ مَوْضُوعَةٌۙ",
+                       "meal":  "Orada (cennette) devamlı akan bir pınar, orada yükseltilmiş tahtlar, konulmuş kadehler, sıra sıra dizilmiş yastıklar, serilmiş halılar vardır.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6071,
+                       "verseNumber":  15,
+                       "arabic":  "وَنَمَارِقُ مَصْفُوفَةٌۙ",
+                       "meal":  "Orada (cennette) devamlı akan bir pınar, orada yükseltilmiş tahtlar, konulmuş kadehler, sıra sıra dizilmiş yastıklar, serilmiş halılar vardır.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6072,
+                       "verseNumber":  16,
+                       "arabic":  "وَزَرَابِىُّ مَبْثُوثَةٌۜ",
+                       "meal":  "Orada (cennette) devamlı akan bir pınar, orada yükseltilmiş tahtlar, konulmuş kadehler, sıra sıra dizilmiş yastıklar, serilmiş halılar vardır.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6073,
+                       "verseNumber":  17,
+                       "arabic":  "اَفَلَا يَنْظُرُونَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْ۠",
+                       "meal":  "(İnsanlar) devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yeryüzünün nasıl yayıldığına bir bakmazlar mı?",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6074,
+                       "verseNumber":  18,
+                       "arabic":  "وَاِلَى السَّمَٓاءِ كَيْفَ رُفِعَتْ۠",
+                       "meal":  "(İnsanlar) devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yeryüzünün nasıl yayıldığına bir bakmazlar mı?",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6075,
+                       "verseNumber":  19,
+                       "arabic":  "وَاِلَى الْجِبَالِ كَيْفَ نُصِبَتْ۠",
+                       "meal":  "(İnsanlar) devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yeryüzünün nasıl yayıldığına bir bakmazlar mı?",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6076,
+                       "verseNumber":  20,
+                       "arabic":  "وَاِلَى الْاَرْضِ كَيْفَ سُطِحَتْ۠",
+                       "meal":  "(İnsanlar) devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yeryüzünün nasıl yayıldığına bir bakmazlar mı?",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6077,
+                       "verseNumber":  21,
+                       "arabic":  "فَذَكِّرْ اِنَّمَٓا اَنْتَ مُذَكِّرٌۜ",
+                       "meal":  "O halde (Resûlüm), öğüt ver. Çünkü sen ancak öğüt vericisin. Onların üzerinde bir zorba değilsin. Ancak yüz çevirip inkâr edene gelince, işte öylesini Allah en büyük azap ile cezalandırır. Şüphesiz onların dönüşü sadece bizedir. Sonra onların sorguya çekilmesi de sadece bize aittir.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6078,
+                       "verseNumber":  22,
+                       "arabic":  "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍۙ",
+                       "meal":  "O halde (Resûlüm), öğüt ver. Çünkü sen ancak öğüt vericisin. Onların üzerinde bir zorba değilsin. Ancak yüz çevirip inkâr edene gelince, işte öylesini Allah en büyük azap ile cezalandırır. Şüphesiz onların dönüşü sadece bizedir. Sonra onların sorguya çekilmesi de sadece bize aittir.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6079,
+                       "verseNumber":  23,
+                       "arabic":  "اِلَّا مَنْ تَوَلّٰى وَكَفَرَۙ",
+                       "meal":  "O halde (Resûlüm), öğüt ver. Çünkü sen ancak öğüt vericisin. Onların üzerinde bir zorba değilsin. Ancak yüz çevirip inkâr edene gelince, işte öylesini Allah en büyük azap ile cezalandırır. Şüphesiz onların dönüşü sadece bizedir. Sonra onların sorguya çekilmesi de sadece bize aittir.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6080,
+                       "verseNumber":  24,
+                       "arabic":  "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَۜ",
+                       "meal":  "O halde (Resûlüm), öğüt ver. Çünkü sen ancak öğüt vericisin. Onların üzerinde bir zorba değilsin. Ancak yüz çevirip inkâr edene gelince, işte öylesini Allah en büyük azap ile cezalandırır. Şüphesiz onların dönüşü sadece bizedir. Sonra onların sorguya çekilmesi de sadece bize aittir.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6081,
+                       "verseNumber":  25,
+                       "arabic":  "اِنَّ اِلَيْنَٓا اِيَابَهُمْۙ",
+                       "meal":  "O halde (Resûlüm), öğüt ver. Çünkü sen ancak öğüt vericisin. Onların üzerinde bir zorba değilsin. Ancak yüz çevirip inkâr edene gelince, işte öylesini Allah en büyük azap ile cezalandırır. Şüphesiz onların dönüşü sadece bizedir. Sonra onların sorguya çekilmesi de sadece bize aittir.",
+                       "page":  592,
+                       "juz":  30
+                   },
+                   {
+                       "id":  6082,
+                       "verseNumber":  26,
+                       "arabic":  "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ",
+                       "meal":  "O halde (Resûlüm), öğüt ver. Çünkü sen ancak öğüt vericisin. Onların üzerinde bir zorba değilsin. Ancak yüz çevirip inkâr edene gelince, işte öylesini Allah en büyük azap ile cezalandırır. Şüphesiz onların dönüşü sadece bizedir. Sonra onların sorguya çekilmesi de sadece bize aittir.",
+                       "page":  592,
+                       "juz":  30
+                   }
+               ]
+}
