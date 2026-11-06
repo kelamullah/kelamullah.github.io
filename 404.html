@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Kelamullah</title>
+  <script>
+    var p = window.location.pathname.replace(/^\/+/,'').replace(/\/+$/,'');
+    if (p) {
+      window.location.replace("/#/" + p);
+    } else {
+      window.location.replace("/");
+    }
+  </script>
+</head>
+<body></body>
+</html>
