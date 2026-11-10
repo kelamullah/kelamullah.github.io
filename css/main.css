@@ -1467,12 +1467,12 @@ input, select {
     -webkit-backdrop-filter: blur(25px) saturate(180%);
     z-index: 45;
     justify-content: space-around;
-    padding: 6px 12px;
-    height: 56px;
+    padding: 6px 12px calc(6px + env(safe-area-inset-bottom, 0px));
+    height: calc(56px + env(safe-area-inset-bottom, 0px));
   }
 
   body {
-    padding-bottom: 120px;
+    padding-bottom: calc(120px + env(safe-area-inset-bottom, 0px));
   }
 
   .nav-tab {
@@ -1483,7 +1483,7 @@ input, select {
   }
 
   .audio-bar {
-    bottom: 66px;
+    bottom: calc(66px + env(safe-area-inset-bottom, 0px));
     width: calc(100% - 24px);
   }
 

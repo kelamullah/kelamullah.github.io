@@ -27,6 +27,7 @@ class AudioController {
     this.onStateChangeCallbacks = [];
 
     this._setupAudioListeners();
+    this._setupMediaSession();
   }
 
   _setupAudioListeners() {
@@ -157,6 +158,9 @@ class AudioController {
     this.audio.currentTime = 0;
     this.isPlaying = false;
     this.currentVerseNumber = null;
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.playbackState = 'none';
+    }
     this._notifyVerseChange();
     this._notifyStateChange();
   }
@@ -188,6 +192,7 @@ class AudioController {
   }
 
   _notifyStateChange() {
+    this._updateMediaSession();
     this.onStateChangeCallbacks.forEach(cb => cb({
       isPlaying: this.isPlaying,
       surahId: this.currentSurahId,
@@ -195,6 +200,40 @@ class AudioController {
       playbackRate: this.playbackRate,
       reciterName: this.getReciterName()
     }));
+  }
+
+  _setupMediaSession() {
+    if (!('mediaSession' in navigator)) return;
+
+    try {
+      navigator.mediaSession.setActionHandler('play', () => this.togglePlay());
+      navigator.mediaSession.setActionHandler('pause', () => this.togglePlay());
+      navigator.mediaSession.setActionHandler('previoustrack', () => this.prev());
+      navigator.mediaSession.setActionHandler('nexttrack', () => this.next());
+      navigator.mediaSession.setActionHandler('stop', () => this.stop());
+    } catch (e) {
+      console.warn("MediaSession action handler error:", e);
+    }
+  }
+
+  _updateMediaSession() {
+    if (!('mediaSession' in navigator)) return;
+
+    const surah = window.dataService?.surahMap?.get(this.currentSurahId);
+    const surahTitle = surah ? `${surah.name} Suresi` : `Sure ${this.currentSurahId || ''}`;
+    const verseTitle = this.currentVerseNumber ? `${surahTitle}, ${this.currentVerseNumber}. Âyet` : surahTitle;
+
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: verseTitle,
+      artist: this.getReciterName(),
+      album: "Kelâmullah - Kur'an-ı Kerim",
+      artwork: [
+        { src: 'assets/logo.jpg', sizes: '512x512', type: 'image/jpeg' },
+        { src: 'assets/favicon.svg', sizes: 'any', type: 'image/svg+xml' }
+      ]
+    });
+
+    navigator.mediaSession.playbackState = this.isPlaying ? 'playing' : (this.currentSurahId ? 'paused' : 'none');
   }
 }
 

@@ -74,6 +74,9 @@ class MushafView {
     const surahNamesAr = pageData.surahsOnPage.map(s => s.nameArabic).join(' - ');
     const surahNamesTr = pageData.surahsOnPage.map(s => s.name).join(' - ');
 
+    // Update document title
+    document.title = `Sayfa ${pageData.displayPage} (${surahNamesTr}) - Mushaf - Kelâmullah`;
+
     // Page options for dropdown
     const allPages = window.dataService.getAllPages();
     const pageOptions = allPages.map(pKey => {
@@ -184,7 +187,7 @@ class MushafView {
           ${pageData.prevPage !== null ? `
             <button class="page-nav-btn" onclick="window.location.hash='#/mushaf/${pageData.prevPage}'">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m15 18-6-6 6-6"/></svg>
-              <span>Önceki Sayfa (${pageData.displayPage - 1})</span>
+              <span>Önceki Sayfa (${pageData.prevMushafPage})</span>
             </button>
           ` : `<div></div>`}
 
@@ -194,7 +197,7 @@ class MushafView {
 
           ${pageData.nextPage !== null ? `
             <button class="page-nav-btn" onclick="window.location.hash='#/mushaf/${pageData.nextPage}'">
-              <span>Sonraki Sayfa (${pageData.displayPage + 1})</span>
+              <span>Sonraki Sayfa (${pageData.nextMushafPage})</span>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 18 6-6-6-6"/></svg>
             </button>
           ` : `<div></div>`}

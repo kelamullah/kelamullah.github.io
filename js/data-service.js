@@ -8,6 +8,12 @@ const MEDINAN_SURAHS = new Set([
   2, 3, 4, 5, 8, 9, 13, 22, 24, 33, 47, 48, 49, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 76, 98, 110
 ]);
 
+// Convert internal zero-based dataset page key to traditional 1..604 Mushaf display page
+function toMushafPage(pageKey) {
+  const p = Number(pageKey || 0);
+  return p <= 586 ? p + 1 : p;
+}
+
 class DataService {
   constructor() {
     this.surahs = [];
@@ -67,7 +73,7 @@ class DataService {
         ...s,
         revelation: MEDINAN_SURAHS.has(s.surahId) ? 'medeni' : 'mekki',
         revelationTitle: MEDINAN_SURAHS.has(s.surahId) ? 'Medenî' : 'Mekkî',
-        mushafPage: Math.min(604, (s.page || 0) + 1)
+        mushafPage: toMushafPage(s.page)
       }));
 
       // Build index maps
@@ -77,7 +83,7 @@ class DataService {
       }
 
       for (const v of this.verses) {
-        v.mushafPage = Math.min(604, (v.page || 0) + 1);
+        v.mushafPage = toMushafPage(v.page);
         // Clean up hash signs in Turkish translation (# to ;)
         if (v.meal) {
           v.mealClean = v.meal.replace(/#\s*/g, '; ').trim();
@@ -127,6 +133,9 @@ class DataService {
     const prevPage = pageIndex > 0 ? this.allPages[pageIndex - 1] : null;
     const nextPage = pageIndex < this.allPages.length - 1 ? this.allPages[pageIndex + 1] : null;
 
+    const prevMushafPage = prevPage !== null ? toMushafPage(prevPage) : null;
+    const nextMushafPage = nextPage !== null ? toMushafPage(nextPage) : null;
+
     return {
       pageKey: p,
       displayPage: first.mushafPage,
@@ -136,6 +145,8 @@ class DataService {
       pageIndex,
       prevPage,
       nextPage,
+      prevMushafPage,
+      nextMushafPage,
       totalCount: this.allPages.length
     };
   }

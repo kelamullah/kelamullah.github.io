@@ -175,6 +175,9 @@ class ReaderView {
     this.currentSurah = surah;
     this.currentVerses = verses;
 
+    // Update document title
+    document.title = `${surah.surahId}. ${surah.name} Suresi (${surah.nameArabic}) - Kelâmullah`;
+
     // Save as last read
     localStorage.setItem('kelamullah_last_read', JSON.stringify({
       surahId: surah.surahId,

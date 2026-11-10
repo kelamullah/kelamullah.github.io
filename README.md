@@ -45,17 +45,22 @@ kelamullah.github.io/
 ├── js/
 │   ├── app.js               # Ana uygulama denetleyicisi & yönlendirme (routing)
 │   ├── reader.js            # Sure okuma ve ayet etkileşimleri
+│   ├── mushaf.js            # Matbu 604 sayfa Mushaf görünümü ve sayfa çevirme
 │   ├── search.js            # Hızlı istemci taraflı tam metin arama motoru
-│   ├── audio.js             # Sesli tilavet kontrolcüsü
+│   ├── audio.js             # Sesli tilavet kontrolcüsü & MediaSession
 │   └── data-service.js      # Veri yükleme ve indeksleme servisi
 ├── data/
 │   ├── kuran_arapca.json    # Kur'an Arapça metin veritabanı
 │   ├── kuran_meal.json      # Türkçe meal veritabanı
 │   ├── kuran_sureler.json   # Sureler dizini ve künyesi
-│   ├── quran_data.js        # Çevrimdışı hazır veri paketi
+│   └── quran_data.js        # Çevrimdışı hazır veri paketi
 ├── assets/
 │   ├── logo.jpg             # Kurumsal logo
-│   └── manifest.json        # PWA (Progressive Web App) manifesti
+│   ├── favicon.svg          # Vektörel İslami geometrik logo
+│   └── manifest.json        # PWA manifesti
+├── sw.js                    # Çevrimdışı PWA Service Worker önbellekleme
+├── manifest.json            # PWA (Progressive Web App) manifesti
+├── favicon.ico              # Web sitesi simgesi
 ├── llms.txt                 # Yapay zeka ve LLM modelleri için özet makine manifestosu
 ├── llms-full.txt            # 114 surenin tamamını içeren kapsamlı AI bilgi tabanı
 ├── robots.txt               # Arama motorları ve LLM botları (GPTBot, ClaudeBot, Perplexity) izinleri

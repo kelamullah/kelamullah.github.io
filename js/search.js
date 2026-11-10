@@ -14,12 +14,13 @@ class SearchEngine {
   normalizeText(str) {
     if (!str) return '';
     return str
+      .replace(/İ/g, 'i')
+      .replace(/I/g, 'i')
       .toLowerCase()
       .replace(/â/g, 'a')
       .replace(/î/g, 'i')
       .replace(/û/g, 'u')
       .replace(/ı/g, 'i')
-      .replace(/İ/g, 'i')
       .replace(/ğ/g, 'g')
       .replace(/ü/g, 'u')
       .replace(/ş/g, 's')
@@ -87,16 +88,21 @@ class SearchEngine {
   highlightMatches(text, queryWords) {
     if (!text || !queryWords || queryWords.length === 0) return text;
 
-    let highlighted = text;
-    for (const word of queryWords) {
-      if (word.length < 2) continue;
-      const pattern = this.buildFuzzyRegex(word);
-      highlighted = highlighted.replace(pattern, '<mark>$1</mark>');
-    }
-    return highlighted;
+    // Filter valid words and sort by descending length so longer phrases match first
+    const validWords = queryWords
+      .map(w => w.trim())
+      .filter(w => w.length >= 2)
+      .sort((a, b) => b.length - a.length);
+
+    if (validWords.length === 0) return text;
+
+    const patterns = validWords.map(w => this.buildFuzzyPattern(w));
+    const combinedRegex = new RegExp(`(${patterns.join('|')})`, 'gi');
+
+    return text.replace(combinedRegex, '<mark>$1</mark>');
   }
 
-  buildFuzzyRegex(word) {
+  buildFuzzyPattern(word) {
     const charMap = {
       'a': '[aâAÂ]',
       'i': '[iîıİIÎ]',
@@ -107,10 +113,11 @@ class SearchEngine {
       'o': '[oöOÖ]'
     };
     let pattern = '';
-    for (const char of word.toLowerCase()) {
+    const norm = word.replace(/İ/g, 'i').replace(/I/g, 'i').toLowerCase();
+    for (const char of norm) {
       pattern += charMap[char] || char.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     }
-    return new RegExp(`(${pattern})`, 'gi');
+    return pattern;
   }
 }
 

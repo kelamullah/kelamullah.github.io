@@ -2,7 +2,7 @@
 <html lang="tr" data-theme="dark">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Kelamullah | Kur'an-ı Kerim ve Meali</title>
   <link rel="canonical" href="https://kelamullah.github.io/">
   
@@ -43,9 +43,10 @@
   <meta name="twitter:image" content="https://kelamullah.github.io/assets/logo.jpg">
 
   <!-- Favicon & PWA -->
-  <link rel="icon" type="image/jpeg" href="assets/logo.jpg">
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="alternate icon" type="image/x-icon" href="favicon.ico">
   <link rel="apple-touch-icon" href="assets/logo.jpg">
-  <link rel="manifest" href="assets/manifest.json">
+  <link rel="manifest" href="manifest.json">
 
   <!-- Yapay Zeka ve Botlar İçin Yapılandırılmış Veri (JSON-LD Schema.org) -->
   <script type="application/ld+json">
@@ -337,6 +338,17 @@
   <script src="js/reader.js"></script>
   <script src="js/mushaf.js"></script>
   <script src="js/app.js"></script>
+
+  <!-- 3. Progressive Web App Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator && (window.location.protocol === 'https:' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').catch((err) => {
+          console.warn('Service Worker registration skipped/failed:', err);
+        });
+      });
+    }
+  </script>
 
 </body>
 </html>

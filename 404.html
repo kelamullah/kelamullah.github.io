@@ -5,9 +5,9 @@
   <title>Kelamullah</title>
   <script>
     var p = window.location.pathname.replace(/^\/+/,'').replace(/\/+$/,'');
-    if (p) {
+    if (p && !/\.(ico|png|jpg|jpeg|svg|json|xml|txt|ttf|woff|woff2|css|js|map)$/i.test(p)) {
       window.location.replace("/#/" + p);
-    } else {
+    } else if (!p) {
       window.location.replace("/");
     }
   </script>

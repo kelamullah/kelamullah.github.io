@@ -139,8 +139,23 @@ class App {
       this.renderSurahList();
     } else if (hash.startsWith('#/mushaf')) {
       this.currentView = 'mushaf';
-      const pagePart = hash.replace('#/mushaf', '').replace('/', '');
-      const pageKey = pagePart !== '' ? parseInt(pagePart) : (this.lastViewedPageKey !== undefined ? this.lastViewedPageKey : 0);
+      const pagePart = hash.replace('#/mushaf', '').replace(/^\/+/, '');
+      let pageKey = 0;
+      if (pagePart !== '') {
+        const rawNum = parseInt(pagePart, 10);
+        if (!isNaN(rawNum)) {
+          // Normalize 1-based traditional Mushaf page (1..604) to dataset key
+          if (rawNum === 1 || rawNum === 0) {
+            pageKey = 0;
+          } else if (rawNum > 1 && rawNum <= 586) {
+            pageKey = rawNum - 1;
+          } else {
+            pageKey = Math.min(604, rawNum);
+          }
+        }
+      } else if (this.lastViewedPageKey !== undefined) {
+        pageKey = this.lastViewedPageKey;
+      }
       this.lastViewedPageKey = pageKey;
       window.mushafView.renderPage(pageKey);
     } else if (hash.startsWith('#/cuzler')) {
@@ -161,7 +176,14 @@ class App {
       this.openJuz(cuzId);
     } else if (hash.startsWith('#/arama')) {
       this.currentView = 'search';
-      this.renderSearchView();
+      let searchQ = '';
+      if (hash.includes('?q=')) {
+        searchQ = decodeURIComponent(hash.split('?q=')[1].split('&')[0]);
+      } else {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has('q')) searchQ = urlParams.get('q');
+      }
+      this.renderSearchView(searchQ);
     } else if (hash.startsWith('#/kaydedilenler')) {
       this.currentView = 'saved';
       this.renderSavedView();
@@ -238,6 +260,7 @@ class App {
   }
 
   renderSurahList() {
+    document.title = "Kelamullah | Kur'an-ı Kerim ve Meali";
     const container = document.getElementById('mainViewContainer');
     const cardsHtml = this.getSurahCardsHtml();
 
@@ -335,6 +358,7 @@ class App {
      ========================================================================== */
 
   renderJuzList() {
+    document.title = "30 Cüz Dizini - Kelâmullah";
     const container = document.getElementById('mainViewContainer');
     const juzList = window.dataService.getJuzList();
 
@@ -381,13 +405,16 @@ class App {
      View: Full Text Search
      ========================================================================== */
 
-  renderSearchView() {
+  renderSearchView(initialQuery = '') {
+    document.title = initialQuery ? `"${initialQuery}" - Kur'an'da Arama - Kelâmullah` : "Kur'an-ı Kerim'de Arama - Kelâmullah";
     const container = document.getElementById('mainViewContainer');
     const allSurahs = window.dataService.getAllSurahs();
 
     const surahOptions = allSurahs.map(s => 
       `<option value="${s.surahId}">${s.surahId}. ${s.name}</option>`
     ).join('');
+
+    const safeInitial = (initialQuery || '').replace(/"/g, '&quot;');
 
     container.innerHTML = `
       <div class="container search-view-container" style="padding-top: 1.5rem;">
@@ -401,6 +428,7 @@ class App {
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
             <input type="text" class="search-input" id="fullSearchInput" 
                    placeholder="Aramak istediğiniz kelimeyi veya kavramı yazın (Örn: adalet, namaz, cennet, sabır)..." 
+                   value="${safeInitial}"
                    oninput="window.app.executeFullSearch()">
           </div>
 
@@ -421,7 +449,13 @@ class App {
 
     setTimeout(() => {
       const input = document.getElementById('fullSearchInput');
-      if (input) input.focus();
+      if (input) {
+        if (initialQuery && initialQuery.trim().length >= 2) {
+          this.executeFullSearch();
+        } else {
+          input.focus();
+        }
+      }
     }, 100);
   }
 
@@ -434,6 +468,12 @@ class App {
 
     const query = input.value.trim();
     const scopeSurahId = scopeSelect ? scopeSelect.value : null;
+
+    if (query.length >= 2) {
+      if (window.history && window.history.replaceState) {
+        window.history.replaceState(null, '', '#/arama?q=' + encodeURIComponent(query));
+      }
+    }
 
     if (query.length < 2) {
       resultsArea.innerHTML = `
@@ -484,6 +524,7 @@ class App {
      ========================================================================== */
 
   renderSavedView() {
+    document.title = "Kaydedilen Âyetler - Kelâmullah";
     const container = document.getElementById('mainViewContainer');
     const bookmarks = window.readerView.bookmarks;
 
