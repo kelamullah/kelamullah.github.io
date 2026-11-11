@@ -228,8 +228,7 @@ class AudioController {
       artist: this.getReciterName(),
       album: "Kelâmullah - Kur'an-ı Kerim",
       artwork: [
-        { src: 'assets/logo.jpg', sizes: '512x512', type: 'image/jpeg' },
-        { src: 'assets/favicon.svg', sizes: 'any', type: 'image/svg+xml' }
+        { src: 'assets/logo.jpg', sizes: '512x512', type: 'image/jpeg' }
       ]
     });
 

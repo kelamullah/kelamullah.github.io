@@ -55,8 +55,7 @@ kelamullah.github.io/
 │   ├── kuran_sureler.json   # Sureler dizini ve künyesi
 │   └── quran_data.js        # Çevrimdışı hazır veri paketi
 ├── assets/
-│   ├── logo.jpg             # Kurumsal logo
-│   ├── favicon.svg          # Vektörel İslami geometrik logo
+│   ├── logo.jpg             # Kurumsal logo ve simge
 │   └── manifest.json        # PWA manifesti
 ├── sw.js                    # Çevrimdışı PWA Service Worker önbellekleme
 ├── manifest.json            # PWA (Progressive Web App) manifesti

@@ -3,14 +3,13 @@
  * Provides offline PWA support, local asset caching, and instant load.
  */
 
-const CACHE_NAME = 'kelamullah-v1';
+const CACHE_NAME = 'kelamullah-v2';
 
 const STATIC_ASSETS = [
   './',
   './index.html',
   './manifest.json',
   './favicon.ico',
-  './assets/favicon.svg',
   './assets/logo.jpg',
   './assets/manifest.json',
   './css/main.css',
