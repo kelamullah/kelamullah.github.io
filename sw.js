@@ -3,7 +3,7 @@
  * Provides offline PWA support, local asset caching, and instant load.
  */
 
-const CACHE_NAME = 'kelamullah-v3';
+const CACHE_NAME = 'kelamullah-v6';
 
 const STATIC_ASSETS = [
   './',
@@ -12,16 +12,16 @@ const STATIC_ASSETS = [
   './favicon.ico',
   './assets/logo.jpg',
   './assets/manifest.json',
-  './css/main.css',
-  './css/quran-font.css',
+  './css/main.css?v=6',
+  './css/quran-font.css?v=6',
   './fonts/abay_mushaf_tdv_normal.ttf',
   './fonts/quran_font_hamdullah.ttf',
-  './js/data-service.js',
-  './js/audio.js',
-  './js/search.js',
-  './js/reader.js',
-  './js/mushaf.js',
-  './js/app.js',
+  './js/data-service.js?v=6',
+  './js/audio.js?v=6',
+  './js/search.js?v=6',
+  './js/reader.js?v=6',
+  './js/mushaf.js?v=6',
+  './js/app.js?v=6',
   './data/quran_data.js',
   './data/kuran_sureler.json'
 ];

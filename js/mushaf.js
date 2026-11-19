@@ -191,10 +191,6 @@ class MushafView {
             </button>
           ` : `<div></div>`}
 
-          <div style="font-size: 0.8rem; color: var(--text-dim); text-align: center;">
-            Sol / Sağ ok tuşlarıyla sayfa çevirebilirsiniz
-          </div>
-
           ${pageData.nextPage !== null ? `
             <button class="page-nav-btn" onclick="window.location.hash='#/mushaf/${pageData.nextPage}'">
               <span>Sonraki Sayfa (${pageData.nextMushafPage})</span>

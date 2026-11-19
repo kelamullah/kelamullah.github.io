@@ -1,8 +1,7 @@
 /**
  * Kelâmullah - Reader View Module
- * Renders surah verses, supports 4 reading modes
- * (Alt Alta, Yan Yana, Meal, Arapça), in-surah filtering, focus mode,
- * reading progress indicator, and verse spotlight modal.
+ * Renders surah verses, supports reading modes (Alt Alta, Yan Yana, Meal, Arapça),
+ * and verse actions (listen, bookmark, copy, share).
  */
 
 class ReaderView {
@@ -12,36 +11,14 @@ class ReaderView {
     this.container = null;
     this.viewMode = localStorage.getItem('kelamullah_view_mode') || 'both'; // both, side-by-side, arabic-only, meal-only
     this.bookmarks = JSON.parse(localStorage.getItem('kelamullah_bookmarks') || '[]');
-    this.inSurahQuery = '';
 
     this._setupAudioListener();
-    this._setupScrollProgressListener();
   }
 
   _setupAudioListener() {
     window.audioController.onVerseChange((surahId, verseNumber) => {
       this.highlightPlayingVerse(surahId, verseNumber);
     });
-  }
-
-  _setupScrollProgressListener() {
-    window.addEventListener('scroll', () => {
-      if (window.app && window.app.currentView === 'reader') {
-        this._updateReadingProgress();
-      }
-    }, { passive: true });
-  }
-
-  _updateReadingProgress() {
-    const fill = document.getElementById('surahReadingProgress');
-    if (!fill) return;
-    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
-    if (docHeight <= 0) {
-      fill.style.width = '100%';
-      return;
-    }
-    const pct = Math.min(100, Math.max(0, (window.scrollY / docHeight) * 100));
-    fill.style.width = `${pct.toFixed(1)}%`;
   }
 
   init(containerElement) {
@@ -172,15 +149,6 @@ class ReaderView {
     }
   }
 
-  toggleFocusMode() {
-    const isFocus = document.body.classList.toggle('focus-mode');
-    const btn = document.getElementById('focusModeToggleBtn');
-    if (btn) {
-      btn.classList.toggle('active', isFocus);
-    }
-    window.app?.showToast(isFocus ? "Odak modu açıldı (Çıkmak için tekrar tıklayın)" : "Odak modu kapatıldı");
-  }
-
   highlightPlayingVerse(surahId, verseNumber) {
     document.querySelectorAll('.verse-card.playing').forEach(el => el.classList.remove('playing'));
 
@@ -196,11 +164,11 @@ class ReaderView {
     }
   }
 
-  _buildVersesHtml(surah, verses, queryWords = []) {
+  _buildVersesHtml(surah, verses) {
     if (!verses || verses.length === 0) {
       return `
         <div class="empty-state" style="padding: 3rem 1rem;">
-          <p>Bu sure içinde aradığınız ifadeyle eşleşen âyet bulunamadı.</p>
+          <p>Bu surede gösterilecek âyet bulunamadı.</p>
         </div>
       `;
     }
@@ -211,10 +179,7 @@ class ReaderView {
                         window.audioController.currentSurahId === surah.surahId &&
                         window.audioController.currentVerseNumber === v.verseNumber;
 
-      const rawMeal = v.mealClean || v.meal;
-      const renderedMeal = queryWords.length > 0 && window.searchEngine
-        ? window.searchEngine.highlightMatches(rawMeal, queryWords)
-        : rawMeal;
+      const renderedMeal = v.mealClean || v.meal;
 
       return `
         <article class="verse-card ${isPlaying ? 'playing' : ''}" id="verse-${surah.surahId}-${v.verseNumber}" data-ayah="${v.verseNumber}">
@@ -228,10 +193,6 @@ class ReaderView {
             <div class="verse-actions">
               <button type="button" class="verse-action-btn" onclick="window.audioController.playVerse(${surah.surahId}, ${v.verseNumber}, window.readerView.currentVerses)" title="Bu Âyeti Dinle">
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>
-              </button>
-
-              <button type="button" class="verse-action-btn" onclick="window.readerView.openVerseSpotlight(${surah.surahId}, ${v.verseNumber})" title="Tefekkür / Kart Görünümü">
-                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h6v6"/><path d="M9 21H3v-6"/><path d="M21 3l-7 7"/><path d="M3 21l7-7"/></svg>
               </button>
 
               <button type="button" class="verse-action-btn bookmark-btn ${isBookmarked ? 'active' : ''}"
@@ -266,111 +227,6 @@ class ReaderView {
     }).join('');
   }
 
-  filterInSurah(query) {
-    this.inSurahQuery = query || '';
-    const versesContainer = document.getElementById('versesContainer');
-    const clearBtn = document.getElementById('inSurahClearBtn');
-    if (clearBtn) clearBtn.style.display = this.inSurahQuery ? 'inline-flex' : 'none';
-    if (!versesContainer || !this.currentSurah) return;
-
-    const trimmed = this.inSurahQuery.trim();
-    if (!trimmed) {
-      versesContainer.innerHTML = this._buildVersesHtml(this.currentSurah, this.currentVerses, []);
-      return;
-    }
-
-    if (/^\d+$/.test(trimmed)) {
-      const targetNum = Number(trimmed);
-      const exactMatches = this.currentVerses.filter(v => v.verseNumber === targetNum);
-      const partialMatches = exactMatches.length > 0
-        ? exactMatches
-        : this.currentVerses.filter(v => String(v.verseNumber).includes(trimmed));
-      versesContainer.innerHTML = this._buildVersesHtml(this.currentSurah, partialMatches, []);
-      return;
-    }
-
-    const normQuery = window.searchEngine.normalizeText(trimmed);
-    const words = normQuery.split(' ').filter(w => w.length > 0);
-    const matched = this.currentVerses.filter(v => {
-      const mealNorm = window.searchEngine.normalizeText(v.mealClean || v.meal || '');
-      const arabicNoTashkeel = (v.arabic || '').replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '');
-      return words.every(w => mealNorm.includes(w)) || arabicNoTashkeel.includes(trimmed) || (v.arabic && v.arabic.includes(trimmed));
-    });
-
-    versesContainer.innerHTML = this._buildVersesHtml(this.currentSurah, matched, words);
-  }
-
-  clearInSurahFilter() {
-    const input = document.getElementById('inSurahSearchInput');
-    if (input) input.value = '';
-    this.filterInSurah('');
-  }
-
-  openVerseSpotlight(surahId, verseNumber) {
-    const sId = Number(surahId);
-    const vNo = Number(verseNumber);
-    const { surah, verses } = window.dataService.getSurah(sId);
-    const verse = verses.find(v => v.verseNumber === vNo);
-    if (!surah || !verse) return;
-
-    const modal = document.getElementById('verseSpotlightModal');
-    const card = document.getElementById('verseSpotlightCard');
-    if (!modal || !card) return;
-
-    const isBookmarked = this.isBookmarked(sId, vNo);
-    const prevAyah = vNo > 1 ? vNo - 1 : null;
-    const nextAyah = vNo < surah.verseCount ? vNo + 1 : null;
-
-    card.innerHTML = `
-      <div class="modal-header">
-        <div>
-          <h3 class="modal-title">${surah.name} Suresi, ${vNo}. Âyet</h3>
-          <span style="font-size: 0.78rem; color: var(--text-muted);">${surah.nameArabic}${surah.meaningTr ? ' • ' + surah.meaningTr : ''} • Cüz ${verse.juz}</span>
-        </div>
-        <button type="button" class="icon-btn" onclick="window.readerView.closeVerseSpotlight()" title="Kapat (Esc)">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
-        </button>
-      </div>
-
-      <div class="verse-arabic arabic-quran-text" style="padding: 1.15rem 0; border-bottom: 1px solid var(--border-subtle); font-size: calc(var(--arabic-font-size) + 4px);">
-        ${verse.arabic}
-        <span class="ayah-end-symbol">﴿${verse.verseNumber}﴾</span>
-      </div>
-
-      <div class="verse-meal" style="padding: 1.2rem 0; border-top: none; font-size: calc(var(--meal-font-size) + 2px);">
-        ${verse.mealClean || verse.meal}
-      </div>
-
-      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 0.75rem; padding-top: 1rem; border-top: 1px solid var(--border-subtle);">
-        <button type="button" class="page-nav-btn" style="flex: 1; justify-content: center; background: var(--accent-emerald); color: #fff; border-color: var(--accent-emerald);"
-                onclick="window.audioController.playVerse(${sId}, ${vNo}, window.dataService.getSurah(${sId}).verses)">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>
-          <span>Dinle</span>
-        </button>
-        <button type="button" class="page-nav-btn" style="flex: 1; justify-content: center;"
-                onclick="window.readerView.copyVerse(${sId}, ${vNo})">
-          <span>Kopyala</span>
-        </button>
-        <button type="button" class="page-nav-btn bookmark-btn ${isBookmarked ? 'active' : ''}" data-surah="${sId}" data-ayah="${vNo}" style="flex: 1; justify-content: center;"
-                onclick="window.readerView.toggleBookmark(${sId}, ${vNo})">
-          <span>${isBookmarked ? 'Kaydedildi' : 'Kaydet'}</span>
-        </button>
-      </div>
-
-      <div style="display: flex; justify-content: space-between; margin-top: 1rem;">
-        ${prevAyah ? `<button type="button" class="subtle-action-btn" onclick="window.readerView.openVerseSpotlight(${sId}, ${prevAyah})">← ${prevAyah}. Âyet</button>` : '<span></span>'}
-        ${nextAyah ? `<button type="button" class="subtle-action-btn" onclick="window.readerView.openVerseSpotlight(${sId}, ${nextAyah})">${nextAyah}. Âyet →</button>` : '<span></span>'}
-      </div>
-    `;
-
-    modal.classList.add('open');
-  }
-
-  closeVerseSpotlight() {
-    const modal = document.getElementById('verseSpotlightModal');
-    if (modal) modal.classList.remove('open');
-  }
-
   renderSurah(surahId, targetAyah = null) {
     const { surah, verses } = window.dataService.getSurah(surahId);
     if (!surah) {
@@ -390,7 +246,6 @@ class ReaderView {
 
     this.currentSurah = surah;
     this.currentVerses = verses;
-    this.inSurahQuery = '';
 
     document.title = `${surah.surahId}. ${surah.name} Suresi (${surah.nameArabic}) - Kelâmullah`;
 
@@ -406,7 +261,7 @@ class ReaderView {
     const showBasmala = surah.surahId !== 9 && surah.surahId !== 1;
     const allSurahs = window.dataService.getAllSurahs();
     const surahOptions = allSurahs.map(s =>
-      `<option value="${s.surahId}" ${s.surahId === surah.surahId ? 'selected' : ''}>${s.surahId}. ${s.name} (${s.nameArabic})</option>`
+      `<option value="${s.surahId}" ${s.surahId === surah.surahId ? 'selected' : ''}>${s.surahId}. ${s.name}</option>`
     ).join('');
 
     const verseOptions = verses.map(v =>
@@ -420,13 +275,11 @@ class ReaderView {
       this.viewMode === 'arabic-only' ? 'view-mode-arabic-only' :
       this.viewMode === 'meal-only' ? 'view-mode-meal-only' :
       this.viewMode === 'side-by-side' ? 'view-mode-side-by-side' : '';
-    const wideClass = window.app?.readingWidth === 'wide' ? 'wide-layout' : '';
-    const isFocus = document.body.classList.contains('focus-mode');
 
-    const versesHtml = this._buildVersesHtml(surah, verses, []);
+    const versesHtml = this._buildVersesHtml(surah, verses);
 
     const html = `
-      <!-- Sticky Navigation Bar & Reading Progress -->
+      <!-- Sticky Navigation Bar -->
       <div class="reader-sticky-bar">
         <div class="container">
           <div class="reader-bar-content">
@@ -444,29 +297,9 @@ class ReaderView {
                 <option value="">Âyet Seç...</option>
                 ${verseOptions}
               </select>
-
-              <div class="reader-inline-search">
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-                <input type="text" class="reader-inline-input" id="inSurahSearchInput"
-                       placeholder="Sure içi ara / âyet..."
-                       oninput="window.readerView.filterInSurah(this.value)">
-                <button type="button" class="reader-inline-clear" id="inSurahClearBtn" onclick="window.readerView.clearInSurahFilter()" title="Temizle">✕</button>
-              </div>
             </div>
 
             <div class="reader-bar-right">
-              <div class="nav-tabs" id="readerViewModePills" style="padding: 3px;">
-                <button type="button" class="nav-tab ${this.viewMode === 'both' ? 'active' : ''}" data-view-mode="both" onclick="window.readerView.setViewMode('both')" title="Arapça ve Meal Alt Alta">Alt Alta</button>
-                <button type="button" class="nav-tab ${this.viewMode === 'side-by-side' ? 'active' : ''}" data-view-mode="side-by-side" onclick="window.readerView.setViewMode('side-by-side')" title="Arapça ve Meal Yan Yana">Yan Yana</button>
-                <button type="button" class="nav-tab ${this.viewMode === 'meal-only' ? 'active' : ''}" data-view-mode="meal-only" onclick="window.readerView.setViewMode('meal-only')" title="Sadece Türkçe Meal">Meal</button>
-                <button type="button" class="nav-tab ${this.viewMode === 'arabic-only' ? 'active' : ''}" data-view-mode="arabic-only" onclick="window.readerView.setViewMode('arabic-only')" title="Sadece Arapça">Arapça</button>
-              </div>
-
-              <button type="button" class="focus-toggle-btn ${isFocus ? 'active' : ''}" id="focusModeToggleBtn" onclick="window.readerView.toggleFocusMode()" title="Dikkat Dağıtmayan Odak Modu">
-                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M21 8V5a2 2 0 0 0-2-2h-3"/><path d="M3 16v3a2 2 0 0 0 2 2h3"/><path d="M16 21h3a2 2 0 0 0 2-2v-3"/></svg>
-                <span>Odak</span>
-              </button>
-
               <button type="button" class="search-trigger-btn" onclick="window.location.hash='#/mushaf/' + (${verses[0] ? (verses[0].mushafPage || 1) : 1})" title="Mushaf Sayfa Görünümüne Geç">
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
                 <span>Mushaf</span>
@@ -478,23 +311,17 @@ class ReaderView {
             </div>
           </div>
         </div>
-        <div class="reading-progress-track">
-          <div class="reading-progress-fill" id="surahReadingProgress"></div>
-        </div>
       </div>
 
-      <div class="container reader-container ${viewModeClass} ${wideClass}">
+      <div class="container reader-container ${viewModeClass}">
         <!-- Surah Hero Header -->
         <div class="surah-hero-header">
           <div class="surah-header-arabic">${surah.nameArabic}</div>
           <h1 class="surah-header-title">${surah.surahId}. ${surah.name} Suresi</h1>
-          ${surah.meaningTr ? `<div class="surah-header-meaning">${surah.meaningTr}</div>` : ''}
           <div class="surah-header-meta">
             <span class="revelation-tag ${surah.revelation}">${surah.revelationTitle}</span>
             <span>•</span>
             <span><strong>${surah.verseCount}</strong> Âyet</span>
-            <span>•</span>
-            <span>İniş Sırası: <strong>${surah.revelationOrder || surah.surahId}.</strong></span>
             <span>•</span>
             <span><strong>${surah.juz}.</strong> Cüz</span>
             <span>•</span>
@@ -536,12 +363,6 @@ class ReaderView {
           ` : `<div></div>`}
         </nav>
       </div>
-
-      <!-- Verse Spotlight Modal -->
-      <div class="modal-backdrop" id="verseSpotlightModal" onclick="if(event.target===this) window.readerView.closeVerseSpotlight()">
-        <div class="modal-card spotlight-modal-card" id="verseSpotlightCard" style="max-width: 660px;">
-        </div>
-      </div>
     `;
 
     this.container.innerHTML = html;
@@ -549,11 +370,9 @@ class ReaderView {
     if (targetAyah) {
       setTimeout(() => {
         this.scrollToAyah(targetAyah);
-        this._updateReadingProgress();
       }, 100);
     } else {
       window.scrollTo(0, 0);
-      this._updateReadingProgress();
     }
   }
 
