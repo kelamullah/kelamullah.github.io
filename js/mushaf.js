@@ -176,7 +176,7 @@ class MushafView {
 
           <!-- Page Bottom Bar -->
           <div class="mushaf-page-bottombar">
-            <span>kelamullah.github.io</span>
+            <span>${surahNamesTr}</span>
             <span>— ${pageData.displayPage} —</span>
             <span>${pageData.juz}. Cüz</span>
           </div>

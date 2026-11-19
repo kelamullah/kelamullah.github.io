@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="tr" data-theme="dark">
+<html lang="tr" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
@@ -9,7 +9,7 @@
   <meta name="description" content="Açık kaynak Kur'an-ı Kerim metni, Türkçe meali, sesli tilavet, cüz dizini ve gelişmiş arama platformu.">
   <meta name="keywords" content="Kuran, Kur'an-ı Kerim, Meal, Kuran Dinle, Sureler, Cüzler, Fatiha, Bakara, Yasin, Kelamullah">
   <meta name="author" content="Kelâmullah">
-  <meta name="theme-color" content="#064e3b">
+  <meta name="theme-color" content="#FAF8F5">
 
   <!-- Crawler & AI Directives -->
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -18,12 +18,10 @@
 
   <!-- Scholarly & Citation Metadata for AI Retrieval -->
   <meta name="citation_title" content="Kur'an-ı Kerim ve Türkçe Meali">
-  <meta name="citation_author" content="Kelâmullah">
   <meta name="citation_language" content="tr">
   <meta name="citation_abstract_html_url" content="https://kelamullah.github.io/">
   <meta name="dc.title" content="Kelâmullah - Kur'an-ı Kerim ve Meali">
   <meta name="dc.language" content="tr">
-  <meta name="dc.rights" content="Public Domain / Open Access">
   <meta name="dc.format" content="text/html">
 
   <!-- Machine-Readable LLM & Dataset Manifests -->
@@ -59,9 +57,8 @@
         "url": "https://kelamullah.github.io/",
         "name": "Kelamullah",
         "alternateName": ["Kelâmullah", "Kuran-ı Kerim ve Meali", "Kelamullah Quran Platform"],
-        "description": "Açık kaynak, reklamsız, doğrulanmış Kur'an-ı Kerim metni, Türkçe meali, orijinal mushaf görünümü ve sesli tilavet platformu.",
+        "description": "Açık kaynak, doğrulanmış Kur'an-ı Kerim metni, Türkçe meali, orijinal mushaf görünümü ve sesli tilavet platformu.",
         "inLanguage": ["tr", "ar", "en"],
-        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://kelamullah.github.io/#/arama?q={search_term_string}",
@@ -82,13 +79,12 @@
           "Arapça Kuran Metni",
           "Türkçe Kuran Meali"
         ],
-        "creator": {
+        "publisher": {
           "@type": "Organization",
           "name": "Kelâmullah",
           "url": "https://kelamullah.github.io/",
           "sameAs": "https://github.com/kelamullah/kelamullah.github.io"
         },
-        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
         "isAccessibleForFree": true,
         "inLanguage": ["ar", "tr"],
         "distribution": [
@@ -169,26 +165,28 @@
 
       <!-- Nav Actions -->
       <div class="nav-actions">
-        <!-- Quick search button -->
-        <a href="#/arama" class="search-trigger-btn" title="Kur'an'da Ara (Kısayol: /)">
+        <!-- Quick Command Palette / Search trigger -->
+        <button type="button" class="search-trigger-btn" onclick="window.app.openCommandPalette()" title="Hızlı Geçiş ve Arama (Ctrl+K veya /)">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-          <span>Arama</span>
-          <kbd class="kbd-shortcut">/</kbd>
-        </a>
+          <span class="search-trigger-label">Hızlı Geçiş</span>
+          <kbd class="kbd-shortcut">Ctrl K</kbd>
+        </button>
 
-        <!-- Theme Toggle -->
-        <button class="icon-btn" onclick="window.app.toggleTheme()" title="Temayı Değiştir (Gece / Gündüz / Mushaf)">
-          <svg id="themeToggleIcon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+        <!-- Theme Toggle Pill -->
+        <button type="button" class="theme-pill-btn" id="themeToggleBtn" onclick="window.app.toggleTheme()" title="Temayı Değiştir (Açık / Koyu / Mushaf)">
+          <svg id="themeToggleIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>
           </svg>
+          <span id="themeToggleLabel">Açık</span>
         </button>
 
         <!-- Settings Button -->
-        <button class="icon-btn" onclick="window.app.openSettings()" title="Okuma Ayarları">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <button type="button" class="settings-pill-btn" onclick="window.app.openSettings()" title="Görünüm ve Okuma Ayarları">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/>
             <circle cx="12" cy="12" r="3"/>
           </svg>
+          <span class="settings-pill-label">Görünüm</span>
         </button>
       </div>
     </div>
@@ -239,13 +237,13 @@
     </div>
   </div>
 
-  <!-- Settings Modal -->
+  <!-- Settings Modal (Görünüm ve Okuma Paneli) -->
   <div class="modal-backdrop" id="settingsModal" onclick="if(event.target===this) window.app.closeSettings()">
-    <div class="modal-card">
+    <div class="modal-card settings-drawer">
       <div class="modal-header">
-        <h3 class="modal-title">
+        <h3 class="modal-title" style="display: flex; align-items: center; gap: 8px;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
-          <span>Okuma Ayarları</span>
+          <span>Görünüm ve Okuma Ayarları</span>
         </h3>
         <button class="icon-btn" onclick="window.app.closeSettings()" title="Kapat">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
@@ -256,33 +254,45 @@
       <div class="setting-group">
         <label class="setting-label">Görünüm Teması</label>
         <div class="theme-options">
-          <button class="theme-btn active" data-theme="dark" onclick="window.app.applyTheme('dark')">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
-            <span>Koyu</span>
-          </button>
-          <button class="theme-btn" data-theme="light" onclick="window.app.applyTheme('light')">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+          <button type="button" class="theme-btn active" data-theme="light" onclick="window.app.applyTheme('light')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
             <span>Açık</span>
           </button>
-          <button class="theme-btn" data-theme="sepia" onclick="window.app.applyTheme('sepia')">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/></svg>
+          <button type="button" class="theme-btn" data-theme="dark" onclick="window.app.applyTheme('dark')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+            <span>Koyu</span>
+          </button>
+          <button type="button" class="theme-btn" data-theme="sepia" onclick="window.app.applyTheme('sepia')">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/></svg>
             <span>Mushaf</span>
           </button>
         </div>
       </div>
 
-      <!-- Reciter Selection -->
+      <!-- Ayah Reading Layout -->
       <div class="setting-group">
-        <label class="setting-label" for="reciterSelect">Kıraat / Karî (Okuyan)</label>
-        <select class="select-dropdown" id="reciterSelect" style="width: 100%; height: 42px;">
-          <!-- Populated dynamically -->
-        </select>
+        <label class="setting-label">Ayet Okuma Düzeni</label>
+        <div class="segmented-grid-4" id="settingViewModeOptions">
+          <button type="button" class="seg-option-btn active" data-view-mode="both" onclick="window.app.setReaderViewMode('both')">Alt Alta</button>
+          <button type="button" class="seg-option-btn" data-view-mode="side-by-side" onclick="window.app.setReaderViewMode('side-by-side')">Yan Yana</button>
+          <button type="button" class="seg-option-btn" data-view-mode="meal-only" onclick="window.app.setReaderViewMode('meal-only')">Sadece Meal</button>
+          <button type="button" class="seg-option-btn" data-view-mode="arabic-only" onclick="window.app.setReaderViewMode('arabic-only')">Sadece Arapça</button>
+        </div>
+      </div>
+
+      <!-- Page Width -->
+      <div class="setting-group">
+        <label class="setting-label">Sayfa Genişliği</label>
+        <div class="segmented-grid-2" id="settingWidthOptions">
+          <button type="button" class="seg-option-btn active" data-reading-width="normal" onclick="window.app.setReadingWidth('normal')">Normal</button>
+          <button type="button" class="seg-option-btn" data-reading-width="wide" onclick="window.app.setReadingWidth('wide')">Geniş</button>
+        </div>
       </div>
 
       <!-- Arabic Font Selection -->
       <div class="setting-group">
         <label class="setting-label" for="fontFamilySelect">Arapça Hat & Yazı Tipi</label>
-        <select class="select-dropdown" id="fontFamilySelect" style="width: 100%; height: 42px;" onchange="window.app.applyFontFamily(this.value)">
+        <select class="select-dropdown select-full" id="fontFamilySelect" onchange="window.app.applyFontFamily(this.value)">
           <option value="'Abay Mushaf TDV', 'Hamdullah Quran', serif">Diyanet Mushafı (Abay TDV Fontu)</option>
           <option value="'Hamdullah Quran', 'Abay Mushaf TDV', serif">Şeyh Hamdullah Nesh-i Kur'an</option>
         </select>
@@ -290,11 +300,11 @@
 
       <!-- Arabic Font Size -->
       <div class="setting-group">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <div class="setting-row-header">
           <label class="setting-label" style="margin: 0;">Arapça Yazı Boyutu</label>
-          <span id="arabicSizeLabel" style="font-size: 0.8rem; color: var(--accent-gold); font-weight: 700;">28px</span>
+          <span id="arabicSizeLabel" class="setting-value-badge gold">30px</span>
         </div>
-        <input type="range" class="range-slider" id="arabicFontRange" min="20" max="48" step="2" value="28">
+        <input type="range" class="range-slider" id="arabicFontRange" min="20" max="48" step="2" value="30">
         <div class="range-values">
           <span>Küçük (20px)</span>
           <span>Büyük (48px)</span>
@@ -303,9 +313,9 @@
 
       <!-- Meal Font Size -->
       <div class="setting-group">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <div class="setting-row-header">
           <label class="setting-label" style="margin: 0;">Türkçe Meal Boyutu</label>
-          <span id="mealSizeLabel" style="font-size: 0.8rem; color: var(--accent-emerald); font-weight: 700;">16px</span>
+          <span id="mealSizeLabel" class="setting-value-badge emerald">16px</span>
         </div>
         <input type="range" class="range-slider" id="mealFontRange" min="13" max="24" step="1" value="16">
         <div class="range-values">
@@ -314,10 +324,53 @@
         </div>
       </div>
 
+      <!-- Reciter Selection -->
+      <div class="setting-group">
+        <label class="setting-label" for="reciterSelect">Kıraat / Karî (Okuyan)</label>
+        <select class="select-dropdown select-full" id="reciterSelect">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+
       <div style="margin-top: 1.5rem; text-align: center;">
-        <button class="page-nav-btn" style="width: 100%; justify-content: center; background: var(--accent-emerald); color: #fff; border-color: var(--accent-emerald);" onclick="window.app.closeSettings()">
+        <button type="button" class="primary-full-btn" onclick="window.app.closeSettings()">
           Tamam
         </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Global Command Palette & Quick Jump Modal (Ctrl+K / /) -->
+  <div class="cmd-backdrop" id="commandPaletteModal" onclick="if(event.target===this) window.app.closeCommandPalette()" role="dialog" aria-modal="true" aria-label="Hızlı Geçiş ve Arama">
+    <div class="cmd-modal">
+      <div class="cmd-input-header">
+        <svg class="cmd-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="text" class="cmd-input" id="cmdPaletteInput"
+               placeholder="Sure adı, 2:255, Bakara 186, sayfa 42, cüz 30 veya meal kelimesi..."
+               autocomplete="off"
+               oninput="window.app.onCommandInput(this.value)"
+               onkeydown="window.app.handleCommandKeydown(event)">
+        <button type="button" class="cmd-esc-btn" onclick="window.app.closeCommandPalette()" title="Kapat (Esc)">ESC</button>
+      </div>
+
+      <div class="cmd-suggestions-strip" id="cmdQuickChips">
+        <span class="cmd-strip-label">Hızlı:</span>
+        <button type="button" class="cmd-chip" onclick="window.app.navigateFromPalette('#/sure/2/ayet/255')">2:255 Âyetü'l-Kürsî</button>
+        <button type="button" class="cmd-chip" onclick="window.app.navigateFromPalette('#/sure/36')">Yâsîn</button>
+        <button type="button" class="cmd-chip" onclick="window.app.navigateFromPalette('#/sure/67')">Mülk</button>
+        <button type="button" class="cmd-chip" onclick="window.app.navigateFromPalette('#/sure/18')">Kehf</button>
+        <button type="button" class="cmd-chip" onclick="window.app.navigateFromPalette('#/sure/55')">Rahmân</button>
+        <button type="button" class="cmd-chip" onclick="window.app.navigateFromPalette('#/sure/112')">İhlâs</button>
+      </div>
+
+      <div class="cmd-results" id="cmdPaletteResults">
+        <!-- Dynamically populated -->
+      </div>
+
+      <div class="cmd-footer-hints">
+        <span><kbd>↑</kbd> <kbd>↓</kbd> Gezin</span>
+        <span><kbd>Enter</kbd> Git</span>
+        <span><kbd>Esc</kbd> Kapat</span>
       </div>
     </div>
   </div>
@@ -330,9 +383,12 @@
   <!-- Footer -->
   <footer class="app-footer">
     <div class="container footer-content">
-      <div style="font-weight: 700; color: var(--text-main);">Kelâmullah • Açık Kaynak Kur'an-ı Kerim Platformu</div>
+      <div style="font-weight: 700; color: var(--text-main);">Kelâmullah</div>
       <p style="font-size: 0.825rem; color: var(--text-muted); max-width: 500px;">
-        Kur'an-ı Kerim metni ve Türkçe meali.
+        Açık kaynak Kur'an-ı Kerim metni ve Türkçe meali.
+      </p>
+      <p style="font-size: 0.78rem; color: var(--text-dim);">
+        Meal: TDV • Hat: M. Abay • Ses: EveryAyah
       </p>
       <div class="footer-links">
         <a href="#/">Sureler</a>

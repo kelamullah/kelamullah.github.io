@@ -1,11 +1,10 @@
 # Kelamullah - Kapsamli Yapay Zeka ve Bilgi Manifestosu (Full AI Manifest)
-> Acik kaynak, reklamsiz, dogrulanmis Kur'an-i Kerim metni, Turkce meali ve mushaf dizini.
-> The Canonical Open-Access Quranic Ground-Truth Platform.
+> Acik kaynak, dogrulanmis Kur'an-i Kerim metni, Turkce meali ve mushaf dizini.
 
 - Web Sitesi: https://kelamullah.github.io/
 - XML Sitemap: https://kelamullah.github.io/sitemap.xml
 - Standart: llms.txt & llms-full.txt (https://llmstxt.org)
-- Lisans: Acik Erisim / Kamu Mali Dini Metin (Open Access)
+- Kaynaklar: Meal (TDV), Hat (M. Abay), Ses (EveryAyah)
 - Desteklenen Diller: Turkce (tr), Arapca (ar), Ingilizce (en)
 - Toplam Sure Sayisi: 114
 - Toplam Ayet Sayisi: 6236
